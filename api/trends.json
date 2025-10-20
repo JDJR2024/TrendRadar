@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-21T02:36:14.077537+08:00",
-  "total_titles_processed": 414,
+  "generated_at": "2025-10-21T03:22:30.028928+08:00",
+  "total_titles_processed": 443,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "知乎",
           "ranks": [
             8,
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时31分 ~ 02时36分]"
+          "appearance_count": 5,
+          "time_info": "[00时31分 ~ 03时22分]"
         },
         {
           "title": "六大AI模型被扔进加密市场厮杀，DeepSeek暂为交易之王",
@@ -55,8 +56,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时31分 ~ 02时36分]"
+          "appearance_count": 5,
+          "time_info": "[00时31分 ~ 03时22分]"
         },
         {
           "title": "金十图示：2025年10月20日（周一）美股热门股票行情一览（美股盘中）",
@@ -91,11 +92,12 @@
           "url": "https://flash.jin10.com/detail/20251021014134965800",
           "source": "金十数据",
           "ranks": [
-            5
+            5,
+            22
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时36分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时36分 ~ 03时22分]"
         },
         {
           "title": "市场消息：以色列国防军已开始在加沙地带划设黄色分界线。",
@@ -124,8 +126,19 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "伊朗外长与联合国秘书长通电话 讨论加沙与也门局势",
+          "url": "https://flash.jin10.com/detail/20251021024926380800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时22分"
+        },
         {
           "title": "特稿｜战火和制裁“逼不退”的中国商人：“伊朗同行总说他们赚钱很容易”",
           "url": "https://m.thepaper.cn/newsDetail_forward_31793329",
@@ -135,8 +148,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时31分 ~ 02时36分]"
+          "appearance_count": 5,
+          "time_info": "[00时31分 ~ 03时22分]"
         },
         {
           "title": "伊朗副外长：国际原子能机构已要求参观未遭受轰炸的伊朗核设施。",
@@ -145,7 +158,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时36分"
         }
@@ -181,8 +194,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时31分 ~ 02时36分]"
+          "appearance_count": 5,
+          "time_info": "[00时31分 ~ 03时22分]"
         }
       ]
     },
@@ -198,8 +211,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时31分 ~ 02时36分]"
+          "appearance_count": 5,
+          "time_info": "[00时31分 ~ 03时22分]"
         }
       ]
     }
