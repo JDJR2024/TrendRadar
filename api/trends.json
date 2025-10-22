@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-23T06:19:32.227365+08:00",
-  "total_titles_processed": 614,
+  "generated_at": "2025-10-23T07:20:41.321347+08:00",
+  "total_titles_processed": 658,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 14,
+      "match_count": 16,
       "titles": [
         {
           "title": "美股涨跌互现，道指新高，金银暴跌，比特币盘中拉升",
@@ -17,6 +17,20 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时33分 ~ 06时19分]"
+        },
+        {
+          "title": "“爆炸式”上涨！美股散户大军再次“逼空”Beyond Meat，4天爆拉1300%！",
+          "url": "https://wallstreetcn.com/articles/3757661",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            10,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时33分 ~ 07时20分]"
         },
         {
           "title": "科技股拖累三大美股指齐跌，EDA软件股盘中跳水，黄金再跌",
@@ -41,19 +55,6 @@
           "time_info": "[00时33分 ~ 03时19分]"
         },
         {
-          "title": "“爆炸式”上涨！美股散户大军再次“逼空”Beyond Meat，4天爆拉1300%！",
-          "url": "https://wallstreetcn.com/articles/3757661",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时33分 ~ 06时19分]"
-        },
-        {
           "title": "金十图示：2025年10月22日（周三）热门中概股行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20251023040545784800",
           "source": "金十数据",
@@ -63,6 +64,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时29分"
+        },
+        {
+          "title": "美股收盘：三大指数集体收跌 纳指跌近1% 奈飞大跌10%",
+          "url": "https://www.cls.cn/detail/2177654",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时20分"
+        },
+        {
+          "title": "美股指普跌，动量股抛售潮继续，量子计算股重挫，原油逆市上涨",
+          "url": "https://wallstreetcn.com/articles/3757644",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时20分"
         },
         {
           "title": "特斯拉(TSLA.O)美股盘后跌超1%。",
@@ -291,8 +314,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时33分 ~ 06时19分]"
+          "appearance_count": 9,
+          "time_info": "[00时33分 ~ 07时20分]"
         },
         {
           "title": "金价",
@@ -306,8 +329,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时33分 ~ 06时19分]"
+          "appearance_count": 9,
+          "time_info": "[00时33分 ~ 07时20分]"
         },
         {
           "title": "金价下跌的关键原因是什么",
@@ -321,8 +344,8 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时33分 ~ 06时19分]"
+          "appearance_count": 8,
+          "time_info": "[00时33分 ~ 07时20分]"
         },
         {
           "title": "金价大跌之际，黄金ETF持仓量创2022年以来新高",
@@ -427,11 +450,12 @@
             21,
             30,
             29,
-            17
+            17,
+            16
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时33分 ~ 06时19分]"
+          "appearance_count": 8,
+          "time_info": "[00时33分 ~ 07时20分]"
         },
         {
           "title": "美国国务卿鲁比奥将于10月22日至25日期间访问以色列，将于10月26日至30日期间前往吉隆坡、东京和韩国。",
