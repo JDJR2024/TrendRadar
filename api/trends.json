@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-23T17:27:28.132746+08:00",
-  "total_titles_processed": 1609,
+  "generated_at": "2025-10-23T18:28:34.299325+08:00",
+  "total_titles_processed": 1693,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时47分 ~ 17时27分]"
+          "appearance_count": 10,
+          "time_info": "[09时47分 ~ 18时28分]"
         },
         {
           "title": "美股收盘：三大指数集体收跌 纳指跌近1% 奈飞大跌10%",
@@ -53,8 +53,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时33分 ~ 17时27分]"
+          "appearance_count": 19,
+          "time_info": "[00时33分 ~ 18时28分]"
         },
         {
           "title": "科技股拖累三大美股指齐跌，EDA软件股盘中跳水，黄金再跌",
@@ -297,8 +297,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时23分 ~ 17时27分]"
+          "appearance_count": 7,
+          "time_info": "[13时23分 ~ 18时28分]"
         },
         {
           "title": "金价一夜跌50元顾客相中直接买走",
@@ -422,11 +422,12 @@
           "ranks": [
             8,
             6,
-            7
+            7,
+            9
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时47分 ~ 17时27分]"
+          "appearance_count": 10,
+          "time_info": "[09时47分 ~ 18时28分]"
         },
         {
           "title": "谷歌A上涨2.4%，谷歌公司Quantum在《自然》披露与Willow芯片相关的量子计算突破性进展。",
@@ -494,7 +495,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时27分"
         },
@@ -577,6 +578,20 @@
           "time_info": "05时20分"
         },
         {
+          "title": "美国新提议：把加沙一分为二，先重建以色列控制区",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31826119",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            13,
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时37分 ~ 18时28分]"
+        },
+        {
           "title": "据几位知情人士透露，在加沙地带开展活动的私人援助组织“加沙人道主义基金会”正在与美国和以色列官员进行谈判，讨论战后在加沙地带中可能发挥的新作用。",
           "url": "https://flash.jin10.com/detail/20251023121052253800",
           "source": "金十数据",
@@ -587,19 +602,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时28分 ~ 13时24分]"
-        },
-        {
-          "title": "美国新提议：把加沙一分为二，先重建以色列控制区",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31826119",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            13,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时37分 ~ 17时27分]"
         },
         {
           "title": "国际法院要求以色列保障加沙人道援助",
