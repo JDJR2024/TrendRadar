@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-24T05:21:40.942600+08:00",
-  "total_titles_processed": 510,
+  "generated_at": "2025-10-24T06:27:05.702750+08:00",
+  "total_titles_processed": 561,
   "failed_sources": [],
   "trends": [
     {
@@ -16,30 +16,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时30分 ~ 05时21分]"
+          "appearance_count": 10,
+          "time_info": "[00时30分 ~ 06时27分]"
         },
         {
           "title": "俄油制裁风波推动油价冲高 美股期指延续弱势震荡 | 今夜看点",
           "url": "https://www.cls.cn/detail/2178825",
           "source": "财联社热门",
           "ranks": [
-            13
+            13,
+            12
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时30分 ~ 05时21分]"
-        },
-        {
-          "title": "周四（10月23日）纽约尾盘，现货黄金涨0.44%，报4116.53美元/盎司。 COMEX黄金期货涨1.62%，报4131.20美元/盎司。 费城金银指数收涨0.85%，报288.00点。 纽约证交所ARCA金矿开采商指数收涨1.31%，报2070.16点，美股开盘时“跳空”上涨。",
-          "url": "https://wallstreetcn.com/livenews/2992763",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时21分"
+          "appearance_count": 10,
+          "time_info": "[00时30分 ~ 06时27分]"
         },
         {
           "title": "金十图示：2025年10月23日（周四）美股热门股票行情一览（美股盘中）",
@@ -51,6 +41,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时21分"
+        },
+        {
+          "title": "周四（10月23日）纽约尾盘，现货黄金涨0.44%，报4116.53美元/盎司。 COMEX黄金期货涨1.62%，报4131.20美元/盎司。 费城金银指数收涨0.85%，报288.00点。 纽约证交所ARCA金矿开采商指数收涨1.31%，报2070.16点，美股开盘时“跳空”上涨。",
+          "url": "https://wallstreetcn.com/livenews/2992763",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时21分 ~ 06时27分]"
         },
         {
           "title": "金十图示：2025年10月23日（周四）美股热门股票行情一览（美股收盘）",
@@ -149,8 +151,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时30分 ~ 05时21分]"
+          "appearance_count": 10,
+          "time_info": "[00时30分 ~ 06时27分]"
         },
         {
           "title": "美国总统特朗普：以色列不会在约旦河西岸采取任何行动。",
@@ -158,11 +160,12 @@
           "source": "金十数据",
           "ranks": [
             5,
-            10
+            10,
+            30
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时27分 ~ 05时21分]"
+          "appearance_count": 3,
+          "time_info": "[04时27分 ~ 06时27分]"
         },
         {
           "title": "美国国务卿鲁比奥：以色列已获得美国坚定承诺其安全的确认，并与合作伙伴沟通以落实历史性和平计划。",
@@ -209,11 +212,12 @@
           "url": "https://wallstreetcn.com/livenews/2992760",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            4,
+            23
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时21分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时21分 ~ 06时27分]"
         },
         {
           "title": "谷歌称量子芯片“Willow”现重大突破：算法可重复验证，五年内或迎实用化",
@@ -253,8 +257,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时30分 ~ 05时21分]"
+          "appearance_count": 10,
+          "time_info": "[00时30分 ~ 06时27分]"
         },
         {
           "title": "摩根大通：金价未来三年内可能会翻倍",
@@ -264,8 +268,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时30分 ~ 05时21分]"
+          "appearance_count": 10,
+          "time_info": "[00时30分 ~ 06时27分]"
         },
         {
           "title": "金价暴跌之际，高盛“坚定看涨”：维持明年底4900美元目标价，甚至有“上行风险”",
@@ -276,8 +280,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时34分 ~ 05时21分]"
+          "appearance_count": 8,
+          "time_info": "[02时34分 ~ 06时27分]"
         }
       ]
     },
@@ -291,11 +295,12 @@
           "source": "金十数据",
           "ranks": [
             4,
-            9
+            9,
+            29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时27分 ~ 05时21分]"
+          "appearance_count": 3,
+          "time_info": "[04时27分 ~ 06时27分]"
         },
         {
           "title": "周四（10月23日）纽约尾盘，ICE美元指数涨0.04%，报98.937点，日内交投区间为99.138-98.916点。 彭博美元指数涨0.01%，报1212.72点，日内交投区间为1214.59-1212.15点。",
