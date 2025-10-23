@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-23T07:20:41.321347+08:00",
-  "total_titles_processed": 658,
+  "generated_at": "2025-10-23T09:47:37.223898+08:00",
+  "total_titles_processed": 832,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
         {
           "title": "美股涨跌互现，道指新高，金银暴跌，比特币盘中拉升",
@@ -26,11 +26,12 @@
             9,
             10,
             8,
-            7
+            7,
+            5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时33分 ~ 07时20分]"
+          "appearance_count": 10,
+          "time_info": "[00时33分 ~ 09时47分]"
         },
         {
           "title": "科技股拖累三大美股指齐跌，EDA软件股盘中跳水，黄金再跌",
@@ -55,6 +56,29 @@
           "time_info": "[00时33分 ~ 03时19分]"
         },
         {
+          "title": "美股收盘：三大指数集体收跌 纳指跌近1% 奈飞大跌10%",
+          "url": "https://www.cls.cn/detail/2177654",
+          "source": "财联社热门",
+          "ranks": [
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时20分 ~ 09时47分]"
+        },
+        {
+          "title": "美股指普跌，动量股抛售继续，量子计算股重挫，原油逆市上涨，金银期货止跌",
+          "url": "https://wallstreetcn.com/articles/3757644",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时47分"
+        },
+        {
           "title": "金十图示：2025年10月22日（周三）热门中概股行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20251023040545784800",
           "source": "金十数据",
@@ -66,24 +90,13 @@
           "time_info": "04时29分"
         },
         {
-          "title": "美股收盘：三大指数集体收跌 纳指跌近1% 奈飞大跌10%",
-          "url": "https://www.cls.cn/detail/2177654",
-          "source": "财联社热门",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时20分"
-        },
-        {
           "title": "美股指普跌，动量股抛售潮继续，量子计算股重挫，原油逆市上涨",
           "url": "https://wallstreetcn.com/articles/3757644",
           "source": "华尔街见闻",
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时20分"
         },
@@ -195,7 +208,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "谷歌A上涨2.4%，谷歌公司Quantum在《自然》披露与Willow芯片相关的量子计算突破性进展。",
@@ -244,6 +257,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时33分 ~ 01时22分]"
+        },
+        {
+          "title": "谷歌称量子芯片“Willow”现重大突破：算法可重复验证，五年内或迎实用化",
+          "url": "https://wallstreetcn.com/articles/3757674",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时47分"
         },
         {
           "title": "Reddit(RDDT.N)：Oxylabs UAB、AWMProxy和Serpai掩盖身份，从谷歌搜索中“非法抓取”Reddit内容。",
@@ -304,7 +328,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "金价为何暴跌？高盛交易员：黄金走势图看起来就像一只妖股的崩盘",
@@ -314,8 +338,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时33分 ~ 07时20分]"
+          "appearance_count": 10,
+          "time_info": "[00时33分 ~ 09时47分]"
         },
         {
           "title": "金价",
@@ -372,6 +396,17 @@
           "time_info": "[03时19分 ~ 05时20分]"
         },
         {
+          "title": "黄金价格为何突然大幅回调",
+          "url": "https://www.toutiao.com/trending/7564185395232001575/",
+          "source": "今日头条",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时47分"
+        },
+        {
           "title": "美国财长贝森特：金价上涨对我们有很大帮助。",
           "url": "https://flash.jin10.com/detail/20251023041705567800",
           "source": "金十数据",
@@ -385,60 +420,8 @@
       ]
     },
     {
-      "keyword_group": "chatgpt openai",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "OpenAI发首款AI浏览器",
-          "url": "https://www.douyin.com/hot/2278309",
-          "source": "抖音",
-          "ranks": [
-            19,
-            30,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时37分 ~ 05时20分]"
-        },
-        {
-          "title": "据CNBC：GE Vernova CEO表示，他正在与OpenAI CEO Sam Altman进行对话，因为电力对于人工智能的增长仍然至关重要。",
-          "url": "https://flash.jin10.com/detail/20251023005554826800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时22分"
-        },
-        {
-          "title": "爱彼迎（Airbnb）CEO Chesky：ChatGPT还没有足够强大到能被整合到（本公司的）旅行APP。",
-          "url": "https://wallstreetcn.com/livenews/2992057",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时29分"
-        },
-        {
-          "title": "OpenAI：Vantage和甲骨文(ORCL.N)将创造1000多个长期工作岗位和数千个间接工作岗位。",
-          "url": "https://flash.jin10.com/detail/20251023040848407800",
-          "source": "金十数据",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时20分"
-        }
-      ]
-    },
-    {
       "keyword_group": "以色列",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "以色列士兵顺手偷走滑板车被拍下",
@@ -491,6 +474,69 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时37分 ~ 03时19分]"
+        },
+        {
+          "title": "一群美国高级官员前往以色列，履行“监督以色列总理内塔尼亚胡”职责。",
+          "url": "https://flash.jin10.com/detail/20251023092813799800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时47分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "OpenAI发首款AI浏览器",
+          "url": "https://www.douyin.com/hot/2278309",
+          "source": "抖音",
+          "ranks": [
+            19,
+            30,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[02时37分 ~ 05时20分]"
+        },
+        {
+          "title": "据CNBC：GE Vernova CEO表示，他正在与OpenAI CEO Sam Altman进行对话，因为电力对于人工智能的增长仍然至关重要。",
+          "url": "https://flash.jin10.com/detail/20251023005554826800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时22分"
+        },
+        {
+          "title": "爱彼迎（Airbnb）CEO Chesky：ChatGPT还没有足够强大到能被整合到（本公司的）旅行APP。",
+          "url": "https://wallstreetcn.com/livenews/2992057",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时29分"
+        },
+        {
+          "title": "OpenAI：Vantage和甲骨文(ORCL.N)将创造1000多个长期工作岗位和数千个间接工作岗位。",
+          "url": "https://flash.jin10.com/detail/20251023040848407800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时20分"
         }
       ]
     },
