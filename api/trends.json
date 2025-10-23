@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-23T13:24:03.154299+08:00",
-  "total_titles_processed": 1184,
+  "generated_at": "2025-10-23T14:37:23.183706+08:00",
+  "total_titles_processed": 1278,
   "failed_sources": [],
   "trends": [
     {
@@ -19,6 +19,29 @@
           "time_info": "[00时33分 ~ 06时19分]"
         },
         {
+          "title": "美股收盘：三大指数集体收跌 纳指跌近1% 奈飞大跌10%",
+          "url": "https://www.cls.cn/detail/2177654",
+          "source": "财联社热门",
+          "ranks": [
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[07时20分 ~ 14时37分]"
+        },
+        {
+          "title": "美股指普跌，动量股抛售继续，量子计算股重挫，原油逆市上涨，金银期货止跌",
+          "url": "https://wallstreetcn.com/articles/3757644",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时47分 ~ 14时37分]"
+        },
+        {
           "title": "“爆炸式”上涨！美股散户大军再次“逼空”Beyond Meat，4天爆拉1300%！",
           "url": "https://wallstreetcn.com/articles/3757661",
           "source": "华尔街见闻",
@@ -30,31 +53,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时33分 ~ 13时24分]"
-        },
-        {
-          "title": "美股收盘：三大指数集体收跌 纳指跌近1% 奈飞大跌10%",
-          "url": "https://www.cls.cn/detail/2177654",
-          "source": "财联社热门",
-          "ranks": [
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时20分 ~ 13时24分]"
-        },
-        {
-          "title": "美股指普跌，动量股抛售继续，量子计算股重挫，原油逆市上涨，金银期货止跌",
-          "url": "https://wallstreetcn.com/articles/3757644",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时47分 ~ 13时24分]"
+          "appearance_count": 15,
+          "time_info": "[00时33分 ~ 14时37分]"
         },
         {
           "title": "科技股拖累三大美股指齐跌，EDA软件股盘中跳水，黄金再跌",
@@ -220,8 +220,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时47分 ~ 13时24分]"
+          "appearance_count": 6,
+          "time_info": "[09时47分 ~ 14时37分]"
         },
         {
           "title": "比超级计算机快1.3万倍！谷歌量子计算再现突破 诺奖得主送上关键助攻",
@@ -232,8 +232,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时28分 ~ 13时24分]"
+          "appearance_count": 4,
+          "time_info": "[12时28分 ~ 14时37分]"
         },
         {
           "title": "谷歌A上涨2.4%，谷歌公司Quantum在《自然》披露与Willow芯片相关的量子计算突破性进展。",
@@ -395,8 +395,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时47分 ~ 13时24分]"
+          "appearance_count": 6,
+          "time_info": "[09时47分 ~ 14时37分]"
         },
         {
           "title": "金价一夜跌50元顾客相中直接买走",
@@ -404,11 +404,24 @@
           "source": "微博",
           "ranks": [
             11,
-            21
+            21,
+            22
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时07分 ~ 13时24分]"
+          "appearance_count": 5,
+          "time_info": "[11时07分 ~ 14时37分]"
+        },
+        {
+          "title": "金价历史性暴跌不等于牛市终结！以史为鉴：接下来何去何从？",
+          "url": "https://www.cls.cn/detail/2177936",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时23分 ~ 14时37分]"
         },
         {
           "title": "金价大跌之际，黄金ETF持仓量创2022年以来新高",
@@ -459,17 +472,6 @@
           "time_info": "[11时07分 ~ 12时28分]"
         },
         {
-          "title": "金价历史性暴跌不等于牛市终结！以史为鉴：接下来何去何从？",
-          "url": "https://www.cls.cn/detail/2177936",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时23分 ~ 13时24分]"
-        },
-        {
           "title": "美国财长贝森特：金价上涨对我们有很大帮助。",
           "url": "https://flash.jin10.com/detail/20251023041705567800",
           "source": "金十数据",
@@ -484,7 +486,7 @@
     },
     {
       "keyword_group": "以色列",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "以色列士兵顺手偷走滑板车被拍下",
@@ -560,6 +562,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时47分"
+        },
+        {
+          "title": "美国新提议：把加沙一分为二，先重建以色列控制区",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31826119",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时37分"
         }
       ]
     },
