@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-24T17:26:46.610250+08:00",
-  "total_titles_processed": 1548,
+  "generated_at": "2025-10-24T18:27:40.805345+08:00",
+  "total_titles_processed": 1629,
   "failed_sources": [],
   "trends": [
     {
@@ -29,8 +29,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[07时25分 ~ 17时26分]"
+          "appearance_count": 12,
+          "time_info": "[07时25分 ~ 18时27分]"
         },
         {
           "title": "美股收盘：三大指数集体收涨 纳指涨近1% 热门中概股普涨",
@@ -210,7 +210,7 @@
     },
     {
       "keyword_group": "以色列",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "美国新提议：把加沙一分为二，先重建以色列控制区",
@@ -249,6 +249,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[09时44分 ~ 11时04分]"
+        },
+        {
+          "title": "特朗普警告以色列：不准吞并约旦河西岸",
+          "url": "https://news.ifeng.com/c/8niTZ1ba8ux",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时27分"
         },
         {
           "title": "美国总统特朗普：以色列不会在约旦河西岸采取任何行动。",
@@ -440,11 +451,12 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_31828132",
           "source": "澎湃新闻",
           "ranks": [
-            20
+            20,
+            18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时31分 ~ 17时26分]"
+          "appearance_count": 4,
+          "time_info": "[16时31分 ~ 18时27分]"
         },
         {
           "title": "金十图示：2025年10月24日（周五）上海金午盘价为936.94元/克，较国际金价(937.82元/克)，低0.88元/克",
@@ -475,7 +487,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时26分"
         },
