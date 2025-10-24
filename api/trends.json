@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-24T15:29:51.585034+08:00",
-  "total_titles_processed": 1346,
+  "generated_at": "2025-10-24T16:32:02.131079+08:00",
+  "total_titles_processed": 1466,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 15,
+      "match_count": 17,
       "titles": [
         {
           "title": "美股指普跌，动量股抛售继续，量子计算股重挫，原油逆市上涨，金银期货止跌",
@@ -25,11 +25,12 @@
           "source": "华尔街见闻",
           "ranks": [
             7,
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时25分 ~ 15时29分]"
+          "appearance_count": 10,
+          "time_info": "[07时25分 ~ 16时32分]"
         },
         {
           "title": "美股收盘：三大指数集体收涨 纳指涨近1% 热门中概股普涨",
@@ -67,6 +68,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时21分"
+        },
+        {
+          "title": "美股黄金概念股盘前下挫，纽蒙特矿业(NEM.N)跌6.8%，科尔黛伦矿业(CDE.N)跌4.5%，金罗斯黄金(KGC.N)、金田(GFI.N)、哈莫尼黄金(HMY.N)和巴里克黄金(GOLD.N)跌逾2%。",
+          "url": "https://flash.jin10.com/detail/20251024161101799800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时32分"
         },
         {
           "title": "周四（10月23日）纽约尾盘，现货黄金涨0.44%，报4116.53美元/盎司。 COMEX黄金期货涨1.62%，报4131.20美元/盎司。 费城金银指数收涨0.85%，报288.00点。 纽约证交所ARCA金矿开采商指数收涨1.31%，报2070.16点，美股开盘时“跳空”上涨。",
@@ -140,6 +152,17 @@
           "time_info": "01时21分"
         },
         {
+          "title": "美股黄金股盘前下挫，科尔黛伦矿业跌超4%，金田、哈莫尼黄金跌逾2%。 现货黄金失守4060美元/盎司，日内跌超1.6%。",
+          "url": "https://wallstreetcn.com/livenews/2993213",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时32分"
+        },
+        {
           "title": "英特尔美股盘后涨7.31%。 纳斯达克100股指期货在亚太盘初涨0.2%。",
           "url": "https://wallstreetcn.com/livenews/2992796",
           "source": "华尔街见闻-快讯",
@@ -187,7 +210,7 @@
     },
     {
       "keyword_group": "以色列",
-      "match_count": 10,
+      "match_count": 13,
       "titles": [
         {
           "title": "美国新提议：把加沙一分为二，先重建以色列控制区",
@@ -253,6 +276,17 @@
           "time_info": "[00时30分 ~ 01时21分]"
         },
         {
+          "title": "南非对国际法院认定以色列必须履行国际人道法义务表示欢迎",
+          "url": "https://wallstreetcn.com/livenews/2993214",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时32分"
+        },
+        {
           "title": "以色列总理内塔尼亚胡与美国国务卿鲁比奥在以色列会晤。",
           "url": "https://flash.jin10.com/detail/20251024002932925800",
           "source": "金十数据",
@@ -262,6 +296,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时21分"
+        },
+        {
+          "title": "土耳其总统埃尔多安：组建加沙特别工作组的谈判正在进行，土耳其准备提供任何形式的支持。必须通过制裁和停止武器销售迫使以色列遵守停火协议。",
+          "url": "https://flash.jin10.com/detail/20251024160408549800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时32分"
+        },
+        {
+          "title": "土耳其总统埃尔多安：哈马斯遵守加沙地带停火协议，而以色列违反该协议；美国等国家必须敦促以色列遵守协议。没有一个国家能够独自承担重建加沙的任务，我们已向海湾国家领导人发出呼吁，现在是采取行动的时候了。",
+          "url": "https://flash.jin10.com/detail/20251024160351923800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时32分"
         },
         {
           "title": "以色列军方：加沙附近社区的警报声被确定为误报。",
@@ -303,7 +359,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时29分"
         }
@@ -311,7 +367,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "金价高位震荡部分投资者开始卖金",
@@ -356,11 +412,12 @@
           "ranks": [
             13,
             23,
-            21
+            21,
+            26
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时04分 ~ 15时29分]"
+          "appearance_count": 7,
+          "time_info": "[11时04分 ~ 16时32分]"
         },
         {
           "title": "分析人士：国际金价长期仍看涨",
@@ -370,11 +427,23 @@
             11,
             10,
             14,
-            18
+            18,
+            23
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时29分 ~ 15时29分]"
+          "appearance_count": 6,
+          "time_info": "[12时29分 ~ 16时32分]"
+        },
+        {
+          "title": "现货黄金大跌后日内涨逾1%，摩根大通预计金价明年底冲上5055美元",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31828132",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时31分 ~ 16时32分]"
         },
         {
           "title": "金十图示：2025年10月24日（周五）上海金午盘价为936.94元/克，较国际金价(937.82元/克)，低0.88元/克",
@@ -383,7 +452,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时29分"
         },
@@ -413,7 +482,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "硅谷又现AI算力巨额订单！谷歌与Anthropic达成数百亿美元合作",
@@ -426,6 +495,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[09时44分 ~ 15时29分]"
+        },
+        {
+          "title": "Anthropic将使用价值数百亿美元的谷歌AI芯片，Alphabet(GOOG.O)盘前上涨1%。",
+          "url": "https://flash.jin10.com/detail/20251024160713714800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时32分"
         },
         {
           "title": "Anthropic确认，与谷歌公司达成的云协议价值数十亿美元。 谷歌云协议包括100万TPUs和到2026年增加超过1 GW算力。",
