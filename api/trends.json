@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-25T02:32:26.607138+08:00",
-  "total_titles_processed": 423,
+  "generated_at": "2025-10-25T03:19:34.691290+08:00",
+  "total_titles_processed": 450,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时30分 ~ 02时32分]"
+          "appearance_count": 4,
+          "time_info": "[00时30分 ~ 03时19分]"
         },
         {
           "title": "美股盘前直线拉升 市场充分定价美联储10月、12月降息 | 今夜看点",
@@ -28,8 +28,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时30分 ~ 02时32分]"
+          "appearance_count": 4,
+          "time_info": "[00时30分 ~ 03时19分]"
         },
         {
           "title": "金十图示：2025年10月24日（周五）美股热门股票行情一览（美股盘中）",
@@ -67,8 +67,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时30分 ~ 02时32分]"
+          "appearance_count": 4,
+          "time_info": "[00时30分 ~ 03时19分]"
         },
         {
           "title": "土耳其总统指责以色列违反加沙停火协议",
@@ -76,11 +76,12 @@
           "source": "金十数据",
           "ranks": [
             5,
-            16
+            16,
+            23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时21分 ~ 02时32分]"
+          "appearance_count": 3,
+          "time_info": "[01时21分 ~ 03时19分]"
         }
       ]
     }
