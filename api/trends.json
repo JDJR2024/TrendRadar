@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-24T13:24:32.397580+08:00",
-  "total_titles_processed": 1124,
+  "generated_at": "2025-10-24T14:35:55.378737+08:00",
+  "total_titles_processed": 1245,
   "failed_sources": [],
   "trends": [
     {
@@ -20,6 +20,19 @@
           "time_info": "[00时30分 ~ 07时25分]"
         },
         {
+          "title": "美股收盘：三大指数集体收涨 纳指涨近1% 热门中概股普涨",
+          "url": "https://www.cls.cn/detail/2179010",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[07时25分 ~ 14时35分]"
+        },
+        {
           "title": "俄油制裁风波推动油价冲高 美股期指延续弱势震荡 | 今夜看点",
           "url": "https://www.cls.cn/detail/2178825",
           "source": "财联社热门",
@@ -33,19 +46,6 @@
           "time_info": "[00时30分 ~ 09时45分]"
         },
         {
-          "title": "美股收盘：三大指数集体收涨 纳指涨近1% 热门中概股普涨",
-          "url": "https://www.cls.cn/detail/2179010",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时25分 ~ 13时24分]"
-        },
-        {
           "title": "美CPI数据前夕，贸易局势缓和提振股市，三大美股指普涨，原油期货一度涨超5%",
           "url": "https://wallstreetcn.com/articles/3757722",
           "source": "华尔街见闻",
@@ -54,8 +54,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时25分 ~ 13时24分]"
+          "appearance_count": 7,
+          "time_info": "[07时25分 ~ 14时35分]"
         },
         {
           "title": "金十图示：2025年10月23日（周四）美股热门股票行情一览（美股盘中）",
@@ -348,8 +348,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时04分 ~ 13时24分]"
+          "appearance_count": 4,
+          "time_info": "[11时04分 ~ 14时35分]"
         },
         {
           "title": "分析人士：国际金价长期仍看涨",
@@ -357,11 +357,12 @@
           "source": "抖音",
           "ranks": [
             11,
-            10
+            10,
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时29分 ~ 13时24分]"
+          "appearance_count": 3,
+          "time_info": "[12时29分 ~ 14时35分]"
         },
         {
           "title": "金十图示：2025年10月24日（周五）上海金早盘价为942.46元/克，较国际金价(942.81元/克)，低0.35元/克",
@@ -400,8 +401,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时44分 ~ 13时24分]"
+          "appearance_count": 6,
+          "time_info": "[09时44分 ~ 14时35分]"
         },
         {
           "title": "Anthropic确认，与谷歌公司达成的云协议价值数十亿美元。 谷歌云协议包括100万TPUs和到2026年增加超过1 GW算力。",
@@ -437,6 +438,58 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时30分 ~ 01时21分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "人工智能 AI ChatGPT",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "中共中央权威解读四中全会：未来10年将再造一个中国高技术产业，深入实施“人工智能+”行动",
+          "url": "https://wallstreetcn.com/articles/3757789",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时35分"
+        },
+        {
+          "title": "中共中央新闻发布会直击：未来10年将再造一个中国高技术产业，深入实施“人工智能+”行动",
+          "url": "https://wallstreetcn.com/articles/3757789",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时29分 ~ 13时24分]"
+        },
+        {
+          "title": "阴和俊：将继续加强基础研究和关键核心技术攻关，夯实人工智能发展技术根基",
+          "url": "https://wallstreetcn.com/livenews/2993035",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时29分 ~ 13时24分]"
+        },
+        {
+          "title": "韩国防务企业现代罗特姆（Hyundai Rotem）表示，已与美国人工智能解决方案提供商Shield AI签署谅解备忘录，以开发基于人工智能的国防技术。",
+          "url": "https://flash.jin10.com/detail/20251024103324178800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时04分"
         }
       ]
     },
@@ -479,47 +532,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时27分 ~ 05时21分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "人工智能 AI ChatGPT",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "中共中央新闻发布会直击：未来10年将再造一个中国高技术产业，深入实施“人工智能+”行动",
-          "url": "https://wallstreetcn.com/articles/3757789",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时29分 ~ 13时24分]"
-        },
-        {
-          "title": "阴和俊：将继续加强基础研究和关键核心技术攻关，夯实人工智能发展技术根基",
-          "url": "https://wallstreetcn.com/livenews/2993035",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时29分 ~ 13时24分]"
-        },
-        {
-          "title": "韩国防务企业现代罗特姆（Hyundai Rotem）表示，已与美国人工智能解决方案提供商Shield AI签署谅解备忘录，以开发基于人工智能的国防技术。",
-          "url": "https://flash.jin10.com/detail/20251024103324178800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时04分"
         }
       ]
     },
