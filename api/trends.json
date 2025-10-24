@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-24T14:35:55.378737+08:00",
-  "total_titles_processed": 1245,
+  "generated_at": "2025-10-24T15:29:51.585034+08:00",
+  "total_titles_processed": 1346,
   "failed_sources": [],
   "trends": [
     {
@@ -18,6 +18,18 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时30分 ~ 07时25分]"
+        },
+        {
+          "title": "美CPI数据前夕，贸易局势缓和提振股市，三大美股指普涨，原油期货一度涨超5%",
+          "url": "https://wallstreetcn.com/articles/3757722",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[07时25分 ~ 15时29分]"
         },
         {
           "title": "美股收盘：三大指数集体收涨 纳指涨近1% 热门中概股普涨",
@@ -44,18 +56,6 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[00时30分 ~ 09时45分]"
-        },
-        {
-          "title": "美CPI数据前夕，贸易局势缓和提振股市，三大美股指普涨，原油期货一度涨超5%",
-          "url": "https://wallstreetcn.com/articles/3757722",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时25分 ~ 14时35分]"
         },
         {
           "title": "金十图示：2025年10月23日（周四）美股热门股票行情一览（美股盘中）",
@@ -187,7 +187,7 @@
     },
     {
       "keyword_group": "以色列",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "美国新提议：把加沙一分为二，先重建以色列控制区",
@@ -295,12 +295,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时34分"
+        },
+        {
+          "title": "英国天然气生产商Energean表示，公司已就以色列规划中的Nitzana输气管道签署了一份为期15年的输送协议，该管道将通往埃及。此举是Energean与以色列总额达40亿美元的天然气购销合同框架下的一部分。",
+          "url": "https://flash.jin10.com/detail/20251024144825421800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时29分"
         }
       ]
     },
     {
       "keyword_group": "金价",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "金价高位震荡部分投资者开始卖金",
@@ -348,8 +359,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时04分 ~ 14时35分]"
+          "appearance_count": 5,
+          "time_info": "[11时04分 ~ 15时29分]"
         },
         {
           "title": "分析人士：国际金价长期仍看涨",
@@ -358,11 +369,23 @@
           "ranks": [
             11,
             10,
-            14
+            14,
+            18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时29分 ~ 14时35分]"
+          "appearance_count": 4,
+          "time_info": "[12时29分 ~ 15时29分]"
+        },
+        {
+          "title": "金十图示：2025年10月24日（周五）上海金午盘价为936.94元/克，较国际金价(937.82元/克)，低0.88元/克",
+          "url": "https://flash.jin10.com/detail/20251024150354782800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时29分"
         },
         {
           "title": "金十图示：2025年10月24日（周五）上海金早盘价为942.46元/克，较国际金价(942.81元/克)，低0.35元/克",
@@ -401,8 +424,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时44分 ~ 14时35分]"
+          "appearance_count": 7,
+          "time_info": "[09时44分 ~ 15时29分]"
         },
         {
           "title": "Anthropic确认，与谷歌公司达成的云协议价值数十亿美元。 谷歌云协议包括100万TPUs和到2026年增加超过1 GW算力。",
@@ -450,11 +473,12 @@
           "url": "https://wallstreetcn.com/articles/3757789",
           "source": "华尔街见闻",
           "ranks": [
-            4
+            4,
+            3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时35分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时35分 ~ 15时29分]"
         },
         {
           "title": "中共中央新闻发布会直击：未来10年将再造一个中国高技术产业，深入实施“人工智能+”行动",
