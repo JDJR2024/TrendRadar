@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-25T17:23:25.547317+08:00",
-  "total_titles_processed": 1123,
+  "generated_at": "2025-10-25T18:23:53.178714+08:00",
+  "total_titles_processed": 1183,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时46分 ~ 17时23分]"
+          "appearance_count": 11,
+          "time_info": "[09时46分 ~ 18时23分]"
         },
         {
           "title": "美CPI数据前夕，贸易局势缓和提振股市，三大美股指普涨，原油期货一度涨超5%",
@@ -42,8 +42,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[07时23分 ~ 17时23分]"
+          "appearance_count": 12,
+          "time_info": "[07时23分 ~ 18时23分]"
         },
         {
           "title": "美股盘前直线拉升 市场充分定价美联储10月、12月降息 | 今夜看点",
@@ -162,11 +162,12 @@
           "source": "澎湃新闻",
           "ranks": [
             9,
-            8
+            8,
+            10
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时06分 ~ 17时23分]"
+          "appearance_count": 10,
+          "time_info": "[11时06分 ~ 18时23分]"
         },
         {
           "title": "土耳其总统指责以色列违反加沙停火协议",
