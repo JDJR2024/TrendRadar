@@ -1,12 +1,24 @@
 {
-  "generated_at": "2025-10-25T16:28:09.465952+08:00",
-  "total_titles_processed": 1074,
+  "generated_at": "2025-10-25T17:23:25.547317+08:00",
+  "total_titles_processed": 1123,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
       "match_count": 11,
       "titles": [
+        {
+          "title": "美联储年内降息预期大增，美股三大指数均破新高，苹果收创新高，原油走低",
+          "url": "https://wallstreetcn.com/articles/3757811",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[09时46分 ~ 17时23分]"
+        },
         {
           "title": "美CPI数据前夕，贸易局势缓和提振股市，三大美股指普涨，原油期货一度涨超5%",
           "url": "https://wallstreetcn.com/articles/3757722",
@@ -20,18 +32,6 @@
           "time_info": "[00时30分 ~ 07时23分]"
         },
         {
-          "title": "美联储年内降息预期大增，美股三大指数均破新高，苹果收创新高，原油走低",
-          "url": "https://wallstreetcn.com/articles/3757811",
-          "source": "华尔街见闻",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时46分 ~ 16时28分]"
-        },
-        {
           "title": "美股收盘：通胀数据提振市场 三大指数齐创新高 纳指涨超1%",
           "url": "https://www.cls.cn/detail/2180462",
           "source": "财联社热门",
@@ -42,8 +42,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[07时23分 ~ 16时28分]"
+          "appearance_count": 11,
+          "time_info": "[07时23分 ~ 17时23分]"
         },
         {
           "title": "美股盘前直线拉升 市场充分定价美联储10月、12月降息 | 今夜看点",
@@ -54,11 +54,12 @@
             5,
             9,
             10,
-            11
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时30分 ~ 16时28分]"
+          "appearance_count": 20,
+          "time_info": "[00时30分 ~ 17时23分]"
         },
         {
           "title": "金十图示：2025年10月24日（周五）美股热门股票行情一览（美股收盘）",
@@ -164,8 +165,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时06分 ~ 16时28分]"
+          "appearance_count": 9,
+          "time_info": "[11时06分 ~ 17时23分]"
         },
         {
           "title": "土耳其总统指责以色列违反加沙停火协议",
