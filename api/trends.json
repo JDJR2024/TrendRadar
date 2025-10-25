@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-25T13:23:43.019415+08:00",
-  "total_titles_processed": 880,
+  "generated_at": "2025-10-25T14:33:08.185419+08:00",
+  "total_titles_processed": 943,
   "failed_sources": [],
   "trends": [
     {
@@ -27,11 +27,12 @@
             6,
             5,
             9,
-            10
+            10,
+            11
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时30分 ~ 13时23分]"
+          "appearance_count": 16,
+          "time_info": "[00时30分 ~ 14时33分]"
         },
         {
           "title": "美联储年内降息预期大增，美股三大指数均破新高，苹果收创新高，原油走低",
@@ -42,8 +43,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时46分 ~ 13时23分]"
+          "appearance_count": 6,
+          "time_info": "[09时46分 ~ 14时33分]"
         },
         {
           "title": "美股收盘：通胀数据提振市场 三大指数齐创新高 纳指涨超1%",
@@ -52,11 +53,12 @@
           "ranks": [
             7,
             4,
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时23分 ~ 13时23分]"
+          "appearance_count": 7,
+          "time_info": "[07时23分 ~ 14时33分]"
         },
         {
           "title": "金十图示：2025年10月24日（周五）美股热门股票行情一览（美股收盘）",
@@ -154,6 +156,18 @@
           "time_info": "[00时30分 ~ 06时29分]"
         },
         {
+          "title": "特朗普警告以色列：不准吞并约旦河西岸，否则将失去美国一切支持",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31832113",
+          "source": "澎湃新闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时06分 ~ 14时33分]"
+        },
+        {
           "title": "土耳其总统指责以色列违反加沙停火协议",
           "url": "https://flash.jin10.com/detail/20251025010440860800",
           "source": "金十数据",
@@ -190,18 +204,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[05时21分 ~ 07时23分]"
-        },
-        {
-          "title": "特朗普警告以色列：不准吞并约旦河西岸，否则将失去美国一切支持",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31832113",
-          "source": "澎湃新闻",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时06分 ~ 13时23分]"
         }
       ]
     },
@@ -219,11 +221,12 @@
             12,
             15,
             21,
-            22
+            22,
+            25
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[06时29分 ~ 13时23分]"
+          "appearance_count": 7,
+          "time_info": "[06时29分 ~ 14时33分]"
         },
         {
           "title": "据华尔街日报：OpenAI首席执行官Sam Altman曾是阻止特朗普向旧金山派遣军队的运动中的一员。",
