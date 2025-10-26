@@ -1,45 +1,12 @@
 {
-  "generated_at": "2025-10-26T22:21:52.697624+08:00",
-  "total_titles_processed": 1297,
+  "generated_at": "2025-10-26T23:23:26.091508+08:00",
+  "total_titles_processed": 1344,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "以色列",
       "match_count": 7,
       "titles": [
-        {
-          "title": "以色列政府发言人：以色列将对加沙地带保持全面的安全控制。",
-          "url": "https://flash.jin10.com/detail/20251026214716074800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时21分"
-        },
-        {
-          "title": "以色列政府发言人：红十字会和埃及救援队获准进入加沙地带以色列国防军划定的黄色线以外区域，搜寻遇难人质。",
-          "url": "https://flash.jin10.com/detail/20251026214447716800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时21分"
-        },
-        {
-          "title": "以色列政府发言人：以色列总理内塔尼亚胡批准埃及技术小组入境，协助寻找其余遇难人质。",
-          "url": "https://flash.jin10.com/detail/20251026214431735800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时21分"
-        },
         {
           "title": "以色列总理内塔尼亚胡：我们已向国际部队明确表示，哪些部队是我们无法接受的，这一点美国也接受了。",
           "url": "https://flash.jin10.com/detail/20251026184258436800",
@@ -48,11 +15,12 @@
             4,
             8,
             9,
-            15
+            15,
+            20
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时18分 ~ 22时21分]"
+          "appearance_count": 5,
+          "time_info": "[19时18分 ~ 23时23分]"
         },
         {
           "title": "以色列总理内塔尼亚胡：以色列是一个主权国家，与美国的关系是“伙伴关系”。",
@@ -62,11 +30,12 @@
             5,
             9,
             10,
-            16
+            16,
+            21
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时18分 ~ 22时21分]"
+          "appearance_count": 5,
+          "time_info": "[19时18分 ~ 23时23分]"
         },
         {
           "title": "据以色列媒体援引以色列官员消息称，红十字会目前正与哈马斯合作，在以色列军方控制的区域内寻找已故人质的遗体。",
@@ -74,11 +43,48 @@
           "source": "金十数据",
           "ranks": [
             1,
-            7
+            7,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时27分 ~ 23时23分]"
+        },
+        {
+          "title": "以色列政府发言人：以色列将对加沙地带保持全面的安全控制。",
+          "url": "https://flash.jin10.com/detail/20251026214716074800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            8
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[21时27分 ~ 22时21分]"
+          "time_info": "[22时21分 ~ 23时23分]"
+        },
+        {
+          "title": "以色列政府发言人：红十字会和埃及救援队获准进入加沙地带以色列国防军划定的黄色线以外区域，搜寻遇难人质。",
+          "url": "https://flash.jin10.com/detail/20251026214447716800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时21分 ~ 23时23分]"
+        },
+        {
+          "title": "以色列政府发言人：以色列总理内塔尼亚胡批准埃及技术小组入境，协助寻找其余遇难人质。",
+          "url": "https://flash.jin10.com/detail/20251026214431735800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时21分 ~ 23时23分]"
         },
         {
           "title": "美国对以色列“三连击”的背后",
@@ -136,8 +142,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时45分 ~ 22时21分]"
+          "appearance_count": 4,
+          "time_info": "[20时45分 ~ 23时23分]"
         },
         {
           "title": "金价暴跌有大学生把生活费亏没了",
@@ -148,8 +154,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时45分 ~ 22时21分]"
+          "appearance_count": 4,
+          "time_info": "[20时45分 ~ 23时23分]"
         }
       ]
     },
@@ -244,8 +250,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时21分 ~ 22时21分]"
+          "appearance_count": 7,
+          "time_info": "[17时21分 ~ 23时23分]"
         }
       ]
     },
