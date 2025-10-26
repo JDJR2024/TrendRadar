@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-27T03:20:29.078867+08:00",
-  "total_titles_processed": 360,
+  "generated_at": "2025-10-27T04:26:47.813561+08:00",
+  "total_titles_processed": 372,
   "failed_sources": [],
   "trends": [
     {
@@ -12,66 +12,72 @@
           "url": "https://flash.jin10.com/detail/20251026214716074800",
           "source": "金十数据",
           "ranks": [
-            9
+            9,
+            11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时28分 ~ 03时20分]"
+          "appearance_count": 5,
+          "time_info": "[00时28分 ~ 04时26分]"
         },
         {
           "title": "以色列政府发言人：红十字会和埃及救援队获准进入加沙地带以色列国防军划定的黄色线以外区域，搜寻遇难人质。",
           "url": "https://flash.jin10.com/detail/20251026214447716800",
           "source": "金十数据",
           "ranks": [
-            10
+            10,
+            12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时28分 ~ 03时20分]"
+          "appearance_count": 5,
+          "time_info": "[00时28分 ~ 04时26分]"
         },
         {
           "title": "以色列政府发言人：以色列总理内塔尼亚胡批准埃及技术小组入境，协助寻找其余遇难人质。",
           "url": "https://flash.jin10.com/detail/20251026214431735800",
           "source": "金十数据",
           "ranks": [
-            11
+            11,
+            13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时28分 ~ 03时20分]"
+          "appearance_count": 5,
+          "time_info": "[00时28分 ~ 04时26分]"
         },
         {
           "title": "据以色列媒体援引以色列官员消息称，红十字会目前正与哈马斯合作，在以色列军方控制的区域内寻找已故人质的遗体。",
           "url": "https://flash.jin10.com/detail/20251026205155930800",
           "source": "金十数据",
           "ranks": [
-            13
+            13,
+            15
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时28分 ~ 03时20分]"
+          "appearance_count": 5,
+          "time_info": "[00时28分 ~ 04时26分]"
         },
         {
           "title": "以色列总理内塔尼亚胡：我们已向国际部队明确表示，哪些部队是我们无法接受的，这一点美国也接受了。",
           "url": "https://flash.jin10.com/detail/20251026184258436800",
           "source": "金十数据",
           "ranks": [
-            21
+            21,
+            23
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时28分 ~ 03时20分]"
+          "appearance_count": 5,
+          "time_info": "[00时28分 ~ 04时26分]"
         },
         {
           "title": "以色列总理内塔尼亚胡：以色列是一个主权国家，与美国的关系是“伙伴关系”。",
           "url": "https://flash.jin10.com/detail/20251026184143978800",
           "source": "金十数据",
           "ranks": [
-            22
+            22,
+            24
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时28分 ~ 03时20分]"
+          "appearance_count": 5,
+          "time_info": "[00时28分 ~ 04时26分]"
         }
       ]
     },
@@ -87,8 +93,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时28分 ~ 03时20分]"
+          "appearance_count": 5,
+          "time_info": "[00时28分 ~ 04时26分]"
         },
         {
           "title": "金价暴跌有大学生把生活费亏没了",
@@ -98,8 +104,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时28分 ~ 03时20分]"
+          "appearance_count": 5,
+          "time_info": "[00时28分 ~ 04时26分]"
         }
       ]
     },
@@ -112,11 +118,12 @@
           "url": "https://www.zhihu.com/question/1965049071443075345",
           "source": "知乎",
           "ranks": [
-            12
+            12,
+            11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时28分 ~ 03时20分]"
+          "appearance_count": 5,
+          "time_info": "[00时28分 ~ 04时26分]"
         }
       ]
     }
