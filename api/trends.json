@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-26T09:55:26.477180+08:00",
-  "total_titles_processed": 537,
+  "generated_at": "2025-10-26T11:15:49.164092+08:00",
+  "total_titles_processed": 605,
   "failed_sources": [],
   "trends": [
     {
@@ -29,8 +29,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时27分 ~ 09时55分]"
+          "appearance_count": 11,
+          "time_info": "[00时27分 ~ 11时15分]"
         },
         {
           "title": "美国 9 月 CPI 全线低于预期，美股三大指数盘中均创历史新高，黄金白银下跌，哪些信息值得关注？",
@@ -40,11 +40,12 @@
             12,
             10,
             9,
-            8
+            8,
+            18
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时27分 ~ 09时55分]"
+          "appearance_count": 11,
+          "time_info": "[00时27分 ~ 11时15分]"
         },
         {
           "title": "美股为何一直在上涨",
@@ -80,6 +81,23 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时27分 ~ 07时22分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "以色列",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "美国对以色列“三连击”的背后",
+          "url": "https://www.toutiao.com/trending/7565331520303418943/",
+          "source": "今日头条",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时15分"
         }
       ]
     }
