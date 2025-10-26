@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-26T15:21:03.281479+08:00",
-  "total_titles_processed": 864,
+  "generated_at": "2025-10-26T16:28:13.547339+08:00",
+  "total_titles_processed": 947,
   "failed_sources": [],
   "trends": [
     {
@@ -72,22 +72,24 @@
           "source": "微博",
           "ranks": [
             24,
-            12
+            12,
+            14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时34分 ~ 15时21分]"
+          "appearance_count": 5,
+          "time_info": "[14时34分 ~ 16时28分]"
         },
         {
           "title": "金价暴跌 大学生把生活费亏没了",
           "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E6%9A%B4%E8%B7%8C+%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%8A%8A%E7%94%9F%E6%B4%BB%E8%B4%B9%E4%BA%8F%E6%B2%A1%E4%BA%86",
           "source": "百度热搜",
           "ranks": [
-            21
+            21,
+            22
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时34分 ~ 15时21分]"
+          "appearance_count": 5,
+          "time_info": "[14时34分 ~ 16时28分]"
         }
       ]
     },
@@ -141,11 +143,12 @@
           "url": "https://flash.jin10.com/detail/20251026150731873800",
           "source": "金十数据",
           "ranks": [
-            3
+            3,
+            24
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时21分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时21分 ~ 16时28分]"
         }
       ]
     }
