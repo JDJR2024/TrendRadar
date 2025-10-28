@@ -1,8 +1,148 @@
 {
-  "generated_at": "2025-10-29T04:28:33.668674+08:00",
-  "total_titles_processed": 555,
+  "generated_at": "2025-10-29T05:23:22.754535+08:00",
+  "total_titles_processed": 601,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "美股",
+      "match_count": 12,
+      "titles": [
+        {
+          "title": "贸易缓和提振美股新高，人民币两月最大涨幅，黄金失守4000美元，伦铜收创新高",
+          "url": "https://wallstreetcn.com/articles/3757937",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时45分 ~ 05时23分]"
+        },
+        {
+          "title": "美股三大期指集体走高 黄仁勋将发表主题演讲 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2183910",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时45分 ~ 05时23分]"
+        },
+        {
+          "title": "美股收盘：三大股指续创新高 英伟达涨近5%",
+          "url": "https://flash.jin10.com/detail/20251029040108535800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时28分 ~ 05时23分]"
+        },
+        {
+          "title": "美股三大指数集体上涨，苹果总市值首次升破4万亿美元，现货黄金失守3900美元关口，加密货币下跌",
+          "url": "https://wallstreetcn.com/articles/3758056",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时21分 ~ 05时23分]"
+        },
+        {
+          "title": "金十图示：2025年10月28日（周二）美股热门股票行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20251029005409163800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时23分"
+        },
+        {
+          "title": "费城金银指数收涨1.28%，报278.09点。 纽约证交所ARCA金矿开采商指数收涨0.30%，报1980.77点；北京时间21:30美股开盘之前维持跌势、持稳于1960点附近，之后跳空“低开”、逼近1930点，随后反弹并逐步上涨。 金银矿业股多数收涨，科尔黛伦矿业涨3.39%，赫克拉矿业涨3.16%，金田涨2.66%，金矿股ETF涨1.59%，泛美白银涨1.47%，黄金矿工因素指数ETF涨1.43%，白银ETF涨0.71%。 黄金ETF则至少收跌0.72%，B2Gold跌1.21%，Blue Gold跌7.76%。",
+          "url": "https://wallstreetcn.com/livenews/2995368",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时23分"
+        },
+        {
+          "title": "金十图示：2025年10月28日（周二）热门中概股行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20251029005055544800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时23分"
+        },
+        {
+          "title": "全球科技股指数ETF收涨将近1.4%，领跑美股行业ETF，标普房地产板块跌超2.2%",
+          "url": "https://wallstreetcn.com/livenews/2995363",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时23分"
+        },
+        {
+          "title": "金十图示：2025年10月28日（周二）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20251029040619024800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时23分"
+        },
+        {
+          "title": "金十图示：2025年10月28日（周二）热门中概股行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20251029040615964800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时23分"
+        },
+        {
+          "title": "美股三大股指走高，纳指涨超1%，标普500指数涨0.43%，道指涨0.57%。",
+          "url": "https://flash.jin10.com/detail/20251029030928567800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时28分"
+        },
+        {
+          "title": "美股七巨头收盘播报｜英伟达收涨将近5%，获得其股权投资的诺基亚ADR涨约23%",
+          "url": "https://wallstreetcn.com/livenews/2995351",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时23分"
+        }
+      ]
+    },
     {
       "keyword_group": "以色列",
       "match_count": 10,
@@ -15,8 +155,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时45分 ~ 04时28分]"
+          "appearance_count": 7,
+          "time_info": "[00时45分 ~ 05时23分]"
         },
         {
           "title": "以色列总理下令强力打击加沙",
@@ -55,6 +195,18 @@
           "time_info": "[03时21分 ~ 04时28分]"
         },
         {
+          "title": "美国副总统万斯：加沙地带的哈马斯或其他组织袭击了一名以色列士兵，美国预计以色列会作出回应。",
+          "url": "https://flash.jin10.com/detail/20251029033441591800",
+          "source": "金十数据",
+          "ranks": [
+            10,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时28分 ~ 05时23分]"
+        },
+        {
           "title": "以色列总理下令强力打击加沙",
           "url": "https://wallstreetcn.com/livenews/2995249",
           "source": "华尔街见闻-快讯",
@@ -76,17 +228,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时45分"
-        },
-        {
-          "title": "美国副总统万斯：加沙地带的哈马斯或其他组织袭击了一名以色列士兵，美国预计以色列会作出回应。",
-          "url": "https://flash.jin10.com/detail/20251029033441591800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时28分"
         },
         {
           "title": "以色列军方官员：哈马斯违反了停火协议，对位于商定部署线以东的部队发动了袭击。",
@@ -136,8 +277,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时45分 ~ 04时28分]"
+          "appearance_count": 7,
+          "time_info": "[00时45分 ~ 05时23分]"
         },
         {
           "title": "PayPal成为ChatGPT首个支付钱包 盘前一度涨超15%",
@@ -148,8 +289,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时45分 ~ 04时28分]"
+          "appearance_count": 7,
+          "time_info": "[00时45分 ~ 05时23分]"
         },
         {
           "title": "OpenAI首席执行官Altman：考虑到我们未来的资金需求，可以说进行IPO对我们而言是最有可能的出路。",
@@ -221,89 +362,6 @@
       ]
     },
     {
-      "keyword_group": "美股",
-      "match_count": 7,
-      "titles": [
-        {
-          "title": "贸易缓和提振美股新高，人民币两月最大涨幅，黄金失守4000美元，伦铜收创新高",
-          "url": "https://wallstreetcn.com/articles/3757937",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时45分 ~ 04时28分]"
-        },
-        {
-          "title": "美股三大期指集体走高 黄仁勋将发表主题演讲 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2183910",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时45分 ~ 04时28分]"
-        },
-        {
-          "title": "美股收盘：三大股指续创新高 英伟达涨近5%",
-          "url": "https://flash.jin10.com/detail/20251029040108535800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时28分"
-        },
-        {
-          "title": "美股三大指数集体上涨，苹果总市值首次升破4万亿美元，现货黄金失守3900美元关口，加密货币下跌",
-          "url": "https://wallstreetcn.com/articles/3758056",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时21分 ~ 04时28分]"
-        },
-        {
-          "title": "金十图示：2025年10月28日（周二）美股热门股票行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20251029005409163800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时23分"
-        },
-        {
-          "title": "金十图示：2025年10月28日（周二）热门中概股行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20251029005055544800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时23分"
-        },
-        {
-          "title": "美股三大股指走高，纳指涨超1%，标普500指数涨0.43%，道指涨0.57%。",
-          "url": "https://flash.jin10.com/detail/20251029030928567800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时28分"
-        }
-      ]
-    },
-    {
       "keyword_group": "人工智能 AI ChatGPT",
       "match_count": 7,
       "titles": [
@@ -316,8 +374,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时45分 ~ 04时28分]"
+          "appearance_count": 7,
+          "time_info": "[00时45分 ~ 05时23分]"
         },
         {
           "title": "英伟达推出NVIDIA Arc Aerial Ran Computer，这是一种为6G准备的通信计算平台。 英伟达与诺基亚将为6G通信技术开拓人工智能（AI）平台。",
@@ -400,31 +458,20 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时45分 ~ 04时28分]"
+          "appearance_count": 7,
+          "time_info": "[00时45分 ~ 05时23分]"
         },
         {
           "title": "黄金下一步看3800，重要支撑线在3600美元？两大因素将是金价能否反弹的关键",
           "url": "https://wallstreetcn.com/articles/3758026",
           "source": "华尔街见闻",
           "ranks": [
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时45分 ~ 04时28分]"
-        },
-        {
-          "title": "金价银价暴跌原因",
-          "url": "https://www.douyin.com/hot/2285515",
-          "source": "抖音",
-          "ranks": [
-            25,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时36分 ~ 04时28分]"
+          "appearance_count": 7,
+          "time_info": "[00时45分 ~ 05时23分]"
         },
         {
           "title": "金价跌破3900美元 未来会是什么走势",
@@ -438,8 +485,20 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时45分 ~ 04时28分]"
+          "appearance_count": 7,
+          "time_info": "[00时45分 ~ 05时23分]"
+        },
+        {
+          "title": "金价银价暴跌原因",
+          "url": "https://www.douyin.com/hot/2285515",
+          "source": "抖音",
+          "ranks": [
+            25,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[02时36分 ~ 04时28分]"
         }
       ]
     },
@@ -472,6 +531,35 @@
       ]
     },
     {
+      "keyword_group": "美元",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "周二（10月28日）纽约尾盘，ICE美元指数跌0.12%，报98.667点，日内交投区间为98.947-98.565点，北京时间21:20前后出现一波冲高回落行情。 彭博美元指数跌0.17%，报1209.53点，日内交投区间为1212.67-1208.87点。",
+          "url": "https://wallstreetcn.com/livenews/2995338",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时28分 ~ 05时23分]"
+        },
+        {
+          "title": "美元指数28日下跌",
+          "url": "https://flash.jin10.com/detail/20251029040621196800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时23分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美债",
       "match_count": 1,
       "titles": [
@@ -480,28 +568,12 @@
           "url": "https://wallstreetcn.com/livenews/2995344",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            10,
+            25
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时28分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美元",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "周二（10月28日）纽约尾盘，ICE美元指数跌0.12%，报98.667点，日内交投区间为98.947-98.565点，北京时间21:20前后出现一波冲高回落行情。 彭博美元指数跌0.17%，报1209.53点，日内交投区间为1212.67-1208.87点。",
-          "url": "https://wallstreetcn.com/livenews/2995338",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时28分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时28分 ~ 05时23分]"
         }
       ]
     }
