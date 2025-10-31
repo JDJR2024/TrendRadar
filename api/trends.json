@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-31T14:43:15.753404+08:00",
-  "total_titles_processed": 1228,
+  "generated_at": "2025-10-31T15:22:56.649665+08:00",
+  "total_titles_processed": 1286,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时23分 ~ 14时43分]"
+          "appearance_count": 9,
+          "time_info": "[07时23分 ~ 15时22分]"
         },
         {
           "title": "美股收盘：三大指数集体下跌 科技巨头股价大起大落",
@@ -466,11 +466,12 @@
           "source": "澎湃新闻",
           "ranks": [
             12,
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时31分 ~ 14时43分]"
+          "appearance_count": 5,
+          "time_info": "[12时31分 ~ 15时22分]"
         }
       ]
     }
