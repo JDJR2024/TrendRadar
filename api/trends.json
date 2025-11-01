@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-01T15:22:46.404938+08:00",
-  "total_titles_processed": 1058,
+  "generated_at": "2025-11-01T16:29:42.321010+08:00",
+  "total_titles_processed": 1135,
   "failed_sources": [],
   "trends": [
     {
@@ -27,8 +27,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[07时23分 ~ 15时22分]"
+          "appearance_count": 10,
+          "time_info": "[07时23分 ~ 16时29分]"
         },
         {
           "title": "美股收盘：亚马逊升近10%创新高 纳指连涨七个月",
@@ -38,11 +38,12 @@
             9,
             5,
             6,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[07时23分 ~ 15时22分]"
+          "appearance_count": 10,
+          "time_info": "[07时23分 ~ 16时29分]"
         },
         {
           "title": "美股三大期指集体上涨 亚马逊盘前大涨超13% | 今夜看点",
@@ -225,6 +226,47 @@
       ]
     },
     {
+      "keyword_group": "以色列",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "以色列20万人拒服兵役爆发骚乱",
+          "url": "https://www.douyin.com/hot/2289491",
+          "source": "抖音",
+          "ranks": [
+            13,
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时30分 ~ 07时23分]"
+        },
+        {
+          "title": "以色列极右翼部长要求处决巴勒斯坦囚犯",
+          "url": "https://flash.jin10.com/detail/20251101082719008800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时55分"
+        },
+        {
+          "title": "据以色列媒体：被转移到以色列的遗体部件不属于任何一名人质。",
+          "url": "https://flash.jin10.com/detail/20251101150826551800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时29分"
+        }
+      ]
+    },
+    {
       "keyword_group": "谷歌 google gemini",
       "match_count": 2,
       "titles": [
@@ -285,36 +327,6 @@
       ]
     },
     {
-      "keyword_group": "以色列",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "以色列20万人拒服兵役爆发骚乱",
-          "url": "https://www.douyin.com/hot/2289491",
-          "source": "抖音",
-          "ranks": [
-            13,
-            11,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时30分 ~ 07时23分]"
-        },
-        {
-          "title": "以色列极右翼部长要求处决巴勒斯坦囚犯",
-          "url": "https://flash.jin10.com/detail/20251101082719008800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时55分"
-        }
-      ]
-    },
-    {
       "keyword_group": "DeepSeek 梁文锋",
       "match_count": 1,
       "titles": [
@@ -342,11 +354,12 @@
           "url": "https://wallstreetcn.com/articles/3758470",
           "source": "华尔街见闻",
           "ranks": [
-            7
+            7,
+            6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时22分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时22分 ~ 16时29分]"
         }
       ]
     },
@@ -366,6 +379,23 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时26分 ~ 06时24分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "伊朗",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "伊朗革命卫队海军在波斯湾查获24万升走私燃料",
+          "url": "https://flash.jin10.com/detail/20251101154233808800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时29分"
         }
       ]
     },
