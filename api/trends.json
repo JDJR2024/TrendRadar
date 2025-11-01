@@ -1,395 +1,72 @@
 {
-  "generated_at": "2025-11-01T23:20:48.001095+08:00",
-  "total_titles_processed": 1591,
+  "generated_at": "2025-11-02T00:25:50.869674+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 15,
+      "match_count": 3,
       "titles": [
-        {
-          "title": "美股延续美联储会后颓势，Meta重挫拖累科技股，加密货币大跌，亚马逊苹果绩后大涨",
-          "url": "https://wallstreetcn.com/articles/3758264",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时30分 ~ 07时23分]"
-        },
         {
           "title": "亚马逊靓丽业绩提振科技股，美股三大股指收高为十月画上句号，加密货币反弹",
           "url": "https://wallstreetcn.com/articles/3758419",
           "source": "华尔街见闻",
           "ranks": [
-            6,
-            2
+            1
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[07时23分 ~ 23时20分]"
-        },
-        {
-          "title": "美股收盘：亚马逊升近10%创新高 纳指连涨七个月",
-          "url": "https://www.cls.cn/detail/2188490",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            5,
-            6,
-            7,
-            8,
-            11,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[07时23分 ~ 23时20分]"
-        },
-        {
-          "title": "美股三大期指集体上涨 亚马逊盘前大涨超13% | 今夜看点",
-          "url": "https://www.cls.cn/detail/2188280",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            9,
-            11,
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时30分 ~ 15时22分]"
-        },
-        {
-          "title": "金十图示：2025年10月31日（周五）美股热门股票行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20251101040624223800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            4,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[04时26分 ~ 09时55分]"
-        },
-        {
-          "title": "金十图示：2025年10月31日（周五）热门中概股行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20251101040622397800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            5,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[04时26分 ~ 09时55分]"
-        },
-        {
-          "title": "美股三大指数月线均至少六连涨 创多年最长月度连涨纪录",
-          "url": "https://flash.jin10.com/detail/20251101040612568800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            6,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[04时26分 ~ 09时55分]"
-        },
-        {
-          "title": "美股收盘：三大股指齐涨 亚马逊涨近10%",
-          "url": "https://flash.jin10.com/detail/20251101040052519800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时26分 ~ 07时23分]"
-        },
-        {
-          "title": "布油基金收涨将近1.1%，领跑美股大类资产类ETF，黄金ETF跌超0.5%",
-          "url": "https://wallstreetcn.com/livenews/2997900",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            9,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时21分 ~ 07时23分]"
+          "appearance_count": 1,
+          "time_info": "00时25分"
         },
         {
           "title": "高盛交易员：美股涨势\"极端窄化\"，七巨头屡创新高但整体跑输全球市场",
           "url": "https://wallstreetcn.com/articles/3758463",
           "source": "华尔街见闻",
           "ranks": [
-            10,
-            8
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时44分 ~ 23时20分]"
+          "appearance_count": 1,
+          "time_info": "00时25分"
         },
         {
-          "title": "美股上市公司CEO的一句玩笑话 扒开美国金融监管的大漏洞",
-          "url": "https://www.cls.cn/detail/2188453",
+          "title": "美股收盘：亚马逊升近10%创新高 纳指连涨七个月",
+          "url": "https://www.cls.cn/detail/2188490",
           "source": "财联社热门",
           "ranks": [
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时54分 ~ 12时25分]"
-        },
-        {
-          "title": "可选消费ETF收涨超2.6%，领跑美股行业ETF，标普可选消费板块收涨约4.1%",
-          "url": "https://wallstreetcn.com/livenews/2997896",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            13,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时21分 ~ 07时23分]"
-        },
-        {
-          "title": "房利美股价跌超10%，创8月11日以来盘中新低。 房地美也跌7%。",
-          "url": "https://wallstreetcn.com/livenews/2997795",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
+            10
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "00时30分"
-        },
-        {
-          "title": "金十图示：2025年10月31日（周五）美股热门股票行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20251101004053080800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时24分"
-        },
-        {
-          "title": "金十图示：2025年10月31日（周五）热门中概股行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20251101004045516800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时24分"
+          "time_info": "00时25分"
         }
       ]
     },
     {
       "keyword_group": "医保+集采 国家+集采 药品+集采 耗材+集采 医疗+集采 集采+中标 集采+开标 医院改革 医疗改革 公立医院+改革 医保+支付 医保+谈判 医保+目录 DRG DIP",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "KPL年总 DRG vs 狼队",
-          "url": "https://search.bilibili.com/all?keyword=KPL",
-          "source": "bilibili 热搜",
-          "ranks": [
-            1,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时19分 ~ 23时20分]"
-        },
-        {
-          "title": "DRG对战狼队",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3DDRG%E5%AF%B9%E6%88%98%E7%8B%BC%E9%98%9F&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26c_type%3D31%26realpos%3D9%26flag%3D1%26cate%3D5001%26band_rank%3D9%26pos%3D10%26stream_entry_id%3D31%26q%3DDRG%25E5%25AF%25B9%25E6%2588%2598%25E7%258B%25BC%25E9%2598%259F%26lcate%3D5001%26filter_type%3Drealtimehot%26dgr%3D0%26display_time%3D1761995610%26pre_seqid%3D176199561046203396293156&launchid=10000360-page_H5",
-          "source": "微博",
-          "ranks": [
-            9,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时19分 ~ 23时20分]"
-        },
-        {
-          "title": "DRG巅峰对决狼队",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23DRG%E5%B7%85%E5%B3%B0%E5%AF%B9%E5%86%B3%E7%8B%BC%E9%98%9F%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26q%3D%2523DRG%25E5%25B7%2585%25E5%25B3%25B0%25E5%25AF%25B9%25E5%2586%25B3%25E7%258B%25BC%25E9%2598%259F%2523%26dgr%3D0%26filter_type%3Drealtimehot%26realpos%3D24%26c_type%3D31%26cate%3D5001%26flag%3D1%26stream_entry_id%3D31%26band_rank%3D24%26pos%3D25%26lcate%3D5001%26display_time%3D1762010128%26pre_seqid%3D176201012828703403220153&launchid=10000360-page_H5",
-          "source": "微博",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时20分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "金价10月份涨3.7%，现货白银涨约4.3%",
-          "url": "https://wallstreetcn.com/livenews/2997897",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            12,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时21分 ~ 07时23分]"
-        },
-        {
-          "title": "摩根士丹利：由于ETF和各国央行的强劲实物需求，以及经济前景依然不确定，黄金价格有望在2026年年中升至每盎司4500美元（此前预计为2026年下半年达到4500美元）。",
-          "url": "https://wallstreetcn.com/livenews/2997790",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时30分"
-        },
-        {
-          "title": "金价短线跳水，从4020美元一线跌向3970美元",
-          "url": "https://wallstreetcn.com/livenews/2997824",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时24分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "以色列",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "以色列20万人拒服兵役爆发骚乱",
-          "url": "https://www.douyin.com/hot/2289491",
-          "source": "抖音",
-          "ranks": [
-            13,
-            11,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时30分 ~ 07时23分]"
-        },
-        {
-          "title": "据以色列媒体：被转移到以色列的遗体部件不属于任何一名人质。",
-          "url": "https://flash.jin10.com/detail/20251101150826551800",
-          "source": "金十数据",
-          "ranks": [
-            14,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时29分 ~ 17时24分]"
-        },
-        {
-          "title": "以色列极右翼部长要求处决巴勒斯坦囚犯",
-          "url": "https://flash.jin10.com/detail/20251101082719008800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时55分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "伊朗",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "伊朗一超轻型飞机发生事故",
-          "url": "https://flash.jin10.com/detail/20251101163710550800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时24分 ~ 18时23分]"
-        },
-        {
-          "title": "伊朗革命卫队海军在波斯湾查获24万升走私燃料",
-          "url": "https://flash.jin10.com/detail/20251101154233808800",
-          "source": "金十数据",
-          "ranks": [
-            7,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时29分 ~ 17时24分]"
-        },
-        {
-          "title": "伊朗一飞机失控 飞行员弹射逃生",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E4%B8%80%E9%A3%9E%E6%9C%BA%E5%A4%B1%E6%8E%A7+%E9%A3%9E%E8%A1%8C%E5%91%98%E5%BC%B9%E5%B0%84%E9%80%83%E7%94%9F",
-          "source": "百度热搜",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时20分 ~ 23时20分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
       "match_count": 2,
       "titles": [
         {
-          "title": "谷歌前CEO：当年李鸿章访美被震了，如今外国人来华被惊了",
-          "url": "https://news.ifeng.com/c/8ntxAfWGS8b",
-          "source": "凤凰网",
+          "title": "DRG早点 回家吧",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3DDRG%E6%97%A9%E7%82%B9+%E5%9B%9E%E5%AE%B6%E5%90%A7&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26cate%3D5001%26lcate%3D5001%26band_rank%3D6%26flag%3D1%26q%3DDRG%25E6%2597%25A9%25E7%2582%25B9%2520%25E5%259B%259E%25E5%25AE%25B6%25E5%2590%25A7%26dgr%3D0%26filter_type%3Drealtimehot%26realpos%3D6%26c_type%3D31%26pos%3D5%26stream_entry_id%3D31%26display_time%3D1762013979%26pre_seqid%3D176201397994202532992116&launchid=10000360-page_H5",
+          "source": "微博",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时25分"
+        },
+        {
+          "title": "KPL年总 狼队战胜DRG",
+          "url": "https://search.bilibili.com/all?keyword=KPL%E5%B9%B4%E6%80%BB%20%E7%8B%BC%E9%98%9F%E6%88%98%E8%83%9CDRG",
+          "source": "bilibili 热搜",
           "ranks": [
             10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时30分 ~ 06时24分]"
-        },
-        {
-          "title": "美股七巨头收盘播报｜亚马逊收涨约9.6%，10月谷歌A涨约15.7%连涨七个月、Meta累跌11.7%",
-          "url": "https://wallstreetcn.com/livenews/2997895",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            14,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时21分 ~ 07时23分]"
+          "appearance_count": 1,
+          "time_info": "00时25分"
         }
       ]
     },
@@ -402,92 +79,22 @@
           "url": "https://wallstreetcn.com/articles/3758470",
           "source": "华尔街见闻",
           "ranks": [
-            7,
-            6,
-            5,
-            3
+            2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[15时22分 ~ 23时20分]"
+          "appearance_count": 1,
+          "time_info": "00时25分"
         },
         {
           "title": "如何看待 OpenAI 计划上市，估值或高达 1 万亿美元？此前不是宣称「非盈利」吗？",
           "url": "https://www.zhihu.com/question/1967273703189480617",
           "source": "知乎",
           "ranks": [
-            17,
-            9,
-            10,
             16
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时19分 ~ 23时20分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "12月降息悬了？美联储内部现六年来罕见分歧，“老债王”格罗斯出手做空美债！",
-          "url": "https://wallstreetcn.com/articles/3758466",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8,
-            7,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时24分 ~ 23时20分]"
-        },
-        {
-          "title": "两年期美债收益率在美联储降息当周涨约12个基点，10年期美债收益率10月份跌约6个基点",
-          "url": "https://wallstreetcn.com/livenews/2997882",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            18,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时26分 ~ 06时24分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美元",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "美元指数10月份涨2%",
-          "url": "https://wallstreetcn.com/livenews/2997879",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            21,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时26分 ~ 06时24分]"
-        },
-        {
-          "title": "摩根士丹利G10外汇策略主管表示，摩根士丹利预计美元指数DXY将在2026年底前跌至89。",
-          "url": "https://flash.jin10.com/detail/20251031231849717800",
-          "source": "金十数据",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "00时30分"
+          "time_info": "00时25分"
         }
       ]
     },
@@ -500,59 +107,39 @@
           "url": "https://www.zhihu.com/question/1967669845052101983",
           "source": "知乎",
           "ranks": [
-            4,
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时20分 ~ 23时20分]"
+          "appearance_count": 1,
+          "time_info": "00时25分"
         },
         {
           "title": "11 月 1 日苏超决赛泰州队点球大战击败南通队夺冠，如何评价本场比赛？",
           "url": "https://www.zhihu.com/question/1968069556309296595",
           "source": "知乎",
           "ranks": [
-            14
+            13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "23时20分"
+          "time_info": "00时25分"
         }
       ]
     },
     {
-      "keyword_group": "DeepSeek 梁文锋",
+      "keyword_group": "美债",
       "match_count": 1,
       "titles": [
         {
-          "title": "AI投资大赛：DeepSeek回报率领跑，GPT亏麻了",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31855899",
-          "source": "澎湃新闻",
+          "title": "12月降息悬了？美联储内部现六年来罕见分歧，“老债王”格罗斯出手做空美债！",
+          "url": "https://wallstreetcn.com/articles/3758466",
+          "source": "华尔街见闻",
           "ranks": [
-            7,
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时30分 ~ 07时23分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "人工智能 AI ChatGPT",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "美国亚特兰大联储主席博斯蒂克（2027年FOMC票委）：人工智能（AI）技术让企业在招聘问题上迟疑不决。",
-          "url": "https://wallstreetcn.com/livenews/2997823",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
+            3
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "01时24分"
+          "time_info": "00时25分"
         }
       ]
     }
