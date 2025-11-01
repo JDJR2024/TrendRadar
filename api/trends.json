@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-02T03:17:55.885232+08:00",
-  "total_titles_processed": 363,
+  "generated_at": "2025-11-02T04:24:11.081590+08:00",
+  "total_titles_processed": 377,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "微软财报泄露了OpenAI的财务数据：单季度巨亏115亿美元",
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时25分 ~ 03时17分]"
+          "appearance_count": 8,
+          "time_info": "[00时25分 ~ 04时24分]"
         },
         {
           "title": "如何看待 OpenAI 计划上市，估值或高达 1 万亿美元？此前不是宣称「非盈利」吗？",
@@ -30,8 +30,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时25分 ~ 03时17分]"
+          "appearance_count": 8,
+          "time_info": "[00时25分 ~ 04时24分]"
         },
         {
           "title": "微软和OpenAI CEO罕见同场对话：OpenAI重组、AI泡沫质疑、算力需求......",
@@ -41,8 +41,19 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时31分 ~ 03时17分]"
+          "appearance_count": 5,
+          "time_info": "[02时31分 ~ 04时24分]"
+        },
+        {
+          "title": "媒体曝 OpenAI 单季度亏损 120 亿美元，具体情况如何？目前 OpenAI 发展面临哪些问题？",
+          "url": "https://www.zhihu.com/question/1967900167182181978",
+          "source": "知乎",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时23分 ~ 04时24分]"
         }
       ]
     },
@@ -56,11 +67,12 @@
           "source": "华尔街见闻",
           "ranks": [
             1,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时25分 ~ 03时17分]"
+          "appearance_count": 8,
+          "time_info": "[00时25分 ~ 04时24分]"
         },
         {
           "title": "高盛交易员：美股涨势\"极端窄化\"，七巨头屡创新高但整体跑输全球市场",
@@ -72,8 +84,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时25分 ~ 03时17分]"
+          "appearance_count": 8,
+          "time_info": "[00时25分 ~ 04时24分]"
         },
         {
           "title": "美股收盘：亚马逊升近10%创新高 纳指连涨七个月",
@@ -84,8 +96,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时25分 ~ 03时17分]"
+          "appearance_count": 8,
+          "time_info": "[00时25分 ~ 04时24分]"
         }
       ]
     },
@@ -98,11 +110,12 @@
           "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3DDRG%E6%97%A9%E7%82%B9+%E5%9B%9E%E5%AE%B6%E5%90%A7&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26cate%3D5001%26lcate%3D5001%26band_rank%3D6%26flag%3D1%26q%3DDRG%25E6%2597%25A9%25E7%2582%25B9%2520%25E5%259B%259E%25E5%25AE%25B6%25E5%2590%25A7%26dgr%3D0%26filter_type%3Drealtimehot%26realpos%3D6%26c_type%3D31%26pos%3D5%26stream_entry_id%3D31%26display_time%3D1762013979%26pre_seqid%3D176201397994202532992116&launchid=10000360-page_H5",
           "source": "微博",
           "ranks": [
-            6
+            6,
+            8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时25分 ~ 03时17分]"
+          "appearance_count": 8,
+          "time_info": "[00时25分 ~ 04时24分]"
         },
         {
           "title": "KPL年总 狼队战胜DRG",
@@ -114,8 +127,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时25分 ~ 03时17分]"
+          "appearance_count": 8,
+          "time_info": "[00时25分 ~ 04时24分]"
         }
       ]
     },
@@ -132,8 +145,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时25分 ~ 03时17分]"
+          "appearance_count": 8,
+          "time_info": "[00时25分 ~ 04时24分]"
         },
         {
           "title": "11 月 1 日苏超决赛泰州队点球大战击败南通队夺冠，如何评价本场比赛？",
@@ -161,8 +174,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时25分 ~ 03时17分]"
+          "appearance_count": 8,
+          "time_info": "[00时25分 ~ 04时24分]"
         }
       ]
     }
