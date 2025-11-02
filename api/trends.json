@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-03T00:26:27.116577+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2025-11-03T01:20:09.735093+08:00",
+  "total_titles_processed": 336,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28346627&amp;topic_name=%E8%B5%9B%E7%82%B9%E6%B5%AA%E9%A3%9E%21DRG%E6%8A%8A200%E4%B8%87%E9%80%81%E7%8B%BC%E9%98%9F",
           "source": "贴吧",
           "ranks": [
-            17
+            17,
+            18
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时26分"
+          "appearance_count": 3,
+          "time_info": "[00时26分 ~ 01时20分]"
         }
       ]
     },
@@ -29,11 +30,12 @@
           "url": "https://wallstreetcn.com/articles/3758487",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时26分"
+          "appearance_count": 3,
+          "time_info": "[00时26分 ~ 01时20分]"
         }
       ]
     },
@@ -46,11 +48,12 @@
           "url": "https://www.zhihu.com/question/1968075475093034371",
           "source": "知乎",
           "ranks": [
-            11
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时26分"
+          "appearance_count": 3,
+          "time_info": "[00时26分 ~ 01时20分]"
         }
       ]
     },
@@ -66,8 +69,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时26分"
+          "appearance_count": 3,
+          "time_info": "[00时26分 ~ 01时20分]"
         }
       ]
     }
