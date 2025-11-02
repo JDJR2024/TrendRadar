@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-02T22:20:35.926688+08:00",
-  "total_titles_processed": 1319,
+  "generated_at": "2025-11-02T23:22:02.897828+08:00",
+  "total_titles_processed": 1374,
   "failed_sources": [],
   "trends": [
     {
@@ -161,8 +161,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时24分 ~ 22时20分]"
+          "appearance_count": 7,
+          "time_info": "[18时24分 ~ 23时22分]"
         },
         {
           "title": "伊朗政府：我们已收到恢复与华盛顿谈判的消息，我们将在适当时候透露细节。",
@@ -294,8 +294,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[12时28分 ~ 22时20分]"
+          "appearance_count": 14,
+          "time_info": "[12时28分 ~ 23时22分]"
         },
         {
           "title": "媒体曝 OpenAI 单季度亏损 120 亿美元，具体情况如何？目前 OpenAI 发展面临哪些问题？",
@@ -386,11 +386,12 @@
             10,
             11,
             13,
-            15
+            15,
+            16
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[12时28分 ~ 22时20分]"
+          "appearance_count": 14,
+          "time_info": "[12时28分 ~ 23时22分]"
         }
       ]
     },
