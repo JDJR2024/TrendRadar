@@ -1,8 +1,69 @@
 {
-  "generated_at": "2025-11-03T11:23:07.405660+08:00",
-  "total_titles_processed": 715,
+  "generated_at": "2025-11-03T12:33:08.422208+08:00",
+  "total_titles_processed": 824,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "以色列",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "美国总统特朗普：将“参与”以色列总理内塔尼亚胡的审判。",
+          "url": "https://flash.jin10.com/detail/20251103091938196800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时55分"
+        },
+        {
+          "title": "如何看待以色列空袭黎巴嫩",
+          "url": "https://www.toutiao.com/trending/7568073541652938771/",
+          "source": "今日头条",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时32分 ~ 12时33分]"
+        },
+        {
+          "title": "以色列方面称，以色列警方已逮捕以军军事检察长与军方首席律师。",
+          "url": "https://flash.jin10.com/detail/20251103064748993800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时21分"
+        },
+        {
+          "title": "伊朗已做好应对以色列再次袭击的准备",
+          "url": "https://www.toutiao.com/trending/7567289908600143926/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时30分"
+        },
+        {
+          "title": "以色列总理：以将打击任何袭击企图",
+          "url": "https://www.toutiao.com/trending/7568108345563938859/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时30分"
+        }
+      ]
+    },
     {
       "keyword_group": "美股",
       "match_count": 4,
@@ -50,61 +111,52 @@
           "url": "https://www.cls.cn/detail/2189006",
           "source": "财联社热门",
           "ranks": [
-            11
+            11,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时22分 ~ 11时23分]"
+          "appearance_count": 4,
+          "time_info": "[11时22分 ~ 12时33分]"
         }
       ]
     },
     {
-      "keyword_group": "以色列",
-      "match_count": 4,
+      "keyword_group": "chatgpt openai",
+      "match_count": 3,
       "titles": [
         {
-          "title": "美国总统特朗普：将“参与”以色列总理内塔尼亚胡的审判。",
-          "url": "https://flash.jin10.com/detail/20251103091938196800",
+          "title": "Ilya被马斯克逼进法院，曝出了Altman和OpenAI的惊人内幕",
+          "url": "https://wallstreetcn.com/articles/3758487",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时26分 ~ 02时30分]"
+        },
+        {
+          "title": "市场消息：OpenAI多模态视频生成模型Sora近日宣布推出限时开放，在美国、加拿大、日本和韩国的用户无需邀请码即可进入Sora应用。",
+          "url": "https://flash.jin10.com/detail/20251103120231849800",
           "source": "金十数据",
           "ranks": [
-            5
+            8
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时55分"
+          "time_info": "12时33分"
         },
         {
-          "title": "以色列方面称，以色列警方已逮捕以军军事检察长与军方首席律师。",
-          "url": "https://flash.jin10.com/detail/20251103064748993800",
-          "source": "金十数据",
+          "title": "OpenAI多模态视频生成模型Sora近日宣布推出限时开放，在美国、加拿大、日本和韩国的用户无需邀请码即可进入Sora应用。",
+          "url": "https://wallstreetcn.com/livenews/2998342",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            8
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时21分"
-        },
-        {
-          "title": "伊朗已做好应对以色列再次袭击的准备",
-          "url": "https://www.toutiao.com/trending/7567289908600143926/",
-          "source": "今日头条",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时30分"
-        },
-        {
-          "title": "以色列总理：以将打击任何袭击企图",
-          "url": "https://www.toutiao.com/trending/7568108345563938859/",
-          "source": "今日头条",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时30分"
+          "time_info": "12时33分"
         }
       ]
     },
@@ -168,24 +220,6 @@
       ]
     },
     {
-      "keyword_group": "chatgpt openai",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "Ilya被马斯克逼进法院，曝出了Altman和OpenAI的惊人内幕",
-          "url": "https://wallstreetcn.com/articles/3758487",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时26分 ~ 02时30分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "金价",
       "match_count": 1,
       "titles": [
@@ -198,8 +232,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时55分 ~ 11时23分]"
+          "appearance_count": 5,
+          "time_info": "[09时55分 ~ 12时33分]"
         }
       ]
     },
@@ -214,7 +248,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时23分"
         }
