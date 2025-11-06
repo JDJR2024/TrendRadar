@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-06T07:23:03.179307+08:00",
-  "total_titles_processed": 675,
+  "generated_at": "2025-11-06T09:52:34.497598+08:00",
+  "total_titles_processed": 836,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 17,
+      "match_count": 19,
       "titles": [
         {
           "title": "“黑色星期二”：纳指领跌美股，英伟达跌4%，币圈连遭血洗，金银油齐跌，美元五连阳",
@@ -43,6 +43,18 @@
           "time_info": "[07时22分 ~ 07时23分]"
         },
         {
+          "title": "美股收盘：三大指数回暖收涨 美光科技再创历史新高",
+          "url": "https://www.cls.cn/detail/2192424",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时22分 ~ 09时52分]"
+        },
+        {
           "title": "金十图示：2025年11月05日（周三）热门中概股行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20251106051410709800",
           "source": "金十数据",
@@ -78,17 +90,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[02时35分 ~ 05时22分]"
-        },
-        {
-          "title": "美股收盘：三大指数回暖收涨 美光科技再创历史新高",
-          "url": "https://www.cls.cn/detail/2192424",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时22分 ~ 07时23分]"
         },
         {
           "title": "航空业ETF收涨4.5%，和半导体ETF领跑美股行业ETF，标普电信板块涨超1.6%",
@@ -149,6 +150,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时35分 ~ 03时21分]"
+        },
+        {
+          "title": "HBM4涨价带动美股存储板块爆发 美光科技股价再创历史新高",
+          "url": "https://www.cls.cn/detail/2192518",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时52分"
+        },
+        {
+          "title": "美股泡沫有多大？瑞银给出七个观测指标",
+          "url": "https://wallstreetcn.com/articles/3758712",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时52分"
         },
         {
           "title": "Doordash美股盘后下跌20%，该公司业绩欠佳，预计将继续（扩大）开支。",
@@ -389,7 +412,7 @@
     },
     {
       "keyword_group": "美债",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "美股三大股指涨跌不一，美债短线下挫，加密货币反弹，以太坊涨超4%",
@@ -401,6 +424,17 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时32分 ~ 06时25分]"
+        },
+        {
+          "title": "逢低买盘再现，部分科技股撑美股反弹，加密货币扭转颓势，美油跌破60美元，美债跌",
+          "url": "https://wallstreetcn.com/articles/3758696",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时52分"
         },
         {
           "title": "10年期美债收益率涨7个基点，美国ADP小非农就业报告和ISM非制造业数据提供支撑",
