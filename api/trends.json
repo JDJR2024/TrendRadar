@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-06T14:37:46.448739+08:00",
-  "total_titles_processed": 1222,
+  "generated_at": "2025-11-06T15:25:04.045371+08:00",
+  "total_titles_processed": 1318,
   "failed_sources": [],
   "trends": [
     {
@@ -55,8 +55,20 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时52分 ~ 14时37分]"
+          "appearance_count": 7,
+          "time_info": "[09时52分 ~ 15时25分]"
+        },
+        {
+          "title": "美股泡沫有多大？瑞银给出七个观测指标",
+          "url": "https://wallstreetcn.com/articles/3758712",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时52分 ~ 15时25分]"
         },
         {
           "title": "逢低买盘再现，美股上演普涨反弹，小盘股领涨",
@@ -68,18 +80,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时22分 ~ 07时23分]"
-        },
-        {
-          "title": "美股泡沫有多大？瑞银给出七个观测指标",
-          "url": "https://wallstreetcn.com/articles/3758712",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时52分 ~ 14时37分]"
         },
         {
           "title": "金十图示：2025年11月05日（周三）热门中概股行情一览（美股收盘）",
@@ -251,17 +251,6 @@
       "match_count": 12,
       "titles": [
         {
-          "title": "报道：谷歌下周将宣布其在德国有史以来最大投资计划",
-          "url": "https://wallstreetcn.com/livenews/3000351",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时37分"
-        },
-        {
           "title": "苹果(AAPL.O)正在敲定一项协议，将每年向谷歌支付约10亿美元。苹果将采用谷歌参数规模达1.2万亿的Gemini AI模型来为将于2026年推出的Siri新功能提供支持。",
           "url": "https://flash.jin10.com/detail/20251106031453898800",
           "source": "金十数据",
@@ -272,6 +261,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时21分 ~ 04时28分]"
+        },
+        {
+          "title": "报道：谷歌下周将宣布其在德国有史以来最大投资计划",
+          "url": "https://wallstreetcn.com/livenews/3000351",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时37分 ~ 15时25分]"
         },
         {
           "title": "谷歌：在Chrome浏览器中打开“新建标签页”时，搜索栏下方将新增一个AI模式按钮",
@@ -365,7 +366,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时37分"
         },
@@ -376,7 +377,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时37分"
         },
@@ -517,8 +518,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时52分 ~ 14时37分]"
+          "appearance_count": 7,
+          "time_info": "[09时52分 ~ 15时25分]"
         },
         {
           "title": "10年期美债收益率涨7个基点，美国ADP小非农就业报告和ISM非制造业数据提供支撑",
@@ -590,7 +591,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时37分"
         },
@@ -627,11 +628,12 @@
           "url": "https://wallstreetcn.com/livenews/3000356",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1
+            1,
+            24
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时37分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时37分 ~ 15时25分]"
         },
         {
           "title": "澳大利亚贸易顺差受金价飙升推动",
