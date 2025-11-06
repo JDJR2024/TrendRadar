@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-06T15:25:04.045371+08:00",
-  "total_titles_processed": 1318,
+  "generated_at": "2025-11-06T16:39:23.647304+08:00",
+  "total_titles_processed": 1443,
   "failed_sources": [],
   "trends": [
     {
@@ -67,8 +67,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时52分 ~ 15时25分]"
+          "appearance_count": 8,
+          "time_info": "[09时52分 ~ 16时39分]"
         },
         {
           "title": "逢低买盘再现，美股上演普涨反弹，小盘股领涨",
@@ -497,7 +497,7 @@
     },
     {
       "keyword_group": "美债",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "美股三大股指涨跌不一，美债短线下挫，加密货币反弹，以太坊涨超4%",
@@ -518,8 +518,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时52分 ~ 15时25分]"
+          "appearance_count": 8,
+          "time_info": "[09时52分 ~ 16时39分]"
         },
         {
           "title": "10年期美债收益率涨7个基点，美国ADP小非农就业报告和ISM非制造业数据提供支撑",
@@ -531,6 +531,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时22分"
+        },
+        {
+          "title": "美债惨遭抛售！美国财政部暗示未来将扩大长债发行规模",
+          "url": "https://www.cls.cn/detail/2192526",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时39分"
         },
         {
           "title": "美债收益率继续上涨，10年期收益率日内涨6.6个基点，报4.157%。",
@@ -667,6 +678,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时18分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "以色列",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "黎巴嫩真主党：拥有抵抗以色列占领的合法权利，并支持黎巴嫩军队。",
+          "url": "https://flash.jin10.com/detail/20251106162254940800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时39分"
         }
       ]
     }
