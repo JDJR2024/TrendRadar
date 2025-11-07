@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-07T14:38:11.825244+08:00",
-  "total_titles_processed": 1255,
+  "generated_at": "2025-11-07T15:23:25.279583+08:00",
+  "total_titles_processed": 1355,
   "failed_sources": [],
   "trends": [
     {
@@ -18,8 +18,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[06时22分 ~ 14时38分]"
+          "appearance_count": 12,
+          "time_info": "[06时22分 ~ 15时23分]"
         },
         {
           "title": "美股三大期指集体上涨 特斯拉股东大会来袭 | 今夜看点",
@@ -44,8 +44,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[07时36分 ~ 14时38分]"
+          "appearance_count": 10,
+          "time_info": "[07时36分 ~ 15时23分]"
         },
         {
           "title": "特斯拉股价美股盘后转跌，此前一度上涨3.4%。",
@@ -209,8 +209,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[07时36分 ~ 14时38分]"
+          "appearance_count": 10,
+          "time_info": "[07时36分 ~ 15时23分]"
         },
         {
           "title": "机器人工业场景加速推进，测量机“卖爆了” 王兴兴现身谈具身智能的“ChatGPT”时刻",
@@ -237,8 +237,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时50分 ~ 14时38分]"
+          "appearance_count": 9,
+          "time_info": "[09时50分 ~ 15时23分]"
         },
         {
           "title": "AI投资须政府兜底? OpenAI奥尔特曼紧急“灭火”：2030年营收达数千亿美元",
@@ -250,8 +250,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时14分 ~ 14时38分]"
+          "appearance_count": 7,
+          "time_info": "[11时14分 ~ 15时23分]"
         },
         {
           "title": "OpenAI高管言论引风暴 纳指跌近2%",
@@ -340,8 +340,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[06时22分 ~ 14时38分]"
+          "appearance_count": 12,
+          "time_info": "[06时22分 ~ 15时23分]"
         },
         {
           "title": "Google LLC.（谷歌公司）请求美国加州北区法院法官判定，其电池节能功能并没有违反Headwater Research LLC.的专利。 该公司申诉称，Battery Savers和Doze Mode等功能并没有侵犯美国专利法 Nos. 8,589,541和9,215,613。",
@@ -419,11 +419,12 @@
             5,
             6,
             7,
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时33分 ~ 14时38分]"
+          "appearance_count": 20,
+          "time_info": "[00时33分 ~ 15时23分]"
         },
         {
           "title": "金价暴涨三四线城市金店撑不住了",
@@ -493,6 +494,18 @@
       "match_count": 6,
       "titles": [
         {
+          "title": "美国裁员数创20年新高，Mag7重挫领跌美股，美债大涨，加密货币重回跌势",
+          "url": "https://wallstreetcn.com/articles/3758806",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[07时36分 ~ 15时23分]"
+        },
+        {
           "title": "逢低买盘再现，部分科技股撑美股反弹，加密货币扭转颓势，美油跌破60美元，美债跌",
           "url": "https://wallstreetcn.com/articles/3758696",
           "source": "华尔街见闻",
@@ -515,18 +528,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时33分 ~ 06时23分]"
-        },
-        {
-          "title": "美国裁员数创20年新高，Mag7重挫领跌美股，美债大涨，加密货币重回跌势",
-          "url": "https://wallstreetcn.com/articles/3758806",
-          "source": "华尔街见闻",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[07时36分 ~ 14时38分]"
         },
         {
           "title": "标普500指数跌幅扩大至1%，可选消费板块跌2%，科技板块跌1.6%，电信板块跌1%，能源板块涨1.2%。 纳指跌超1.5%，半导体指数跌2.3%。 特朗普政府关门期间，民间机构提供的美国就业数据引发美债价格上涨。",
