@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-07T11:15:08.147081+08:00",
-  "total_titles_processed": 968,
+  "generated_at": "2025-11-07T12:31:45.286536+08:00",
+  "total_titles_processed": 1092,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "美股三大期指集体上涨 特斯拉股东大会来袭 | 今夜看点",
@@ -31,19 +31,20 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[06时22分 ~ 11时15分]"
+          "appearance_count": 8,
+          "time_info": "[06时22分 ~ 12时31分]"
         },
         {
           "title": "不止AI有“闭环”，美股也“闭环”了：企业裁员推高股价，股市走高刺激消费，消费强劲支撑业绩",
           "url": "https://wallstreetcn.com/articles/3758813",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时36分 ~ 11时15分]"
+          "appearance_count": 6,
+          "time_info": "[07时36分 ~ 12时31分]"
         },
         {
           "title": "特斯拉股价美股盘后转跌，此前一度上涨3.4%。",
@@ -122,9 +123,20 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时15分"
+        },
+        {
+          "title": "小摩：美股牛市格局未改，标普500指数近期料突破7000点",
+          "url": "https://flash.jin10.com/detail/20251107114842148800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时31分"
         },
         {
           "title": "半导体ETF收跌超2.3%，领跌美股行业ETF",
@@ -188,6 +200,18 @@
       "match_count": 10,
       "titles": [
         {
+          "title": "美股收盘：OpenAI高管言论引发风暴 纳指跌近2%",
+          "url": "https://www.cls.cn/detail/2193628",
+          "source": "财联社热门",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[07时36分 ~ 12时31分]"
+        },
+        {
           "title": "机器人工业场景加速推进，测量机“卖爆了” 王兴兴现身谈具身智能的“ChatGPT”时刻",
           "url": "https://www.cls.cn/detail/2193555",
           "source": "财联社热门",
@@ -200,20 +224,20 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时33分 ~ 11时15分]"
+          "appearance_count": 16,
+          "time_info": "[00时33分 ~ 12时31分]"
         },
         {
-          "title": "美股收盘：OpenAI高管言论引发风暴 纳指跌近2%",
-          "url": "https://www.cls.cn/detail/2193628",
-          "source": "财联社热门",
+          "title": "OpenAI“大而不能倒”？，Altman“不寻求财政支持”，“AI沙皇”：AI公司倒了就倒了，美国政府不会救",
+          "url": "https://wallstreetcn.com/articles/3758853",
+          "source": "华尔街见闻",
           "ranks": [
-            1,
-            2
+            9,
+            7
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[07时36分 ~ 11时15分]"
+          "time_info": "[09时50分 ~ 12时31分]"
         },
         {
           "title": "OpenAI高管言论引风暴 纳指跌近2%",
@@ -228,18 +252,6 @@
           "time_info": "[07时36分 ~ 11时15分]"
         },
         {
-          "title": "OpenAI“大而不能倒”？，Altman“不寻求财政支持”，“AI沙皇”：AI公司倒了就倒了，美国政府不会救",
-          "url": "https://wallstreetcn.com/articles/3758853",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时50分 ~ 11时15分]"
-        },
-        {
           "title": "OpenAI的CEO Sam Altman：在OpenAI数据中心问题上，并没有获得美国政府的（资金）担保。 讨论过通过（寻求）贷款担保来支持美国半导体晶圆（的可行性）。",
           "url": "https://wallstreetcn.com/livenews/3000723",
           "source": "华尔街见闻-快讯",
@@ -252,6 +264,18 @@
           "time_info": "[04时28分 ~ 05时21分]"
         },
         {
+          "title": "AI投资须政府兜底? OpenAI奥尔特曼紧急“灭火”：2030年营收达数千亿美元",
+          "url": "https://www.cls.cn/detail/2193718",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时14分 ~ 12时31分]"
+        },
+        {
           "title": "OpenAI创始人奥尔特曼：我们既没有也不想要政府为OpenAI数据中心提供担保。",
           "url": "https://flash.jin10.com/detail/20251107032640209800",
           "source": "金十数据",
@@ -262,17 +286,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时28分 ~ 05时21分]"
-        },
-        {
-          "title": "AI投资须政府兜底? OpenAI奥尔特曼紧急“灭火”：2030年营收达数千亿美元",
-          "url": "https://www.cls.cn/detail/2193718",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时14分 ~ 11时15分]"
         },
         {
           "title": "OpenAI创始人奥尔特曼：OpenAI的数据中心并无政府担保。曾讨论过提供贷款担保以支持半导体制造厂建设。",
@@ -324,8 +337,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时33分 ~ 11时15分]"
+          "appearance_count": 16,
+          "time_info": "[00时33分 ~ 12时31分]"
         },
         {
           "title": "金价暴涨三四线城市金店撑不住了",
@@ -373,7 +386,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时15分"
         },
@@ -427,8 +440,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时36分 ~ 11时15分]"
+          "appearance_count": 6,
+          "time_info": "[07时36分 ~ 12时31分]"
         },
         {
           "title": "标普500指数跌幅扩大至1%，可选消费板块跌2%，科技板块跌1.6%，电信板块跌1%，能源板块涨1.2%。 纳指跌超1.5%，半导体指数跌2.3%。 特朗普政府关门期间，民间机构提供的美国就业数据引发美债价格上涨。",
@@ -480,8 +493,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[06时22分 ~ 11时15分]"
+          "appearance_count": 8,
+          "time_info": "[06时22分 ~ 12时31分]"
         },
         {
           "title": "Google LLC.（谷歌公司）请求美国加州北区法院法官判定，其电池节能功能并没有违反Headwater Research LLC.的专利。 该公司申诉称，Battery Savers和Doze Mode等功能并没有侵犯美国专利法 Nos. 8,589,541和9,215,613。",
@@ -514,11 +527,12 @@
           "url": "https://www.zhihu.com/question/1969709439335530787",
           "source": "知乎",
           "ranks": [
-            13
+            13,
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时14分 ~ 11时15分]"
+          "appearance_count": 3,
+          "time_info": "[11时14分 ~ 12时31分]"
         },
         {
           "title": "谷歌：Deep Search将在未来几周内于新版谷歌财经中推出，谷歌AI Pro和AI Ultra订阅用户将享有更高的使用上限。",
