@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-09T02:32:39.517952+08:00",
-  "total_titles_processed": 353,
+  "generated_at": "2025-11-09T03:18:15.485622+08:00",
+  "total_titles_processed": 364,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时28分 ~ 02时32分]"
+          "appearance_count": 4,
+          "time_info": "[00时28分 ~ 03时18分]"
         },
         {
           "title": "伊朗总统：若持续无雨将撤离德黑兰",
@@ -26,11 +27,12 @@
           "ranks": [
             25,
             8,
-            9
+            9,
+            19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时28分 ~ 02时32分]"
+          "appearance_count": 5,
+          "time_info": "[00时28分 ~ 03时18分]"
         }
       ]
     },
@@ -47,8 +49,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时28分 ~ 02时32分]"
+          "appearance_count": 5,
+          "time_info": "[00时28分 ~ 03时18分]"
         }
       ]
     },
@@ -64,8 +66,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时28分 ~ 02时32分]"
+          "appearance_count": 5,
+          "time_info": "[00时28分 ~ 03时18分]"
         }
       ]
     },
@@ -81,8 +83,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时28分 ~ 02时32分]"
+          "appearance_count": 5,
+          "time_info": "[00时28分 ~ 03时18分]"
         }
       ]
     },
@@ -98,8 +100,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时28分 ~ 02时32分]"
+          "appearance_count": 4,
+          "time_info": "[00时28分 ~ 03时18分]"
         }
       ]
     }
