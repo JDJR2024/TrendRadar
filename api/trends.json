@@ -1,25 +1,12 @@
 {
-  "generated_at": "2025-11-08T12:28:11.503748+08:00",
-  "total_titles_processed": 898,
+  "generated_at": "2025-11-08T13:22:43.180902+08:00",
+  "total_titles_processed": 953,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
       "match_count": 17,
       "titles": [
-        {
-          "title": "市场情绪依然疲弱 美股三大期指继续走低 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2194710",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时27分 ~ 12时28分]"
-        },
         {
           "title": "美股收盘：国会消息刺激V型反转 纳指仍创4月以来最大单周跌幅",
           "url": "https://www.cls.cn/detail/2194839",
@@ -29,8 +16,22 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时21分 ~ 12时28分]"
+          "appearance_count": 8,
+          "time_info": "[07时21分 ~ 13时22分]"
+        },
+        {
+          "title": "市场情绪依然疲弱 美股三大期指继续走低 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2194710",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12,
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 15,
+          "time_info": "[00时27分 ~ 13时22分]"
         },
         {
           "title": "美政府停摆担忧重燃，美股承压下跌，现货黄金涨幅收窄，比特币一度跌破10万美元",
@@ -97,11 +98,12 @@
           "source": "金十数据",
           "ranks": [
             11,
-            23
+            23,
+            25
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时06分 ~ 12时28分]"
+          "appearance_count": 3,
+          "time_info": "[11时06分 ~ 13时22分]"
         },
         {
           "title": "中信证券：基本面支撑美股韧性 短期扰动难逆上行趋势",
@@ -215,11 +217,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            15
+            15,
+            21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时06分 ~ 12时28分]"
+          "appearance_count": 3,
+          "time_info": "[11时06分 ~ 13时22分]"
         },
         {
           "title": "美以称“伊朗曾试图密谋暗杀以色列驻墨西哥大使”，伊方驳斥：弥天大谎",
@@ -364,8 +367,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时21分 ~ 12时28分]"
+          "appearance_count": 8,
+          "time_info": "[07时21分 ~ 13时22分]"
         },
         {
           "title": "Meta Platforms(META.O)：到2028年，将在美国投入超过6000亿美元，以支持人工智能技术、基础设施和员工队伍的扩展。",
@@ -389,11 +392,12 @@
           "url": "https://flash.jin10.com/detail/20251108112121105800",
           "source": "金十数据",
           "ranks": [
-            8
+            8,
+            10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时28分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时28分 ~ 13时22分]"
         }
       ]
     },
