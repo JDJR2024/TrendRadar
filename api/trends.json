@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-10T01:19:27.464275+08:00",
-  "total_titles_processed": 340,
+  "generated_at": "2025-11-10T02:30:30.778082+08:00",
+  "total_titles_processed": 355,
   "failed_sources": [],
   "trends": [
     {
@@ -14,7 +14,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时19分"
         },
@@ -26,8 +26,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时26分 ~ 01时19分]"
+          "appearance_count": 3,
+          "time_info": "[00时26分 ~ 02时30分]"
         },
         {
           "title": "以色列总理办公室：以色列已从加沙的红十字会接收了阵亡士兵的遗体。",
@@ -37,8 +37,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时26分 ~ 01时19分]"
+          "appearance_count": 3,
+          "time_info": "[00时26分 ~ 02时30分]"
         }
       ]
     },
@@ -54,8 +54,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时26分 ~ 01时19分]"
+          "appearance_count": 3,
+          "time_info": "[00时26分 ~ 02时30分]"
         }
       ]
     },
@@ -72,8 +72,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时26分 ~ 01时19分]"
+          "appearance_count": 3,
+          "time_info": "[00时26分 ~ 02时30分]"
         }
       ]
     }
