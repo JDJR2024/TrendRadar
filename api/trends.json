@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-09T18:23:04.909034+08:00",
-  "total_titles_processed": 995,
+  "generated_at": "2025-11-09T19:19:33.485535+08:00",
+  "total_titles_processed": 1054,
   "failed_sources": [],
   "trends": [
     {
@@ -35,11 +35,12 @@
             13,
             15,
             18,
-            22
+            22,
+            27
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时18分 ~ 18时23分]"
+          "appearance_count": 9,
+          "time_info": "[11时18分 ~ 19时19分]"
         },
         {
           "title": "伊媒：伊朗宪法监护委员会批准从国家货币里亚尔中“去掉4个零”的计划",
@@ -53,11 +54,12 @@
             14,
             16,
             19,
-            23
+            23,
+            28
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时18分 ~ 18时23分]"
+          "appearance_count": 9,
+          "time_info": "[11时18分 ~ 19时19分]"
         },
         {
           "title": "伊朗总统：若持续无雨将撤离德黑兰",
@@ -133,8 +135,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时22分 ~ 18时23分]"
+          "appearance_count": 3,
+          "time_info": "[18时22分 ~ 19时19分]"
         }
       ]
     },
@@ -159,11 +161,12 @@
           "source": "金十数据",
           "ranks": [
             7,
-            10
+            10,
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时21分 ~ 18时23分]"
+          "appearance_count": 3,
+          "time_info": "[17时21分 ~ 19时19分]"
         }
       ]
     },
@@ -176,11 +179,12 @@
           "url": "https://wallstreetcn.com/articles/3758988",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时21分 ~ 18时23分]"
+          "appearance_count": 4,
+          "time_info": "[17时21分 ~ 19时19分]"
         }
       ]
     },
