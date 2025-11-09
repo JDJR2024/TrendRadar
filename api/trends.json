@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-09T15:21:46.961604+08:00",
-  "total_titles_processed": 816,
+  "generated_at": "2025-11-09T16:27:48.667895+08:00",
+  "total_titles_processed": 883,
   "failed_sources": [],
   "trends": [
     {
@@ -48,11 +48,12 @@
             4,
             7,
             10,
-            13
+            13,
+            15
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时18分 ~ 15时21分]"
+          "appearance_count": 6,
+          "time_info": "[11时18分 ~ 16时27分]"
         },
         {
           "title": "伊媒：伊朗宪法监护委员会批准从国家货币里亚尔中“去掉4个零”的计划",
@@ -63,11 +64,12 @@
             5,
             8,
             11,
-            14
+            14,
+            16
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时18分 ~ 15时21分]"
+          "appearance_count": 6,
+          "time_info": "[11时18分 ~ 16时27分]"
         },
         {
           "title": "伊朗宪法监护委员会批准从国家货币里亚尔中“去掉4个零”的计划",
@@ -150,11 +152,12 @@
             4,
             5,
             6,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时28分 ~ 15时21分]"
+          "appearance_count": 18,
+          "time_info": "[00时28分 ~ 16时27分]"
         }
       ]
     },
