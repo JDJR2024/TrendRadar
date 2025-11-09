@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-09T14:33:15.521205+08:00",
-  "total_titles_processed": 761,
+  "generated_at": "2025-11-09T15:21:46.961604+08:00",
+  "total_titles_processed": 816,
   "failed_sources": [],
   "trends": [
     {
@@ -47,11 +47,12 @@
             3,
             4,
             7,
-            10
+            10,
+            13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时18分 ~ 14时33分]"
+          "appearance_count": 5,
+          "time_info": "[11时18分 ~ 15时21分]"
         },
         {
           "title": "伊媒：伊朗宪法监护委员会批准从国家货币里亚尔中“去掉4个零”的计划",
@@ -61,11 +62,12 @@
             4,
             5,
             8,
-            11
+            11,
+            14
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时18分 ~ 14时33分]"
+          "appearance_count": 5,
+          "time_info": "[11时18分 ~ 15时21分]"
         },
         {
           "title": "伊朗宪法监护委员会批准从国家货币里亚尔中“去掉4个零”的计划",
@@ -75,11 +77,12 @@
             3,
             7,
             15,
-            18
+            18,
+            24
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时18分 ~ 14时33分]"
+          "appearance_count": 5,
+          "time_info": "[11时18分 ~ 15时21分]"
         },
         {
           "title": "伊朗总统：美国想让伊朗一直跪着",
@@ -150,8 +153,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时28分 ~ 14时33分]"
+          "appearance_count": 17,
+          "time_info": "[00时28分 ~ 15时21分]"
         }
       ]
     },
