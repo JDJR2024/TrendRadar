@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-10T02:30:30.778082+08:00",
-  "total_titles_processed": 355,
+  "generated_at": "2025-11-10T03:17:50.027815+08:00",
+  "total_titles_processed": 366,
   "failed_sources": [],
   "trends": [
     {
@@ -26,8 +26,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时26分 ~ 02时30分]"
+          "appearance_count": 4,
+          "time_info": "[00时26分 ~ 03时17分]"
         },
         {
           "title": "以色列总理办公室：以色列已从加沙的红十字会接收了阵亡士兵的遗体。",
@@ -37,8 +37,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时26分 ~ 02时30分]"
+          "appearance_count": 4,
+          "time_info": "[00时26分 ~ 03时17分]"
         }
       ]
     },
@@ -54,8 +54,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时26分 ~ 02时30分]"
+          "appearance_count": 4,
+          "time_info": "[00时26分 ~ 03时17分]"
         }
       ]
     },
@@ -69,11 +69,12 @@
           "source": "华尔街见闻",
           "ranks": [
             7,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时26分 ~ 02时30分]"
+          "appearance_count": 4,
+          "time_info": "[00时26分 ~ 03时17分]"
         }
       ]
     }
