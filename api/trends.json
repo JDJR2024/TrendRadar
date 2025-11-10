@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-10T07:21:15.098502+08:00",
-  "total_titles_processed": 488,
+  "generated_at": "2025-11-10T09:58:19.617750+08:00",
+  "total_titles_processed": 649,
   "failed_sources": [],
   "trends": [
     {
@@ -63,7 +63,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时21分"
         },
@@ -74,7 +74,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时21分"
         }
@@ -82,7 +82,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "懂王胜选一周年，“川普2.0”与“1.0”市场走势高度相似，坏消息是第二年美股走势通常最差",
@@ -95,8 +95,19 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时26分 ~ 07时21分]"
+          "appearance_count": 12,
+          "time_info": "[00时26分 ~ 09时58分]"
+        },
+        {
+          "title": "欧美股指期货走高 纳指期货涨1%",
+          "url": "https://flash.jin10.com/detail/20251110095530831800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时58分"
         },
         {
           "title": "美股股指期货周一高开，纳指期货涨0.7%。",
@@ -105,7 +116,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时21分"
         },
@@ -116,7 +127,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时21分"
         }
