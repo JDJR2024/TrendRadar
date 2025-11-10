@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-10T21:35:19.392346+08:00",
-  "total_titles_processed": 1655,
+  "generated_at": "2025-11-10T22:25:38.278778+08:00",
+  "total_titles_processed": 1765,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "以色列",
-      "match_count": 11,
+      "match_count": 13,
       "titles": [
         {
           "title": "以色列政府发言人：即将部署到加沙的国际维稳部队中，不会出现土耳其士兵的身影。",
@@ -123,6 +123,17 @@
           "time_info": "18时28分"
         },
         {
+          "title": "以色列政府发言人：关于被困哈马斯武装人员的任何决定都将与特朗普政府合作作出。",
+          "url": "https://flash.jin10.com/detail/20251110214623760800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时25分"
+        },
+        {
           "title": "土耳其向37位以色列高层发出逮捕令",
           "url": "https://www.toutiao.com/trending/7570963281423126035/",
           "source": "今日头条",
@@ -132,12 +143,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时34分"
+        },
+        {
+          "title": "以色列政府发言人：以色列总理内塔尼亚胡与库什纳（特朗普女婿）讨论了解除哈马斯武装、加沙非军事化，以及确保哈马斯今后永远无法在加沙发挥作用等问题。",
+          "url": "https://flash.jin10.com/detail/20251110214600198800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时25分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "懂王胜选一周年，“川普2.0”与“1.0”市场走势高度相似，坏消息是第二年美股走势通常最差",
@@ -163,11 +185,12 @@
             9,
             5,
             4,
-            7
+            7,
+            15
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[11时24分 ~ 21时35分]"
+          "appearance_count": 13,
+          "time_info": "[11时24分 ~ 22时25分]"
         },
         {
           "title": "美政府关门有望结束，美股期货、加密货币、黄金白银全线走高",
@@ -222,11 +245,12 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时51分 ~ 21时35分]"
+          "appearance_count": 4,
+          "time_info": "[20时51分 ~ 22时25分]"
         },
         {
           "title": "美股盘前，明星科技股普涨，英伟达涨超3%，英特尔涨超1.8%，甲骨文涨超2%，台积电涨近3%。",
@@ -261,6 +285,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时28分"
+        },
+        {
+          "title": "周一美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3002194",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时25分"
         }
       ]
     },
@@ -276,8 +311,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时21分 ~ 21时35分]"
+          "appearance_count": 5,
+          "time_info": "[19时21分 ~ 22时25分]"
         },
         {
           "title": "伊朗将启动货币改革，删除面值末四个零",
@@ -364,11 +399,12 @@
           "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E5%86%8D%E6%AC%A1%E7%9B%B4%E7%BA%BF%E4%B8%8A%E6%B6%A8",
           "source": "百度热搜",
           "ranks": [
-            21
+            21,
+            23
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时28分 ~ 21时35分]"
+          "appearance_count": 6,
+          "time_info": "[18时28分 ~ 22时25分]"
         },
         {
           "title": "金价",
@@ -473,8 +509,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时51分 ~ 21时35分]"
+          "appearance_count": 4,
+          "time_info": "[20时51分 ~ 22时25分]"
         }
       ]
     }
