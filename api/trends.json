@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-10T14:38:21.528135+08:00",
-  "total_titles_processed": 1023,
+  "generated_at": "2025-11-10T15:24:24.182887+08:00",
+  "total_titles_processed": 1101,
   "failed_sources": [],
   "trends": [
     {
@@ -19,8 +19,21 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时26分 ~ 14时38分]"
+          "appearance_count": 17,
+          "time_info": "[00时26分 ~ 15时24分]"
+        },
+        {
+          "title": "一口气看清美股AI泡沫",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%80%E5%8F%A3%E6%B0%94%E7%9C%8B%E6%B8%85%E7%BE%8E%E8%82%A1AI%E6%B3%A1%E6%B2%AB",
+          "source": "bilibili 热搜",
+          "ranks": [
+            10,
+            9,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时24分 ~ 15时24分]"
         },
         {
           "title": "欧美股指期货走高 纳指期货涨1%",
@@ -56,18 +69,6 @@
           "time_info": "07时21分"
         },
         {
-          "title": "一口气看清美股AI泡沫",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%80%E5%8F%A3%E6%B0%94%E7%9C%8B%E6%B8%85%E7%BE%8E%E8%82%A1AI%E6%B3%A1%E6%B2%AB",
-          "source": "bilibili 热搜",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时24分 ~ 14时38分]"
-        },
-        {
           "title": "美政府关门有望结束，美股期货、加密货币、黄金白银全线走高",
           "url": "https://wallstreetcn.com/articles/3759018",
           "source": "华尔街见闻",
@@ -77,8 +78,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时31分 ~ 14时38分]"
+          "appearance_count": 4,
+          "time_info": "[12时31分 ~ 15时24分]"
         }
       ]
     },
@@ -187,11 +188,12 @@
           "ranks": [
             22,
             25,
-            21
+            21,
+            23
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时24分 ~ 14时38分]"
+          "appearance_count": 5,
+          "time_info": "[11时24分 ~ 15时24分]"
         }
       ]
     },
