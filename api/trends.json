@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-13T21:36:36.947997+08:00",
-  "total_titles_processed": 1958,
+  "generated_at": "2025-11-13T22:24:21.190900+08:00",
+  "total_titles_processed": 2045,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "美股收盘：道指再创历史新高 AI热潮降温AMD逆势飙升9%",
@@ -110,6 +110,17 @@
           "time_info": "06时24分"
         },
         {
+          "title": "周四美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3004230",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时24分"
+        },
+        {
           "title": "美股七巨头收盘播报｜Meta收跌将近2.9%，特斯拉跌超2%",
           "url": "https://wallstreetcn.com/livenews/3003633",
           "source": "华尔街见闻-快讯",
@@ -149,7 +160,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时36分"
         },
@@ -182,6 +193,17 @@
       "match_count": 13,
       "titles": [
         {
+          "title": "对标ChatGPT！阿里“通义千问”全面转向，进军C端市场",
+          "url": "https://wallstreetcn.com/articles/3759294",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时22分 ~ 22时24分]"
+        },
+        {
           "title": "阿里股价直线拉升！“通义千问”全面对标ChatGPT，进军C端市场",
           "url": "https://wallstreetcn.com/articles/3759294",
           "source": "华尔街见闻",
@@ -192,17 +214,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[16时32分 ~ 18时28分]"
-        },
-        {
-          "title": "对标ChatGPT！阿里“通义千问”全面转向，进军C端市场",
-          "url": "https://wallstreetcn.com/articles/3759294",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时22分 ~ 21时36分]"
         },
         {
           "title": "OpenAI发布GPT-5.1",
@@ -218,17 +229,6 @@
           "time_info": "[09时53分 ~ 12时30分]"
         },
         {
-          "title": "OpenAI：GPT-5.1将于本周向所有用户推出。GPT-5将继续向付费订阅用户开放三个月，GPT-5的停用期不会影响其他旧版模型的可用性。将很快将GPT-5 Pro升级至GPT-5.1 Pro。",
-          "url": "https://flash.jin10.com/detail/20251113050804559800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时23分"
-        },
-        {
           "title": "阿里秘密启动“千问”项目 将推出国际版与ChatGPT竞争",
           "url": "https://www.cls.cn/detail/2199601",
           "source": "财联社热门",
@@ -239,8 +239,19 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时28分 ~ 21时36分]"
+          "appearance_count": 6,
+          "time_info": "[17时28分 ~ 22时24分]"
+        },
+        {
+          "title": "OpenAI：GPT-5.1将于本周向所有用户推出。GPT-5将继续向付费订阅用户开放三个月，GPT-5的停用期不会影响其他旧版模型的可用性。将很快将GPT-5 Pro升级至GPT-5.1 Pro。",
+          "url": "https://flash.jin10.com/detail/20251113050804559800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时23分"
         },
         {
           "title": "OpenAI 发布 GPT-5.1 模型，主打「更温暖」「说人话」，如何看待这一升级？",
@@ -268,6 +279,18 @@
           "time_info": "[06时24分 ~ 07时23分]"
         },
         {
+          "title": "对标ChatGPT！阿里秘密启动“千问”项目打造个人AI助手，股价一度涨超5%",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31957439",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时52分 ~ 22时24分]"
+        },
+        {
           "title": "微软将利用OpenAI定制芯片技术助力内部研发工作",
           "url": "https://wallstreetcn.com/livenews/3003648",
           "source": "华尔街见闻-快讯",
@@ -278,18 +301,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时24分 ~ 07时23分]"
-        },
-        {
-          "title": "对标ChatGPT！阿里秘密启动“千问”项目打造个人AI助手，股价一度涨超5%",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31957439",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时52分 ~ 21时36分]"
         },
         {
           "title": "阿里巴巴准备对其旗舰AI应用进行改版，使其更像ChatGPT。（彭博）",
@@ -657,8 +668,19 @@
     },
     {
       "keyword_group": "以色列",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "以色列国防军发言人：斯德罗特（Sderot）、尼尔阿姆（Nir Am）、伊比姆（Ibim）和米弗拉西姆（Miflasim）已启动警报，详情正在调查中。",
+          "url": "https://flash.jin10.com/detail/20251113215947929800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时24分"
+        },
         {
           "title": "以色列称拘捕计划发动袭击的哈马斯网络成员",
           "url": "https://wallstreetcn.com/livenews/3004161",
@@ -669,6 +691,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "20时52分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "人工智能 AI ChatGPT",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "如何看待米哈游《星布谷地》的 AI NPC 技术？",
+          "url": "https://www.zhihu.com/question/1970221380470568183",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时53分 ~ 09时54分]"
+        },
+        {
+          "title": "迪士尼(DIS.N)CEO：正寻求保护创意内容，并利用人工智能技术与消费者互动。",
+          "url": "https://flash.jin10.com/detail/20251113221100451800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时24分"
         }
       ]
     },
@@ -687,23 +737,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时25分 ~ 14时37分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "人工智能 AI ChatGPT",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "如何看待米哈游《星布谷地》的 AI NPC 技术？",
-          "url": "https://www.zhihu.com/question/1970221380470568183",
-          "source": "知乎",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时53分 ~ 09时54分]"
         }
       ]
     }
