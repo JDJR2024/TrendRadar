@@ -1,12 +1,25 @@
 {
-  "generated_at": "2025-11-14T12:29:06.686966+08:00",
-  "total_titles_processed": 1080,
+  "generated_at": "2025-11-14T13:24:26.780626+08:00",
+  "total_titles_processed": 1162,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
       "match_count": 16,
       "titles": [
+        {
+          "title": "美股收盘：美联储降息预期骤降 科技股抛售加剧 纳指大跌2.3%",
+          "url": "https://www.cls.cn/detail/2200254",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            3,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[06时24分 ~ 13时24分]"
+        },
         {
           "title": "美政府重开利好消化，美股低开低走，标普500指数跌超1%，美元走软",
           "url": "https://wallstreetcn.com/articles/3759298",
@@ -20,19 +33,6 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时33分 ~ 07时23分]"
-        },
-        {
-          "title": "美股收盘：美联储降息预期骤降 科技股抛售加剧 纳指大跌2.3%",
-          "url": "https://www.cls.cn/detail/2200254",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            3,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[06时24分 ~ 12时29分]"
         },
         {
           "title": "美股大跌 特斯拉跌超6%",
@@ -207,8 +207,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时33分 ~ 12时29分]"
+          "appearance_count": 17,
+          "time_info": "[00时33分 ~ 13时24分]"
         },
         {
           "title": "对标ChatGPT！阿里秘密启动“千问”项目打造个人AI助手，股价一度涨超5%",
@@ -222,8 +222,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时33分 ~ 12时29分]"
+          "appearance_count": 17,
+          "time_info": "[00时33分 ~ 13时24分]"
         },
         {
           "title": "OpenAI：ChatGPT 的群聊功能目前已在日本、新西兰、韩国和中国台湾地区面向Free、Go、Plus 和Pro用户推出，支持移动端和网页端。",
