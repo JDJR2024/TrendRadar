@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-16T00:27:08.195112+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2025-11-16T01:18:36.577932+08:00",
+  "total_titles_processed": 334,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时26分 ~ 00时27分]"
+          "appearance_count": 3,
+          "time_info": "[00时26分 ~ 01时18分]"
         },
         {
           "title": "伊朗称在该国南部波斯湾海域扣押一艘油轮",
@@ -25,9 +25,9 @@
           "ranks": [
             12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时27分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时27分 ~ 01时18分]"
         },
         {
           "title": "伊朗称在该国南部波斯湾海域扣押一艘油轮",
@@ -36,9 +36,9 @@
           "ranks": [
             17
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时27分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时27分 ~ 01时18分]"
         },
         {
           "title": "伊朗革命卫队：我们根据法院命令查封了“塔拉拉”号油轮，该油轮载有未经授权的货物。",
@@ -47,9 +47,9 @@
           "ranks": [
             23
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时27分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时27分 ~ 01时18分]"
         },
         {
           "title": "据伊朗媒体报道，伊朗革命卫队扣押了一艘正驶往新加坡、装载石化工品的油轮。",
@@ -58,9 +58,9 @@
           "ranks": [
             25
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时27分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时27分 ~ 01时18分]"
         }
       ]
     },
@@ -76,8 +76,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时26分 ~ 00时27分]"
+          "appearance_count": 3,
+          "time_info": "[00时26分 ~ 01时18分]"
         },
         {
           "title": "高瓴HHLR三季度美股持仓：持股总市值暴增70亿 持续加大中国资产配置",
@@ -87,8 +87,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时26分 ~ 00时27分]"
+          "appearance_count": 3,
+          "time_info": "[00时26分 ~ 01时18分]"
         },
         {
           "title": "避险情绪持续升温 美股、黄金、比特币齐跌 | 今夜看点",
@@ -98,8 +98,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时26分 ~ 00时27分]"
+          "appearance_count": 3,
+          "time_info": "[00时26分 ~ 01时18分]"
         },
         {
           "title": "中国顶流私募“美股成绩单”出炉：阿里、拼多多成香饽饽",
@@ -109,8 +109,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时26分 ~ 00时27分]"
+          "appearance_count": 3,
+          "time_info": "[00时26分 ~ 01时18分]"
         }
       ]
     },
@@ -126,8 +126,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时26分 ~ 00时27分]"
+          "appearance_count": 3,
+          "time_info": "[00时26分 ~ 01时18分]"
         },
         {
           "title": "巴菲特“退休”前最后一份持仓报告：卖苹果，买谷歌，连续12季度净卖出",
@@ -137,8 +137,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时26分 ~ 00时27分]"
+          "appearance_count": 3,
+          "time_info": "[00时26分 ~ 01时18分]"
         }
       ]
     },
@@ -153,9 +153,9 @@
           "ranks": [
             4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时27分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时27分 ~ 01时18分]"
         },
         {
           "title": "巴勒斯坦总统府：我们呼吁全世界和加沙地带停火协议的担保国，在恶劣天气条件下向以色列施压，允许预制房屋和帐篷进入该地区。",
@@ -164,9 +164,9 @@
           "ranks": [
             9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时27分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时27分 ~ 01时18分]"
         }
       ]
     }
