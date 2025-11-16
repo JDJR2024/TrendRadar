@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-16T13:23:15.102832+08:00",
-  "total_titles_processed": 726,
+  "generated_at": "2025-11-16T14:34:13.101739+08:00",
+  "total_titles_processed": 787,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时26分 ~ 13时23分]"
+          "appearance_count": 19,
+          "time_info": "[00时26分 ~ 14时34分]"
         },
         {
           "title": "伊朗称在该国南部波斯湾海域扣押一艘油轮",
@@ -104,22 +104,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时26分 ~ 13时23分]"
-        },
-        {
-          "title": "高瓴HHLR三季度美股持仓：持股总市值暴增70亿 持续加大中国资产配置",
-          "url": "https://www.cls.cn/detail/2201450",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            10,
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时26分 ~ 13时23分]"
+          "appearance_count": 19,
+          "time_info": "[00时26分 ~ 14时34分]"
         },
         {
           "title": "中国顶流私募“美股成绩单”出炉：阿里、拼多多成香饽饽",
@@ -132,8 +118,23 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时26分 ~ 13时23分]"
+          "appearance_count": 19,
+          "time_info": "[00时26分 ~ 14时34分]"
+        },
+        {
+          "title": "高瓴HHLR三季度美股持仓：持股总市值暴增70亿 持续加大中国资产配置",
+          "url": "https://www.cls.cn/detail/2201450",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            10,
+            11,
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 19,
+          "time_info": "[00时26分 ~ 14时34分]"
         },
         {
           "title": "避险情绪持续升温 美股、黄金、比特币齐跌 | 今夜看点",
@@ -189,11 +190,12 @@
             3,
             8,
             9,
-            12
+            12,
+            17
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时58分 ~ 13时23分]"
+          "appearance_count": 5,
+          "time_info": "[09时58分 ~ 14时34分]"
         },
         {
           "title": "黎巴嫩将就以色列越界“建墙”向联合国安理会申诉",
@@ -222,8 +224,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时26分 ~ 13时23分]"
+          "appearance_count": 19,
+          "time_info": "[00时26分 ~ 14时34分]"
         },
         {
           "title": "巴菲特“退休”前伯克希尔调整巨头押注：Q3加速抛苹果，43亿美元建仓谷歌",
