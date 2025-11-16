@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-16T20:43:11.786877+08:00",
-  "total_titles_processed": 1175,
+  "generated_at": "2025-11-16T21:27:38.767785+08:00",
+  "total_titles_processed": 1211,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "以色列",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "据CNN：两名以色列消息人士称，特朗普政府正向以色列施压，要求其就拉法赫的哈马斯武装人员问题取得进展。",
@@ -33,6 +33,17 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时27分 ~ 11时24分]"
+        },
+        {
+          "title": "据法新社：联合国维和人员表示，以色列军队在黎巴嫩向他们开火。",
+          "url": "https://flash.jin10.com/detail/20251116205658815800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时27分"
         },
         {
           "title": "黎巴嫩将就以色列越界“建墙”向联合国安理会申诉",
@@ -64,54 +75,6 @@
           "time_info": "[16时29分 ~ 19时18分]"
         },
         {
-          "title": "以色列总理内塔尼亚胡：我们将对约旦河西岸地区针对巴勒斯坦平民及以色列军队实施暴力的少数群体采取行动。",
-          "url": "https://flash.jin10.com/detail/20251116184418812800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时18分 ~ 20时43分]"
-        },
-        {
-          "title": "以色列三季度GDP年化基础季环比增长12.4%，预期上升7.3%。 第一次评估结果显示，三季度GDP同比增长12.4%，剔除进口净税的GDP年化增长13.3%。 10月贸易赤字收窄至34.22亿美元。 三季度出口增长23.3%，私人消费增长23.0%、政府开支增长4.4%。 二季度GDP年化修正为下滑4.3%，此前估计下降3.9%。",
-          "url": "https://wallstreetcn.com/livenews/3005325",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时18分 ~ 20时43分]"
-        },
-        {
-          "title": "以色列总理内塔尼亚胡：我们反对建立巴勒斯坦国的立场完全没有改变。",
-          "url": "https://flash.jin10.com/detail/20251116184324782800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时18分 ~ 20时43分]"
-        },
-        {
-          "title": "以色列总理内塔尼亚胡：哈马斯必须解除武装，无论采取何种手段。",
-          "url": "https://flash.jin10.com/detail/20251116183716649800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时18分 ~ 20时43分]"
-        },
-        {
           "title": "以外长称以色列不会同意建立巴勒斯坦国",
           "url": "https://wallstreetcn.com/livenews/3005297",
           "source": "华尔街见闻-快讯",
@@ -119,11 +82,64 @@
             7,
             12,
             19,
-            27
+            27,
+            29
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时22分 ~ 20时43分]"
+          "appearance_count": 5,
+          "time_info": "[17时22分 ~ 21时27分]"
+        },
+        {
+          "title": "以色列总理内塔尼亚胡：我们将对约旦河西岸地区针对巴勒斯坦平民及以色列军队实施暴力的少数群体采取行动。",
+          "url": "https://flash.jin10.com/detail/20251116184418812800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            11,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时18分 ~ 21时27分]"
+        },
+        {
+          "title": "以色列三季度GDP年化基础季环比增长12.4%，预期上升7.3%。 第一次评估结果显示，三季度GDP同比增长12.4%，剔除进口净税的GDP年化增长13.3%。 10月贸易赤字收窄至34.22亿美元。 三季度出口增长23.3%，私人消费增长23.0%、政府开支增长4.4%。 二季度GDP年化修正为下滑4.3%，此前估计下降3.9%。",
+          "url": "https://wallstreetcn.com/livenews/3005325",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            9,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时18分 ~ 21时27分]"
+        },
+        {
+          "title": "以色列总理内塔尼亚胡：我们反对建立巴勒斯坦国的立场完全没有改变。",
+          "url": "https://flash.jin10.com/detail/20251116184324782800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            12,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时18分 ~ 21时27分]"
+        },
+        {
+          "title": "以色列总理内塔尼亚胡：哈马斯必须解除武装，无论采取何种手段。",
+          "url": "https://flash.jin10.com/detail/20251116183716649800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            14,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时18分 ~ 21时27分]"
         },
         {
           "title": "美媒爆：以色列不反对美政府向沙特出售F-35战斗机，但要以实现沙以关系正常化为条件",
@@ -152,6 +168,18 @@
           "time_info": "[16时29分 ~ 18时23分]"
         },
         {
+          "title": "以色列经济在加沙停火前强劲反弹",
+          "url": "https://flash.jin10.com/detail/20251116192918221800",
+          "source": "金十数据",
+          "ranks": [
+            9,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时43分 ~ 21时27分]"
+        },
+        {
           "title": "黎巴嫩将就以色列越界“建墙”向联合国安理会申诉",
           "url": "https://wallstreetcn.com/livenews/3005206",
           "source": "华尔街见闻-快讯",
@@ -162,17 +190,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时58分 ~ 11时24分]"
-        },
-        {
-          "title": "以色列经济在加沙停火前强劲反弹",
-          "url": "https://flash.jin10.com/detail/20251116192918221800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时43分"
         }
       ]
     },
@@ -256,11 +273,12 @@
           "url": "https://wallstreetcn.com/livenews/3005334",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            4,
+            6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时43分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时43分 ~ 21时27分]"
         },
         {
           "title": "伊朗外长称伊朗境内已全面停止铀浓缩活动",
@@ -268,11 +286,12 @@
           "source": "金十数据",
           "ranks": [
             3,
-            13
+            13,
+            18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时18分 ~ 20时43分]"
+          "appearance_count": 3,
+          "time_info": "[19时18分 ~ 21时27分]"
         },
         {
           "title": "伊朗外交部：美军事活动正在威胁国际和平与安全",
@@ -289,6 +308,32 @@
           "time_info": "[09时58分 ~ 13时23分]"
         },
         {
+          "title": "伊朗外交部长阿拉奇：伊朗将始终准备好参与外交，但不会参与旨在强加条件的谈判。",
+          "url": "https://flash.jin10.com/detail/20251116183145693800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            16,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时18分 ~ 21时27分]"
+        },
+        {
+          "title": "伊朗外交部长阿拉奇：当前美国的做法丝毫没有显示出愿意进行平等公正谈判的迹象。",
+          "url": "https://flash.jin10.com/detail/20251116183102013800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            17,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时18分 ~ 21时27分]"
+        },
+        {
           "title": "伊朗外长：美国正在转变为基于武力的霸权主义",
           "url": "https://wallstreetcn.com/livenews/3005270",
           "source": "华尔街见闻-快讯",
@@ -300,30 +345,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[16时29分 ~ 18时23分]"
-        },
-        {
-          "title": "伊朗外交部长阿拉奇：伊朗将始终准备好参与外交，但不会参与旨在强加条件的谈判。",
-          "url": "https://flash.jin10.com/detail/20251116183145693800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时18分 ~ 20时43分]"
-        },
-        {
-          "title": "伊朗外交部长阿拉奇：当前美国的做法丝毫没有显示出愿意进行平等公正谈判的迹象。",
-          "url": "https://flash.jin10.com/detail/20251116183102013800",
-          "source": "金十数据",
-          "ranks": [
-            7,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时18分 ~ 20时43分]"
         },
         {
           "title": "伊朗外交部：美军事活动正在威胁国际和平与安全",
@@ -369,8 +390,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 26,
-          "time_info": "[00时26分 ~ 20时43分]"
+          "appearance_count": 27,
+          "time_info": "[00时26分 ~ 21时27分]"
         },
         {
           "title": "高瓴HHLR三季度美股持仓：持股总市值暴增70亿 持续加大中国资产配置",
@@ -440,8 +461,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时29分 ~ 20时43分]"
+          "appearance_count": 7,
+          "time_info": "[16时29分 ~ 21时27分]"
         }
       ]
     },
@@ -460,8 +481,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时22分 ~ 20时43分]"
+          "appearance_count": 6,
+          "time_info": "[17时22分 ~ 21时27分]"
         },
         {
           "title": "华为将发布AI领域突破性技术，有望解决算力资源利用效率难题",
@@ -481,11 +502,12 @@
           "url": "https://wallstreetcn.com/livenews/3005329",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            19
+            19,
+            21
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时43分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时43分 ~ 21时27分]"
         }
       ]
     },
