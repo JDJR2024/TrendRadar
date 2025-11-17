@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-17T07:21:54.594022+08:00",
-  "total_titles_processed": 472,
+  "generated_at": "2025-11-17T09:54:01.689166+08:00",
+  "total_titles_processed": 633,
   "failed_sources": [],
   "trends": [
     {
@@ -98,7 +98,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时21分"
         },
@@ -109,7 +109,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时21分"
         }
@@ -127,11 +127,12 @@
             4,
             5,
             8,
-            7
+            7,
+            10
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时27分 ~ 07时21分]"
+          "appearance_count": 10,
+          "time_info": "[00时27分 ~ 09时54分]"
         },
         {
           "title": "如何看待巴菲特「退休」前 Q3 加速抛苹果，首次建仓谷歌？向来对科技股谨慎的股神为何突然出手？",
@@ -140,11 +141,12 @@
           "ranks": [
             8,
             9,
-            10
+            10,
+            14
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时31分 ~ 07时21分]"
+          "appearance_count": 8,
+          "time_info": "[02时31分 ~ 09时54分]"
         }
       ]
     },
@@ -183,6 +185,34 @@
       ]
     },
     {
+      "keyword_group": "人工智能 AI ChatGPT",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "周末要闻汇总：吴清发声！事关资本市场；华为将发布AI领域突破性技术",
+          "url": "https://www.cls.cn/detail/2201789",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时27分 ~ 09时54分]"
+        },
+        {
+          "title": "【早报】多部门提醒！近期避免前往日本；华为将发布AI突破性技术，对标英伟达",
+          "url": "https://www.cls.cn/detail/2201935",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时53分 ~ 09时54分]"
+        }
+      ]
+    },
+    {
       "keyword_group": "金价",
       "match_count": 1,
       "titles": [
@@ -193,26 +223,9 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时21分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "人工智能 AI ChatGPT",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "周末要闻汇总：吴清发声！事关资本市场；华为将发布AI领域突破性技术",
-          "url": "https://www.cls.cn/detail/2201789",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时27分 ~ 07时21分]"
         }
       ]
     }
