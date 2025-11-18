@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-18T14:36:30.697765+08:00",
-  "total_titles_processed": 1191,
+  "generated_at": "2025-11-18T15:24:21.385624+08:00",
+  "total_titles_processed": 1296,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时22分 ~ 14时36分]"
+          "appearance_count": 8,
+          "time_info": "[07时22分 ~ 15时24分]"
         },
         {
           "title": "这一幕昨夜再现：美股、黄金、加密货币齐跌……",
@@ -29,8 +29,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时51分 ~ 14时36分]"
+          "appearance_count": 7,
+          "time_info": "[09时51分 ~ 15时24分]"
         },
         {
           "title": "科技股、币圈、黄金“三杀”，美股跌破关键支撑位，美国市场遭遇“全面抛售”",
@@ -41,8 +41,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时51分 ~ 14时36分]"
+          "appearance_count": 7,
+          "time_info": "[09时51分 ~ 15时24分]"
         },
         {
           "title": "金十图示：2025年11月17日（周一）美股热门股票行情一览（美股盘中）",
@@ -352,8 +352,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时51分 ~ 14时36分]"
+          "appearance_count": 7,
+          "time_info": "[09时51分 ~ 15时24分]"
         },
         {
           "title": "美股三大指数跌超1%，美债美元走强，金价三连跌，加密货币再大挫",
@@ -486,17 +486,6 @@
       "match_count": 2,
       "titles": [
         {
-          "title": "美债收复上周部分失地 市场押注数据恢复将提振降息预期",
-          "url": "https://flash.jin10.com/detail/20251118024957855800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时20分"
-        },
-        {
           "title": "美债务危机愈演愈烈？马斯克：不想破产，就只能发展AI和机器人！",
           "url": "https://www.cls.cn/detail/2203227",
           "source": "财联社热门",
@@ -506,8 +495,19 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时16分 ~ 14时36分]"
+          "appearance_count": 5,
+          "time_info": "[11时16分 ~ 15时24分]"
+        },
+        {
+          "title": "美债收复上周部分失地 市场押注数据恢复将提振降息预期",
+          "url": "https://flash.jin10.com/detail/20251118024957855800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时20分"
         }
       ]
     },
@@ -557,11 +557,12 @@
           "ranks": [
             25,
             16,
-            21
+            21,
+            24
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时29分 ~ 14时36分]"
+          "appearance_count": 4,
+          "time_info": "[12时29分 ~ 15时24分]"
         }
       ]
     }
