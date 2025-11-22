@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-22T16:29:53.519338+08:00",
-  "total_titles_processed": 1113,
+  "generated_at": "2025-11-22T17:23:16.005095+08:00",
+  "total_titles_processed": 1172,
   "failed_sources": [],
   "trends": [
     {
@@ -53,8 +53,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[07时21分 ~ 16时29分]"
+          "appearance_count": 12,
+          "time_info": "[07时21分 ~ 17时23分]"
         },
         {
           "title": "风险资产迎来多空激战 美股三大期指盘前翻红 | 今夜看点",
@@ -270,8 +270,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时47分 ~ 16时29分]"
+          "appearance_count": 10,
+          "time_info": "[09时47分 ~ 17时23分]"
         },
         {
           "title": "承认谷歌超越！奥特曼内部信曝光：OpenAI领先优势缩小，预警“艰难时刻”到来",
@@ -279,11 +279,12 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时08分 ~ 16时29分]"
+          "appearance_count": 9,
+          "time_info": "[11时08分 ~ 17时23分]"
         },
         {
           "title": "Gemini3玩法大全",
@@ -320,8 +321,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时22分 ~ 16时29分]"
+          "appearance_count": 6,
+          "time_info": "[13时22分 ~ 17时23分]"
         },
         {
           "title": "谷歌：将向美国大学生免费提供一年的Google AI Pro服务。",
@@ -456,7 +457,7 @@
     },
     {
       "keyword_group": "人工智能 AI ChatGPT",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "华为AI新技术揭晓！英伟达曾花50亿收购“同款”",
@@ -478,8 +479,19 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时47分 ~ 16时29分]"
+          "appearance_count": 10,
+          "time_info": "[09时47分 ~ 17时23分]"
+        },
+        {
+          "title": "华为AI突破性技术揭晓！",
+          "url": "https://wallstreetcn.com/articles/3759882",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时23分"
         }
       ]
     },
