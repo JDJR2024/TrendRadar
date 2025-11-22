@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-22T22:20:38.783057+08:00",
-  "total_titles_processed": 1495,
+  "generated_at": "2025-11-22T23:22:16.299535+08:00",
+  "total_titles_processed": 1545,
   "failed_sources": [],
   "trends": [
     {
@@ -41,8 +41,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[07时21分 ~ 22时20分]"
+          "appearance_count": 19,
+          "time_info": "[07时21分 ~ 23时22分]"
         },
         {
           "title": "美股大跌的“罪魁祸首”！英伟达日内惨跌7%，“大空头”财报后密集“放炮”",
@@ -106,11 +106,12 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时23分 ~ 22时20分]"
+          "appearance_count": 7,
+          "time_info": "[18时23分 ~ 23时22分]"
         },
         {
           "title": "全球航空业ETF收涨3.5%，和银行业ETF领跑美股行业ETF，本周半导体ETF跌超5.4%、科技行业ETF累跌超5%",
@@ -315,6 +316,18 @@
           "time_info": "[13时22分 ~ 19时18分]"
         },
         {
+          "title": "谷歌、微软“双杀”逼近，OpenAI陷入空前危机！",
+          "url": "https://wallstreetcn.com/articles/3759931",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[20时42分 ~ 23时22分]"
+        },
+        {
           "title": "Gemini3玩法大全",
           "url": "https://www.douyin.com/hot/2314134",
           "source": "抖音",
@@ -327,18 +340,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[11时08分 ~ 15时22分]"
-        },
-        {
-          "title": "谷歌、微软“双杀”逼近，OpenAI陷入空前危机！",
-          "url": "https://wallstreetcn.com/articles/3759931",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时42分 ~ 22时20分]"
         },
         {
           "title": "谷歌公司推出BigQuery AI。",
@@ -361,8 +362,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时42分 ~ 22时20分]"
+          "appearance_count": 5,
+          "time_info": "[20时42分 ~ 23时22分]"
         },
         {
           "title": "面对AI泡沫质疑，谷歌AI基建负责人坦言：公司必须每六个月将AI算力翻倍以满足需求",
@@ -370,11 +371,12 @@
           "source": "华尔街见闻",
           "ranks": [
             8,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时26分 ~ 22时20分]"
+          "appearance_count": 4,
+          "time_info": "[21时26分 ~ 23时22分]"
         },
         {
           "title": "Gemini3适合用来编程吗",
@@ -502,11 +504,12 @@
           "ranks": [
             6,
             12,
-            21
+            21,
+            24
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时42分 ~ 22时20分]"
+          "appearance_count": 4,
+          "time_info": "[20时42分 ~ 23时22分]"
         },
         {
           "title": "以色列军方：在武装分子向以色列士兵开火后，以军已开始对加沙地带的哈马斯目标实施打击。",
@@ -515,7 +518,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时20分"
         }
@@ -586,8 +589,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[09时47分 ~ 22时20分]"
+          "appearance_count": 17,
+          "time_info": "[09时47分 ~ 23时22分]"
         },
         {
           "title": "华为AI突破性技术揭晓！",
@@ -599,6 +602,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时23分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "澳新银行：金价回落但基本面稳固，白银表现仍亮眼",
+          "url": "https://flash.jin10.com/detail/20251122223006926800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时22分"
         }
       ]
     },
