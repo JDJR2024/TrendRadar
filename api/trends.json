@@ -1,22 +1,23 @@
 {
-  "generated_at": "2025-11-24T03:19:32.891054+08:00",
-  "total_titles_processed": 383,
+  "generated_at": "2025-11-24T04:27:01.783048+08:00",
+  "total_titles_processed": 412,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "以色列",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "以色列空袭黎巴嫩贝鲁特南郊 致1死3伤",
           "url": "https://flash.jin10.com/detail/20251123220819846800",
           "source": "金十数据",
           "ranks": [
-            15
+            15,
+            24
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时28分 ~ 03时19分]"
+          "appearance_count": 5,
+          "time_info": "[00时28分 ~ 04时27分]"
         },
         {
           "title": "据AXIOS网站：一名美国高级官员表示，以色列并未事先通知美国空袭黎巴嫩一事。美国是在空袭发生后立即获知的。",
@@ -50,6 +51,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时28分 ~ 03时19分]"
+        },
+        {
+          "title": "美国国土安全部IP显示为以色列",
+          "url": "https://s.weibo.com/weibo?q=%E7%BE%8E%E5%9B%BD%E5%9B%BD%E5%9C%9F%E5%AE%89%E5%85%A8%E9%83%A8IP%E6%98%BE%E7%A4%BA%E4%B8%BA%E4%BB%A5%E8%89%B2%E5%88%97&t=31&band_rank=17&Refer=top",
+          "source": "微博",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时26分 ~ 04时27分]"
         }
       ]
     },
@@ -65,11 +77,12 @@
             22,
             20,
             24,
-            17
+            17,
+            23
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时27分 ~ 03时19分]"
+          "appearance_count": 8,
+          "time_info": "[00时27分 ~ 04时27分]"
         }
       ]
     },
@@ -83,11 +96,12 @@
           "source": "百度热搜",
           "ranks": [
             24,
-            18
+            18,
+            15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时32分 ~ 03时19分]"
+          "appearance_count": 4,
+          "time_info": "[02时32分 ~ 04时27分]"
         }
       ]
     }
