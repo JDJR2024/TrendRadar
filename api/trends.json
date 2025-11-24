@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-24T18:29:07.149715+08:00",
-  "total_titles_processed": 1405,
+  "generated_at": "2025-11-24T19:22:39.079006+08:00",
+  "total_titles_processed": 1492,
   "failed_sources": [],
   "trends": [
     {
@@ -100,8 +100,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时37分 ~ 18时29分]"
+          "appearance_count": 8,
+          "time_info": "[14时37分 ~ 19时22分]"
         },
         {
           "title": "本周重要事件与数据预告：美国数据密集补发、美股假期休市及阿里财报",
@@ -164,7 +164,7 @@
     },
     {
       "keyword_group": "以色列",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "美国国土安全部IP显示为以色列",
@@ -176,6 +176,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[04时26分 ~ 07时22分]"
+        },
+        {
+          "title": "市场消息：加沙城西北部以色列残余部队发生爆炸。",
+          "url": "https://flash.jin10.com/detail/20251124190944568800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时22分"
         },
         {
           "title": "以色列空袭黎巴嫩贝鲁特南郊 致1死3伤",
@@ -318,11 +329,12 @@
           "ranks": [
             12,
             10,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时35分 ~ 18时29分]"
+          "appearance_count": 6,
+          "time_info": "[16时35分 ~ 19时22分]"
         }
       ]
     }
