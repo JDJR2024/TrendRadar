@@ -1,8 +1,129 @@
 {
-  "generated_at": "2025-11-25T03:18:51.474366+08:00",
-  "total_titles_processed": 448,
+  "generated_at": "2025-11-25T04:28:39.766440+08:00",
+  "total_titles_processed": 499,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "以色列",
+      "match_count": 10,
+      "titles": [
+        {
+          "title": "高级指挥官身亡，黎真主党誓言继续对抗以色列",
+          "url": "https://wallstreetcn.com/livenews/3009746",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时28分"
+        },
+        {
+          "title": "以色列称将大量引入印度人",
+          "url": "https://www.baidu.com/s?wd=%E4%BB%A5%E8%89%B2%E5%88%97%E7%A7%B0%E5%B0%86%E5%A4%A7%E9%87%8F%E5%BC%95%E5%85%A5%E5%8D%B0%E5%BA%A6%E4%BA%BA",
+          "source": "百度热搜",
+          "ranks": [
+            19,
+            18,
+            16,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时28分 ~ 04时28分]"
+        },
+        {
+          "title": "以色列央行行长：预计在2026年9月之间还将降息25个基点。",
+          "url": "https://wallstreetcn.com/livenews/3009734",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时18分"
+        },
+        {
+          "title": "伊朗：强烈谴责以色列空袭致黎真主党指挥官死亡",
+          "url": "https://wallstreetcn.com/livenews/3009692",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            15,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时28分 ~ 02时36分]"
+        },
+        {
+          "title": "以色列央行行长Yaron：目前的经济条件适宜降息。 降息的可能性得益于以下因素：供应限制减少、导致通胀放缓，本币谢克尔走强，风险溢价降低。 地缘政治和经济不确定性仍然很高，并且我们仍然看到强劲的消费者需求。 降息将是非常渐进的，到2026年9月前再进行两次25个基点的降息似乎是合理的；不会回到零利率。 希望2026年的国家预算能够降低支出，因为目前加沙的大部分战斗已经结束。",
+          "url": "https://wallstreetcn.com/livenews/3009734",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时28分"
+        },
+        {
+          "title": "以色列央行行长Yaron：地缘政治和经济不确定性仍然很高，我们仍看到强劲的消费需求。",
+          "url": "https://flash.jin10.com/detail/20251125025409889800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时28分"
+        },
+        {
+          "title": "以色列央行行长Yaron：希望在加沙大部分战斗结束后，2026年的国家预算能够降低支出。",
+          "url": "https://flash.jin10.com/detail/20251125025403888800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时28分"
+        },
+        {
+          "title": "以色列官宣引进印度移民",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BB%A5%E8%89%B2%E5%88%97%E5%AE%98%E5%AE%A3%E5%BC%95%E8%BF%9B%E5%8D%B0%E5%BA%A6%E7%A7%BB%E6%B0%91%23&t=31&band_rank=28&Refer=top",
+          "source": "微博",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时28分"
+        },
+        {
+          "title": "以色列央行行长Yaron：当前经济状况已适合降息。",
+          "url": "https://flash.jin10.com/detail/20251125025355177800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时28分"
+        },
+        {
+          "title": "以色列央行行长Yaron：利率下调将非常缓慢，到2026年9月再降两次25个基点似乎是合理的；不会回到零利率。",
+          "url": "https://flash.jin10.com/detail/20251125025345891800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时28分"
+        }
+      ]
+    },
     {
       "keyword_group": "美股",
       "match_count": 8,
@@ -15,8 +136,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时28分 ~ 03时18分]"
+          "appearance_count": 6,
+          "time_info": "[00时28分 ~ 04时28分]"
         },
         {
           "title": "“币圈-AI-美股”铁索连江，“免费钱”时代终结，所有人都盯着“币圈何时企稳”",
@@ -26,8 +147,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时28分 ~ 03时18分]"
+          "appearance_count": 6,
+          "time_info": "[00时28分 ~ 04时28分]"
         },
         {
           "title": "降息预期重燃市场信心 美股三大期指集体走高 | 今夜看点",
@@ -38,8 +159,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时28分 ~ 03时18分]"
+          "appearance_count": 6,
+          "time_info": "[00时28分 ~ 04时28分]"
         },
         {
           "title": "金十图示：2025年11月24日（周一）美股热门股票行情一览（美股盘中）",
@@ -113,8 +234,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时28分 ~ 03时18分]"
+          "appearance_count": 6,
+          "time_info": "[00时28分 ~ 04时28分]"
         },
         {
           "title": "OpenAI：还将在ChatGPT Pulse中提供购物搜索内容，目前该功能仅向ChatGPT专业版用户开放。",
@@ -123,9 +244,22 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时18分"
+        },
+        {
+          "title": "OpenAI：在ChatGPT提供购物搜索功能。",
+          "url": "https://wallstreetcn.com/livenews/3009721",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            12,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时36分 ~ 04时28分]"
         },
         {
           "title": "OpenAI推出ChatGPT购物调研工具 为假期购物做准备",
@@ -134,18 +268,6 @@
           "ranks": [
             2,
             11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时36分 ~ 03时18分]"
-        },
-        {
-          "title": "OpenAI：在ChatGPT提供购物搜索功能。",
-          "url": "https://wallstreetcn.com/livenews/3009721",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            12
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -166,46 +288,30 @@
       ]
     },
     {
-      "keyword_group": "以色列",
-      "match_count": 3,
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 2,
       "titles": [
         {
-          "title": "以色列央行行长：预计在2026年9月之间还将降息25个基点。",
-          "url": "https://wallstreetcn.com/livenews/3009734",
-          "source": "华尔街见闻-快讯",
+          "title": "谷歌云：Anthropico的全新Claude Opus 4.5现在Vertex AI上正式发布。",
+          "url": "https://flash.jin10.com/detail/20251125032925366800",
+          "source": "金十数据",
           "ranks": [
-            4
+            16
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时18分"
+          "time_info": "04时28分"
         },
         {
-          "title": "以色列称将大量引入印度人",
-          "url": "https://www.baidu.com/s?wd=%E4%BB%A5%E8%89%B2%E5%88%97%E7%A7%B0%E5%B0%86%E5%A4%A7%E9%87%8F%E5%BC%95%E5%85%A5%E5%8D%B0%E5%BA%A6%E4%BA%BA",
-          "source": "百度热搜",
+          "title": "谷歌母公司Alphabet盘中涨超6%。",
+          "url": "https://flash.jin10.com/detail/20251124231115068800",
+          "source": "金十数据",
           "ranks": [
-            19,
-            18,
-            16,
-            15
+            20
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时28分 ~ 03时18分]"
-        },
-        {
-          "title": "伊朗：强烈谴责以色列空袭致黎真主党指挥官死亡",
-          "url": "https://wallstreetcn.com/livenews/3009692",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            15,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时28分 ~ 02时36分]"
+          "appearance_count": 1,
+          "time_info": "00时28分"
         }
       ]
     },
@@ -213,17 +319,6 @@
       "keyword_group": "伊朗",
       "match_count": 2,
       "titles": [
-        {
-          "title": "伊朗伊斯兰革命卫队打掉一恐怖组织团伙",
-          "url": "https://wallstreetcn.com/livenews/3009728",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时18分"
-        },
         {
           "title": "市场消息：伊朗议员声称俄罗斯可能愿意向伊朗提供核武器。",
           "url": "https://flash.jin10.com/detail/20251125020511577800",
@@ -235,23 +330,35 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时36分 ~ 03时18分]"
+        },
+        {
+          "title": "伊朗伊斯兰革命卫队打掉一恐怖组织团伙",
+          "url": "https://wallstreetcn.com/livenews/3009728",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时18分 ~ 04时28分]"
         }
       ]
     },
     {
-      "keyword_group": "谷歌 google gemini",
+      "keyword_group": "金价",
       "match_count": 1,
       "titles": [
         {
-          "title": "谷歌母公司Alphabet盘中涨超6%。",
-          "url": "https://flash.jin10.com/detail/20251124231115068800",
+          "title": "美国银行：黄金价格2026年或将达到5000美元",
+          "url": "https://flash.jin10.com/detail/20251125031326768800",
           "source": "金十数据",
           "ranks": [
-            20
+            19
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时28分"
+          "time_info": "04时28分"
         }
       ]
     },
