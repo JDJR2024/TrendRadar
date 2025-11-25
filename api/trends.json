@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-25T13:26:19.525597+08:00",
-  "total_titles_processed": 1114,
+  "generated_at": "2025-11-25T14:38:16.594430+08:00",
+  "total_titles_processed": 1206,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时23分 ~ 13时26分]"
+          "appearance_count": 7,
+          "time_info": "[07时23分 ~ 14时38分]"
         },
         {
           "title": "谷歌A收涨6.31%，报318.58美元，市值3.84万亿美元。",
@@ -54,6 +54,18 @@
           "time_info": "07时23分"
         },
         {
+          "title": "垂直整合程度最高的AI大厂！“新王”谷歌登基：整个硅谷都在颤抖？",
+          "url": "https://www.cls.cn/detail/2209826",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时26分 ~ 14时38分]"
+        },
+        {
           "title": "谷歌大涨美股反弹，专家警示假期交易清淡或放大波动",
           "url": "https://flash.jin10.com/detail/20251125052238827800",
           "source": "金十数据",
@@ -64,17 +76,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时23分 ~ 07时23分]"
-        },
-        {
-          "title": "垂直整合程度最高的AI大厂！“新王”谷歌登基：整个硅谷都在颤抖？",
-          "url": "https://www.cls.cn/detail/2209826",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时26分"
         },
         {
           "title": "据The Information：Meta Platforms(META.O)正考虑斥资数十亿美元购买谷歌的TPU，包括用于Meta公司的数据中心。双方希望2027年落地该计划。",
@@ -246,11 +247,12 @@
             13,
             11,
             8,
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时28分 ~ 13时26分]"
+          "appearance_count": 16,
+          "time_info": "[00时28分 ~ 14时38分]"
         },
         {
           "title": "美联储12月降息预期飙升，美股科技股领衔“万物齐涨”，加密货币和黄金同步走高",
@@ -668,6 +670,48 @@
       ]
     },
     {
+      "keyword_group": "伊朗",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "伊朗伊斯兰革命卫队打掉一恐怖组织团伙",
+          "url": "https://wallstreetcn.com/livenews/3009728",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            14,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时18分 ~ 05时24分]"
+        },
+        {
+          "title": "市场消息：伊朗议员声称俄罗斯可能愿意向伊朗提供核武器。",
+          "url": "https://flash.jin10.com/detail/20251125020511577800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时36分 ~ 03时18分]"
+        },
+        {
+          "title": "英媒：英国敏感技术被发现用于伊朗核相关产品",
+          "url": "https://flash.jin10.com/detail/20251125133145292800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时38分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美元",
       "match_count": 2,
       "titles": [
@@ -698,33 +742,30 @@
       ]
     },
     {
-      "keyword_group": "伊朗",
+      "keyword_group": "人工智能 AI ChatGPT",
       "match_count": 2,
       "titles": [
         {
-          "title": "伊朗伊斯兰革命卫队打掉一恐怖组织团伙",
-          "url": "https://wallstreetcn.com/livenews/3009728",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            14,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时18分 ~ 05时24分]"
-        },
-        {
-          "title": "市场消息：伊朗议员声称俄罗斯可能愿意向伊朗提供核武器。",
-          "url": "https://flash.jin10.com/detail/20251125020511577800",
+          "title": "日本将把人工智能列入6大战略技术领域",
+          "url": "https://flash.jin10.com/detail/20251125141659367800",
           "source": "金十数据",
           "ranks": [
-            4,
-            13
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时38分"
+        },
+        {
+          "title": "据日经新闻：日本拟将人工智能、核聚变等列为六大战略技术领域。",
+          "url": "https://flash.jin10.com/detail/20251125003123968800",
+          "source": "金十数据",
+          "ranks": [
+            18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时36分 ~ 03时18分]"
+          "appearance_count": 1,
+          "time_info": "01时24分"
         }
       ]
     },
@@ -755,11 +796,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             8,
-            16
+            16,
+            29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时31分 ~ 13时26分]"
+          "appearance_count": 3,
+          "time_info": "[12时31分 ~ 14时38分]"
         }
       ]
     },
@@ -795,23 +837,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时53分 ~ 11时19分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "人工智能 AI ChatGPT",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "据日经新闻：日本拟将人工智能、核聚变等列为六大战略技术领域。",
-          "url": "https://flash.jin10.com/detail/20251125003123968800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时24分"
         }
       ]
     }
