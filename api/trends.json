@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-26T14:37:34.475181+08:00",
-  "total_titles_processed": 1231,
+  "generated_at": "2025-11-26T15:23:55.195324+08:00",
+  "total_titles_processed": 1314,
   "failed_sources": [],
   "trends": [
     {
@@ -38,8 +38,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时53分 ~ 14时37分]"
+          "appearance_count": 6,
+          "time_info": "[09时53分 ~ 15时23分]"
         },
         {
           "title": "美股收盘：纳指逆转1%跌幅收涨 谷歌创新高市值逼近4万亿美元",
@@ -51,8 +51,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时22分 ~ 14时37分]"
+          "appearance_count": 7,
+          "time_info": "[07时22分 ~ 15时23分]"
         },
         {
           "title": "谷歌TPU抢风头 英伟达紧急发声：我们仍领先行业一代",
@@ -64,8 +64,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时22分 ~ 14时37分]"
+          "appearance_count": 7,
+          "time_info": "[07时22分 ~ 15时23分]"
         },
         {
           "title": "趁Gemini 3“东风”，“谷歌链”挑战“英伟达链”，颠覆AI交易格局",
@@ -100,8 +100,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时53分 ~ 14时37分]"
+          "appearance_count": 6,
+          "time_info": "[09时53分 ~ 15时23分]"
         },
         {
           "title": "性能硬刚Blackwell、能效吊打GPU，一文深度拆解谷歌TPU“真实战力”",
@@ -112,8 +112,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时53分 ~ 14时37分]"
+          "appearance_count": 6,
+          "time_info": "[09时53分 ~ 15时23分]"
         },
         {
           "title": "一文读懂“谷歌链”：AI全栈式创新，TPU+OCS共塑下一代智算网络",
@@ -125,8 +125,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时53分 ~ 14时37分]"
+          "appearance_count": 6,
+          "time_info": "[09时53分 ~ 15时23分]"
         },
         {
           "title": "英伟达：我们的GPU比谷歌的AI芯片领先一代",
@@ -178,6 +178,18 @@
           "time_info": "[00时33分 ~ 01时24分]"
         },
         {
+          "title": "AI争霸格局突变？五大“东风”将谷歌送上王座！",
+          "url": "https://www.cls.cn/detail/2211188",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时37分 ~ 15时23分]"
+        },
+        {
           "title": "美股收盘：谷歌市值逼近4万亿美元",
           "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E6%94%B6%E7%9B%98%EF%BC%9A%E8%B0%B7%E6%AD%8C%E5%B8%82%E5%80%BC%E9%80%BC%E8%BF%914%E4%B8%87%E4%BA%BF%E7%BE%8E%E5%85%83",
           "source": "百度热搜",
@@ -200,17 +212,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时31分 ~ 13时24分]"
-        },
-        {
-          "title": "AI争霸格局突变？五大“东风”将谷歌送上王座！",
-          "url": "https://www.cls.cn/detail/2211188",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时37分"
         },
         {
           "title": "Gemini+TPU双线破局！顶级科技投资人“火上浇油”：七巨头中Alphabet最值得持有",
@@ -406,6 +407,81 @@
       ]
     },
     {
+      "keyword_group": "以色列",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "以色列确认哈马斯归还的一具遗体身份",
+          "url": "https://flash.jin10.com/detail/20251126151331528800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时23分"
+        },
+        {
+          "title": "阿根廷总统米莱会见了以色列外交部长。",
+          "url": "https://flash.jin10.com/detail/20251126021927594800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            9,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时37分 ~ 04时28分]"
+        },
+        {
+          "title": "据以色列媒体：以色列总理内塔尼亚胡考虑解除卡茨的国防部长职务，并任命吉迪恩·萨尔接任。",
+          "url": "https://flash.jin10.com/detail/20251126014917049800",
+          "source": "金十数据",
+          "ranks": [
+            19,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时37分 ~ 03时21分]"
+        },
+        {
+          "title": "以色列总理表示，以色列已从红十字会接收了已故人质的棺椁。",
+          "url": "https://flash.jin10.com/detail/20251125234524953800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时33分"
+        },
+        {
+          "title": "以色列国防军：已结束为期两天的突击演习，检验了所有军方最高指挥部的运作情况。",
+          "url": "https://flash.jin10.com/detail/20251126011241736800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时24分"
+        },
+        {
+          "title": "以色列国防部：以色列国防军、以色列安全局和以色列边防警察隔夜开始在北撒玛利亚地区开展大规模反恐行动。",
+          "url": "https://flash.jin10.com/detail/20251126131625382800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时37分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美元",
       "match_count": 5,
       "titles": [
@@ -466,70 +542,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时33分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "以色列",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "阿根廷总统米莱会见了以色列外交部长。",
-          "url": "https://flash.jin10.com/detail/20251126021927594800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            9,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时37分 ~ 04时28分]"
-        },
-        {
-          "title": "据以色列媒体：以色列总理内塔尼亚胡考虑解除卡茨的国防部长职务，并任命吉迪恩·萨尔接任。",
-          "url": "https://flash.jin10.com/detail/20251126014917049800",
-          "source": "金十数据",
-          "ranks": [
-            19,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时37分 ~ 03时21分]"
-        },
-        {
-          "title": "以色列总理表示，以色列已从红十字会接收了已故人质的棺椁。",
-          "url": "https://flash.jin10.com/detail/20251125234524953800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时33分"
-        },
-        {
-          "title": "以色列国防军：已结束为期两天的突击演习，检验了所有军方最高指挥部的运作情况。",
-          "url": "https://flash.jin10.com/detail/20251126011241736800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时24分"
-        },
-        {
-          "title": "以色列国防部：以色列国防军、以色列安全局和以色列边防警察隔夜开始在北撒玛利亚地区开展大规模反恐行动。",
-          "url": "https://flash.jin10.com/detail/20251126131625382800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时37分"
         }
       ]
     },
@@ -648,7 +660,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时37分"
         }
@@ -668,6 +680,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时19分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "人工智能 AI ChatGPT",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "麦肯锡削减约200个技术岗位 “AI替代”势不可挡",
+          "url": "https://wallstreetcn.com/livenews/3010703",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时23分"
         }
       ]
     }
