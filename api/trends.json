@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-26T13:24:46.291617+08:00",
-  "total_titles_processed": 1130,
+  "generated_at": "2025-11-26T14:37:34.475181+08:00",
+  "total_titles_processed": 1231,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 18,
+      "match_count": 19,
       "titles": [
         {
           "title": "AI芯片开启第二战场：谷歌TPU引爆博通股价 硅谷巨头集体“造铲”",
@@ -38,8 +38,34 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时53分 ~ 13时24分]"
+          "appearance_count": 5,
+          "time_info": "[09时53分 ~ 14时37分]"
+        },
+        {
+          "title": "美股收盘：纳指逆转1%跌幅收涨 谷歌创新高市值逼近4万亿美元",
+          "url": "https://www.cls.cn/detail/2210921",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[07时22分 ~ 14时37分]"
+        },
+        {
+          "title": "谷歌TPU抢风头 英伟达紧急发声：我们仍领先行业一代",
+          "url": "https://www.cls.cn/detail/2210906",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[07时22分 ~ 14时37分]"
         },
         {
           "title": "趁Gemini 3“东风”，“谷歌链”挑战“英伟达链”，颠覆AI交易格局",
@@ -52,32 +78,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时33分 ~ 07时22分]"
-        },
-        {
-          "title": "美股收盘：纳指逆转1%跌幅收涨 谷歌创新高市值逼近4万亿美元",
-          "url": "https://www.cls.cn/detail/2210921",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时22分 ~ 13时24分]"
-        },
-        {
-          "title": "谷歌TPU抢风头 英伟达紧急发声：我们仍领先行业一代",
-          "url": "https://www.cls.cn/detail/2210906",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时22分 ~ 13时24分]"
         },
         {
           "title": "【焦点复盘】创业板指高开高走涨近2%，谷歌产业链获持续热捧，福建本地股卷土重来",
@@ -100,8 +100,33 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时53分 ~ 13时24分]"
+          "appearance_count": 5,
+          "time_info": "[09时53分 ~ 14时37分]"
+        },
+        {
+          "title": "性能硬刚Blackwell、能效吊打GPU，一文深度拆解谷歌TPU“真实战力”",
+          "url": "https://wallstreetcn.com/articles/3760076",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时53分 ~ 14时37分]"
+        },
+        {
+          "title": "一文读懂“谷歌链”：AI全栈式创新，TPU+OCS共塑下一代智算网络",
+          "url": "https://wallstreetcn.com/articles/3760084",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时53分 ~ 14时37分]"
         },
         {
           "title": "英伟达：我们的GPU比谷歌的AI芯片领先一代",
@@ -115,18 +140,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时21分 ~ 05时22分]"
-        },
-        {
-          "title": "性能硬刚Blackwell、能效吊打GPU，一文深度拆解谷歌TPU“真实战力”",
-          "url": "https://wallstreetcn.com/articles/3760076",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时53分 ~ 13时24分]"
         },
         {
           "title": "英伟达：我们的GPU比谷歌的AI芯片领先一代",
@@ -151,18 +164,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时21分 ~ 04时28分]"
-        },
-        {
-          "title": "一文读懂“谷歌链”：AI全栈式创新，TPU+OCS共塑下一代智算网络",
-          "url": "https://wallstreetcn.com/articles/3760084",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时53分 ~ 13时24分]"
         },
         {
           "title": "谷歌股价飙升，两位创始人分别成为世界第二、第三富豪",
@@ -201,13 +202,24 @@
           "time_info": "[12时31分 ~ 13时24分]"
         },
         {
+          "title": "AI争霸格局突变？五大“东风”将谷歌送上王座！",
+          "url": "https://www.cls.cn/detail/2211188",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时37分"
+        },
+        {
           "title": "Gemini+TPU双线破局！顶级科技投资人“火上浇油”：七巨头中Alphabet最值得持有",
           "url": "https://www.cls.cn/detail/2211111",
           "source": "财联社热门",
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时24分"
         },
@@ -458,6 +470,70 @@
       ]
     },
     {
+      "keyword_group": "以色列",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "阿根廷总统米莱会见了以色列外交部长。",
+          "url": "https://flash.jin10.com/detail/20251126021927594800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            9,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时37分 ~ 04时28分]"
+        },
+        {
+          "title": "据以色列媒体：以色列总理内塔尼亚胡考虑解除卡茨的国防部长职务，并任命吉迪恩·萨尔接任。",
+          "url": "https://flash.jin10.com/detail/20251126014917049800",
+          "source": "金十数据",
+          "ranks": [
+            19,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时37分 ~ 03时21分]"
+        },
+        {
+          "title": "以色列总理表示，以色列已从红十字会接收了已故人质的棺椁。",
+          "url": "https://flash.jin10.com/detail/20251125234524953800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时33分"
+        },
+        {
+          "title": "以色列国防军：已结束为期两天的突击演习，检验了所有军方最高指挥部的运作情况。",
+          "url": "https://flash.jin10.com/detail/20251126011241736800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时24分"
+        },
+        {
+          "title": "以色列国防部：以色列国防军、以色列安全局和以色列边防警察隔夜开始在北撒玛利亚地区开展大规模反恐行动。",
+          "url": "https://flash.jin10.com/detail/20251126131625382800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时37分"
+        }
+      ]
+    },
+    {
       "keyword_group": "chatgpt openai",
       "match_count": 4,
       "titles": [
@@ -510,59 +586,6 @@
       ]
     },
     {
-      "keyword_group": "以色列",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "阿根廷总统米莱会见了以色列外交部长。",
-          "url": "https://flash.jin10.com/detail/20251126021927594800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            9,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时37分 ~ 04时28分]"
-        },
-        {
-          "title": "据以色列媒体：以色列总理内塔尼亚胡考虑解除卡茨的国防部长职务，并任命吉迪恩·萨尔接任。",
-          "url": "https://flash.jin10.com/detail/20251126014917049800",
-          "source": "金十数据",
-          "ranks": [
-            19,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时37分 ~ 03时21分]"
-        },
-        {
-          "title": "以色列总理表示，以色列已从红十字会接收了已故人质的棺椁。",
-          "url": "https://flash.jin10.com/detail/20251125234524953800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时33分"
-        },
-        {
-          "title": "以色列国防军：已结束为期两天的突击演习，检验了所有军方最高指挥部的运作情况。",
-          "url": "https://flash.jin10.com/detail/20251126011241736800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时24分"
-        }
-      ]
-    },
-    {
       "keyword_group": "美债",
       "match_count": 3,
       "titles": [
@@ -604,6 +627,34 @@
       ]
     },
     {
+      "keyword_group": "金价",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "金十图示：2025年11月26日（周三）上海金早盘价为943.33元/克，较国际金价(947.78元/克)，低4.45元/克",
+          "url": "https://flash.jin10.com/detail/20251126110130212800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时19分"
+        },
+        {
+          "title": "金价攀升至近两周高点，因美国降息押注增加",
+          "url": "https://flash.jin10.com/detail/20251126133310159800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时37分"
+        }
+      ]
+    },
+    {
       "keyword_group": "DeepSeek 梁文锋",
       "match_count": 1,
       "titles": [
@@ -613,23 +664,6 @@
           "source": "财联社热门",
           "ranks": [
             13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时19分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "金十图示：2025年11月26日（周三）上海金早盘价为943.33元/克，较国际金价(947.78元/克)，低4.45元/克",
-          "url": "https://flash.jin10.com/detail/20251126110130212800",
-          "source": "金十数据",
-          "ranks": [
-            7
           ],
           "is_new": false,
           "appearance_count": 1,
