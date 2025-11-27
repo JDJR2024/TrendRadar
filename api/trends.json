@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-28T03:20:06.959123+08:00",
-  "total_titles_processed": 449,
+  "generated_at": "2025-11-28T04:25:20.650981+08:00",
+  "total_titles_processed": 472,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "金十数据",
           "ranks": [
             6,
-            16
+            16,
+            21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时33分 ~ 03时20分]"
+          "appearance_count": 3,
+          "time_info": "[02时33分 ~ 04时25分]"
         },
         {
           "title": "伊朗最高领袖哈梅内伊：有关伊方间接地向美国发出讯息的传闻“完全是谎言”。",
@@ -25,22 +26,24 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             9,
-            18
+            18,
+            22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时33分 ~ 03时20分]"
+          "appearance_count": 3,
+          "time_info": "[02时33分 ~ 04时25分]"
         },
         {
           "title": "据华尔街日报：消息人士称，伊朗向真主党的资金正经由迪拜流动。",
           "url": "https://flash.jin10.com/detail/20251128022422215800",
           "source": "金十数据",
           "ranks": [
-            9
+            9,
+            14
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时20分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时20分 ~ 04时25分]"
         }
       ]
     },
@@ -57,8 +60,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时31分 ~ 03时20分]"
+          "appearance_count": 7,
+          "time_info": "[00时31分 ~ 04时25分]"
         },
         {
           "title": "一图看懂 | 谷歌TPU搅动AI“江湖”，它与英伟达GPU有何区别？",
@@ -69,8 +72,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时31分 ~ 03时20分]"
+          "appearance_count": 7,
+          "time_info": "[00时31分 ~ 04时25分]"
         }
       ]
     },
@@ -88,8 +91,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时31分 ~ 03时20分]"
+          "appearance_count": 7,
+          "time_info": "[00时31分 ~ 04时25分]"
         },
         {
           "title": "甲骨文股价反弹！华尔街\"抄底派\"料股价涨超90%，“现有估值几乎没考虑OpenAI业务”",
@@ -99,8 +102,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时31分 ~ 03时20分]"
+          "appearance_count": 7,
+          "time_info": "[00时31分 ~ 04时25分]"
         }
       ]
     },
@@ -116,8 +119,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时31分 ~ 03时20分]"
+          "appearance_count": 7,
+          "time_info": "[00时31分 ~ 04时25分]"
         },
         {
           "title": "四国外长声明：德国、意大利、法国和英国呼吁以色列遵守国际法，并保护被占领土上的巴勒斯坦人。",
@@ -144,8 +147,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时31分 ~ 03时20分]"
+          "appearance_count": 7,
+          "time_info": "[00时31分 ~ 04时25分]"
         }
       ]
     },
@@ -177,11 +180,12 @@
           "ranks": [
             3,
             13,
-            22
+            22,
+            26
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时21分 ~ 03时20分]"
+          "appearance_count": 4,
+          "time_info": "[01时21分 ~ 04时25分]"
         }
       ]
     }
