@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-29T00:31:21.210024+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2025-11-29T01:21:40.740245+08:00",
+  "total_titles_processed": 381,
   "failed_sources": [],
   "trends": [
     {
@@ -12,33 +12,36 @@
           "url": "https://wallstreetcn.com/articles/3760251",
           "source": "华尔街见闻",
           "ranks": [
-            3
+            3,
+            7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时31分"
+          "appearance_count": 2,
+          "time_info": "[00时31分 ~ 01时21分]"
         },
         {
           "title": "高盛交易员：进入12月之际美股格局已变得更加清晰",
           "url": "https://wallstreetcn.com/livenews/3012326",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            5,
+            25
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时31分"
+          "appearance_count": 2,
+          "time_info": "[00时31分 ~ 01时21分]"
         },
         {
           "title": "芝商所重启交易，美股指集体上涨，“黑五购物节”提振零售板块，白银、LME期铜创新高",
           "url": "https://wallstreetcn.com/articles/3760330",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时31分"
+          "appearance_count": 2,
+          "time_info": "[00时31分 ~ 01时21分]"
         },
         {
           "title": "美股三大期指小幅走高 CME交易中断引发关注 | 今夜看点",
@@ -48,8 +51,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时31分"
+          "appearance_count": 2,
+          "time_info": "[00时31分 ~ 01时21分]"
         },
         {
           "title": "行业ETF美股盘初多数走高，网络股指数ETF涨0.73%，可选消费ETF涨0.41%，全球科技股指数ETF涨0.21%，半导体ETF涨0.16%，医疗业ETF跌0.2%。",
@@ -65,6 +68,34 @@
       ]
     },
     {
+      "keyword_group": "以色列",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "真主党领导人：希望教宗的访问能够帮助阻止以色列对黎巴嫩的袭击。",
+          "url": "https://flash.jin10.com/detail/20251129010206438800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时21分"
+        },
+        {
+          "title": "真主党领导人：有权自行决定何时采取行动以回应以色列杀害组织军事首领的行为。",
+          "url": "https://flash.jin10.com/detail/20251129005757246800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时21分"
+        }
+      ]
+    },
+    {
       "keyword_group": "DeepSeek 梁文锋",
       "match_count": 1,
       "titles": [
@@ -73,11 +104,12 @@
           "url": "https://wallstreetcn.com/articles/3760294",
           "source": "华尔街见闻",
           "ranks": [
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时31分"
+          "appearance_count": 2,
+          "time_info": "[00时31分 ~ 01时21分]"
         }
       ]
     },
@@ -90,11 +122,12 @@
           "url": "https://www.zhihu.com/question/1977808179644605116",
           "source": "知乎",
           "ranks": [
-            6
+            6,
+            8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时31分"
+          "appearance_count": 2,
+          "time_info": "[00时31分 ~ 01时21分]"
         }
       ]
     }
