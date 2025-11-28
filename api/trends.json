@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-29T01:21:40.740245+08:00",
-  "total_titles_processed": 381,
+  "generated_at": "2025-11-29T02:34:01.105797+08:00",
+  "total_titles_processed": 428,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 5,
+      "match_count": 8,
       "titles": [
         {
           "title": "感恩节美股休市，美股指期货走平，欧股交投清淡，原油盘中闪跌",
@@ -16,8 +16,31 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时31分 ~ 01时21分]"
+          "appearance_count": 4,
+          "time_info": "[00时31分 ~ 02时34分]"
+        },
+        {
+          "title": "美股三大股指收涨 英特尔涨超10%",
+          "url": "https://flash.jin10.com/detail/20251129020833506800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时34分"
+        },
+        {
+          "title": "芝商所重启交易，美股指集体上涨，“黑五购物节”提振零售板块，白银、LME期铜创新高",
+          "url": "https://wallstreetcn.com/articles/3760330",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时31分 ~ 02时34分]"
         },
         {
           "title": "高盛交易员：进入12月之际美股格局已变得更加清晰",
@@ -32,27 +55,38 @@
           "time_info": "[00时31分 ~ 01时21分]"
         },
         {
-          "title": "芝商所重启交易，美股指集体上涨，“黑五购物节”提振零售板块，白银、LME期铜创新高",
-          "url": "https://wallstreetcn.com/articles/3760330",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时31分 ~ 01时21分]"
-        },
-        {
           "title": "美股三大期指小幅走高 CME交易中断引发关注 | 今夜看点",
           "url": "https://www.cls.cn/detail/2214556",
           "source": "财联社热门",
           "ranks": [
-            13
+            13,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时31分 ~ 01时21分]"
+          "appearance_count": 4,
+          "time_info": "[00时31分 ~ 02时34分]"
+        },
+        {
+          "title": "金十图示：2025年11月28日（周五）美股热门股票行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20251129013457427800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时34分"
+        },
+        {
+          "title": "金十图示：2025年11月28日（周五）热门中概股行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20251129013346097800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时34分"
         },
         {
           "title": "行业ETF美股盘初多数走高，网络股指数ETF涨0.73%，可选消费ETF涨0.41%，全球科技股指数ETF涨0.21%，半导体ETF涨0.16%，医疗业ETF跌0.2%。",
@@ -69,29 +103,81 @@
     },
     {
       "keyword_group": "以色列",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "真主党领导人：希望教宗的访问能够帮助阻止以色列对黎巴嫩的袭击。",
           "url": "https://flash.jin10.com/detail/20251129010206438800",
           "source": "金十数据",
           "ranks": [
-            5
+            5,
+            23
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时21分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时21分 ~ 02时34分]"
         },
         {
           "title": "真主党领导人：有权自行决定何时采取行动以回应以色列杀害组织军事首领的行为。",
           "url": "https://flash.jin10.com/detail/20251129005757246800",
           "source": "金十数据",
           "ranks": [
-            7
+            7,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时21分 ~ 02时34分]"
+        },
+        {
+          "title": "真主党领导人：黎巴嫩政府应制定应对以色列的计划。",
+          "url": "https://flash.jin10.com/detail/20251129012549711800",
+          "source": "金十数据",
+          "ranks": [
+            13
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时21分"
+          "time_info": "02时34分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "伊朗",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "伊朗外长与卡拉斯强调伊朗与欧洲各方继续保持联系和磋商，就地区和国际形势交换意见的重要性。",
+          "url": "https://flash.jin10.com/detail/20251129021355141800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时34分"
+        },
+        {
+          "title": "伊朗外长与欧盟外交与安全政策高级代表卡拉斯讨论了伊朗与欧盟的关系、地区和国际形势。",
+          "url": "https://flash.jin10.com/detail/20251129021305292800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时34分"
+        },
+        {
+          "title": "伊朗外长与欧盟外交与安全政策高级代表卡拉斯通话。",
+          "url": "https://flash.jin10.com/detail/20251129020024829800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时34分"
         }
       ]
     },
@@ -108,8 +194,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时31分 ~ 01时21分]"
+          "appearance_count": 4,
+          "time_info": "[00时31分 ~ 02时34分]"
         }
       ]
     },
@@ -126,8 +212,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时31分 ~ 01时21分]"
+          "appearance_count": 4,
+          "time_info": "[00时31分 ~ 02时34分]"
         }
       ]
     }
