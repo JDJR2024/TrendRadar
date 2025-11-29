@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-29T14:34:54.030167+08:00",
-  "total_titles_processed": 944,
+  "generated_at": "2025-11-29T15:22:57.185182+08:00",
+  "total_titles_processed": 984,
   "failed_sources": [],
   "trends": [
     {
@@ -42,8 +42,22 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时31分 ~ 14时34分]"
+          "appearance_count": 14,
+          "time_info": "[00时31分 ~ 15时22分]"
+        },
+        {
+          "title": "美股收盘：三大指数连涨五个交易日 英特尔股价暴升10%",
+          "url": "https://www.cls.cn/detail/2214656",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            11,
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[07时22分 ~ 15时22分]"
         },
         {
           "title": "美股三大股指收涨 英特尔涨超10%",
@@ -102,20 +116,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[04时27分 ~ 09时50分]"
-        },
-        {
-          "title": "美股收盘：三大指数连涨五个交易日 英特尔股价暴升10%",
-          "url": "https://www.cls.cn/detail/2214656",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            11,
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时22分 ~ 14时34分]"
         },
         {
           "title": "黄金ETF收涨超1.2%，和布油基金领跑美股大类资产类ETF，黄金ETF今年已涨超60%",
@@ -357,8 +357,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时50分 ~ 14时34分]"
+          "appearance_count": 6,
+          "time_info": "[09时50分 ~ 15时22分]"
         },
         {
           "title": "但斌发声：国内能对标谷歌的公司，我觉得可能只有两家",
@@ -369,8 +369,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时24分 ~ 14时34分]"
+          "appearance_count": 3,
+          "time_info": "[13时24分 ~ 15时22分]"
         }
       ]
     },
@@ -384,11 +384,12 @@
           "source": "抖音",
           "ranks": [
             14,
-            11
+            11,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时24分 ~ 14时34分]"
+          "appearance_count": 3,
+          "time_info": "[13时24分 ~ 15时22分]"
         },
         {
           "title": "金价",
