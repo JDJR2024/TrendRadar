@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-30T20:45:05.837501+08:00",
-  "total_titles_processed": 1141,
+  "generated_at": "2025-11-30T21:31:11.279941+08:00",
+  "total_titles_processed": 1178,
   "failed_sources": [],
   "trends": [
     {
@@ -40,11 +40,26 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            4
+            4,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时19分 ~ 20时45分]"
+          "appearance_count": 3,
+          "time_info": "[19时19分 ~ 21时31分]"
+        },
+        {
+          "title": "德国将在下周部署以色列的“箭-3”导弹防御系统，这是该系统首次在以色列境外使用，旨在拦截远程弹道导弹。",
+          "url": "https://flash.jin10.com/detail/20251130175641556800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            11,
+            19,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时24分 ~ 21时31分]"
         },
         {
           "title": "以色列国防军：以军击毙了4名从拉法东部的地下设施中出现的武装分子。",
@@ -66,24 +81,12 @@
           "source": "金十数据",
           "ranks": [
             1,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时19分 ~ 20时45分]"
-        },
-        {
-          "title": "德国将在下周部署以色列的“箭-3”导弹防御系统，这是该系统首次在以色列境外使用，旨在拦截远程弹道导弹。",
-          "url": "https://flash.jin10.com/detail/20251130175641556800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            11,
-            19
+            9,
+            14
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[18时24分 ~ 20时45分]"
+          "time_info": "[19时19分 ~ 21时31分]"
         },
         {
           "title": "以色列总理内塔尼亚胡：我个人的意愿是将法律程序进行到底。",
@@ -91,11 +94,12 @@
           "source": "金十数据",
           "ranks": [
             2,
-            10
+            10,
+            15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时19分 ~ 20时45分]"
+          "appearance_count": 3,
+          "time_info": "[19时19分 ~ 21时31分]"
         },
         {
           "title": "以色列媒体：伊朗在寻求恢复军力以及重新武装地区力量",
@@ -103,11 +107,12 @@
           "source": "金十数据",
           "ranks": [
             4,
-            12
+            12,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时19分 ~ 20时45分]"
+          "appearance_count": 3,
+          "time_info": "[19时19分 ~ 21时31分]"
         },
         {
           "title": "以色列总理内塔尼亚胡向以色列总统提出了赦免请求。",
@@ -115,22 +120,24 @@
           "source": "金十数据",
           "ranks": [
             6,
-            14
+            14,
+            19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时19分 ~ 20时45分]"
+          "appearance_count": 3,
+          "time_info": "[19时19分 ~ 21时31分]"
         },
         {
           "title": "以色列被指违反停火协议591次 致357人死亡",
           "url": "https://flash.jin10.com/detail/20251130190325979800",
           "source": "金十数据",
           "ranks": [
-            8
+            8,
+            13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时45分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时45分 ~ 21时31分]"
         }
       ]
     },
@@ -183,11 +190,12 @@
           "url": "https://search.bilibili.com/all?keyword=Gemini%E5%8D%87%E7%BA%A7%E4%BA%86%E5%93%AA%E4%BA%9B%E5%9C%B0%E6%96%B9",
           "source": "bilibili 热搜",
           "ranks": [
-            6
+            6,
+            26
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时44分 ~ 20时45分]"
+          "appearance_count": 4,
+          "time_info": "[20时44分 ~ 21时31分]"
         },
         {
           "title": "谷歌加冕“AI新王”之际 先进封装格局生变 EMIB何以接棒CoWoS？",
@@ -197,8 +205,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时44分 ~ 20时45分]"
+          "appearance_count": 4,
+          "time_info": "[20时44分 ~ 21时31分]"
         }
       ]
     },
@@ -237,11 +245,12 @@
           "source": "金十数据",
           "ranks": [
             5,
-            13
+            13,
+            18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时19分 ~ 20时45分]"
+          "appearance_count": 3,
+          "time_info": "[19时19分 ~ 21时31分]"
         },
         {
           "title": "伊朗萨汉德号军舰重新服役",
@@ -249,11 +258,12 @@
           "source": "金十数据",
           "ranks": [
             7,
-            15
+            15,
+            20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时19分 ~ 20时45分]"
+          "appearance_count": 3,
+          "time_info": "[19时19分 ~ 21时31分]"
         }
       ]
     },
@@ -277,8 +287,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时29分 ~ 20时45分]"
+          "appearance_count": 25,
+          "time_info": "[00时29分 ~ 21时31分]"
         },
         {
           "title": "大摩中国CIO调查：B端对千问和阿里云兴趣显著增加，预计三年内千问超越DeepSeek",
@@ -309,8 +319,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时29分 ~ 20时45分]"
+          "appearance_count": 9,
+          "time_info": "[16时29分 ~ 21时31分]"
         }
       ]
     },
