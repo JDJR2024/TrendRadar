@@ -1,12 +1,25 @@
 {
-  "generated_at": "2025-11-30T10:04:51.968323+08:00",
-  "total_titles_processed": 542,
+  "generated_at": "2025-11-30T11:59:13.661952+08:00",
+  "total_titles_processed": 659,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "谷歌 google gemini",
       "match_count": 3,
       "titles": [
+        {
+          "title": "SemiAnalysis深度解读TPU--谷歌冲击“英伟达帝国”",
+          "url": "https://wallstreetcn.com/articles/3760377",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时29分 ~ 11时59分]"
+        },
         {
           "title": "但斌发声：国内能对标谷歌的公司，我觉得可能只有两家",
           "url": "https://wallstreetcn.com/articles/3760370",
@@ -20,28 +33,17 @@
           "time_info": "[00时29分 ~ 10时04分]"
         },
         {
-          "title": "SemiAnalysis深度解读TPU--谷歌冲击“英伟达帝国”",
-          "url": "https://wallstreetcn.com/articles/3760377",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时29分 ~ 10时04分]"
-        },
-        {
           "title": "TPU直通决赛圈！十年磨一芯 谷歌做对了什么？",
           "url": "https://www.cls.cn/detail/2214531",
           "source": "财联社热门",
           "ranks": [
             5,
-            7
+            7,
+            9
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时29分 ~ 10时04分]"
+          "appearance_count": 11,
+          "time_info": "[00时29分 ~ 11时59分]"
         }
       ]
     },
@@ -57,11 +59,12 @@
             5,
             4,
             3,
-            2
+            2,
+            13
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时29分 ~ 10时04分]"
+          "appearance_count": 11,
+          "time_info": "[00时29分 ~ 11时59分]"
         },
         {
           "title": "大摩中国CIO调查：B端对千问和阿里云兴趣显著增加，预计三年内千问超越DeepSeek",
@@ -88,11 +91,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             8,
-            20
+            20,
+            23
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时29分 ~ 10时04分]"
+          "appearance_count": 10,
+          "time_info": "[00时29分 ~ 11时59分]"
         },
         {
           "title": "以色列在加沙地带军事行动已致超7万人死亡",
@@ -134,11 +138,12 @@
           "source": "金十数据",
           "ranks": [
             3,
-            13
+            13,
+            24
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时29分 ~ 10时04分]"
+          "appearance_count": 10,
+          "time_info": "[00时29分 ~ 11时59分]"
         }
       ]
     }
