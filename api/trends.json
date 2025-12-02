@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-03T03:23:16.553579+08:00",
-  "total_titles_processed": 484,
+  "generated_at": "2025-12-03T04:31:02.386273+08:00",
+  "total_titles_processed": 507,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时35分 ~ 03时23分]"
+          "appearance_count": 6,
+          "time_info": "[00时35分 ~ 04时31分]"
         },
         {
           "title": "美股三大指数小幅高开 英伟达涨超1%",
@@ -27,8 +27,8 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时35分 ~ 03时23分]"
+          "appearance_count": 6,
+          "time_info": "[00时35分 ~ 04时31分]"
         },
         {
           "title": "美股三大期指集体走高 波音盘前涨超3% | 今夜看点",
@@ -38,8 +38,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时39分 ~ 03时23分]"
+          "appearance_count": 4,
+          "time_info": "[02时39分 ~ 04时31分]"
         },
         {
           "title": "英特尔(INTC.O)美股涨超8%。",
@@ -81,6 +81,20 @@
       "match_count": 5,
       "titles": [
         {
+          "title": "谷歌揭秘了AI竞赛的底牌",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32067068",
+          "source": "澎湃新闻",
+          "ranks": [
+            10,
+            11,
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时35分 ~ 04时31分]"
+        },
+        {
           "title": "市场消息：亚马逊紧急推出最新人工智能芯片，迎战英伟达和谷歌。",
           "url": "https://flash.jin10.com/detail/20251203000100879800",
           "source": "金十数据",
@@ -92,17 +106,15 @@
           "time_info": "00时35分"
         },
         {
-          "title": "谷歌揭秘了AI竞赛的底牌",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32067068",
-          "source": "澎湃新闻",
+          "title": "OpenAI拉响最高警报：谷歌模型威胁巨大 全力改进ChatGPT",
+          "url": "https://www.cls.cn/detail/2217188",
+          "source": "财联社热门",
           "ranks": [
-            10,
-            11,
-            12
+            13
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[00时35分 ~ 03时23分]"
+          "time_info": "[02时39分 ~ 04时31分]"
         },
         {
           "title": "亚马逊急推最新AI芯片，挑战英伟达和谷歌",
@@ -115,17 +127,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时35分 ~ 01时27分]"
-        },
-        {
-          "title": "OpenAI拉响最高警报：谷歌模型威胁巨大 全力改进ChatGPT",
-          "url": "https://www.cls.cn/detail/2217188",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时39分 ~ 03时23分]"
         },
         {
           "title": "OpenAI正开发大语言模型“Garlic”，紧盯谷歌公司近期动态。（The Information）",
@@ -152,11 +153,12 @@
             8,
             10,
             9,
-            5
+            5,
+            13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时35分 ~ 03时23分]"
+          "appearance_count": 6,
+          "time_info": "[00时35分 ~ 04时31分]"
         },
         {
           "title": "从DeepSeek“上新”看AI演进 大模型将成“全能管家”？",
@@ -167,8 +169,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时35分 ~ 03时23分]"
+          "appearance_count": 6,
+          "time_info": "[00时35分 ~ 04时31分]"
         },
         {
           "title": "DeepSeek新模型追平Gemini",
@@ -180,8 +182,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时35分 ~ 03时23分]"
+          "appearance_count": 6,
+          "time_info": "[00时35分 ~ 04时31分]"
         },
         {
           "title": "V3.2逼近Gemini 3，DeepSeek硬气喊话：接下来我要堆算力了",
@@ -192,8 +194,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时35分 ~ 03时23分]"
+          "appearance_count": 6,
+          "time_info": "[00时35分 ~ 04时31分]"
         }
       ]
     },
@@ -250,8 +252,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时35分 ~ 03时23分]"
+          "appearance_count": 6,
+          "time_info": "[00时35分 ~ 04时31分]"
         },
         {
           "title": "英伟达：还没有与OpenAI达成关于AI芯片的最终协议",
@@ -277,11 +279,12 @@
           "ranks": [
             12,
             7,
-            10
+            10,
+            5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时35分 ~ 03时23分]"
+          "appearance_count": 6,
+          "time_info": "[00时35分 ~ 04时31分]"
         }
       ]
     }
