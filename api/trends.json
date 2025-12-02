@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-02T20:53:55.052095+08:00",
-  "total_titles_processed": 1699,
+  "generated_at": "2025-12-02T21:40:56.802253+08:00",
+  "total_titles_processed": 1761,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 17,
+      "match_count": 18,
       "titles": [
         {
           "title": "美股三大期指集体下跌 比特币一度跌超7% | 今夜看点",
@@ -43,6 +43,17 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时34分 ~ 06时24分]"
+        },
+        {
+          "title": "波音美股盘前拉升，公司预计美国司法部的处罚程序将延续至2026年",
+          "url": "https://wallstreetcn.com/livenews/3013762",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时40分"
         },
         {
           "title": "金十图示：2025年12月01日（周一）热门中概股行情一览（美股收盘）",
@@ -211,6 +222,126 @@
       ]
     },
     {
+      "keyword_group": "以色列",
+      "match_count": 10,
+      "titles": [
+        {
+          "title": "市场消息：卡塔尔希望说服哈马斯和以色列“尽快”参加关于加沙问题的新一轮谈判。",
+          "url": "https://flash.jin10.com/detail/20251202185816389800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时24分"
+        },
+        {
+          "title": "以色列总统回应内塔尼亚胡赦免请求",
+          "url": "https://www.toutiao.com/trending/7578885361423351834/",
+          "source": "今日头条",
+          "ranks": [
+            14,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时55分 ~ 11时23分]"
+        },
+        {
+          "title": "以色列总理办公室：以色列总理内塔尼亚胡与美国总统特朗普讨论了致力于解除哈马斯武装、实现加沙非军事化，以及扩大和平协议的问题。",
+          "url": "https://flash.jin10.com/detail/20251202012755977800",
+          "source": "金十数据",
+          "ranks": [
+            13,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时40分 ~ 03时25分]"
+        },
+        {
+          "title": "美国总统特朗普：以色列与叙利亚保持强大而真诚的对话非常重要。",
+          "url": "https://flash.jin10.com/detail/20251201235722550800",
+          "source": "金十数据",
+          "ranks": [
+            14,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时34分 ~ 01时26分]"
+        },
+        {
+          "title": "以色列总理办公室：以色列总理内塔尼亚胡不久前与美国总统特朗普通话。特朗普已邀请内塔尼亚胡近期前往白宫。",
+          "url": "https://flash.jin10.com/detail/20251202012643895800",
+          "source": "金十数据",
+          "ranks": [
+            14,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时40分 ~ 03时25分]"
+        },
+        {
+          "title": "以色列总理内塔尼亚胡：我们决心保卫我们边境沿线的社区，包括北部边境。",
+          "url": "https://flash.jin10.com/detail/20251202205300598800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时40分"
+        },
+        {
+          "title": "以色列总理内塔尼亚胡：只要秉持善意和理解，与叙利亚方面达成协议是可能的。",
+          "url": "https://flash.jin10.com/detail/20251202205257258800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时40分"
+        },
+        {
+          "title": "以色列总理内塔尼亚胡：我们期望叙利亚建立非军事化缓冲区。",
+          "url": "https://flash.jin10.com/detail/20251202204852683800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时40分"
+        },
+        {
+          "title": "据以色列媒体报道，以色列总理与美国总统特朗普通话。",
+          "url": "https://flash.jin10.com/detail/20251202011542425800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时40分"
+        },
+        {
+          "title": "以色列总理内塔尼亚胡：如果各方表现出意愿，就有可能达成叙利亚协议。",
+          "url": "https://flash.jin10.com/detail/20251202204634547800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时40分"
+        }
+      ]
+    },
+    {
       "keyword_group": "DeepSeek 梁文锋",
       "match_count": 9,
       "titles": [
@@ -238,8 +369,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时34分 ~ 20时53分]"
+          "appearance_count": 24,
+          "time_info": "[00时34分 ~ 21时40分]"
         },
         {
           "title": "DeepSeek发布V3.2系列模型，强化Agent能力，推理能力追平GPT-5",
@@ -270,8 +401,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[09时55分 ~ 20时53分]"
+          "appearance_count": 14,
+          "time_info": "[09时55分 ~ 21时40分]"
         },
         {
           "title": "DeepSeek新模型追平Gemini",
@@ -285,8 +416,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[09时55分 ~ 20时53分]"
+          "appearance_count": 14,
+          "time_info": "[09时55分 ~ 21时40分]"
         },
         {
           "title": "DeepSeek同时发布两个正式版模型",
@@ -334,9 +465,9 @@
           "ranks": [
             10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时53分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时53分 ~ 21时40分]"
         }
       ]
     },
@@ -371,8 +502,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时25分 ~ 20时53分]"
+          "appearance_count": 9,
+          "time_info": "[13时25分 ~ 21时40分]"
         },
         {
           "title": "谷歌将Gemini 3人工智能模式引入谷歌搜索，覆盖近120个国家和地区。",
@@ -446,82 +577,6 @@
       ]
     },
     {
-      "keyword_group": "以色列",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "市场消息：卡塔尔希望说服哈马斯和以色列“尽快”参加关于加沙问题的新一轮谈判。",
-          "url": "https://flash.jin10.com/detail/20251202185816389800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时24分"
-        },
-        {
-          "title": "以色列总统回应内塔尼亚胡赦免请求",
-          "url": "https://www.toutiao.com/trending/7578885361423351834/",
-          "source": "今日头条",
-          "ranks": [
-            14,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时55分 ~ 11时23分]"
-        },
-        {
-          "title": "以色列总理办公室：以色列总理内塔尼亚胡与美国总统特朗普讨论了致力于解除哈马斯武装、实现加沙非军事化，以及扩大和平协议的问题。",
-          "url": "https://flash.jin10.com/detail/20251202012755977800",
-          "source": "金十数据",
-          "ranks": [
-            13,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时40分 ~ 03时25分]"
-        },
-        {
-          "title": "美国总统特朗普：以色列与叙利亚保持强大而真诚的对话非常重要。",
-          "url": "https://flash.jin10.com/detail/20251201235722550800",
-          "source": "金十数据",
-          "ranks": [
-            14,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时34分 ~ 01时26分]"
-        },
-        {
-          "title": "以色列总理办公室：以色列总理内塔尼亚胡不久前与美国总统特朗普通话。特朗普已邀请内塔尼亚胡近期前往白宫。",
-          "url": "https://flash.jin10.com/detail/20251202012643895800",
-          "source": "金十数据",
-          "ranks": [
-            14,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时40分 ~ 03时25分]"
-        },
-        {
-          "title": "据以色列媒体报道，以色列总理与美国总统特朗普通话。",
-          "url": "https://flash.jin10.com/detail/20251202011542425800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时40分"
-        }
-      ]
-    },
-    {
       "keyword_group": "金价",
       "match_count": 5,
       "titles": [
@@ -530,22 +585,24 @@
           "url": "https://flash.jin10.com/detail/20251202204252872800",
           "source": "金十数据",
           "ranks": [
-            1
+            1,
+            18
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时53分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时53分 ~ 21时40分]"
         },
         {
           "title": "德商银行：预计未来一年内金价将上涨至4400美元/盎司。",
           "url": "https://flash.jin10.com/detail/20251202204210323800",
           "source": "金十数据",
           "ranks": [
-            2
+            2,
+            19
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时53分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时53分 ~ 21时40分]"
         },
         {
           "title": "金十图示：2025年12月02日（周二）上海金早盘价为955.63元/克，较国际金价(959.69元/克)，低4.06元/克",
@@ -596,8 +653,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[11时22分 ~ 20时53分]"
+          "appearance_count": 13,
+          "time_info": "[11时22分 ~ 21时40分]"
         },
         {
           "title": "用户报告称，OpenAI出现诸多故障。（DownDetector）",
@@ -622,6 +679,35 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时34分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "摩根大通美债客户调查显示净多头占比创一个月新低",
+          "url": "https://wallstreetcn.com/livenews/3013760",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时40分"
+        },
+        {
+          "title": "中长期美债收益率涨约8个基点",
+          "url": "https://wallstreetcn.com/livenews/3013206",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时21分 ~ 06时24分]"
         }
       ]
     },
@@ -655,24 +741,6 @@
       ]
     },
     {
-      "keyword_group": "美债",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "中长期美债收益率涨约8个基点",
-          "url": "https://wallstreetcn.com/livenews/3013206",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时21分 ~ 06时24分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "人工智能 AI ChatGPT",
       "match_count": 1,
       "titles": [
@@ -681,11 +749,12 @@
           "url": "https://www.zhihu.com/question/1978921952010794441",
           "source": "知乎",
           "ranks": [
-            10
+            10,
+            6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时53分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时53分 ~ 21时40分]"
         }
       ]
     }
