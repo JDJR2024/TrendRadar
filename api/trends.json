@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-03T15:26:42.968161+08:00",
-  "total_titles_processed": 1309,
+  "generated_at": "2025-12-03T16:35:40.265920+08:00",
+  "total_titles_processed": 1429,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时54分 ~ 15时26分]"
+          "appearance_count": 9,
+          "time_info": "[09时54分 ~ 16时35分]"
         },
         {
           "title": "美日政策预期分化，美股指集体高开，金银油回落，加密货币止跌反弹，拍卖需求强劲推高日债",
@@ -218,8 +218,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时54分 ~ 15时26分]"
+          "appearance_count": 9,
+          "time_info": "[09时54分 ~ 16时35分]"
         },
         {
           "title": "谷歌揭秘了AI竞赛的底牌",
@@ -235,6 +235,20 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时35分 ~ 07时23分]"
+        },
+        {
+          "title": "谷歌 VS OpenAI：短短三年 “红色警报”发布方悄然互换！",
+          "url": "https://www.cls.cn/detail/2218001",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            9,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时32分 ~ 16时35分]"
         },
         {
           "title": "OpenAI拉响最高警报：谷歌模型威胁巨大 全力改进ChatGPT",
@@ -257,19 +271,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时35分"
-        },
-        {
-          "title": "谷歌 VS OpenAI：短短三年 “红色警报”发布方悄然互换！",
-          "url": "https://www.cls.cn/detail/2218001",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            9,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时32分 ~ 15时26分]"
         },
         {
           "title": "面对谷歌的挑战，英伟达和OpenAI谁更脆弱",
@@ -498,7 +499,7 @@
     },
     {
       "keyword_group": "以色列",
-      "match_count": 2,
+      "match_count": 4,
       "titles": [
         {
           "title": "以色列向德国移交“箭3”反导系统 创下该国最大防务出口记录",
@@ -513,15 +514,37 @@
           "time_info": "[14时38分 ~ 15时26分]"
         },
         {
+          "title": "以色列总理办公室：这是一次初步尝试，旨在为与黎巴嫩建立关系和经济合作奠定基础。",
+          "url": "https://flash.jin10.com/detail/20251203161741631800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时35分"
+        },
+        {
           "title": "以色列总理办公室：哈马斯周二移交的遗体并非加沙人质。",
           "url": "https://flash.jin10.com/detail/20251203140827635800",
           "source": "金十数据",
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时26分"
+        },
+        {
+          "title": "以色列总理内塔尼亚胡将派一名代表参加黎巴嫩政府官员举行的一次会议。",
+          "url": "https://flash.jin10.com/detail/20251203160913714800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时35分"
         }
       ]
     },
@@ -553,7 +576,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时26分"
         }
