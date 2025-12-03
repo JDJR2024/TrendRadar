@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-03T13:25:20.416677+08:00",
-  "total_titles_processed": 1152,
+  "generated_at": "2025-12-03T14:38:21.684653+08:00",
+  "total_titles_processed": 1229,
   "failed_sources": [],
   "trends": [
     {
@@ -28,8 +28,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时54分 ~ 13时25分]"
+          "appearance_count": 7,
+          "time_info": "[09时54分 ~ 14时38分]"
         },
         {
           "title": "美股收盘：三大指数震荡收高 光通信牛股再创新高",
@@ -41,8 +41,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时23分 ~ 13时25分]"
+          "appearance_count": 8,
+          "time_info": "[07时23分 ~ 14时38分]"
         },
         {
           "title": "美股三大期指集体走高 波音盘前涨超3% | 今夜看点",
@@ -218,8 +218,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时54分 ~ 13时25分]"
+          "appearance_count": 7,
+          "time_info": "[09时54分 ~ 14时38分]"
         },
         {
           "title": "谷歌揭秘了AI竞赛的底牌",
@@ -264,11 +264,12 @@
           "source": "财联社热门",
           "ranks": [
             12,
-            9
+            9,
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时32分 ~ 13时25分]"
+          "appearance_count": 4,
+          "time_info": "[12时32分 ~ 14时38分]"
         },
         {
           "title": "面对谷歌的挑战，英伟达和OpenAI谁更脆弱",
@@ -509,6 +510,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时21分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "以色列",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "以色列向德国移交“箭3”反导系统 创下该国最大防务出口记录",
+          "url": "https://flash.jin10.com/detail/20251203140712862800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时38分"
         }
       ]
     },
