@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-04T11:23:54.425923+08:00",
-  "total_titles_processed": 900,
+  "generated_at": "2025-12-04T12:35:06.712291+08:00",
+  "total_titles_processed": 1030,
   "failed_sources": [],
   "trends": [
     {
@@ -34,27 +34,29 @@
           "time_info": "[00时35分 ~ 06时25分]"
         },
         {
-          "title": "美股机器人板块整体走强 据称美国政府已准备布局这一领域",
-          "url": "https://www.cls.cn/detail/2218940",
-          "source": "财联社热门",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时55分 ~ 11时23分]"
-        },
-        {
           "title": "美股收盘：三大指数艰难冲刺新高 有色、机器人板块走强",
           "url": "https://www.cls.cn/detail/2218975",
           "source": "财联社热门",
           "ranks": [
             7,
-            5
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[07时21分 ~ 12时35分]"
+        },
+        {
+          "title": "美股机器人板块整体走强 据称美国政府已准备布局这一领域",
+          "url": "https://www.cls.cn/detail/2218940",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            2
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[07时21分 ~ 11时23分]"
+          "time_info": "[09时55分 ~ 12时35分]"
         },
         {
           "title": "美国11月ADP就业减少3.2万 美股三大期指集体上涨 | 今夜看点",
@@ -368,11 +370,12 @@
           "url": "https://www.cls.cn/detail/2219026",
           "source": "财联社热门",
           "ranks": [
-            12
+            12,
+            10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时23分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时23分 ~ 12时35分]"
         }
       ]
     },
@@ -482,7 +485,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时23分"
         }
