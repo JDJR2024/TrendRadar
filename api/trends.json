@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-04T20:54:30.138134+08:00",
-  "total_titles_processed": 1749,
+  "generated_at": "2025-12-04T21:40:23.350851+08:00",
+  "total_titles_processed": 1820,
   "failed_sources": [],
   "trends": [
     {
@@ -276,8 +276,19 @@
     },
     {
       "keyword_group": "以色列",
-      "match_count": 7,
+      "match_count": 10,
       "titles": [
+        {
+          "title": "据以色列军电台：安全消息人士称，加沙地带反哈马斯领导人亚瑟·阿布·沙巴布遭遇袭击，被送往以色列南部一家医院，最终因伤势过重死亡。",
+          "url": "https://flash.jin10.com/detail/20251204211031663800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时40分"
+        },
         {
           "title": "以色列总理办公室表示，各方已同意举行后续讨论。",
           "url": "https://flash.jin10.com/detail/20251204014835158800",
@@ -318,6 +329,17 @@
           "time_info": "[02时38分 ~ 04时29分]"
         },
         {
+          "title": "以色列国防军：开始对黎巴嫩南部的真主党恐怖目标进行空袭。",
+          "url": "https://flash.jin10.com/detail/20251204210807030800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时40分"
+        },
+        {
           "title": "以色列总理办公室：以色列确认从加沙接收的被扣押人质遗体为一泰国公民。",
           "url": "https://flash.jin10.com/detail/20251204122816223800",
           "source": "金十数据",
@@ -335,7 +357,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时54分"
         },
@@ -346,9 +368,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时54分"
+        },
+        {
+          "title": "以色列央行行长Yaron敦促批准2026年占GDP 3.6%的赤字预算案。",
+          "url": "https://flash.jin10.com/detail/20251204203317543800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时40分"
         },
         {
           "title": "以色列总理内塔尼亚胡决定任命军事秘书戈夫曼为下一任摩萨德局长",
@@ -357,7 +390,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时54分"
         }
@@ -500,8 +533,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时30分 ~ 20时54分]"
+          "appearance_count": 7,
+          "time_info": "[17时30分 ~ 21时40分]"
         }
       ]
     },
@@ -591,7 +624,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时54分"
         }
@@ -608,7 +641,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时54分"
         }
@@ -625,7 +658,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时54分"
         }
