@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-05T12:33:44.271155+08:00",
-  "total_titles_processed": 975,
+  "generated_at": "2025-12-05T13:25:47.202183+08:00",
+  "total_titles_processed": 1072,
   "failed_sources": [],
   "trends": [
     {
@@ -33,8 +33,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时23分 ~ 12时33分]"
+          "appearance_count": 6,
+          "time_info": "[07时23分 ~ 13时25分]"
         },
         {
           "title": "金十图示：2025年12月04日（周四）美股热门股票行情一览（美股收盘）",
@@ -213,8 +213,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时36分 ~ 12时33分]"
+          "appearance_count": 16,
+          "time_info": "[00时36分 ~ 13时25分]"
         },
         {
           "title": "美股涨势消减，小盘股指逼近历史高点，美债比特币下挫，铜价回落",
@@ -225,8 +225,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时56分 ~ 12时33分]"
+          "appearance_count": 4,
+          "time_info": "[09时56分 ~ 13时25分]"
         },
         {
           "title": "美股徘徊历史高点边缘，小盘股指逼近历史高点，美债比特币下挫，铜价回落",
@@ -262,6 +262,60 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时25分 ~ 06时22分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "以色列",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "以色列国防部长办公室：以色列2026年国防预算将达1120亿以色列谢克尔。",
+          "url": "https://flash.jin10.com/detail/20251205130732554800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时25分"
+        },
+        {
+          "title": "荷兰广播公司AVROTROS表示，由于以色列将参加2026年欧洲歌唱大赛，荷兰将抵制该赛事。",
+          "url": "https://flash.jin10.com/detail/20251205012946538800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            17,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时39分 ~ 04时29分]"
+        },
+        {
+          "title": "据日经新闻：特朗普政府将在即将发布的国防战略中，将韩国和以色列突出为“模范盟友”。",
+          "url": "https://flash.jin10.com/detail/20251205030602292800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时29分 ~ 05时25分]"
+        },
+        {
+          "title": "以色列总理办公室表示，以色列代表团周四在开罗与加沙停火调解方举行会谈，商讨立即遣返仍被扣押在加沙的最后一名人质事宜。",
+          "url": "https://flash.jin10.com/detail/20251205020854354800",
+          "source": "金十数据",
+          "ranks": [
+            10,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时22分 ~ 04时29分]"
         }
       ]
     },
@@ -307,49 +361,6 @@
       ]
     },
     {
-      "keyword_group": "以色列",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "荷兰广播公司AVROTROS表示，由于以色列将参加2026年欧洲歌唱大赛，荷兰将抵制该赛事。",
-          "url": "https://flash.jin10.com/detail/20251205012946538800",
-          "source": "金十数据",
-          "ranks": [
-            7,
-            17,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时39分 ~ 04时29分]"
-        },
-        {
-          "title": "据日经新闻：特朗普政府将在即将发布的国防战略中，将韩国和以色列突出为“模范盟友”。",
-          "url": "https://flash.jin10.com/detail/20251205030602292800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时29分 ~ 05时25分]"
-        },
-        {
-          "title": "以色列总理办公室表示，以色列代表团周四在开罗与加沙停火调解方举行会谈，商讨立即遣返仍被扣押在加沙的最后一名人质事宜。",
-          "url": "https://flash.jin10.com/detail/20251205020854354800",
-          "source": "金十数据",
-          "ranks": [
-            10,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时22分 ~ 04时29分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "DeepSeek 梁文锋",
       "match_count": 2,
       "titles": [
@@ -361,11 +372,12 @@
             4,
             5,
             9,
-            12
+            12,
+            16
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时36分 ~ 12时33分]"
+          "appearance_count": 16,
+          "time_info": "[00时36分 ~ 13时25分]"
         },
         {
           "title": "摩根大通：DeepSeek V3.2为中国AI市场带来第二波冲击 利好多数相关方",
@@ -489,11 +501,12 @@
           "source": "澎湃新闻",
           "ranks": [
             16,
-            17
+            17,
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时23分 ~ 12时33分]"
+          "appearance_count": 3,
+          "time_info": "[11时23分 ~ 13时25分]"
         }
       ]
     },
@@ -511,8 +524,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时56分 ~ 12时33分]"
+          "appearance_count": 4,
+          "time_info": "[09时56分 ~ 13时25分]"
         }
       ]
     }
