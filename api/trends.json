@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-06T22:21:14.378457+08:00",
-  "total_titles_processed": 1532,
+  "generated_at": "2025-12-06T23:22:51.601152+08:00",
+  "total_titles_processed": 1582,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[09时49分 ~ 22时21分]"
+          "appearance_count": 20,
+          "time_info": "[09时49分 ~ 23时22分]"
         },
         {
           "title": "大空头Burry警告美股将重演“2000年”熊市：资本开支逼近顶峰，两年足够AI泡沫破灭！",
@@ -48,8 +48,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[07时23分 ~ 22时21分]"
+          "appearance_count": 21,
+          "time_info": "[07时23分 ~ 23时22分]"
         },
         {
           "title": "美股指小幅收高，纳指四连涨，白银盘中新高，黄金与比特币承压",
@@ -207,7 +207,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "预计下周二！OpenAI“紧急提前”发布GPT 5.2，应对Gemini 3的火爆",
@@ -216,11 +216,12 @@
           "ranks": [
             9,
             7,
-            6
+            6,
+            4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[17时23分 ~ 22时21分]"
+          "appearance_count": 11,
+          "time_info": "[17时23分 ~ 23时22分]"
         },
         {
           "title": "美国国土安全委员会：要求谷歌尽快但不迟于12月12日提供简报。",
@@ -278,6 +279,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时23分"
+        },
+        {
+          "title": "Anthropic CEO 暗讽谷歌、 OpenAI，认为深耕企业 AI 更具优势，如何评价其商业策略？",
+          "url": "https://www.zhihu.com/question/1979858915077404344",
+          "source": "知乎",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时22分"
         }
       ]
     },
@@ -346,11 +358,12 @@
           "ranks": [
             2,
             6,
-            15
+            15,
+            20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时46分 ~ 22时21分]"
+          "appearance_count": 4,
+          "time_info": "[20时46分 ~ 23时22分]"
         },
         {
           "title": "八国外长发表联合声明：反对以色列强制迁移加沙民众",
@@ -372,11 +385,12 @@
           "ranks": [
             11,
             15,
-            24
+            24,
+            29
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时46分 ~ 22时21分]"
+          "appearance_count": 4,
+          "time_info": "[20时46分 ~ 23时22分]"
         },
         {
           "title": "土耳其外交部长：加沙稳定部队的主要目标应是将以色列人和巴勒斯坦人隔离开来，使其分居于边界两侧。",
@@ -408,8 +422,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[12时28分 ~ 22时21分]"
+          "appearance_count": 18,
+          "time_info": "[12时28分 ~ 23时22分]"
         },
         {
           "title": "SpaceX估值超越OpenAI，成为美国第一大非上市公司",
@@ -499,6 +513,34 @@
       ]
     },
     {
+      "keyword_group": "世界杯 欧洲杯 亚洲杯",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "国际乒联混合团体世界杯，中国队 8-5 战胜日本，如何评价本场比赛？",
+          "url": "https://www.zhihu.com/question/1980629101996896446",
+          "source": "知乎",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时30分 ~ 18时24分]"
+        },
+        {
+          "title": "国际乒联混合团体世界杯，国乒 8-4 瑞典队，如何评价本场比赛？",
+          "url": "https://www.zhihu.com/question/1980690727324312412",
+          "source": "知乎",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时22分"
+        }
+      ]
+    },
+    {
       "keyword_group": "DeepSeek 梁文锋",
       "match_count": 1,
       "titles": [
@@ -509,11 +551,12 @@
           "ranks": [
             10,
             8,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[20时45分 ~ 22时21分]"
+          "appearance_count": 7,
+          "time_info": "[20时45分 ~ 23时22分]"
         }
       ]
     },
@@ -532,23 +575,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时24分 ~ 07时23分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "世界杯 欧洲杯 亚洲杯",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "国际乒联混合团体世界杯，中国队 8-5 战胜日本，如何评价本场比赛？",
-          "url": "https://www.zhihu.com/question/1980629101996896446",
-          "source": "知乎",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时30分 ~ 18时24分]"
         }
       ]
     }
