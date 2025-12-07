@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-08T06:22:44.793960+08:00",
-  "total_titles_processed": 422,
+  "generated_at": "2025-12-08T07:22:42.599346+08:00",
+  "total_titles_processed": 457,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             1,
             2,
-            4
+            4,
+            18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时26分 ~ 06时22分]"
+          "appearance_count": 4,
+          "time_info": "[04时26分 ~ 07时22分]"
         },
         {
           "title": "以色列总理内塔尼亚胡拒绝退出政坛换取赦免",
@@ -176,22 +177,24 @@
           "source": "金十数据",
           "ranks": [
             2,
-            13
+            13,
+            23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时20分 ~ 06时22分]"
+          "appearance_count": 3,
+          "time_info": "[05时20分 ~ 07时22分]"
         },
         {
           "title": "能源换和平 美国推动以色列重新与阿拉伯世界接轨",
           "url": "https://flash.jin10.com/detail/20251208045029506800",
           "source": "金十数据",
           "ranks": [
-            11
+            11,
+            21
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时22分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时22分 ~ 07时22分]"
         }
       ]
     },
@@ -247,8 +250,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时28分 ~ 06时22分]"
+          "appearance_count": 8,
+          "time_info": "[00时28分 ~ 07时22分]"
         }
       ]
     }
