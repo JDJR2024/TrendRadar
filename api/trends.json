@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-08T19:24:03.120945+08:00",
-  "total_titles_processed": 1490,
+  "generated_at": "2025-12-08T20:53:11.431796+08:00",
+  "total_titles_processed": 1573,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "以色列",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
         {
           "title": "叙利亚过渡政府外长：以色列是威胁叙稳定最危险因素",
@@ -195,75 +195,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时22分 ~ 07时22分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "欧莱雅将所持高德美股份增持至20%。",
-          "url": "https://wallstreetcn.com/livenews/3016758",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时41分 ~ 15时28分]"
         },
         {
-          "title": "摩根士丹利重申看好美股前景，因美联储降息预期",
-          "url": "https://wallstreetcn.com/livenews/3016884",
-          "source": "华尔街见闻-快讯",
+          "title": "以色列央行会议纪要：11月24日，以色列货币政策委员会全体4名委员一致投票决定将基准利率下调25个基点至4.25%。（外媒更正：非“6名”）",
+          "url": "https://flash.jin10.com/detail/20251208195043795800",
+          "source": "金十数据",
           "ranks": [
-            12,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时34分 ~ 18时29分]"
-        },
-        {
-          "title": "星展银行：2026年全球经济展望总体积极，需警惕美股回调等三大风险",
-          "url": "https://wallstreetcn.com/livenews/3016963",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
+            18
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时24分"
-        },
-        {
-          "title": "美股盘前，美光科技涨超1.4%，博通涨超1.3%，台积电涨近1.8%。",
-          "url": "https://wallstreetcn.com/livenews/3016879",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时34分"
-        },
-        {
-          "title": "摩根大通：美联储降息后美股涨势可能停滞",
-          "url": "https://wallstreetcn.com/livenews/3016901",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时29分"
+          "time_info": "20时53分"
         }
       ]
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "后浪卷死前浪？“谷歌链”年内涨幅已快接近“OpenAI链”的两倍",
@@ -280,6 +228,17 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[12时37分 ~ 18时29分]"
+        },
+        {
+          "title": "清洁能源公司NextEra Energy与谷歌宣布合作，开发多个数据中心。",
+          "url": "https://wallstreetcn.com/livenews/3016989",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时53分"
         },
         {
           "title": "谷歌(GOOG.O)计划到2027年生产超过500万个TPU以增加供应。",
@@ -314,6 +273,109 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时37分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "星展银行：2026年全球经济展望总体积极，需警惕美股回调等三大风险",
+          "url": "https://wallstreetcn.com/livenews/3016963",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时24分 ~ 20时53分]"
+        },
+        {
+          "title": "欧莱雅将所持高德美股份增持至20%。",
+          "url": "https://wallstreetcn.com/livenews/3016758",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时41分 ~ 15时28分]"
+        },
+        {
+          "title": "摩根士丹利重申看好美股前景，因美联储降息预期",
+          "url": "https://wallstreetcn.com/livenews/3016884",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时34分 ~ 18时29分]"
+        },
+        {
+          "title": "美股盘前，美光科技涨超1.4%，博通涨超1.3%，台积电涨近1.8%。",
+          "url": "https://wallstreetcn.com/livenews/3016879",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时34分"
+        },
+        {
+          "title": "摩根大通：美联储降息后美股涨势可能停滞",
+          "url": "https://wallstreetcn.com/livenews/3016901",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时29分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "OpenAI：ChatGPT目前每周服务超过8亿用户",
+          "url": "https://wallstreetcn.com/livenews/3016987",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时53分"
+        },
+        {
+          "title": "OpenAI调查：员工日均省时近1小时，企业采纳加速",
+          "url": "https://flash.jin10.com/detail/20251208200524592800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时53分"
+        },
+        {
+          "title": "OpenAI：ChatGPT目前每周服务超过8亿用户。",
+          "url": "https://flash.jin10.com/detail/20251208200328989800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时53分"
         }
       ]
     },
@@ -401,6 +463,23 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时28分 ~ 06时22分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "市场分析：美联储独立性受质疑将致美债收益率曲线趋陡",
+          "url": "https://flash.jin10.com/detail/20251208194142730800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时53分"
         }
       ]
     },
