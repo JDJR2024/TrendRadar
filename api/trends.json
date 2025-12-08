@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-08T12:38:04.158879+08:00",
-  "total_titles_processed": 853,
+  "generated_at": "2025-12-08T13:28:05.526177+08:00",
+  "total_titles_processed": 930,
   "failed_sources": [],
   "trends": [
     {
@@ -207,11 +207,12 @@
           "url": "https://www.cls.cn/detail/2222331",
           "source": "财联社热门",
           "ranks": [
-            12
+            12,
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时37分 ~ 12时38分]"
+          "appearance_count": 4,
+          "time_info": "[12时37分 ~ 13时28分]"
         },
         {
           "title": "谷歌(GOOG.O)计划到2027年生产超过500万个TPU以增加供应。",
@@ -287,8 +288,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时27分 ~ 12时38分]"
+          "appearance_count": 5,
+          "time_info": "[11时27分 ~ 13时28分]"
         }
       ]
     },
