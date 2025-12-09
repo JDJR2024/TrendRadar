@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-09T16:36:50.901724+08:00",
-  "total_titles_processed": 1437,
+  "generated_at": "2025-12-09T17:29:36.363822+08:00",
+  "total_titles_processed": 1534,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 18,
+      "match_count": 19,
       "titles": [
         {
           "title": "美股收盘：三大股指集体收跌 投资者等待美联储利率决议",
@@ -191,6 +191,17 @@
           "time_info": "07时24分"
         },
         {
+          "title": "美股盘前，英伟达延续昨日涨势，现涨超2%，英特尔涨超1%。热门中概股涨跌互现，阿里巴巴跌1%，百度跌3%。",
+          "url": "https://wallstreetcn.com/livenews/3017543",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时29分"
+        },
+        {
           "title": "美股收盘：三大股指收跌 特斯拉跌超3%",
           "url": "https://flash.jin10.com/detail/20251209050046236800",
           "source": "金十数据",
@@ -276,7 +287,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时36分"
         },
@@ -371,7 +382,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时36分"
         },
@@ -382,7 +393,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时36分"
         },
@@ -393,7 +404,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时36分"
         },
@@ -412,7 +423,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "金十图示：2025年12月09日（周二）上海金早盘价为949.8元/克，较国际金价(952.4元/克)，低2.6元/克",
@@ -446,6 +457,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时27分"
+        },
+        {
+          "title": "金价波动不大，市场关注鲍威尔讲话揭示后续路径",
+          "url": "https://flash.jin10.com/detail/20251209170958206800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时29分"
         },
         {
           "title": "美联储主席热门人选哈塞特隔夜意外发表“鹰派”表态，降息预期遭受打压，金价多头情绪大幅回落，后市情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅",
@@ -559,11 +581,12 @@
           "source": "知乎",
           "ranks": [
             16,
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时39分 ~ 16时36分]"
+          "appearance_count": 5,
+          "time_info": "[14时39分 ~ 17时29分]"
         }
       ]
     },
@@ -621,8 +644,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时55分 ~ 16时36分]"
+          "appearance_count": 10,
+          "time_info": "[09时55分 ~ 17时29分]"
         },
         {
           "title": "美债收益率冲高回落，投资者对美联储降息预期一度降温",
