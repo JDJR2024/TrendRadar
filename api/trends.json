@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-10T21:41:00.820362+08:00",
-  "total_titles_processed": 1936,
+  "generated_at": "2025-12-10T22:28:46.730926+08:00",
+  "total_titles_processed": 2012,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 15,
+      "match_count": 18,
       "titles": [
         {
           "title": "美利率决议前市场谨慎，劳动力数据提振美股上涨，现货白银突破60美元创新高，加密货币转涨",
@@ -44,6 +44,17 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时33分 ~ 09时58分]"
+        },
+        {
+          "title": "阿里巴巴美股盘前涨超4%，百度涨2.2%。",
+          "url": "https://wallstreetcn.com/livenews/3018495",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时28分"
         },
         {
           "title": "光掩模供应商Photronics美股盘前大涨15%，公司第一季度营收预期超出预期。",
@@ -128,6 +139,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时48分 ~ 07时24分]"
+        },
+        {
+          "title": "周三美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3018491",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时28分"
+        },
+        {
+          "title": "金十数据整理：每日美股市场要闻速递（2025-12-10）",
+          "url": "https://flash.jin10.com/detail/20251210214414427800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时28分"
         },
         {
           "title": "金十图示：2025年12月09日（周二）美股热门股票行情一览（美股收盘）",
@@ -249,6 +282,18 @@
           "time_info": "[02时34分 ~ 03时19分]"
         },
         {
+          "title": "Adobe：将Adobe Photoshop、Adobe Express、Adobe Acrobat直接引入ChatGPT。 将在接下来的几周内，继续为ChatGPT中的Adobe应用添加新功能。",
+          "url": "https://wallstreetcn.com/livenews/3018469",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时41分 ~ 22时28分]"
+        },
+        {
           "title": "OpenAI：任命Denise Dresser为首席营收官（CRO）。 Dresser近期主要担任Slack的首席执行官（CEO）。",
           "url": "https://wallstreetcn.com/livenews/3017848",
           "source": "华尔街见闻-快讯",
@@ -259,17 +304,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时19分 ~ 04时26分]"
-        },
-        {
-          "title": "Adobe：将Adobe Photoshop、Adobe Express、Adobe Acrobat直接引入ChatGPT。 将在接下来的几周内，继续为ChatGPT中的Adobe应用添加新功能。",
-          "url": "https://wallstreetcn.com/livenews/3018469",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时41分"
         },
         {
           "title": "市场消息：OpenAI与Linux基金会共同创立了Agentic AI基金会。",
@@ -289,7 +323,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时41分"
         },
@@ -322,7 +356,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时41分"
         }
@@ -398,7 +432,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时41分"
         },
@@ -427,8 +461,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[09时58分 ~ 21时41分]"
+          "appearance_count": 16,
+          "time_info": "[09时58分 ~ 22时28分]"
         },
         {
           "title": "三大美股指跌，H200消息刺激英伟达反弹，美债收益率两个月来新高，伦铜续创新高",
