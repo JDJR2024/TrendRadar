@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-10T14:40:03.973990+08:00",
-  "total_titles_processed": 1298,
+  "generated_at": "2025-12-10T15:27:58.603310+08:00",
+  "total_titles_processed": 1381,
   "failed_sources": [],
   "trends": [
     {
@@ -297,8 +297,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时58分 ~ 14时40分]"
+          "appearance_count": 7,
+          "time_info": "[09时58分 ~ 15时27分]"
         },
         {
           "title": "美国国防部表示，已选择谷歌(GOOG.O)公司的Gemini for Government系统，为其约300万文职和军事雇员提供人工智能服务。",
@@ -371,8 +371,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时58分 ~ 14时40分]"
+          "appearance_count": 7,
+          "time_info": "[09时58分 ~ 15时27分]"
         },
         {
           "title": "美国10年期国债收益率短线从4.15%反弹至4.18%上方，在北京时间23:00发布美国职位空缺数据后刷新日高。 两年期美债收益率也从日低3.5628%附近拉升至3.6064%，刷新日高；“影子美联储主席”、白宫顾问哈塞特谈论美联储降息问题、自己对特朗普政策利率态度的看法并未带来“丝毫”波动。",
@@ -395,6 +395,35 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时04分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "金十图示：2025年12月10日（周三）上海金早盘价为953.31元/克，较国际金价(956.52元/克)，低3.21元/克",
+          "url": "https://flash.jin10.com/detail/20251210111107526800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时37分 ~ 12时37分]"
+        },
+        {
+          "title": "金十图示：2025年12月10日（周三）上海金午盘价为951.34元/克，较国际金价(954.44元/克)，低3.1元/克",
+          "url": "https://flash.jin10.com/detail/20251210150354627800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时27分"
         }
       ]
     },
@@ -450,20 +479,19 @@
       ]
     },
     {
-      "keyword_group": "金价",
+      "keyword_group": "伊朗",
       "match_count": 1,
       "titles": [
         {
-          "title": "金十图示：2025年12月10日（周三）上海金早盘价为953.31元/克，较国际金价(956.52元/克)，低3.21元/克",
-          "url": "https://flash.jin10.com/detail/20251210111107526800",
+          "title": "伊总统重申伊朗与委内瑞拉站在一起",
+          "url": "https://flash.jin10.com/detail/20251210151717145800",
           "source": "金十数据",
           "ranks": [
-            6,
-            28
+            5
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时37分 ~ 12时37分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时27分"
         }
       ]
     },
