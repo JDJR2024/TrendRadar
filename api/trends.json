@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-10T18:31:05.941420+08:00",
-  "total_titles_processed": 1671,
+  "generated_at": "2025-12-10T19:23:37.779942+08:00",
+  "total_titles_processed": 1750,
   "failed_sources": [],
   "trends": [
     {
@@ -285,7 +285,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "Gemini 3赢了下载却输了习惯？ChatGPT仍垄断90%移动端会话，日均打开超8次",
@@ -336,6 +336,17 @@
           "time_info": "01时25分"
         },
         {
+          "title": "谷歌：在印度推出谷歌AI Plus，定价为每月399卢比。",
+          "url": "https://flash.jin10.com/detail/20251210183721161800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时23分"
+        },
+        {
           "title": "谷歌云：推出由Gemini驱动的编码智能体AlphaEvolve，可用于设计高级算法，现已开启私密预览。",
           "url": "https://flash.jin10.com/detail/20251210023813881800",
           "source": "金十数据",
@@ -360,8 +371,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时58分 ~ 18时31分]"
+          "appearance_count": 12,
+          "time_info": "[09时58分 ~ 19时23分]"
         },
         {
           "title": "三大美股指跌，H200消息刺激英伟达反弹，美债收益率两个月来新高，伦铜续创新高",
@@ -395,6 +406,56 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时04分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "伊朗",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "伊总统重申伊朗与委内瑞拉站在一起",
+          "url": "https://flash.jin10.com/detail/20251210151717145800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时27分"
+        },
+        {
+          "title": "据黎巴嫩国家通讯社报道，黎巴嫩外交部长建议在第三国中立国与伊朗举行会谈。",
+          "url": "https://flash.jin10.com/detail/20251210182222746800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时23分"
+        },
+        {
+          "title": "黎巴嫩外交部长表示，婉拒伊朗的访问邀请并不意味着“拒绝讨论”，而是“当前尚不具备合适条件”。",
+          "url": "https://flash.jin10.com/detail/20251210181717842800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时23分"
+        },
+        {
+          "title": "据黎巴嫩国家通讯社报道，鉴于“当前形势”，黎巴嫩外交部长婉拒了伊朗访问德黑兰的邀请。",
+          "url": "https://flash.jin10.com/detail/20251210181615989800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时23分"
         }
       ]
     },
@@ -486,23 +547,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时33分 ~ 06时48分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "伊朗",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "伊总统重申伊朗与委内瑞拉站在一起",
-          "url": "https://flash.jin10.com/detail/20251210151717145800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时27分"
         }
       ]
     },
