@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-10T15:27:58.603310+08:00",
-  "total_titles_processed": 1381,
+  "generated_at": "2025-12-10T16:35:42.510637+08:00",
+  "total_titles_processed": 1485,
   "failed_sources": [],
   "trends": [
     {
@@ -371,8 +371,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时58分 ~ 15时27分]"
+          "appearance_count": 8,
+          "time_info": "[09时58分 ~ 16时35分]"
         },
         {
           "title": "美国10年期国债收益率短线从4.15%反弹至4.18%上方，在北京时间23:00发布美国职位空缺数据后刷新日高。 两年期美债收益率也从日低3.5628%附近拉升至3.6064%，刷新日高；“影子美联储主席”、白宫顾问哈塞特谈论美联储降息问题、自己对特朗普政策利率态度的看法并未带来“丝毫”波动。",
@@ -421,7 +421,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时27分"
         }
@@ -489,7 +489,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时27分"
         }
