@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-11T19:24:19.306392+08:00",
-  "total_titles_processed": 1824,
+  "generated_at": "2025-12-11T20:55:59.488462+08:00",
+  "total_titles_processed": 1945,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时59分 ~ 19时24分]"
+          "appearance_count": 11,
+          "time_info": "[09时59分 ~ 20时55分]"
         },
         {
           "title": "美股收盘：标普500逼近历史新高 市场对未来更多宽松寄予希望",
@@ -444,7 +444,7 @@
     },
     {
       "keyword_group": "美债",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "美利率决议前摩根大通拖累美股，盘中美债转跌、加密货币拉升，白银首次突破60美元",
@@ -501,6 +501,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时27分"
+        },
+        {
+          "title": "机构：高赤字削弱长期美债吸引力",
+          "url": "https://flash.jin10.com/detail/20251211200521105800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时55分"
         }
       ]
     },
@@ -642,6 +653,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时59分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "DeepSeek崩了",
+          "url": "https://s.weibo.com/weibo?q=DeepSeek%E5%B4%A9%E4%BA%86&t=31&band_rank=24&Refer=top",
+          "source": "微博",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时55分"
         }
       ]
     },
