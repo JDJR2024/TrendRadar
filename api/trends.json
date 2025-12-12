@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-12T17:30:46.475874+08:00",
-  "total_titles_processed": 1613,
+  "generated_at": "2025-12-12T18:29:08.243908+08:00",
+  "total_titles_processed": 1709,
   "failed_sources": [],
   "trends": [
     {
@@ -28,8 +28,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时37分 ~ 17时30分]"
+          "appearance_count": 9,
+          "time_info": "[12时37分 ~ 18时29分]"
         },
         {
           "title": "美联储重新任命11位地区联储主席 OpenAI发布更先进模型GPT-5.2 | 环球市场",
@@ -494,11 +494,12 @@
           "ranks": [
             7,
             6,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时38分 ~ 17时30分]"
+          "appearance_count": 11,
+          "time_info": "[11时38分 ~ 18时29分]"
         },
         {
           "title": "摩根大通：将谷歌母公司Alphabet目标价由340美元上调至385美元。",
@@ -507,7 +508,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时30分"
         },
