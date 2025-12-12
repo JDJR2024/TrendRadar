@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-12T15:28:40.400733+08:00",
-  "total_titles_processed": 1407,
+  "generated_at": "2025-12-12T16:36:27.548068+08:00",
+  "total_titles_processed": 1529,
   "failed_sources": [],
   "trends": [
     {
@@ -53,8 +53,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时37分 ~ 15时28分]"
+          "appearance_count": 5,
+          "time_info": "[12时37分 ~ 16时36分]"
         },
         {
           "title": "全面解析ChatGPT5.2",
@@ -493,11 +493,12 @@
           "source": "华尔街见闻",
           "ranks": [
             7,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时38分 ~ 15时28分]"
+          "appearance_count": 7,
+          "time_info": "[11时38分 ~ 16时36分]"
         },
         {
           "title": "谷歌(GOOG.O)：开源一个新的网络研究代理基准，DEEPSEARCHQA，旨在测试代理在网络研究任务上的全面性。",
@@ -598,7 +599,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时28分"
         },
@@ -792,7 +793,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时28分"
         }
