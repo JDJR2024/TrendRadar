@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-13T17:24:29.529236+08:00",
-  "total_titles_processed": 1160,
+  "generated_at": "2025-12-13T18:24:50.090573+08:00",
+  "total_titles_processed": 1237,
   "failed_sources": [],
   "trends": [
     {
@@ -20,8 +20,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[07时23分 ~ 17时24分]"
+          "appearance_count": 16,
+          "time_info": "[07时23分 ~ 18时24分]"
         },
         {
           "title": "ChatGPT5.2有哪些新升级",
@@ -144,8 +144,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[06时25分 ~ 17时24分]"
+          "appearance_count": 17,
+          "time_info": "[06时25分 ~ 18时24分]"
         },
         {
           "title": "AI担忧加剧压垮美股，纳指跌超2%，博通跌超10%，白银创新高后跳水，期银跌超5%",
@@ -329,6 +329,83 @@
       ]
     },
     {
+      "keyword_group": "伊朗",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "据伊朗国家媒体报道，伊朗在阿曼湾查获一艘载有600万升走私柴油的外国油轮。",
+          "url": "https://flash.jin10.com/detail/20251213035649501800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[04时29分 ~ 09时52分]"
+        },
+        {
+          "title": "伊朗媒体称，在阿曼湾被扣押的外国油轮的18名船员因涉嫌运输“走私燃料”而被拘留。",
+          "url": "https://flash.jin10.com/detail/20251213151317078800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            7,
+            12,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时26分 ~ 18时24分]"
+        },
+        {
+          "title": "美军被曝突袭从中国驶往伊朗货轮",
+          "url": "https://news.ifeng.com/c/8p3AEA1kMQ6",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时30分 ~ 18时24分]"
+        },
+        {
+          "title": "据伊朗伊斯兰共和国通讯社（IRNA）：伊朗与巴基斯坦表态致力于深化双边关系，加速推进各项合作协议。",
+          "url": "https://flash.jin10.com/detail/20251213165710609800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时24分 ~ 18时24分]"
+        },
+        {
+          "title": "伊朗在阿曼湾扣押涉嫌走私油轮，地区水域紧张局势持续",
+          "url": "https://flash.jin10.com/detail/20251213173551399800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时24分"
+        },
+        {
+          "title": "美军被曝突袭从中国驶往伊朗货轮",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%86%9B%E8%A2%AB%E6%9B%9D%E7%AA%81%E8%A2%AD%E4%BB%8E%E4%B8%AD%E5%9B%BD%E9%A9%B6%E5%BE%80%E4%BC%8A%E6%9C%97%E8%B4%A7%E8%BD%AE",
+          "source": "百度热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时36分"
+        }
+      ]
+    },
+    {
       "keyword_group": "以色列",
       "match_count": 5,
       "titles": [
@@ -388,73 +465,9 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时24分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "伊朗",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "据伊朗国家媒体报道，伊朗在阿曼湾查获一艘载有600万升走私柴油的外国油轮。",
-          "url": "https://flash.jin10.com/detail/20251213035649501800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[04时29分 ~ 09时52分]"
-        },
-        {
-          "title": "据伊朗伊斯兰共和国通讯社（IRNA）：伊朗与巴基斯坦表态致力于深化双边关系，加速推进各项合作协议。",
-          "url": "https://flash.jin10.com/detail/20251213165710609800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时24分"
-        },
-        {
-          "title": "伊朗媒体称，在阿曼湾被扣押的外国油轮的18名船员因涉嫌运输“走私燃料”而被拘留。",
-          "url": "https://flash.jin10.com/detail/20251213151317078800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            7,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时26分 ~ 17时24分]"
-        },
-        {
-          "title": "美军被曝突袭从中国驶往伊朗货轮",
-          "url": "https://news.ifeng.com/c/8p3AEA1kMQ6",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时30分 ~ 17时24分]"
-        },
-        {
-          "title": "美军被曝突袭从中国驶往伊朗货轮",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%86%9B%E8%A2%AB%E6%9B%9D%E7%AA%81%E8%A2%AD%E4%BB%8E%E4%B8%AD%E5%9B%BD%E9%A9%B6%E5%BE%80%E4%BC%8A%E6%9C%97%E8%B4%A7%E8%BD%AE",
-          "source": "百度热搜",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时36分"
         }
       ]
     },
