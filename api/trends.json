@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-13T11:20:06.345008+08:00",
-  "total_titles_processed": 802,
+  "generated_at": "2025-12-13T12:31:15.619998+08:00",
+  "total_titles_processed": 889,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时32分 ~ 11时20分]"
+          "appearance_count": 17,
+          "time_info": "[00时32分 ~ 12时31分]"
         },
         {
           "title": "AI交易再遭重挫！甲骨文据悉将部分OpenAI数据中心项目推迟至2028年",
@@ -24,11 +24,12 @@
           "source": "财联社热门",
           "ranks": [
             11,
-            5
+            5,
+            7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时23分 ~ 11时20分]"
+          "appearance_count": 7,
+          "time_info": "[07时23分 ~ 12时31分]"
         },
         {
           "title": "甲骨文发言人声明：对OpenAI的（数据中心）“合同承诺”并没有推迟。 公司对承诺与项目扩建仍然有信心。",
@@ -151,8 +152,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[06时25分 ~ 11时20分]"
+          "appearance_count": 8,
+          "time_info": "[06时25分 ~ 12时31分]"
         },
         {
           "title": "美股盘中跌幅扩大，纳指跌超1.5%，博通跌超10%，铜银续创新高，现货黄金重新站上4300美元",
@@ -263,8 +264,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时32分 ~ 11时20分]"
+          "appearance_count": 17,
+          "time_info": "[00时32分 ~ 12时31分]"
         },
         {
           "title": "OpenAI发布GPT-5.2迎战Gemini，号称智能体编码最强，赶超人类专家，Altman料1月解除红色警报",
@@ -405,8 +406,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时52分 ~ 11时20分]"
+          "appearance_count": 5,
+          "time_info": "[09时52分 ~ 12时31分]"
         }
       ]
     },
