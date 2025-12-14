@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-15T06:23:06.662337+08:00",
-  "total_titles_processed": 428,
+  "generated_at": "2025-12-15T07:22:55.001582+08:00",
+  "total_titles_processed": 465,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时29分 ~ 06时23分]"
+          "appearance_count": 12,
+          "time_info": "[00时29分 ~ 07时22分]"
         },
         {
           "title": "以色列外交部：澳大利亚枪击事件中有一名以色列公民遇难。",
@@ -112,8 +112,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时29分 ~ 06时23分]"
+          "appearance_count": 12,
+          "time_info": "[00时29分 ~ 07时22分]"
         },
         {
           "title": "美联储降息大辩论：美债能否再创佳绩 全看本周非农脸色？",
@@ -121,11 +121,12 @@
           "source": "金十数据",
           "ranks": [
             3,
-            11
+            11,
+            24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时22分 ~ 06时23分]"
+          "appearance_count": 3,
+          "time_info": "[05时22分 ~ 07时22分]"
         }
       ]
     },
@@ -142,8 +143,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时29分 ~ 06时23分]"
+          "appearance_count": 12,
+          "time_info": "[00时29分 ~ 07时22分]"
         }
       ]
     }
