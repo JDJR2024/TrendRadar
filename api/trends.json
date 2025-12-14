@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-14T20:47:32.032337+08:00",
-  "total_titles_processed": 1265,
+  "generated_at": "2025-12-14T21:31:26.535265+08:00",
+  "total_titles_processed": 1315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "以色列",
-      "match_count": 22,
+      "match_count": 23,
       "titles": [
         {
           "title": "据以色列广播管理局：以色列安全部门消息人士称，刺杀哈马斯高级指挥官拉埃德·萨阿德的行动取得成功。",
@@ -110,37 +110,15 @@
           "time_info": "[00时30分 ~ 07时23分]"
         },
         {
-          "title": "以色列总理内塔尼亚胡：我们正在与全球反犹太主义作斗争，而对抗它的方式就是予以谴责并坚决打击。",
-          "url": "https://flash.jin10.com/detail/20251214200746432800",
+          "title": "以色列最高法院裁定，以色列总理内塔尼亚胡内阁罢免总检察长加利·巴哈拉夫-米亚拉的决定无效。",
+          "url": "https://flash.jin10.com/detail/20251214205840488800",
           "source": "金十数据",
           "ranks": [
             3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时47分"
-        },
-        {
-          "title": "以色列总理内塔尼亚胡：反犹主义是毒瘤，当领导人保持沉默时，它就会蔓延。",
-          "url": "https://flash.jin10.com/detail/20251214200735890800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时47分"
-        },
-        {
-          "title": "以色列总理内塔尼亚胡：我们将继续斗争，绝不允许反犹主义阻止我们。",
-          "url": "https://flash.jin10.com/detail/20251214200730576800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时47分"
+          "time_info": "21时31分"
         },
         {
           "title": "以色列总统谴责澳大利亚枪击事件，称其针对犹太社区",
@@ -149,11 +127,12 @@
           "ranks": [
             5,
             9,
-            14
+            14,
+            19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时25分 ~ 20时47分]"
+          "appearance_count": 4,
+          "time_info": "[18时25分 ~ 21时31分]"
         },
         {
           "title": "以色列外交部长萨尔：呼吁“将起义全球化”的声音今天已成为现实。",
@@ -168,6 +147,18 @@
           "time_info": "[18时25分 ~ 19时20分]"
         },
         {
+          "title": "以色列总理内塔尼亚胡：我们正在与全球反犹太主义作斗争，而对抗它的方式就是予以谴责并坚决打击。",
+          "url": "https://flash.jin10.com/detail/20251214200746432800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时47分 ~ 21时31分]"
+        },
+        {
           "title": "以色列外交部长萨尔：澳大利亚政府已收到无数警示信号，必须悬崖勒马。",
           "url": "https://flash.jin10.com/detail/20251214180719145800",
           "source": "金十数据",
@@ -180,6 +171,18 @@
           "time_info": "[18时25分 ~ 19时20分]"
         },
         {
+          "title": "以色列总理内塔尼亚胡：反犹主义是毒瘤，当领导人保持沉默时，它就会蔓延。",
+          "url": "https://flash.jin10.com/detail/20251214200735890800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时47分 ~ 21时31分]"
+        },
+        {
           "title": "以色列外交部长萨尔：（就悉尼邦迪滩光明节活动枪击事件表示）这些正是过去两年澳大利亚反犹太主义肆虐的后果。",
           "url": "https://flash.jin10.com/detail/20251214180710994800",
           "source": "金十数据",
@@ -190,6 +193,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[18时25分 ~ 19时20分]"
+        },
+        {
+          "title": "以色列总理内塔尼亚胡：我们将继续斗争，绝不允许反犹主义阻止我们。",
+          "url": "https://flash.jin10.com/detail/20251214200730576800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时47分 ~ 21时31分]"
         },
         {
           "title": "据以色列时报：哈马斯方面称，一名高级内部安全官员在加沙中部遭枪击身亡；一人被捕。",
@@ -210,9 +225,21 @@
           "ranks": [
             8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时47分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时47分 ~ 21时31分]"
+        },
+        {
+          "title": "以色列总统谴责澳大利亚枪击事件",
+          "url": "https://www.toutiao.com/trending/7583648692566114310/",
+          "source": "今日头条",
+          "ranks": [
+            16,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时47分 ~ 21时31分]"
         },
         {
           "title": "黎巴嫩卫生部：以色列无人机在黎巴嫩南部亚塔尔镇的空袭造成一人死亡、一人受伤。",
@@ -257,17 +284,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时25分"
-        },
-        {
-          "title": "以色列总统谴责澳大利亚枪击事件",
-          "url": "https://www.toutiao.com/trending/7583648692566114310/",
-          "source": "今日头条",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时47分"
         }
       ]
     },
@@ -426,6 +442,23 @@
       ]
     },
     {
+      "keyword_group": "金价",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "10月净买入49吨！央行购金依然强劲，高盛：“代币化黄金”目前还非金价主力",
+          "url": "https://wallstreetcn.com/articles/3761367",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时31分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美债",
       "match_count": 1,
       "titles": [
@@ -440,8 +473,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时25分 ~ 20时47分]"
+          "appearance_count": 9,
+          "time_info": "[13时25分 ~ 21时31分]"
         }
       ]
     }
