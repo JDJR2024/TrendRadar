@@ -1,23 +1,12 @@
 {
-  "generated_at": "2025-12-15T00:29:43.654381+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2025-12-15T01:21:01.947422+08:00",
+  "total_titles_processed": 346,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "以色列",
       "match_count": 7,
       "titles": [
-        {
-          "title": "以色列外交部：澳大利亚枪击事件中有一名以色列公民遇难。",
-          "url": "https://flash.jin10.com/detail/20251214223054302800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时29分"
-        },
         {
           "title": "以色列总统谴责澳大利亚枪击事件，称其针对犹太社区",
           "url": "https://news.ifeng.com/c/8p57UTct1ak",
@@ -26,8 +15,19 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时29分"
+          "appearance_count": 3,
+          "time_info": "[00时29分 ~ 01时21分]"
+        },
+        {
+          "title": "以色列外交部：澳大利亚枪击事件中有一名以色列公民遇难。",
+          "url": "https://flash.jin10.com/detail/20251214223054302800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时29分 ~ 01时21分]"
         },
         {
           "title": "以色列总理内塔尼亚胡称澳大利亚枪击事件为“冷血谋杀”。",
@@ -37,8 +37,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时29分"
+          "appearance_count": 2,
+          "time_info": "[00时29分 ~ 01时21分]"
         },
         {
           "title": "以色列总理内塔尼亚胡：已就反犹主义向澳大利亚总理发出警告。",
@@ -48,8 +48,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时29分"
+          "appearance_count": 2,
+          "time_info": "[00时29分 ~ 01时21分]"
         },
         {
           "title": "以色列广播管理局：摩萨德曾多次向澳大利亚发出警告，称其意图针对犹太社区。",
@@ -59,8 +59,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时29分"
+          "appearance_count": 2,
+          "time_info": "[00时29分 ~ 01时21分]"
         },
         {
           "title": "以色列最高法院裁定，以色列总理内塔尼亚胡内阁罢免总检察长加利·巴哈拉夫-米亚拉的决定无效。",
@@ -70,19 +70,20 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时29分"
+          "appearance_count": 2,
+          "time_info": "[00时29分 ~ 01时21分]"
         },
         {
           "title": "以色列总统谴责澳大利亚枪击事件，称其针对犹太社区",
           "url": "https://wallstreetcn.com/livenews/3020400",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            24
+            24,
+            27
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时29分"
+          "appearance_count": 2,
+          "time_info": "[00时29分 ~ 01时21分]"
         }
       ]
     },
@@ -98,8 +99,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时29分"
+          "appearance_count": 3,
+          "time_info": "[00时29分 ~ 01时21分]"
         }
       ]
     },
@@ -115,8 +116,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时29分"
+          "appearance_count": 3,
+          "time_info": "[00时29分 ~ 01时21分]"
         }
       ]
     }
