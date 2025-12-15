@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-15T19:24:55.174419+08:00",
-  "total_titles_processed": 1501,
+  "generated_at": "2025-12-15T20:57:00.807966+08:00",
+  "total_titles_processed": 1622,
   "failed_sources": [],
   "trends": [
     {
@@ -112,7 +112,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "特朗普各种打压之下，可再生能源板块“意外”成了美股大赢家",
@@ -180,6 +180,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[17时37分 ~ 18时32分]"
+        },
+        {
+          "title": "科技股抛压暂歇，美股指数期货小幅回血，贵金属集体大涨，黄金逼近历史新高，白银铂金大涨3%",
+          "url": "https://wallstreetcn.com/articles/3761417",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时56分 ~ 20时57分]"
         },
         {
           "title": "iRobot股价美股盘前暴跌82.5%，至0.76美元，此前公司已申请破产，并寻求收购制造商。",
@@ -250,7 +261,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "伊朗外交部：伊朗外长与白俄罗斯外长在明斯克会晤。",
@@ -263,6 +274,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[18时32分 ~ 19时24分]"
+        },
+        {
+          "title": "伊朗外交部：伊朗外长前往明斯克与白俄罗斯高级官员进行磋商，并于今天上午与白俄罗斯总统卢卡申科举行了会晤和会谈。会议上，白俄罗斯总统提到了非常良好的明斯克-德黑兰关系，强调白俄罗斯愿意在所有共同关心的领域，特别是在经济和商业领域发展和扩大关系。",
+          "url": "https://flash.jin10.com/detail/20251215203000883800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时57分"
         },
         {
           "title": "伊朗外交部：伊朗外长与白俄罗斯总统卢卡申科会面。",
