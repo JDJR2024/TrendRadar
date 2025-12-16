@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-16T07:25:28.161484+08:00",
-  "total_titles_processed": 662,
+  "generated_at": "2025-12-16T09:59:51.660469+08:00",
+  "total_titles_processed": 812,
   "failed_sources": [],
   "trends": [
     {
@@ -31,8 +31,21 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时22分 ~ 07时25分]"
+          "appearance_count": 12,
+          "time_info": "[01时22分 ~ 09时59分]"
+        },
+        {
+          "title": "美股收盘：AI概念股继续承压 三大指数集体收跌 特斯拉涨超3%",
+          "url": "https://www.cls.cn/detail/2230375",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时25分 ~ 09时59分]"
         },
         {
           "title": "金十图示：2025年12月15日（周一）热门中概股行情一览（美股收盘）",
@@ -45,18 +58,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时26分 ~ 06时25分]"
-        },
-        {
-          "title": "美股收盘：AI概念股继续承压 三大指数集体收跌 特斯拉涨超3%",
-          "url": "https://www.cls.cn/detail/2230375",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时25分 ~ 07时25分]"
         },
         {
           "title": "（美股）费城金银指数收跌0.41%，报336.35点。 （全球时段）纽约证交所ARCA金矿开采商指数收跌0.27%，报2398.34点。",
@@ -193,7 +194,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时25分"
         }
@@ -213,6 +214,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时27分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "金价",
+          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=21&Refer=top",
+          "source": "微博",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时59分"
         }
       ]
     },
