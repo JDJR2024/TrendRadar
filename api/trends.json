@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-18T15:27:29.057200+08:00",
-  "total_titles_processed": 1324,
+  "generated_at": "2025-12-18T16:35:44.940894+08:00",
+  "total_titles_processed": 1450,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[06时25分 ~ 15时27分]"
+          "appearance_count": 10,
+          "time_info": "[06时25分 ~ 16时35分]"
         },
         {
           "title": "市场静待更多数据，美股早盘震荡下挫，地缘政治扰动，原油重新站上60美元，金银铜铂钯齐涨，白银飙涨近4%再创新高",
@@ -337,8 +337,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时39分 ~ 15时27分]"
+          "appearance_count": 4,
+          "time_info": "[14时39分 ~ 16时35分]"
         },
         {
           "title": "AI新子弹要来了！报道称OpenAI正探讨“数百亿甚至1000亿美元融资”",
@@ -349,8 +349,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时39分 ~ 15时27分]"
+          "appearance_count": 4,
+          "time_info": "[14时39分 ~ 16时35分]"
         },
         {
           "title": "OpenAI董事长布雷特·泰勒表示，该公司的发展受限于算力资源的获取。",
@@ -406,6 +406,47 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时55分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "以色列",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "内塔尼亚胡批准以色列埃及天然气协议",
+          "url": "https://wallstreetcn.com/livenews/3022569",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时23分 ~ 04时31分]"
+        },
+        {
+          "title": "以色列总理内塔尼亚胡在一份声明中表示，批准了以色列和埃及历史上规模最大的天然气交易。",
+          "url": "https://flash.jin10.com/detail/20251218023109065800",
+          "source": "金十数据",
+          "ranks": [
+            15,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时23分 ~ 04时31分]"
+        },
+        {
+          "title": "以色列国防军：以军在黎巴嫩多个地区袭击了真主党的一个营地和多个军事设施。",
+          "url": "https://flash.jin10.com/detail/20251218161604458800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时35分"
         }
       ]
     },
@@ -477,39 +518,9 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时27分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "以色列",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "内塔尼亚胡批准以色列埃及天然气协议",
-          "url": "https://wallstreetcn.com/livenews/3022569",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时23分 ~ 04时31分]"
-        },
-        {
-          "title": "以色列总理内塔尼亚胡在一份声明中表示，批准了以色列和埃及历史上规模最大的天然气交易。",
-          "url": "https://flash.jin10.com/detail/20251218023109065800",
-          "source": "金十数据",
-          "ranks": [
-            15,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时23分 ~ 04时31分]"
         }
       ]
     },
