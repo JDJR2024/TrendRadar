@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-20T03:20:38.454422+08:00",
-  "total_titles_processed": 505,
+  "generated_at": "2025-12-20T04:28:55.384095+08:00",
+  "total_titles_processed": 556,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时32分 ~ 03时20分]"
+          "appearance_count": 5,
+          "time_info": "[00时32分 ~ 04时28分]"
         },
         {
           "title": "就在今天！史上最大规模期权到期，美股将迎来“疯狂一日”？",
@@ -28,8 +28,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时32分 ~ 03时20分]"
+          "appearance_count": 5,
+          "time_info": "[00时32分 ~ 04时28分]"
         },
         {
           "title": "美股温和上扬，“三重巫术日”将有创纪录的7.1万亿美元期权到期",
@@ -77,11 +77,12 @@
           "source": "百度热搜",
           "ranks": [
             28,
-            27
+            27,
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时36分 ~ 03时20分]"
+          "appearance_count": 3,
+          "time_info": "[02时36分 ~ 04时28分]"
         },
         {
           "title": "美国国务卿鲁比奥：如果哈马斯将来处于可以威胁或攻击以色列的地位，就别想有和平。",
@@ -133,11 +134,12 @@
           "url": "https://wallstreetcn.com/articles/3761690",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时22分 ~ 03时20分]"
+          "appearance_count": 4,
+          "time_info": "[01时22分 ~ 04时28分]"
         }
       ]
     },
@@ -153,8 +155,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时32分"
+          "appearance_count": 2,
+          "time_info": "[00时32分 ~ 04时28分]"
         }
       ]
     },
