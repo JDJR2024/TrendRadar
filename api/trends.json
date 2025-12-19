@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-20T02:36:34.274013+08:00",
-  "total_titles_processed": 456,
+  "generated_at": "2025-12-20T03:20:38.454422+08:00",
+  "total_titles_processed": 505,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "华尔街见闻",
           "ranks": [
             6,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时32分 ~ 02时36分]"
+          "appearance_count": 4,
+          "time_info": "[00时32分 ~ 03时20分]"
         },
         {
           "title": "就在今天！史上最大规模期权到期，美股将迎来“疯狂一日”？",
@@ -27,8 +28,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时32分 ~ 02时36分]"
+          "appearance_count": 4,
+          "time_info": "[00时32分 ~ 03时20分]"
         },
         {
           "title": "美股温和上扬，“三重巫术日”将有创纪录的7.1万亿美元期权到期",
@@ -49,7 +50,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时36分"
         },
@@ -60,7 +61,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时36分"
         }
@@ -70,6 +71,18 @@
       "keyword_group": "以色列",
       "match_count": 3,
       "titles": [
+        {
+          "title": "以色列暗杀伊朗核专家细节曝光",
+          "url": "https://www.baidu.com/s?wd=%E4%BB%A5%E8%89%B2%E5%88%97%E6%9A%97%E6%9D%80%E4%BC%8A%E6%9C%97%E6%A0%B8%E4%B8%93%E5%AE%B6%E7%BB%86%E8%8A%82%E6%9B%9D%E5%85%89",
+          "source": "百度热搜",
+          "ranks": [
+            28,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时36分 ~ 03时20分]"
+        },
         {
           "title": "美国国务卿鲁比奥：如果哈马斯将来处于可以威胁或攻击以色列的地位，就别想有和平。",
           "url": "https://flash.jin10.com/detail/20251220005330128800",
@@ -91,17 +104,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时22分"
-        },
-        {
-          "title": "以色列暗杀伊朗核专家细节曝光",
-          "url": "https://www.baidu.com/s?wd=%E4%BB%A5%E8%89%B2%E5%88%97%E6%9A%97%E6%9D%80%E4%BC%8A%E6%9C%97%E6%A0%B8%E4%B8%93%E5%AE%B6%E7%BB%86%E8%8A%82%E6%9B%9D%E5%85%89",
-          "source": "百度热搜",
-          "ranks": [
-            28
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时36分"
         }
       ]
     },
@@ -134,8 +136,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时22分 ~ 02时36分]"
+          "appearance_count": 3,
+          "time_info": "[01时22分 ~ 03时20分]"
         }
       ]
     },
@@ -166,11 +168,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            18
+            18,
+            30
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时22分 ~ 02时36分]"
+          "appearance_count": 3,
+          "time_info": "[01时22分 ~ 03时20分]"
         }
       ]
     },
