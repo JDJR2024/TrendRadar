@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-22T21:38:06.049507+08:00",
-  "total_titles_processed": 1681,
+  "generated_at": "2025-12-22T22:26:37.967828+08:00",
+  "total_titles_processed": 1758,
   "failed_sources": [],
   "trends": [
     {
@@ -64,7 +64,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时38分"
         },
@@ -155,8 +155,22 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
+        {
+          "title": "2025美股十大震撼事件：从关税风暴到AI狂潮 70万亿市场的盛宴与危机",
+          "url": "https://www.cls.cn/detail/2236150",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            6,
+            5,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[15时28分 ~ 22时26分]"
+        },
         {
           "title": "35亿美元大单引爆美股商业航天？SDA加速布局太空防御网 低轨商业卫星成关键",
           "url": "https://www.cls.cn/detail/2235916",
@@ -186,20 +200,6 @@
           "time_info": "[16时36分 ~ 20时52分]"
         },
         {
-          "title": "2025美股十大震撼事件：从关税风暴到AI狂潮 70万亿市场的盛宴与危机",
-          "url": "https://www.cls.cn/detail/2236150",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            6,
-            5,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[15时28分 ~ 21时38分]"
-        },
-        {
           "title": "美银Hartnett：市场聚焦美股大涨“迎新”可能性，唯一风险是“市场过于乐观”",
           "url": "https://wallstreetcn.com/articles/3761788",
           "source": "华尔街见闻",
@@ -220,8 +220,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时37分 ~ 21时38分]"
+          "appearance_count": 3,
+          "time_info": "[21时37分 ~ 22时26分]"
         },
         {
           "title": "美股期货亚市盘初走高，标普500指数期货、纳斯达克100指数期货上涨0.3%。",
@@ -269,6 +269,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[20时52分 ~ 21时38分]"
+        },
+        {
+          "title": "周一美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3025002",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时26分"
         },
         {
           "title": "霍尼韦尔预计全年调整后销售额为375亿-377亿美元，此前预期为407亿-409亿美元。 霍尼韦尔预计全年调整后每股收益为9.70-9.80美元（剔除先进材料业务影响后）。 霍尼韦尔预计第四季度调整后销售额为98亿-100亿美元，此前预期为101亿-103亿美元。 霍尼韦尔预计第四季度调整后每股收益为2.48-2.58美元，此前预期为2.52-2.62美元。 霍尼韦尔美股盘前跌超3%。",
@@ -337,8 +348,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时23分 ~ 21时38分]"
+          "appearance_count": 5,
+          "time_info": "[19时23分 ~ 22时26分]"
         },
         {
           "title": "伊朗要下场帮委内瑞拉了吗",
