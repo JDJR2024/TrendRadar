@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-22T13:29:34.182389+08:00",
-  "total_titles_processed": 879,
+  "generated_at": "2025-12-22T14:41:32.809558+08:00",
+  "total_titles_processed": 984,
   "failed_sources": [],
   "trends": [
     {
@@ -40,8 +40,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[02时34分 ~ 13时29分]"
+          "appearance_count": 11,
+          "time_info": "[02时34分 ~ 14时41分]"
         },
         {
           "title": "以色列内阁批准在约旦河西岸新建19个犹太人定居点",
@@ -192,11 +192,12 @@
           "source": "财联社热门",
           "ranks": [
             10,
-            7
+            7,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时07分 ~ 13时29分]"
+          "appearance_count": 3,
+          "time_info": "[12时07分 ~ 14时41分]"
         }
       ]
     },
@@ -263,8 +264,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时29分 ~ 13时29分]"
+          "appearance_count": 14,
+          "time_info": "[00时29分 ~ 14时41分]"
         },
         {
           "title": "“AI取代搜索”是伪命题？市场发现：谷歌才是对的！",
@@ -275,8 +276,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时04分 ~ 13时29分]"
+          "appearance_count": 4,
+          "time_info": "[10时04分 ~ 14时41分]"
         }
       ]
     },
@@ -358,7 +359,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时29分"
         }
