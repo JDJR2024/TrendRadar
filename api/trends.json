@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-22T12:07:35.964428+08:00",
-  "total_titles_processed": 778,
+  "generated_at": "2025-12-22T13:29:34.182389+08:00",
+  "total_titles_processed": 879,
   "failed_sources": [],
   "trends": [
     {
@@ -36,11 +36,12 @@
           "ranks": [
             18,
             19,
-            17
+            17,
+            16
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[02时34分 ~ 12时07分]"
+          "appearance_count": 10,
+          "time_info": "[02时34分 ~ 13时29分]"
         },
         {
           "title": "以色列内阁批准在约旦河西岸新建19个犹太人定居点",
@@ -90,8 +91,8 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时04分 ~ 12时07分]"
+          "appearance_count": 3,
+          "time_info": "[10时04分 ~ 13时29分]"
         },
         {
           "title": "一位美国消息人士表示，美国情报部门目前没有迹象表明伊朗即将（对以色列）发动袭击。",
@@ -151,7 +152,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时07分"
         }
@@ -190,11 +191,12 @@
           "url": "https://www.cls.cn/detail/2235916",
           "source": "财联社热门",
           "ranks": [
-            10
+            10,
+            7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时07分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时07分 ~ 13时29分]"
         }
       ]
     },
@@ -261,8 +263,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时29分 ~ 12时07分]"
+          "appearance_count": 13,
+          "time_info": "[00时29分 ~ 13时29分]"
         },
         {
           "title": "“AI取代搜索”是伪命题？市场发现：谷歌才是对的！",
@@ -273,8 +275,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时04分 ~ 12时07分]"
+          "appearance_count": 3,
+          "time_info": "[10时04分 ~ 13时29分]"
         }
       ]
     },
@@ -342,6 +344,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时04分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "人工智能 AI ChatGPT",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "印度航空：航班AI887，一架从德里飞往孟买的波音777客机，因技术问题于12月22日起飞后返航德里。",
+          "url": "https://flash.jin10.com/detail/20251222122308407800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时29分"
         }
       ]
     }
