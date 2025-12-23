@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-23T11:42:38.500022+08:00",
-  "total_titles_processed": 970,
+  "generated_at": "2025-12-23T12:41:46.092003+08:00",
+  "total_titles_processed": 1073,
   "failed_sources": [],
   "trends": [
     {
@@ -28,8 +28,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时24分 ~ 11时42分]"
+          "appearance_count": 5,
+          "time_info": "[07时24分 ~ 12时41分]"
         },
         {
           "title": "“圣诞老人行情”开启，美股普涨，黄金白银再创新高，原油大反弹",
@@ -270,6 +270,17 @@
           "time_info": "[02时37分 ~ 03时21分]"
         },
         {
+          "title": "3年间定居点激增50%，以色列如何系统性“阻止巴勒斯坦建国”？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32229229",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时42分 ~ 12时41分]"
+        },
+        {
           "title": "塞浦路斯总统：在反恐、网络和能源安全领域与以色列开展合作方面仍有更多空间。",
           "url": "https://flash.jin10.com/detail/20251223013710190800",
           "source": "金十数据",
@@ -290,17 +301,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时37分"
-        },
-        {
-          "title": "3年间定居点激增50%，以色列如何系统性“阻止巴勒斯坦建国”？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32229229",
-          "source": "澎湃新闻",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时42分"
         }
       ]
     },
@@ -316,8 +316,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时32分 ~ 11时42分]"
+          "appearance_count": 13,
+          "time_info": "[00时32分 ~ 12时41分]"
         },
         {
           "title": "美情报机构未发现伊朗将发动袭击的迹象",
@@ -371,8 +371,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时23分 ~ 11时42分]"
+          "appearance_count": 12,
+          "time_info": "[01时23分 ~ 12时41分]"
         },
         {
           "title": "第一太阳能涨7.1%，创2024年6月份以来盘中新高，投资者关注谷歌母公司Alphabet达成的清洁能源交易。",
@@ -393,7 +393,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时42分"
         }
