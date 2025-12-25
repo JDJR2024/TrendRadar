@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-25T11:42:52.229543+08:00",
-  "total_titles_processed": 874,
+  "generated_at": "2025-12-25T12:41:53.578982+08:00",
+  "total_titles_processed": 972,
   "failed_sources": [],
   "trends": [
     {
@@ -18,8 +18,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[06时24分 ~ 11时42分]"
+          "appearance_count": 7,
+          "time_info": "[06时24分 ~ 12时41分]"
         },
         {
           "title": "平安夜美股债汇涨，标普新高，黄金失守4500，人民币三连涨，加密货币疲软",
@@ -29,8 +29,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时00分 ~ 11时42分]"
+          "appearance_count": 4,
+          "time_info": "[10时00分 ~ 12时41分]"
         },
         {
           "title": "美股行业ETF普遍收涨",
@@ -143,7 +143,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时42分"
         },
@@ -322,11 +322,12 @@
           "source": "财联社热门",
           "ranks": [
             13,
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时00分 ~ 11时42分]"
+          "appearance_count": 4,
+          "time_info": "[10时00分 ~ 12时41分]"
         },
         {
           "title": "金价狂飙 千元内几乎买不到金饰",
@@ -334,11 +335,12 @@
           "source": "百度热搜",
           "ranks": [
             30,
-            24
+            24,
+            29
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时00分 ~ 11时42分]"
+          "appearance_count": 4,
+          "time_info": "[10时00分 ~ 12时41分]"
         },
         {
           "title": "金价又创历史新高",
@@ -358,7 +360,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时42分"
         }
