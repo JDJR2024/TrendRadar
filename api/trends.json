@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-26T06:25:12.160609+08:00",
-  "total_titles_processed": 465,
+  "generated_at": "2025-12-26T07:24:10.937741+08:00",
+  "total_titles_processed": 510,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时31分 ~ 06时25分]"
+          "appearance_count": 11,
+          "time_info": "[00时31分 ~ 07时24分]"
         },
         {
           "title": "中东股市收盘播报｜以色列股市周四收跌超3.1%本周沙特股指涨超0.7%",
@@ -99,26 +99,27 @@
       "titles": [
         {
           "title": "伊朗天然气停供致伊拉克发电量损失约4500兆瓦",
-          "url": "https://wallstreetcn.com/livenews/3026820",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            9,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时20分 ~ 06时25分]"
-        },
-        {
-          "title": "伊朗天然气停供致伊拉克发电量损失约4500兆瓦",
           "url": "https://flash.jin10.com/detail/20251226023120622800",
           "source": "金十数据",
           "ranks": [
             3,
             6,
             11,
-            14
+            14,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[03时20分 ~ 07时24分]"
+        },
+        {
+          "title": "伊朗天然气停供致伊拉克发电量损失约4500兆瓦",
+          "url": "https://wallstreetcn.com/livenews/3026820",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            9,
+            18
           ],
           "is_new": false,
           "appearance_count": 4,
@@ -153,11 +154,12 @@
             11,
             10,
             7,
-            8
+            8,
+            15
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时31分 ~ 06时25分]"
+          "appearance_count": 11,
+          "time_info": "[00时31分 ~ 07时24分]"
         },
         {
           "title": "加拿大皇家银行BlueBay资管公司首席投资官马克·道丁：新任美联储主席不会简单迎合特朗普，金价或难重现2025年强劲涨幅。（每经网）",
@@ -187,8 +189,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时31分 ~ 06时25分]"
+          "appearance_count": 11,
+          "time_info": "[00时31分 ~ 07时24分]"
         }
       ]
     },
@@ -205,8 +207,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时31分 ~ 06时25分]"
+          "appearance_count": 11,
+          "time_info": "[00时31分 ~ 07时24分]"
         }
       ]
     }
