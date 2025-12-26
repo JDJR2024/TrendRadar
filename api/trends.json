@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-27T03:20:11.629899+08:00",
-  "total_titles_processed": 437,
+  "generated_at": "2025-12-27T04:28:25.604537+08:00",
+  "total_titles_processed": 462,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时31分 ~ 03时20分]"
+          "appearance_count": 7,
+          "time_info": "[00时31分 ~ 04时28分]"
         },
         {
           "title": "美股三大期指涨跌不一 市场静待“圣诞老人行情” | 今夜看点",
@@ -27,8 +27,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时31分 ~ 03时20分]"
+          "appearance_count": 7,
+          "time_info": "[00时31分 ~ 04时28分]"
         },
         {
           "title": "标普500续创新高 “圣诞老人行情”预期支撑美股",
@@ -88,11 +88,12 @@
           "source": "金十数据",
           "ranks": [
             2,
-            10
+            10,
+            18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时36分 ~ 03时20分]"
+          "appearance_count": 3,
+          "time_info": "[02时36分 ~ 04时28分]"
         },
         {
           "title": "土耳其：以色列干涉索马里内政。",
@@ -100,11 +101,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             3,
-            13
+            13,
+            16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时36分 ~ 03时20分]"
+          "appearance_count": 3,
+          "time_info": "[02时36分 ~ 04时28分]"
         },
         {
           "title": "埃及外交部：埃及、索马里和土耳其外交部长谴责以色列承认索马里兰。",
@@ -143,8 +145,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时31分 ~ 03时20分]"
+          "appearance_count": 7,
+          "time_info": "[00时31分 ~ 04时28分]"
         }
       ]
     }
