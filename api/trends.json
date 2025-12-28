@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-29T00:31:29.611377+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2025-12-29T01:22:43.191113+08:00",
+  "total_titles_processed": 346,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时31分"
+          "appearance_count": 2,
+          "time_info": "[00时31分 ~ 01时22分]"
         },
         {
           "title": "以色列“铁光束”激光防空系统交付军方",
@@ -26,8 +26,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时31分"
+          "appearance_count": 2,
+          "time_info": "[00时31分 ~ 01时22分]"
         },
         {
           "title": "20多个国家谴责以色列承认索马里兰为“独立主权国家”，安理会将举行紧急会议",
@@ -37,8 +37,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时31分"
+          "appearance_count": 2,
+          "time_info": "[00时31分 ~ 01时22分]"
         }
       ]
     },
@@ -54,8 +54,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时31分"
+          "appearance_count": 2,
+          "time_info": "[00时31分 ~ 01时22分]"
         }
       ]
     },
@@ -71,8 +71,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时31分"
+          "appearance_count": 2,
+          "time_info": "[00时31分 ~ 01时22分]"
         }
       ]
     },
@@ -88,8 +88,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时31分"
+          "appearance_count": 2,
+          "time_info": "[00时31分 ~ 01时22分]"
         }
       ]
     }
