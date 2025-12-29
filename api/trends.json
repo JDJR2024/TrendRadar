@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-30T06:24:53.171177+08:00",
-  "total_titles_processed": 574,
+  "generated_at": "2025-12-30T07:24:24.474057+08:00",
+  "total_titles_processed": 622,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "以色列",
-      "match_count": 17,
+      "match_count": 19,
       "titles": [
         {
           "title": "以色列总理内塔尼亚胡会见了美国国防部长赫格塞思和美军参谋长联席会议主席凯恩。",
@@ -176,15 +176,37 @@
           "time_info": "05时23分"
         },
         {
+          "title": "安理会就以色列承认“索马里兰”举行紧急会议",
+          "url": "https://flash.jin10.com/detail/20251230062017195800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时24分"
+        },
+        {
           "title": "美国总统特朗普：沙特有伟大的领导人，该国与以色列关系良好。",
           "url": "https://wallstreetcn.com/livenews/3028335",
           "source": "华尔街见闻-快讯",
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时24分"
+        },
+        {
+          "title": "安理会就以色列承认“索马里兰”举行紧急会议",
+          "url": "https://wallstreetcn.com/livenews/3028355",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时24分"
         },
         {
           "title": "以色列通过法案进一步切断对近东救济工程处支持",
@@ -319,7 +341,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时24分"
         },
@@ -330,7 +352,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时24分"
         },
@@ -341,7 +363,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时24分"
         },
@@ -352,7 +374,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时24分"
         }
@@ -360,7 +382,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 9,
+      "match_count": 11,
       "titles": [
         {
           "title": "美股指集体低开，纳指跌超0.7%，现货黄金单日跌超100美元，白银暴跌8%，伦铜逼近13000美元",
@@ -382,8 +404,19 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时32分 ~ 06时24分]"
+          "appearance_count": 8,
+          "time_info": "[00时32分 ~ 07时24分]"
+        },
+        {
+          "title": "“圣诞行情”暂歇，美股回调，金属全线回落，现货白银重挫8%，沪金跌破千元关口",
+          "url": "https://wallstreetcn.com/articles/3762238",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时24分"
         },
         {
           "title": "美股收盘：三大股指齐跌 特斯拉跌超3%",
@@ -401,22 +434,35 @@
           "url": "https://wallstreetcn.com/livenews/3028344",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            6,
+            25
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时24分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时24分 ~ 07时24分]"
         },
         {
           "title": "美股七巨头收盘播报｜特斯拉收跌3.27%，英伟达跌1.21%",
           "url": "https://wallstreetcn.com/livenews/3028341",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            9,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时24分 ~ 07时24分]"
+        },
+        {
+          "title": "美股收盘：贵金属风暴冲击市场情绪 三大指数集体收跌",
+          "url": "https://www.cls.cn/detail/2243401",
+          "source": "财联社热门",
+          "ranks": [
+            6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时24分"
+          "time_info": "07时24分"
         },
         {
           "title": "航空业ETF收跌将近1.3%，领跌美股行业ETF",
@@ -425,7 +471,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时24分"
         },
@@ -436,7 +482,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时24分"
         },
@@ -521,19 +567,20 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时32分 ~ 06时24分]"
+          "appearance_count": 8,
+          "time_info": "[00时32分 ~ 07时24分]"
         },
         {
           "title": "DeepSeek一夜爆火、Labubu引爆全球抢购潮、“史诗级”外卖大战……2025年中国十大商业事件全盘点",
           "url": "https://wallstreetcn.com/articles/3762071",
           "source": "华尔街见闻",
           "ranks": [
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时32分 ~ 06时24分]"
+          "appearance_count": 8,
+          "time_info": "[00时32分 ~ 07时24分]"
         }
       ]
     },
