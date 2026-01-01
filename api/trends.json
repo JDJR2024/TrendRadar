@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-01T07:25:06.114298+08:00",
-  "total_titles_processed": 590,
+  "generated_at": "2026-01-01T10:11:19.508425+08:00",
+  "total_titles_processed": 757,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "交投情绪清淡，美股指三连跌，黄金反弹后劲不足，白银涨逾5%，伦铜八连涨",
@@ -93,13 +93,24 @@
           "time_info": "[06时26分 ~ 07时25分]"
         },
         {
+          "title": "美股收盘：三大指数低调收官 中国金龙指数全年累计上涨11.33%",
+          "url": "https://www.cls.cn/detail/2246008",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时11分"
+        },
+        {
           "title": "（美股）费城金银指数收跌1.36%，报342.28点，12月份累计上涨5.45%。 （全球时段）纽约证交所ARCA金矿开采商指数收跌1.07%，报2442.86点，12月份累涨5.40%。 （美股）原材料指数跌1.00%，报226.15点，12月份累涨2.65%。 （美股）金属与矿业指数跌0.96%，报215.32点，12月份累涨5.10%。",
           "url": "https://wallstreetcn.com/livenews/3029494",
           "source": "华尔街见闻-快讯",
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时25分"
         },
@@ -113,6 +124,91 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时32分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "以色列",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "以色列北部一家商铺爆炸致12人伤",
+          "url": "https://wallstreetcn.com/livenews/3029535",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时11分"
+        },
+        {
+          "title": "以色列国防部长卡茨：以色列国防军必须为约旦河西岸发生“10月7日式袭击”做好准备。",
+          "url": "https://flash.jin10.com/detail/20251231235720566800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时32分 ~ 01时22分]"
+        },
+        {
+          "title": "以色列国防军发言人：明天（星期四）下午将在埃拉特地区举行军事演习。",
+          "url": "https://flash.jin10.com/detail/20260101003853907800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时22分 ~ 02时36分]"
+        },
+        {
+          "title": "以媒：以色列或“几天内”双向开放拉法口岸",
+          "url": "https://flash.jin10.com/detail/20260101083545823800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时11分"
+        },
+        {
+          "title": "以媒：以色列或“几天内”双向开放拉法口岸",
+          "url": "https://wallstreetcn.com/livenews/3029516",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时11分"
+        },
+        {
+          "title": "以媒：索马里兰当局领导人拟“正式访问”以色列",
+          "url": "https://wallstreetcn.com/livenews/3029515",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时11分"
+        },
+        {
+          "title": "以媒：索马里兰当局领导人拟“正式访问”以色列",
+          "url": "https://flash.jin10.com/detail/20260101080931724800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时11分"
         }
       ]
     },
@@ -159,36 +255,6 @@
       ]
     },
     {
-      "keyword_group": "以色列",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "以色列国防部长卡茨：以色列国防军必须为约旦河西岸发生“10月7日式袭击”做好准备。",
-          "url": "https://flash.jin10.com/detail/20251231235720566800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时32分 ~ 01时22分]"
-        },
-        {
-          "title": "以色列国防军发言人：明天（星期四）下午将在埃拉特地区举行军事演习。",
-          "url": "https://flash.jin10.com/detail/20260101003853907800",
-          "source": "金十数据",
-          "ranks": [
-            8,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时22分 ~ 02时36分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "人工智能 AI ChatGPT",
       "match_count": 2,
       "titles": [
@@ -220,6 +286,23 @@
       ]
     },
     {
+      "keyword_group": "chatgpt openai",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "150万美元！OpenAI人均员工薪酬炸裂，刷新科技史纪录",
+          "url": "https://wallstreetcn.com/articles/3762366",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时11分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美债",
       "match_count": 1,
       "titles": [
@@ -230,7 +313,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时25分"
         }
