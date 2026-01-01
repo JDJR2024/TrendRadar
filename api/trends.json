@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-02T04:29:21.921295+08:00",
-  "total_titles_processed": 430,
+  "generated_at": "2026-01-02T05:24:58.459327+08:00",
+  "total_titles_processed": 442,
   "failed_sources": [],
   "trends": [
     {
@@ -30,11 +30,12 @@
             6,
             11,
             14,
-            21
+            21,
+            25
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时24分 ~ 04时29分]"
+          "appearance_count": 5,
+          "time_info": "[01时24分 ~ 05时24分]"
         },
         {
           "title": "以色列政司法冲突白热化：以财长扬言“碾压”首席大法官，司法界疾呼保障法官安全",
@@ -73,8 +74,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时36分 ~ 04时29分]"
+          "appearance_count": 4,
+          "time_info": "[02时36分 ~ 05时24分]"
         },
         {
           "title": "伊朗总统发声：伊朗正处于一场全面战争中",
@@ -84,8 +85,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时33分 ~ 04时29分]"
+          "appearance_count": 6,
+          "time_info": "[00时33分 ~ 05时24分]"
         },
         {
           "title": "据伊朗法尔斯通讯社：伊朗西南部拉德甘市发生抗议和骚乱，造成两人死亡。",
@@ -127,8 +128,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时33分 ~ 04时29分]"
+          "appearance_count": 6,
+          "time_info": "[00时33分 ~ 05时24分]"
         },
         {
           "title": "DeepSeek梁文锋又发论文了",
@@ -140,8 +141,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时33分 ~ 04时29分]"
+          "appearance_count": 6,
+          "time_info": "[00时33分 ~ 05时24分]"
         },
         {
           "title": "DeepSeek开年发布新论文",
@@ -154,8 +155,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时33分 ~ 04时29分]"
+          "appearance_count": 6,
+          "time_info": "[00时33分 ~ 05时24分]"
         }
       ]
     },
@@ -174,8 +175,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时33分 ~ 04时29分]"
+          "appearance_count": 6,
+          "time_info": "[00时33分 ~ 05时24分]"
         },
         {
           "title": "据The Information：OpenAI整合团队以提升音频AI模型性能，为即将推出的设备做准备。",
@@ -219,8 +220,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时33分 ~ 04时29分]"
+          "appearance_count": 6,
+          "time_info": "[00时33分 ~ 05时24分]"
         }
       ]
     },
@@ -236,8 +237,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时33分 ~ 04时29分]"
+          "appearance_count": 6,
+          "time_info": "[00时33分 ~ 05时24分]"
         }
       ]
     }
