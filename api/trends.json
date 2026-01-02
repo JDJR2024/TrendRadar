@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-03T02:37:24.357977+08:00",
-  "total_titles_processed": 393,
+  "generated_at": "2026-01-03T03:17:36.099218+08:00",
+  "total_titles_processed": 408,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时31分 ~ 02时37分]"
+          "appearance_count": 6,
+          "time_info": "[00时31分 ~ 03时17分]"
         },
         {
           "title": "美股中概股大涨 百度涨超10%",
@@ -26,30 +26,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时31分 ~ 02时37分]"
-        },
-        {
-          "title": "金十图示：2026年01月02日（周五）美股热门股票行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20260103013328832800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时37分"
-        },
-        {
-          "title": "金十图示：2026年01月02日（周五）热门中概股行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20260103013319071800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时37分"
+          "appearance_count": 6,
+          "time_info": "[00时31分 ~ 03时17分]"
         },
         {
           "title": "美股三大期指集体走强 科技、贵金属板块开局强劲 | 今夜看点",
@@ -59,8 +37,43 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时31分 ~ 02时37分]"
+          "appearance_count": 6,
+          "time_info": "[00时31分 ~ 03时17分]"
+        },
+        {
+          "title": "金十图示：2026年01月02日（周五）美股热门股票行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20260103013328832800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时37分 ~ 03时17分]"
+        },
+        {
+          "title": "金十图示：2026年01月02日（周五）热门中概股行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20260103013319071800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时37分 ~ 03时17分]"
+        },
+        {
+          "title": "高盛对冲基金负责人：2025美股“非常好”，2026市场将更加“狂野”",
+          "url": "https://wallstreetcn.com/articles/3762458",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时37分 ~ 03时17分]"
         },
         {
           "title": "美股高开低走，道指、标普500指数相继转跌。",
@@ -85,17 +98,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时32分 ~ 01时23分]"
-        },
-        {
-          "title": "高盛对冲基金负责人：2025美股“非常好”，2026市场将更加“狂野”",
-          "url": "https://wallstreetcn.com/articles/3762458",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时37分"
         },
         {
           "title": "美股盘初：纳指涨1%，中概指数涨近3%，百度涨约11%，特斯拉涨约2%",
@@ -133,8 +135,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时31分 ~ 02时37分]"
+          "appearance_count": 6,
+          "time_info": "[00时31分 ~ 03时17分]"
         },
         {
           "title": "金价过山车有人变现近9斤黄金",
@@ -142,11 +144,24 @@
           "source": "百度热搜",
           "ranks": [
             22,
-            25
+            25,
+            28
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时31分 ~ 01时23分]"
+          "appearance_count": 5,
+          "time_info": "[00时31分 ~ 03时17分]"
+        },
+        {
+          "title": "金价飙升原因找到了",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E9%A3%99%E5%8D%87%E5%8E%9F%E5%9B%A0%E6%89%BE%E5%88%B0%E4%BA%86%23&t=31&band_rank=29&Refer=top",
+          "source": "微博",
+          "ranks": [
+            29,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时31分 ~ 03时17分]"
         },
         {
           "title": "元旦购金热爆棚 金价还能涨到哪",
@@ -154,17 +169,6 @@
           "source": "今日头条",
           "ranks": [
             26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时31分 ~ 00时32分]"
-        },
-        {
-          "title": "金价飙升原因找到了",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E9%A3%99%E5%8D%87%E5%8E%9F%E5%9B%A0%E6%89%BE%E5%88%B0%E4%BA%86%23&t=31&band_rank=29&Refer=top",
-          "source": "微博",
-          "ranks": [
-            29
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -185,8 +189,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时31分 ~ 02时37分]"
+          "appearance_count": 6,
+          "time_info": "[00时31分 ~ 03时17分]"
         },
         {
           "title": "伊朗",
@@ -195,11 +199,12 @@
           "ranks": [
             23,
             24,
-            26
+            26,
+            25
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时31分 ~ 02时37分]"
+          "appearance_count": 6,
+          "time_info": "[00时31分 ~ 03时17分]"
         },
         {
           "title": "纪念苏莱马尼遭美暗杀6周年，伊朗总统谴责美以国家恐怖主义",
@@ -208,11 +213,12 @@
           "ranks": [
             6,
             18,
-            25
+            25,
+            30
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时32分 ~ 02时37分]"
+          "appearance_count": 4,
+          "time_info": "[00时32分 ~ 03时17分]"
         },
         {
           "title": "伊朗回应特朗普：伊朗内部事务绝不允许外来干预",
@@ -241,8 +247,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时31分 ~ 02时37分]"
+          "appearance_count": 6,
+          "time_info": "[00时31分 ~ 03时17分]"
         },
         {
           "title": "AI入口之战！OpenAI下重注：音频会是未来的交互界面",
@@ -252,8 +258,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时31分 ~ 02时37分]"
+          "appearance_count": 6,
+          "time_info": "[00时31分 ~ 03时17分]"
         },
         {
           "title": "报道：OpenAI首款“AI硬件”是“智能笔”或“音频设备”，由鸿海独家代工，预计今年或明年推出",
@@ -263,8 +269,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时31分 ~ 02时37分]"
+          "appearance_count": 6,
+          "time_info": "[00时31分 ~ 03时17分]"
         }
       ]
     },
@@ -290,11 +296,12 @@
           "ranks": [
             11,
             20,
-            23
+            23,
+            14
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时31分 ~ 02时37分]"
+          "appearance_count": 6,
+          "time_info": "[00时31分 ~ 03时17分]"
         }
       ]
     },
@@ -308,11 +315,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            9
+            9,
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时23分 ~ 02时37分]"
+          "appearance_count": 3,
+          "time_info": "[01时23分 ~ 03时17分]"
         },
         {
           "title": "以军和以色列犹太人定居者袭击约旦河西岸多地",
@@ -320,11 +328,12 @@
           "source": "金十数据",
           "ranks": [
             2,
-            12
+            12,
+            16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时23分 ~ 02时37分]"
+          "appearance_count": 3,
+          "time_info": "[01时23分 ~ 03时17分]"
         }
       ]
     }
