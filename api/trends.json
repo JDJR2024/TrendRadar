@@ -1,8 +1,58 @@
 {
-  "generated_at": "2026-01-04T06:24:52.894594+08:00",
-  "total_titles_processed": 571,
+  "generated_at": "2026-01-04T07:24:35.807654+08:00",
+  "total_titles_processed": 591,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "伊朗",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "伊朗这次全国性抗议会演变成政权更替吗？",
+          "url": "https://www.zhihu.com/question/1990341451373122440",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时31分 ~ 07时24分]"
+        },
+        {
+          "title": "市场消息：伊朗安全部队在伊斯法罕向抗议者开火。",
+          "url": "https://flash.jin10.com/detail/20260104043938060800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时23分 ~ 07时24分]"
+        },
+        {
+          "title": "伊朗外交部：伊朗外交部长与委内瑞拉外交部长进行了通话。",
+          "url": "https://flash.jin10.com/detail/20260104043833561800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时23分 ~ 07时24分]"
+        },
+        {
+          "title": "伊朗最高领袖: 应与抗议者进行对话 但骚乱行径必须得到制止",
+          "url": "https://wallstreetcn.com/articles/3762481",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时24分"
+        }
+      ]
+    },
     {
       "keyword_group": "美股",
       "match_count": 3,
@@ -25,11 +75,12 @@
           "source": "华尔街见闻",
           "ranks": [
             7,
-            8
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时31分 ~ 06时24分]"
+          "appearance_count": 9,
+          "time_info": "[00时31分 ~ 07时24分]"
         },
         {
           "title": "美股收盘：科技题材开年大狂欢！中概股化身“金龙傲天”",
@@ -41,47 +92,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时31分 ~ 06时24分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "伊朗",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "伊朗这次全国性抗议会演变成政权更替吗？",
-          "url": "https://www.zhihu.com/question/1990341451373122440",
-          "source": "知乎",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时31分 ~ 06时24分]"
-        },
-        {
-          "title": "市场消息：伊朗安全部队在伊斯法罕向抗议者开火。",
-          "url": "https://flash.jin10.com/detail/20260104043938060800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时23分 ~ 06时24分]"
-        },
-        {
-          "title": "伊朗外交部：伊朗外交部长与委内瑞拉外交部长进行了通话。",
-          "url": "https://flash.jin10.com/detail/20260104043833561800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时23分 ~ 06时24分]"
+          "appearance_count": 9,
+          "time_info": "[00时31分 ~ 07时24分]"
         }
       ]
     },
