@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-03T22:23:48.148534+08:00",
-  "total_titles_processed": 1479,
+  "generated_at": "2026-01-03T23:24:32.363910+08:00",
+  "total_titles_processed": 1574,
   "failed_sources": [],
   "trends": [
     {
@@ -75,6 +75,19 @@
           "time_info": "[12时36分 ~ 17时26分]"
         },
         {
+          "title": "伊朗这次全国性抗议会演变成政权更替吗？",
+          "url": "https://www.zhihu.com/question/1990341451373122440",
+          "source": "知乎",
+          "ranks": [
+            10,
+            8,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[17时26分 ~ 23时24分]"
+        },
+        {
           "title": "伊朗外交部强烈谴责美国总统特朗普和其他美国官员对伊朗内政的干涉主义言论。",
           "url": "https://flash.jin10.com/detail/20260103035911381800",
           "source": "金十数据",
@@ -86,19 +99,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[04时28分 ~ 11时26分]"
-        },
-        {
-          "title": "伊朗这次全国性抗议会演变成政权更替吗？",
-          "url": "https://www.zhihu.com/question/1990341451373122440",
-          "source": "知乎",
-          "ranks": [
-            10,
-            8,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时26分 ~ 22时23分]"
         },
         {
           "title": "伊朗谴责美国对委内瑞拉发动的军事袭击，称其“公然侵犯委内瑞拉的国家主权和领土完整”。",
@@ -308,8 +308,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[07时23分 ~ 22时23分]"
+          "appearance_count": 20,
+          "time_info": "[07时23分 ~ 23时24分]"
         },
         {
           "title": "高盛对冲基金负责人：2025美股“非常好”，2026市场将更加“狂野”",
@@ -338,8 +338,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[09时56分 ~ 22时23分]"
+          "appearance_count": 18,
+          "time_info": "[09时56分 ~ 23时24分]"
         },
         {
           "title": "美股中概股大涨 百度涨超10%",
@@ -366,8 +366,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 29,
-          "time_info": "[00时31分 ~ 22时23分]"
+          "appearance_count": 30,
+          "time_info": "[00时31分 ~ 23时24分]"
         },
         {
           "title": "明晟公司MSCI发展中国家股票指数涨1.7%，连续第六个交易日走高，创2021年2月份以来收盘新高。 科技板块涨2.7%，壁仞科技香港IPO首日上涨，宣布AI芯片部门秘密递交香港IPO申请的百度也上涨。 MSCI拉美股票指数涨0.5%。 新兴市场货币涨跌各异。",
@@ -418,8 +418,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[17时25分 ~ 22时23分]"
+          "appearance_count": 9,
+          "time_info": "[17时25分 ~ 23时24分]"
         },
         {
           "title": "金十图示：2026年01月02日（周五）美股热门股票行情一览（美股盘中）",
