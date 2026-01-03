@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-03T13:27:18.848097+08:00",
-  "total_titles_processed": 801,
+  "generated_at": "2026-01-03T14:38:12.456764+08:00",
+  "total_titles_processed": 870,
   "failed_sources": [],
   "trends": [
     {
@@ -19,20 +19,6 @@
           "time_info": "[00时31分 ~ 06时26分]"
         },
         {
-          "title": "高盛对冲基金负责人：2025美股“非常好”，2026市场将更加“狂野”",
-          "url": "https://wallstreetcn.com/articles/3762458",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[02时37分 ~ 13时27分]"
-        },
-        {
           "title": "2026欧股开门红，美股反弹艰难，芯片股力撑但特斯拉拖累，百度大涨15%，人民币两年多新高",
           "url": "https://wallstreetcn.com/articles/3762449",
           "source": "华尔街见闻",
@@ -40,8 +26,23 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时23分 ~ 13时27分]"
+          "appearance_count": 8,
+          "time_info": "[07时23分 ~ 14时38分]"
+        },
+        {
+          "title": "高盛对冲基金负责人：2025美股“非常好”，2026市场将更加“狂野”",
+          "url": "https://wallstreetcn.com/articles/3762458",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 14,
+          "time_info": "[02时37分 ~ 14时38分]"
         },
         {
           "title": "美股中概股大涨 百度涨超10%",
@@ -65,8 +66,25 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时31分 ~ 13时27分]"
+          "appearance_count": 18,
+          "time_info": "[00时31分 ~ 14时38分]"
+        },
+        {
+          "title": "（美股）费城金银指数收涨0.09%，报342.59点，本周累计下跌5.68%。 （全球时段）纽约证交所ARCA金矿开采商指数收跌0.15%，报2439.25点，本周累跌5.17%。 （美股）原材料指数涨2.09%，报230.86点，本周累跌0.71%。 （美股）金属与矿业指数涨3.97%，报223.87点，本周累涨0.67%。",
+          "url": "https://wallstreetcn.com/livenews/3029945",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            7,
+            13,
+            15,
+            16,
+            17,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[06时26分 ~ 14时38分]"
         },
         {
           "title": "金十图示：2026年01月02日（周五）美股热门股票行情一览（美股盘中）",
@@ -95,20 +113,21 @@
           "time_info": "[02时37分 ~ 07时24分]"
         },
         {
-          "title": "（美股）费城金银指数收涨0.09%，报342.59点，本周累计下跌5.68%。 （全球时段）纽约证交所ARCA金矿开采商指数收跌0.15%，报2439.25点，本周累跌5.17%。 （美股）原材料指数涨2.09%，报230.86点，本周累跌0.71%。 （美股）金属与矿业指数涨3.97%，报223.87点，本周累涨0.67%。",
-          "url": "https://wallstreetcn.com/livenews/3029945",
+          "title": "美股七巨头收盘播报｜特斯拉收跌2.6%，连跌七天",
+          "url": "https://wallstreetcn.com/livenews/3029937",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5,
-            7,
+            10,
             13,
-            15,
-            16,
-            17
+            20,
+            22,
+            23,
+            24,
+            26
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[06时26分 ~ 13时27分]"
+          "appearance_count": 7,
+          "time_info": "[06时26分 ~ 14时38分]"
         },
         {
           "title": "明晟公司MSCI发展中国家股票指数涨1.7%，连续第六个交易日走高，创2021年2月份以来收盘新高。 科技板块涨2.7%，壁仞科技香港IPO首日上涨，宣布AI芯片部门秘密递交香港IPO申请的百度也上涨。 MSCI拉美股票指数涨0.5%。 新兴市场货币涨跌各异。",
@@ -119,27 +138,12 @@
             7,
             9,
             10,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时24分 ~ 13时27分]"
-        },
-        {
-          "title": "美股七巨头收盘播报｜特斯拉收跌2.6%，连跌七天",
-          "url": "https://wallstreetcn.com/livenews/3029937",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            13,
-            20,
-            22,
-            23,
-            24
+            11,
+            13
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[06时26分 ~ 13时27分]"
+          "time_info": "[07时24分 ~ 14时38分]"
         },
         {
           "title": "美股收盘：科技题材开年大狂欢！中概股化身“金龙傲天”",
@@ -151,8 +155,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时56分 ~ 13时27分]"
+          "appearance_count": 6,
+          "time_info": "[09时56分 ~ 14时38分]"
         },
         {
           "title": "半导体概念股美股新年首日普遍收涨",
@@ -162,11 +166,12 @@
             15,
             17,
             18,
-            19
+            19,
+            21
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时56分 ~ 13时27分]"
+          "appearance_count": 5,
+          "time_info": "[09时56分 ~ 14时38分]"
         },
         {
           "title": "金十图示：2026年01月02日（周五）美股热门股票行情一览（美股收盘）",
@@ -256,7 +261,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "伊朗骚乱",
@@ -300,6 +305,18 @@
           "time_info": "[04时28分 ~ 11时26分]"
         },
         {
+          "title": "伊朗最近有点悬",
+          "url": "https://news.ifeng.com/c/8pbgQ9nqbqV",
+          "source": "凤凰网",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时56分 ~ 14时38分]"
+        },
+        {
           "title": "特朗普称将就伊朗事件进行干涉",
           "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E5%B0%86%E5%B0%B1%E4%BC%8A%E6%9C%97%E4%BA%8B%E4%BB%B6%E8%BF%9B%E8%A1%8C%E5%B9%B2%E6%B6%89",
           "source": "bilibili 热搜",
@@ -309,17 +326,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时56分"
-        },
-        {
-          "title": "伊朗最近有点悬",
-          "url": "https://news.ifeng.com/c/8pbgQ9nqbqV",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时56分 ~ 13时27分]"
         },
         {
           "title": "纪念苏莱马尼遭美暗杀6周年，伊朗总统谴责美以国家恐怖主义",
@@ -334,6 +340,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时32分 ~ 03时17分]"
+        },
+        {
+          "title": "牛弹琴：伊朗面临40年来最严峻挑战",
+          "url": "https://www.toutiao.com/trending/7590150643311345706/",
+          "source": "今日头条",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时36分 ~ 14时38分]"
         },
         {
           "title": "伊朗外交部谴责美国干涉内政，警告将果断回应任何侵略",
@@ -363,15 +380,15 @@
           "time_info": "[00时32分 ~ 02时37分]"
         },
         {
-          "title": "牛弹琴：伊朗面临40年来最严峻挑战",
-          "url": "https://www.toutiao.com/trending/7590150643311345706/",
-          "source": "今日头条",
+          "title": "骚乱持续蔓延，伊朗高官警告特朗普：干涉之手“必被砍掉”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32302834",
+          "source": "澎湃新闻",
           "ranks": [
-            13
+            18
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[12时36分 ~ 13时27分]"
+          "time_info": "[14时37分 ~ 14时38分]"
         },
         {
           "title": "伊朗骚乱的经济真相",
@@ -473,7 +490,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时27分"
         }
@@ -515,11 +532,12 @@
           "ranks": [
             9,
             10,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时31分 ~ 13时27分]"
+          "appearance_count": 18,
+          "time_info": "[00时31分 ~ 14时38分]"
         }
       ]
     },
@@ -561,11 +579,12 @@
           "source": "金十数据",
           "ranks": [
             4,
-            6
+            6,
+            22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时36分 ~ 13时27分]"
+          "appearance_count": 3,
+          "time_info": "[12时36分 ~ 14时38分]"
         }
       ]
     },
@@ -589,8 +608,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时31分 ~ 13时27分]"
+          "appearance_count": 18,
+          "time_info": "[00时31分 ~ 14时38分]"
         },
         {
           "title": "UP主解读DeepSeek梁文锋新论文",
@@ -619,11 +638,12 @@
             11,
             13,
             14,
-            15
+            15,
+            17
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[06时26分 ~ 13时27分]"
+          "appearance_count": 7,
+          "time_info": "[06时26分 ~ 14时38分]"
         }
       ]
     },
@@ -660,11 +680,12 @@
             22,
             24,
             25,
-            26
+            26,
+            28
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时24分 ~ 13时27分]"
+          "appearance_count": 6,
+          "time_info": "[07时24分 ~ 14时38分]"
         }
       ]
     }
