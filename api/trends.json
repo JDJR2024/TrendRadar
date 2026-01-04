@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-04T16:34:06.957899+08:00",
-  "total_titles_processed": 1136,
+  "generated_at": "2026-01-04T17:25:02.601448+08:00",
+  "total_titles_processed": 1194,
   "failed_sources": [],
   "trends": [
     {
@@ -18,8 +18,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时24分 ~ 16时34分]"
+          "appearance_count": 10,
+          "time_info": "[07时24分 ~ 17时25分]"
         },
         {
           "title": "伊朗这次全国性抗议会演变成政权更替吗？",
@@ -93,8 +93,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时33分 ~ 16时34分]"
+          "appearance_count": 4,
+          "time_info": "[16时33分 ~ 17时25分]"
         }
       ]
     },
