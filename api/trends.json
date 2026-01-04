@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-05T03:20:35.183635+08:00",
-  "total_titles_processed": 400,
+  "generated_at": "2026-01-05T04:28:50.147524+08:00",
+  "total_titles_processed": 418,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时31分 ~ 03时20分]"
+          "appearance_count": 5,
+          "time_info": "[00时31分 ~ 04时28分]"
         },
         {
           "title": "内塔尼亚胡谈访美成果：以美坚持伊朗“零铀浓缩”立场",
@@ -26,8 +26,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时31分 ~ 03时20分]"
+          "appearance_count": 5,
+          "time_info": "[00时31分 ~ 04时28分]"
         },
         {
           "title": "伊朗哈梅内伊为何不惊慌？",
@@ -37,8 +37,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时31分 ~ 03时20分]"
+          "appearance_count": 5,
+          "time_info": "[00时31分 ~ 04时28分]"
         },
         {
           "title": "内塔尼亚胡谈访美成果：以美坚持伊朗“零铀浓缩”立场",
@@ -48,8 +48,20 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时31分 ~ 03时20分]"
+          "appearance_count": 5,
+          "time_info": "[00时31分 ~ 04时28分]"
+        },
+        {
+          "title": "据伊朗塔斯尼姆通讯社：伊朗外长阿拉格齐呼吁通过各领域持续合作，加强和扩大与阿塞拜疆共和国的全面关系。",
+          "url": "https://flash.jin10.com/detail/20260105025806414800",
+          "source": "金十数据",
+          "ranks": [
+            13,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时20分 ~ 04时28分]"
         },
         {
           "title": "内塔尼亚胡谈访美成果：以美坚持伊朗“零铀浓缩”立场",
@@ -62,17 +74,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时31分 ~ 01时22分]"
-        },
-        {
-          "title": "据伊朗塔斯尼姆通讯社：伊朗外长阿拉格齐呼吁通过各领域持续合作，加强和扩大与阿塞拜疆共和国的全面关系。",
-          "url": "https://flash.jin10.com/detail/20260105025806414800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时20分"
         }
       ]
     },
@@ -81,16 +82,28 @@
       "match_count": 3,
       "titles": [
         {
+          "title": "以色列总理内塔尼亚胡谈及委内瑞拉局势，表示以色列政府支持美国“恢复自由与正义”的决定与行动，对特朗普的决定表示祝贺，并向执行行动的美军致意。（央视）",
+          "url": "https://wallstreetcn.com/livenews/3030327",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时31分 ~ 04时28分]"
+        },
+        {
           "title": "美媒：以色列与叙利亚将在巴黎举行会谈",
           "url": "https://flash.jin10.com/detail/20260105015611879800",
           "source": "金十数据",
           "ranks": [
             4,
-            22
+            22,
+            30
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时35分 ~ 03时20分]"
+          "appearance_count": 3,
+          "time_info": "[02时35分 ~ 04时28分]"
         },
         {
           "title": "据AXIOS网站：叙利亚和以色列高级官员将于周一在美国斡旋下在巴黎会晤，重启关于新安全协议的谈判。",
@@ -103,17 +116,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时35分 ~ 03时20分]"
-        },
-        {
-          "title": "以色列总理内塔尼亚胡谈及委内瑞拉局势，表示以色列政府支持美国“恢复自由与正义”的决定与行动，对特朗普的决定表示祝贺，并向执行行动的美军致意。（央视）",
-          "url": "https://wallstreetcn.com/livenews/3030327",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时31分 ~ 03时20分]"
         }
       ]
     }
