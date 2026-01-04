@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-04T14:38:42.181946+08:00",
-  "total_titles_processed": 1016,
+  "generated_at": "2026-01-04T15:26:22.543352+08:00",
+  "total_titles_processed": 1068,
   "failed_sources": [],
   "trends": [
     {
@@ -29,8 +29,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时24分 ~ 14时38分]"
+          "appearance_count": 6,
+          "time_info": "[07时24分 ~ 15时26分]"
         },
         {
           "title": "市场消息：伊朗安全部队在伊斯法罕向抗议者开火。",
@@ -57,6 +57,20 @@
           "time_info": "[05时23分 ~ 10时12分]"
         },
         {
+          "title": "伊朗最高领袖就美国对委军事行动表态：“绝不会向敌人屈服”",
+          "url": "https://wallstreetcn.com/livenews/3030223",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            10,
+            14,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时13分 ~ 15时26分]"
+        },
+        {
           "title": "伊朗最高领袖誓言伊朗绝不屈服",
           "url": "https://www.toutiao.com/trending/7590405381375836169/",
           "source": "今日头条",
@@ -68,19 +82,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[10时12分 ~ 13时31分]"
-        },
-        {
-          "title": "伊朗最高领袖就美国对委军事行动表态：“绝不会向敌人屈服”",
-          "url": "https://wallstreetcn.com/livenews/3030223",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            10,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时13分 ~ 14时38分]"
         }
       ]
     },
