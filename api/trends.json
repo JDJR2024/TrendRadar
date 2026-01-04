@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-04T17:25:02.601448+08:00",
-  "total_titles_processed": 1194,
+  "generated_at": "2026-01-04T18:25:45.020618+08:00",
+  "total_titles_processed": 1251,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,12 @@
             10,
             6,
             4,
-            5
+            5,
+            8
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[07时24分 ~ 17时25分]"
+          "appearance_count": 11,
+          "time_info": "[07时24分 ~ 18时25分]"
         },
         {
           "title": "伊朗这次全国性抗议会演变成政权更替吗？",
@@ -73,6 +74,17 @@
           "time_info": "[12时13分 ~ 16时34分]"
         },
         {
+          "title": "伊朗哈梅内伊为何不惊慌？",
+          "url": "https://www.zhihu.com/question/1991042434596094026",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时33分 ~ 18时25分]"
+        },
+        {
           "title": "伊朗最高领袖誓言伊朗绝不屈服",
           "url": "https://www.toutiao.com/trending/7590405381375836169/",
           "source": "今日头条",
@@ -84,17 +96,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[10时12分 ~ 13时31分]"
-        },
-        {
-          "title": "伊朗哈梅内伊为何不惊慌？",
-          "url": "https://www.zhihu.com/question/1991042434596094026",
-          "source": "知乎",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时33分 ~ 17时25分]"
         }
       ]
     },
