@@ -1,12 +1,26 @@
 {
-  "generated_at": "2026-01-04T15:26:22.543352+08:00",
-  "total_titles_processed": 1068,
+  "generated_at": "2026-01-04T16:34:06.957899+08:00",
+  "total_titles_processed": 1136,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
+        {
+          "title": "伊朗最高领袖: 应与抗议者进行对话 但骚乱行径必须得到制止",
+          "url": "https://wallstreetcn.com/articles/3762481",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            6,
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[07时24分 ~ 16时34分]"
+        },
         {
           "title": "伊朗这次全国性抗议会演变成政权更替吗？",
           "url": "https://www.zhihu.com/question/1990341451373122440",
@@ -18,19 +32,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时31分 ~ 10时12分]"
-        },
-        {
-          "title": "伊朗最高领袖: 应与抗议者进行对话 但骚乱行径必须得到制止",
-          "url": "https://wallstreetcn.com/articles/3762481",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时24分 ~ 15时26分]"
         },
         {
           "title": "市场消息：伊朗安全部队在伊斯法罕向抗议者开火。",
@@ -64,11 +65,12 @@
             5,
             10,
             14,
-            23
+            23,
+            30
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时13分 ~ 15时26分]"
+          "appearance_count": 5,
+          "time_info": "[12时13分 ~ 16时34分]"
         },
         {
           "title": "伊朗最高领袖誓言伊朗绝不屈服",
@@ -82,6 +84,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[10时12分 ~ 13时31分]"
+        },
+        {
+          "title": "伊朗哈梅内伊为何不惊慌？",
+          "url": "https://www.zhihu.com/question/1991042434596094026",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时33分 ~ 16时34分]"
         }
       ]
     },
