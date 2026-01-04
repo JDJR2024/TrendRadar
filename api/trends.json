@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-05T04:28:50.147524+08:00",
-  "total_titles_processed": 418,
+  "generated_at": "2026-01-05T05:23:27.636001+08:00",
+  "total_titles_processed": 437,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时31分 ~ 04时28分]"
+          "appearance_count": 6,
+          "time_info": "[00时31分 ~ 05时23分]"
         },
         {
           "title": "内塔尼亚胡谈访美成果：以美坚持伊朗“零铀浓缩”立场",
@@ -26,19 +26,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时31分 ~ 04时28分]"
-        },
-        {
-          "title": "伊朗哈梅内伊为何不惊慌？",
-          "url": "https://www.zhihu.com/question/1991042434596094026",
-          "source": "知乎",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时31分 ~ 04时28分]"
+          "appearance_count": 6,
+          "time_info": "[00时31分 ~ 05时23分]"
         },
         {
           "title": "内塔尼亚胡谈访美成果：以美坚持伊朗“零铀浓缩”立场",
@@ -46,6 +35,17 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             20
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时31分 ~ 05时23分]"
+        },
+        {
+          "title": "伊朗哈梅内伊为何不惊慌？",
+          "url": "https://www.zhihu.com/question/1991042434596094026",
+          "source": "知乎",
+          "ranks": [
+            15
           ],
           "is_new": false,
           "appearance_count": 5,
@@ -89,8 +89,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时31分 ~ 04时28分]"
+          "appearance_count": 6,
+          "time_info": "[00时31分 ~ 05时23分]"
         },
         {
           "title": "美媒：以色列与叙利亚将在巴黎举行会谈",
