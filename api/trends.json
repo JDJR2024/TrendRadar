@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-04T20:50:33.863891+08:00",
-  "total_titles_processed": 1407,
+  "generated_at": "2026-01-04T21:33:47.662366+08:00",
+  "total_titles_processed": 1464,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "伊朗最高领袖: 应与抗议者进行对话 但骚乱行径必须得到制止",
@@ -43,8 +43,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时33分 ~ 20时50分]"
+          "appearance_count": 9,
+          "time_info": "[16时33分 ~ 21时33分]"
         },
         {
           "title": "市场消息：伊朗安全部队在伊斯法罕向抗议者开火。",
@@ -71,17 +71,6 @@
           "time_info": "[05时23分 ~ 10时12分]"
         },
         {
-          "title": "内塔尼亚胡谈访美成果：以美坚持伊朗“零铀浓缩”立场",
-          "url": "https://flash.jin10.com/detail/20260104203228542800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时50分"
-        },
-        {
           "title": "伊朗最高领袖就美国对委军事行动表态：“绝不会向敌人屈服”",
           "url": "https://wallstreetcn.com/livenews/3030223",
           "source": "华尔街见闻-快讯",
@@ -95,6 +84,18 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[12时13分 ~ 16时34分]"
+        },
+        {
+          "title": "内塔尼亚胡谈访美成果：以美坚持伊朗“零铀浓缩”立场",
+          "url": "https://flash.jin10.com/detail/20260104203228542800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时50分 ~ 21时33分]"
         },
         {
           "title": "伊朗最高领袖誓言伊朗绝不屈服",
@@ -114,22 +115,35 @@
           "url": "https://wallstreetcn.com/livenews/3030313",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            9,
+            18
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时50分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时50分 ~ 21时33分]"
         },
         {
           "title": "伊朗警察部队司令：已针对煽动骚乱带头人进行定点逮捕",
           "url": "https://flash.jin10.com/detail/20260104193346890800",
           "source": "金十数据",
           "ranks": [
-            10
+            10,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时50分 ~ 21时33分]"
+        },
+        {
+          "title": "内塔尼亚胡谈访美成果：以美坚持伊朗“零铀浓缩”立场",
+          "url": "https://wallstreetcn.com/livenews/3030326",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时50分"
+          "time_info": "21时33分"
         }
       ]
     },
@@ -193,8 +207,19 @@
     },
     {
       "keyword_group": "以色列",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "以色列总理内塔尼亚胡谈及委内瑞拉局势，表示以色列政府支持美国“恢复自由与正义”的决定与行动，对特朗普的决定表示祝贺，并向执行行动的美军致意。（央视）",
+          "url": "https://wallstreetcn.com/livenews/3030327",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时33分"
+        },
         {
           "title": "以色列外交部长：以色列欢迎委内瑞拉马杜罗被罢免，其领导了一个“毒品与恐怖网络”。",
           "url": "https://flash.jin10.com/detail/20260103233419254800",
