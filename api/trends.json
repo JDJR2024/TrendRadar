@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-04T18:25:45.020618+08:00",
-  "total_titles_processed": 1251,
+  "generated_at": "2026-01-04T19:21:01.402882+08:00",
+  "total_titles_processed": 1302,
   "failed_sources": [],
   "trends": [
     {
@@ -16,11 +16,12 @@
             6,
             4,
             5,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[07时24分 ~ 18时25分]"
+          "appearance_count": 13,
+          "time_info": "[07时24分 ~ 19时21分]"
         },
         {
           "title": "伊朗这次全国性抗议会演变成政权更替吗？",
@@ -33,6 +34,17 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时31分 ~ 10时12分]"
+        },
+        {
+          "title": "伊朗哈梅内伊为何不惊慌？",
+          "url": "https://www.zhihu.com/question/1991042434596094026",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[16时33分 ~ 19时21分]"
         },
         {
           "title": "市场消息：伊朗安全部队在伊斯法罕向抗议者开火。",
@@ -72,17 +84,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[12时13分 ~ 16时34分]"
-        },
-        {
-          "title": "伊朗哈梅内伊为何不惊慌？",
-          "url": "https://www.zhihu.com/question/1991042434596094026",
-          "source": "知乎",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时33分 ~ 18时25分]"
         },
         {
           "title": "伊朗最高领袖誓言伊朗绝不屈服",
