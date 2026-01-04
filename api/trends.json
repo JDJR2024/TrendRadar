@@ -1,39 +1,33 @@
 {
-  "generated_at": "2026-01-04T23:24:36.839823+08:00",
-  "total_titles_processed": 1571,
+  "generated_at": "2026-01-05T00:31:39.568559+08:00",
+  "total_titles_processed": 314,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 13,
+      "match_count": 5,
       "titles": [
         {
-          "title": "伊朗最高领袖: 应与抗议者进行对话 但骚乱行径必须得到制止",
-          "url": "https://wallstreetcn.com/articles/3762481",
-          "source": "华尔街见闻",
+          "title": "美国国务卿卢比奥：石油对委内瑞拉的未来具有至关重要的意义。 （特朗普政府）在委内瑞拉（军事行动的）目标包括不再发生毒品输送，并切断与伊朗的联系。 （对于总统马杜罗）政府官员，我们已经虏获最高目标。 不在委内瑞拉陆地展开数日行动，是无法掳走更多人员的。 委内瑞拉并不存在美国的地面部队。 （对于占领委内瑞拉）总统特朗普保留这样的选项。 委内瑞拉实现民主过渡需要时间，不可能在几个小时内发生。 我将深度介入委内瑞拉的政权过渡。 将判断副总统Rodriguez的行动。 预计委内瑞拉将发生变化。 石油禁运是美国在委内瑞拉一个主要的杠杆。 需要再投资委内瑞拉石油，需要私人公司参与。 委内瑞拉的大多数机会在其国家之外。",
+          "url": "https://wallstreetcn.com/livenews/3030342",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            10,
-            6,
-            4,
-            5,
-            8,
-            7
+            6
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[07时24分 ~ 19时21分]"
+          "appearance_count": 1,
+          "time_info": "00时31分"
         },
         {
-          "title": "伊朗这次全国性抗议会演变成政权更替吗？",
-          "url": "https://www.zhihu.com/question/1990341451373122440",
-          "source": "知乎",
+          "title": "内塔尼亚胡谈访美成果：以美坚持伊朗“零铀浓缩”立场",
+          "url": "https://news.ifeng.com/c/8peAynFqde9",
+          "source": "凤凰网",
           "ranks": [
-            16,
             11
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时31分 ~ 10时12分]"
+          "appearance_count": 1,
+          "time_info": "00时31分"
         },
         {
           "title": "伊朗哈梅内伊为何不惊慌？",
@@ -43,288 +37,47 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[16时33分 ~ 23时24分]"
-        },
-        {
-          "title": "市场消息：伊朗安全部队在伊斯法罕向抗议者开火。",
-          "url": "https://flash.jin10.com/detail/20260104043938060800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[05时23分 ~ 10时12分]"
-        },
-        {
-          "title": "伊朗外交部：伊朗外交部长与委内瑞拉外交部长进行了通话。",
-          "url": "https://flash.jin10.com/detail/20260104043833561800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[05时23分 ~ 10时12分]"
-        },
-        {
-          "title": "伊朗最高领袖就美国对委军事行动表态：“绝不会向敌人屈服”",
-          "url": "https://wallstreetcn.com/livenews/3030223",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            10,
-            14,
-            23,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时13分 ~ 16时34分]"
-        },
-        {
-          "title": "内塔尼亚胡谈访美成果：以美坚持伊朗“零铀浓缩”立场",
-          "url": "https://flash.jin10.com/detail/20260104203228542800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            6,
-            12,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时50分 ~ 23时24分]"
-        },
-        {
-          "title": "美国国务卿卢比奥：石油对委内瑞拉的未来具有至关重要的意义。 （特朗普政府）在委内瑞拉（军事行动的）目标包括不再发生毒品输送，并切断与伊朗的联系。 （对于总统马杜罗）政府官员，我们已经虏获最高目标。 不在委内瑞拉陆地展开数日行动，是无法掳走更多人员的。 委内瑞拉并不存在美国的地面部队。 （对于占领委内瑞拉）总统特朗普保留这样的选项。 委内瑞拉实现民主过渡需要时间，不可能在几个小时内发生。 我将深度介入委内瑞拉的政权过渡。 将判断副总统Rodriguez的行动。 预计委内瑞拉将发生变化。 石油禁运是美国在委内瑞拉一个主要的杠杆。 需要再投资委内瑞拉石油，需要私人公司参与。 委内瑞拉的大多数机会在其国家之外。",
-          "url": "https://wallstreetcn.com/livenews/3030342",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时23分 ~ 23时24分]"
-        },
-        {
-          "title": "伊朗最高领袖誓言伊朗绝不屈服",
-          "url": "https://www.toutiao.com/trending/7590405381375836169/",
-          "source": "今日头条",
-          "ranks": [
-            1,
-            20,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时12分 ~ 13时31分]"
-        },
-        {
-          "title": "伊朗警察部队司令：已针对煽动骚乱带头人进行定点逮捕",
-          "url": "https://flash.jin10.com/detail/20260104193346890800",
-          "source": "金十数据",
-          "ranks": [
-            10,
-            15,
-            21,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时50分 ~ 23时24分]"
+          "appearance_count": 1,
+          "time_info": "00时31分"
         },
         {
           "title": "内塔尼亚胡谈访美成果：以美坚持伊朗“零铀浓缩”立场",
           "url": "https://wallstreetcn.com/livenews/3030326",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            7,
-            17,
             20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时33分 ~ 23时24分]"
-        },
-        {
-          "title": "煽动伊朗骚乱的带头人被逮捕，供述称收受美元资金",
-          "url": "https://wallstreetcn.com/livenews/3030313",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            18,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时50分 ~ 22时23分]"
+          "appearance_count": 1,
+          "time_info": "00时31分"
         },
         {
           "title": "内塔尼亚胡谈访美成果：以美坚持伊朗“零铀浓缩”立场",
-          "url": "https://news.ifeng.com/c/8peAynFqde9",
-          "source": "凤凰网",
+          "url": "https://flash.jin10.com/detail/20260104203228542800",
+          "source": "金十数据",
           "ranks": [
-            11
+            26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "23时24分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "2026欧股开门红，美股反弹艰难，芯片股力撑但特斯拉拖累，百度大涨15%，人民币两年多新高",
-          "url": "https://wallstreetcn.com/articles/3762449",
-          "source": "华尔街见闻",
-          "ranks": [
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时31分 ~ 06时24分]"
-        },
-        {
-          "title": "美股新年首个交易日：能源等防御性板块领涨，科技股下跌",
-          "url": "https://wallstreetcn.com/articles/3762474",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            8,
-            6,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时31分 ~ 13时31分]"
-        },
-        {
-          "title": "美股收盘：科技题材开年大狂欢！中概股化身“金龙傲天”",
-          "url": "https://www.cls.cn/detail/2246526",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            8,
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时31分 ~ 12时13分]"
-        },
-        {
-          "title": "高盛交易团队2026年三大美股交易：聚焦“AI交易”下一步",
-          "url": "https://wallstreetcn.com/articles/3762476",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时12分 ~ 12时13分]"
+          "time_info": "00时31分"
         }
       ]
     },
     {
       "keyword_group": "以色列",
-      "match_count": 3,
+      "match_count": 1,
       "titles": [
         {
           "title": "以色列总理内塔尼亚胡谈及委内瑞拉局势，表示以色列政府支持美国“恢复自由与正义”的决定与行动，对特朗普的决定表示祝贺，并向执行行动的美军致意。（央视）",
           "url": "https://wallstreetcn.com/livenews/3030327",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6,
-            16,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时33分 ~ 23时24分]"
-        },
-        {
-          "title": "以色列外交部长：以色列欢迎委内瑞拉马杜罗被罢免，其领导了一个“毒品与恐怖网络”。",
-          "url": "https://flash.jin10.com/detail/20260103233419254800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时31分"
-        },
-        {
-          "title": "以色列外交部长：以色列欢迎美国在委内瑞拉采取的行动。",
-          "url": "https://flash.jin10.com/detail/20260103233126908800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时31分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "DeepSeek 发布开年新论文，提出全新 MHC 架构，有何创新与应用前景？",
-          "url": "https://www.zhihu.com/question/1990117220391622363",
-          "source": "知乎",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时31分 ~ 14时38分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "Gemini向小胖道歉",
-          "url": "https://s.weibo.com/weibo?q=Gemini%E5%90%91%E5%B0%8F%E8%83%96%E9%81%93%E6%AD%89&t=31&band_rank=19&Refer=top",
-          "source": "微博",
-          "ranks": [
             19
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时12分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "金价",
-          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=26&Refer=top",
-          "source": "微博",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时12分"
+          "time_info": "00时31分"
         }
       ]
     }
