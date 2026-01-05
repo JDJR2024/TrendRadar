@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-05T19:24:35.930947+08:00",
-  "total_titles_processed": 1515,
+  "generated_at": "2026-01-05T20:56:47.646635+08:00",
+  "total_titles_processed": 1634,
   "failed_sources": [],
   "trends": [
     {
@@ -178,7 +178,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时24分"
         }
@@ -242,7 +242,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时24分"
         }
@@ -271,7 +271,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时24分"
         },
@@ -282,7 +282,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时24分"
         },
@@ -324,6 +324,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时33分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "尽管有OpenAI融资利好 分析师仍警告CoreWeave股票价值或将清零",
+          "url": "https://flash.jin10.com/detail/20260105200457445800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时56分"
         }
       ]
     },
