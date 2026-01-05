@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-05T18:32:46.274749+08:00",
-  "total_titles_processed": 1408,
+  "generated_at": "2026-01-05T19:24:35.930947+08:00",
+  "total_titles_processed": 1515,
   "failed_sources": [],
   "trends": [
     {
@@ -31,6 +31,17 @@
           "time_info": "[00时31分 ~ 07时24分]"
         },
         {
+          "title": "伊朗呼吁美方释放委内瑞拉总统马杜罗",
+          "url": "https://news.ifeng.com/c/8pfbAio37z3",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时38分 ~ 19时24分]"
+        },
+        {
           "title": "内塔尼亚胡谈访美成果：以美坚持伊朗“零铀浓缩”立场",
           "url": "https://wallstreetcn.com/livenews/3030326",
           "source": "华尔街见闻-快讯",
@@ -40,17 +51,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时31分 ~ 06时25分]"
-        },
-        {
-          "title": "伊朗呼吁美方释放委内瑞拉总统马杜罗",
-          "url": "https://news.ifeng.com/c/8pfbAio37z3",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时38分 ~ 18时32分]"
         },
         {
           "title": "伊朗哈梅内伊为何不惊慌？",
@@ -102,7 +102,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "美股贵金属矿商盘前上涨，金罗斯黄金(KGC.N)涨2%，AngloGold涨1.4%，巴里克黄金(GOLD.N)、纽蒙特矿业(NEM.N)均涨超2%。",
@@ -170,12 +170,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时38分"
+        },
+        {
+          "title": "地缘风险预期升温 美股国防板块盘前集体上扬",
+          "url": "https://flash.jin10.com/detail/20260105190339497800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时24分"
         }
       ]
     },
     {
       "keyword_group": "以色列",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "以色列总理内塔尼亚胡谈及委内瑞拉局势，表示以色列政府支持美国“恢复自由与正义”的决定与行动，对特朗普的决定表示祝贺，并向执行行动的美军致意。（央视）",
@@ -223,6 +234,68 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时38分"
+        },
+        {
+          "title": "据以色列媒体报道，黎巴嫩南部纳巴蒂耶（Nabatieh）发生无人机袭击车辆事件。",
+          "url": "https://flash.jin10.com/detail/20260105184508086800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时24分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "人工智能 AI ChatGPT",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "网传元宝 AI 辱骂用户，腾讯称是模型异常输出，非人工回复，技术上如何分析？其他 AI 也可能这样吗？",
+          "url": "https://www.zhihu.com/question/1991228705045968330",
+          "source": "知乎",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[10时12分 ~ 19时24分]"
+        },
+        {
+          "title": "广汽集团与华为终端签约，深化鸿蒙生态与AI技术合作",
+          "url": "https://wallstreetcn.com/livenews/3030823",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时24分"
+        },
+        {
+          "title": "阿里巴巴将视觉AI技术应用于餐饮赛道 与美团展开竞争",
+          "url": "https://wallstreetcn.com/livenews/3030815",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时24分"
+        },
+        {
+          "title": "四川：加快关键核心数智技术攻关，实施人工智能等重大科技专项",
+          "url": "https://wallstreetcn.com/livenews/3030631",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时33分"
         }
       ]
     },
@@ -247,35 +320,6 @@
           "source": "金十数据",
           "ranks": [
             8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时33分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "人工智能 AI ChatGPT",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "网传元宝 AI 辱骂用户，腾讯称是模型异常输出，非人工回复，技术上如何分析？其他 AI 也可能这样吗？",
-          "url": "https://www.zhihu.com/question/1991228705045968330",
-          "source": "知乎",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时12分 ~ 18时32分]"
-        },
-        {
-          "title": "四川：加快关键核心数智技术攻关，实施人工智能等重大科技专项",
-          "url": "https://wallstreetcn.com/livenews/3030631",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
           ],
           "is_new": false,
           "appearance_count": 1,
