@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-05T21:45:14.414299+08:00",
-  "total_titles_processed": 1734,
+  "generated_at": "2026-01-05T22:29:44.472584+08:00",
+  "total_titles_processed": 1820,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 10,
+      "match_count": 14,
       "titles": [
         {
           "title": "美股贵金属矿商盘前上涨，金罗斯黄金(KGC.N)涨2%，AngloGold涨1.4%，巴里克黄金(GOLD.N)、纽蒙特矿业(NEM.N)均涨超2%。",
@@ -45,11 +45,12 @@
           "url": "https://wallstreetcn.com/livenews/3030912",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            5,
+            24
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时45分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时45分 ~ 22时29分]"
         },
         {
           "title": "美股盘前，美股存储芯片股走高，美光科技涨超3%，西部数据涨超2%，SanDisk涨超2%，台积电涨近3.5%，AMD涨超2%。美国石油股盘前集体走高，雪佛龙盘前一度上涨近10%，康菲石油涨超8％，埃克森美孚涨超3%。",
@@ -64,15 +65,37 @@
           "time_info": "[17时38分 ~ 18时32分]"
         },
         {
+          "title": "美股指期货上扬，美股盘前石油股集体走高，伦铜触及1.3万美元创新高，委内瑞拉动荡下金银齐涨，原油转涨",
+          "url": "https://wallstreetcn.com/articles/3762559",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时29分"
+        },
+        {
           "title": "金十数据整理：每日美股市场要闻速递（2026-01-05）",
           "url": "https://flash.jin10.com/detail/20260105212007984800",
           "source": "金十数据",
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时45分"
+        },
+        {
+          "title": "2025年美股IPO成绩单：总体表现差强人意 基本面重归估值核心",
+          "url": "https://flash.jin10.com/detail/20260105221450191800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时29分"
         },
         {
           "title": "中金2026展望：泡沫加速！美国“财政主导”利好中美股市和金银铜",
@@ -84,6 +107,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时38分"
+        },
+        {
+          "title": "美股三大期指涨跌不一 科技巨头、能源股整体走强 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2248463",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时29分"
         },
         {
           "title": "分析师：委内瑞拉局势或成美股美元长期利好",
@@ -108,15 +142,156 @@
           "time_info": "19时24分"
         },
         {
+          "title": "周一美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3030921",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时29分"
+        },
+        {
           "title": "多邻国美股盘前涨超4%。此前美国银行将多邻国评级从中性上调至买入。",
           "url": "https://wallstreetcn.com/livenews/3030899",
           "source": "华尔街见闻-快讯",
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时45分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "以色列",
+      "match_count": 11,
+      "titles": [
+        {
+          "title": "以色列总理内塔尼亚胡谈及委内瑞拉局势，表示以色列政府支持美国“恢复自由与正义”的决定与行动，对特朗普的决定表示祝贺，并向执行行动的美军致意。（央视）",
+          "url": "https://wallstreetcn.com/livenews/3030327",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时31分 ~ 06时25分]"
+        },
+        {
+          "title": "美媒：以色列与叙利亚将在巴黎举行会谈",
+          "url": "https://flash.jin10.com/detail/20260105015611879800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            22,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时35分 ~ 04时28分]"
+        },
+        {
+          "title": "据AXIOS网站：叙利亚和以色列高级官员将于周一在美国斡旋下在巴黎会晤，重启关于新安全协议的谈判。",
+          "url": "https://flash.jin10.com/detail/20260105015051535800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时35分 ~ 03时20分]"
+        },
+        {
+          "title": "以色列国防军：昨天，以军在黎巴嫩南部朱迈吉马地区打击并消灭了两名真主党恐怖分子。这些恐怖分子参与了在该地区重建真主党基础设施的企图。",
+          "url": "https://flash.jin10.com/detail/20260105170300838800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时38分"
+        },
+        {
+          "title": "以色列央行：以色列风险溢价已接近战前水平。",
+          "url": "https://flash.jin10.com/detail/20260105221415366800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时29分"
+        },
+        {
+          "title": "以色列央行降息至4%，预期4.25%。 央行研究员们预计2026年四季度基础利率为3.5%。 预计2026年GDP将增长5.2%，2027年料增4.3%。 预计2026年通胀率为1.7%，2027年料为2%。",
+          "url": "https://wallstreetcn.com/livenews/3030923",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时29分"
+        },
+        {
+          "title": "以色列央行：指标显示经济持续扩张。",
+          "url": "https://flash.jin10.com/detail/20260105221315095800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时29分"
+        },
+        {
+          "title": "据以色列媒体报道，黎巴嫩南部纳巴蒂耶（Nabatieh）发生无人机袭击车辆事件。",
+          "url": "https://flash.jin10.com/detail/20260105184508086800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时24分"
+        },
+        {
+          "title": "以色列央行：研究人员预计，2026年第四季度基准利率将为3.5%。",
+          "url": "https://flash.jin10.com/detail/20260105220412513800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时29分"
+        },
+        {
+          "title": "以色列央行：预计2026年GDP增速为5.2%，2027年为4.3%。预计2026年通胀率为1.7%，2027年为2%。",
+          "url": "https://flash.jin10.com/detail/20260105220337872800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时29分"
+        },
+        {
+          "title": "以色列央行：货币政策委员会的政策重点在于物价稳定、支持经济活动以及维护市场稳定。",
+          "url": "https://flash.jin10.com/detail/20260105220135037800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时29分"
         }
       ]
     },
@@ -218,70 +393,6 @@
       ]
     },
     {
-      "keyword_group": "以色列",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "以色列总理内塔尼亚胡谈及委内瑞拉局势，表示以色列政府支持美国“恢复自由与正义”的决定与行动，对特朗普的决定表示祝贺，并向执行行动的美军致意。（央视）",
-          "url": "https://wallstreetcn.com/livenews/3030327",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时31分 ~ 06时25分]"
-        },
-        {
-          "title": "美媒：以色列与叙利亚将在巴黎举行会谈",
-          "url": "https://flash.jin10.com/detail/20260105015611879800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            22,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时35分 ~ 04时28分]"
-        },
-        {
-          "title": "据AXIOS网站：叙利亚和以色列高级官员将于周一在美国斡旋下在巴黎会晤，重启关于新安全协议的谈判。",
-          "url": "https://flash.jin10.com/detail/20260105015051535800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时35分 ~ 03时20分]"
-        },
-        {
-          "title": "以色列国防军：昨天，以军在黎巴嫩南部朱迈吉马地区打击并消灭了两名真主党恐怖分子。这些恐怖分子参与了在该地区重建真主党基础设施的企图。",
-          "url": "https://flash.jin10.com/detail/20260105170300838800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时38分"
-        },
-        {
-          "title": "据以色列媒体报道，黎巴嫩南部纳巴蒂耶（Nabatieh）发生无人机袭击车辆事件。",
-          "url": "https://flash.jin10.com/detail/20260105184508086800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时24分"
-        }
-      ]
-    },
-    {
       "keyword_group": "人工智能 AI ChatGPT",
       "match_count": 4,
       "titles": [
@@ -329,6 +440,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时33分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "谷歌(GOOG.O)宣布为Google TV推出全新Gemini功能。",
+          "url": "https://flash.jin10.com/detail/20260105221438518800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时29分"
+        },
+        {
+          "title": "高通(QCOM.O)宣布扩大与谷歌(GOOG.O)长达十年的合作，聚焦汽车创新与人工智能驱动的移动出行技术。",
+          "url": "https://flash.jin10.com/detail/20260105220255157800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时29分"
         }
       ]
     },
@@ -382,7 +521,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时45分"
         }
