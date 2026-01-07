@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-07T15:30:34.082877+08:00",
-  "total_titles_processed": 1315,
+  "generated_at": "2026-01-07T16:37:51.042566+08:00",
+  "total_titles_processed": 1420,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 18,
+      "match_count": 19,
       "titles": [
         {
           "title": "地缘紧张但未失控，美股债同涨，道指新高，疲软美元撑商品走强，原油转涨，白银暴涨",
@@ -79,6 +79,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时26分"
+        },
+        {
+          "title": "闲置资金重回股市，美股1月份收涨概率超60%",
+          "url": "https://flash.jin10.com/detail/20260107160316304800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时37分"
         },
         {
           "title": "Strategy美股盘后涨超6%。",
@@ -182,7 +193,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时30分"
         },
@@ -463,7 +474,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时30分"
         },
@@ -493,11 +504,12 @@
             19,
             20,
             21,
-            23
+            23,
+            24
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时40分 ~ 15时30分]"
+          "appearance_count": 19,
+          "time_info": "[00时40分 ~ 16时37分]"
         },
         {
           "title": "美媒：伊朗人士担心美对伊采取类似委内瑞拉的行动",
@@ -506,7 +518,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时30分"
         },
@@ -544,6 +556,56 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时28分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "人工智能 AI ChatGPT",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "中国人工智能技术正这样走向世界",
+          "url": "https://www.toutiao.com/trending/7592248398812728859/",
+          "source": "今日头条",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时40分 ~ 10时02分]"
+        },
+        {
+          "title": "马斯克的2026愿景：我们已处于“技术奇点”，AI和机器人不可阻挡，短期是动荡和挑战，长期是丰盛时代",
+          "url": "https://wallstreetcn.com/articles/3762706",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时37分"
+        },
+        {
+          "title": "印度印孚瑟斯技术有限公司与亚马逊云服务合作，加速企业采用生成式人工智能。",
+          "url": "https://flash.jin10.com/detail/20260107134713084800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时41分"
+        },
+        {
+          "title": "【工信部：探索依托工业互联网平台打造“模型池”的路径，培育上线一批工业模型产品】工信部印发《工业互联网和人工智能融合赋能行动方案》。其中提出，提高工业互联网平台智能化水平。基于深度学习、大模型等技术，强化工业互联网平台的要素连接、智能分析、资源配置等能力。鼓励工业互联网平台企业加快基于人工智能的低代码、无代码技术创新，提升工业APP开发效率和系统集成能力。探索依托工业互联网平台打造“模型池”的路径，培育上线一批工业模型产品。推动平台底层架构、数据协议与人工智能适配兼容，深化国产智能体标准协议创新应用，发展“工业互联网平台+智能体”等创新模式，打造一批面向生产网络优化、人机交互、智能设备健康管理、产业链优化等典型场景的工业智能体应用。",
+          "url": "https://wallstreetcn.com/livenews/3032239",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时37分"
         }
       ]
     },
@@ -610,37 +672,9 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时30分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "人工智能 AI ChatGPT",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "中国人工智能技术正这样走向世界",
-          "url": "https://www.toutiao.com/trending/7592248398812728859/",
-          "source": "今日头条",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时40分 ~ 10时02分]"
-        },
-        {
-          "title": "印度印孚瑟斯技术有限公司与亚马逊云服务合作，加速企业采用生成式人工智能。",
-          "url": "https://flash.jin10.com/detail/20260107134713084800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时41分"
         }
       ]
     },
