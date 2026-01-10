@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-11T01:22:29.601888+08:00",
-  "total_titles_processed": 340,
+  "generated_at": "2026-01-11T02:35:23.984824+08:00",
+  "total_titles_processed": 359,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时31分 ~ 01时22分]"
+          "appearance_count": 4,
+          "time_info": "[00时31分 ~ 02时35分]"
         },
         {
           "title": "记者报道伊朗现状",
@@ -26,8 +26,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时31分 ~ 01时22分]"
+          "appearance_count": 4,
+          "time_info": "[00时31分 ~ 02时35分]"
         },
         {
           "title": "据伊朗迈赫尔通讯社：伊朗安全部队拦截了试图从伊拉克入境的库尔德武装分子。",
@@ -37,8 +37,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时31分 ~ 01时22分]"
+          "appearance_count": 3,
+          "time_info": "[00时31分 ~ 02时35分]"
         },
         {
           "title": "伊朗军方表示将捍卫国家利益",
@@ -48,8 +48,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时31分 ~ 01时22分]"
+          "appearance_count": 3,
+          "time_info": "[00时31分 ~ 02时35分]"
         },
         {
           "title": "伊朗军方表示将捍卫国家利益",
@@ -59,47 +59,50 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时31分 ~ 01时22分]"
+          "appearance_count": 3,
+          "time_info": "[00时31分 ~ 02时35分]"
         },
         {
           "title": "伊朗军方表示将捍卫国家利益",
           "url": "https://www.toutiao.com/trending/7593710160993026067/",
           "source": "今日头条",
           "ranks": [
-            28
+            28,
+            24
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时31分"
+          "appearance_count": 2,
+          "time_info": "[00时31分 ~ 02时35分]"
         }
       ]
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "DeepSeek 计划二月中旬发布新模型 DeepSeek-V4，有哪些技术亮点？能第二次震惊世界吗？",
           "url": "https://www.zhihu.com/question/1993329446883651767",
           "source": "知乎",
           "ranks": [
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时31分 ~ 01时22分]"
+          "appearance_count": 4,
+          "time_info": "[00时31分 ~ 02时35分]"
         },
         {
           "title": "UP主解读DeepSeek进化史",
           "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E8%A7%A3%E8%AF%BBDeepSeek%E8%BF%9B%E5%8C%96%E5%8F%B2",
           "source": "bilibili 热搜",
           "ranks": [
-            13
+            13,
+            12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时31分 ~ 01时22分]"
+          "appearance_count": 4,
+          "time_info": "[00时31分 ~ 02时35分]"
         },
         {
           "title": "DeepSeek能否第二次震惊全世界",
@@ -110,8 +113,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时31分 ~ 01时22分]"
+          "appearance_count": 4,
+          "time_info": "[00时31分 ~ 02时35分]"
         },
         {
           "title": "Deepseek或将发布新AI模型",
@@ -121,8 +124,19 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时31分 ~ 01时22分]"
+          "appearance_count": 4,
+          "time_info": "[00时31分 ~ 02时35分]"
+        },
+        {
+          "title": "DeepSeek能第二次震惊世界吗",
+          "url": "https://www.toutiao.com/trending/7593519269174840858/",
+          "source": "今日头条",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时35分"
         }
       ]
     },
@@ -136,11 +150,12 @@
           "source": "财联社热门",
           "ranks": [
             11,
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时31分 ~ 01时22分]"
+          "appearance_count": 4,
+          "time_info": "[00时31分 ~ 02时35分]"
         }
       ]
     },
@@ -157,8 +172,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时31分 ~ 01时22分]"
+          "appearance_count": 4,
+          "time_info": "[00时31分 ~ 02时35分]"
         }
       ]
     },
@@ -174,8 +189,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时31分 ~ 01时22分]"
+          "appearance_count": 3,
+          "time_info": "[00时31分 ~ 02时35分]"
         }
       ]
     },
@@ -188,11 +203,12 @@
           "url": "https://www.cls.cn/detail/2253876",
           "source": "财联社热门",
           "ranks": [
-            13
+            13,
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时21分 ~ 01时22分]"
+          "appearance_count": 3,
+          "time_info": "[01时21分 ~ 02时35分]"
         }
       ]
     }
