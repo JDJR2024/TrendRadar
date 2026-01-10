@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-11T03:20:08.128845+08:00",
-  "total_titles_processed": 367,
+  "generated_at": "2026-01-11T04:27:59.486486+08:00",
+  "total_titles_processed": 377,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时31分 ~ 03时20分]"
+          "appearance_count": 7,
+          "time_info": "[00时31分 ~ 04时27分]"
         },
         {
           "title": "记者报道伊朗现状",
@@ -26,8 +26,20 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时31分 ~ 03时20分]"
+          "appearance_count": 7,
+          "time_info": "[00时31分 ~ 04时27分]"
+        },
+        {
+          "title": "伊朗军方发声明称将捍卫国家利益，保护战略基础设施和公共财产，目前伊朗国内局势如何？",
+          "url": "https://www.zhihu.com/question/1993449447351349768",
+          "source": "知乎",
+          "ranks": [
+            9,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时19分 ~ 04时27分]"
         },
         {
           "title": "据伊朗迈赫尔通讯社：伊朗安全部队拦截了试图从伊拉克入境的库尔德武装分子。",
@@ -37,8 +49,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时31分 ~ 03时20分]"
+          "appearance_count": 5,
+          "time_info": "[00时31分 ~ 04时27分]"
         },
         {
           "title": "伊朗军方表示将捍卫国家利益",
@@ -48,8 +60,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时31分 ~ 03时20分]"
+          "appearance_count": 5,
+          "time_info": "[00时31分 ~ 04时27分]"
         },
         {
           "title": "伊朗军方表示将捍卫国家利益",
@@ -59,19 +71,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时31分 ~ 03时20分]"
-        },
-        {
-          "title": "伊朗军方发声明称将捍卫国家利益，保护战略基础设施和公共财产，目前伊朗国内局势如何？",
-          "url": "https://www.zhihu.com/question/1993449447351349768",
-          "source": "知乎",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时19分 ~ 03时20分]"
+          "appearance_count": 5,
+          "time_info": "[00时31分 ~ 04时27分]"
         },
         {
           "title": "伊朗军方表示将捍卫国家利益",
@@ -101,8 +102,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时31分 ~ 03时20分]"
+          "appearance_count": 7,
+          "time_info": "[00时31分 ~ 04时27分]"
         },
         {
           "title": "UP主解读DeepSeek进化史",
@@ -111,11 +112,12 @@
           "ranks": [
             13,
             12,
-            14
+            14,
+            15
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时31分 ~ 03时20分]"
+          "appearance_count": 7,
+          "time_info": "[00时31分 ~ 04时27分]"
         },
         {
           "title": "DeepSeek能否第二次震惊全世界",
@@ -123,11 +125,12 @@
           "source": "百度热搜",
           "ranks": [
             21,
-            22
+            22,
+            23
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时31分 ~ 03时20分]"
+          "appearance_count": 7,
+          "time_info": "[00时31分 ~ 04时27分]"
         },
         {
           "title": "Deepseek或将发布新AI模型",
@@ -137,8 +140,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时31分 ~ 03时20分]"
+          "appearance_count": 7,
+          "time_info": "[00时31分 ~ 04时27分]"
         },
         {
           "title": "DeepSeek能第二次震惊世界吗",
@@ -149,8 +152,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时35分 ~ 03时20分]"
+          "appearance_count": 4,
+          "time_info": "[02时35分 ~ 04时27分]"
         }
       ]
     },
@@ -168,8 +171,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时31分 ~ 03时20分]"
+          "appearance_count": 7,
+          "time_info": "[00时31分 ~ 04时27分]"
         }
       ]
     },
@@ -186,8 +189,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时31分 ~ 03时20分]"
+          "appearance_count": 7,
+          "time_info": "[00时31分 ~ 04时27分]"
         }
       ]
     },
@@ -203,8 +206,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时31分 ~ 03时20分]"
+          "appearance_count": 5,
+          "time_info": "[00时31分 ~ 04时27分]"
         }
       ]
     },
@@ -219,11 +222,12 @@
           "ranks": [
             13,
             11,
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时21分 ~ 03时20分]"
+          "appearance_count": 6,
+          "time_info": "[01时21分 ~ 04时27分]"
         }
       ]
     }
