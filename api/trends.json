@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-10T13:27:16.757012+08:00",
-  "total_titles_processed": 1058,
+  "generated_at": "2026-01-10T14:37:24.455534+08:00",
+  "total_titles_processed": 1120,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "伊朗大范围断网，澳大利亚曾发警告，要求其公民尽快离伊，大规模断网是什么原因？如何解读当前伊朗局势？",
@@ -58,6 +58,17 @@
           "time_info": "[05时26分 ~ 07时26分]"
         },
         {
+          "title": "胡锡进：伊朗的骚乱离政权更迭似乎还远，但有个关键变量",
+          "url": "https://news.ifeng.com/c/8pnGCj1xreS",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时59分 ~ 14时37分]"
+        },
+        {
           "title": "法国总统府：法国、英国和德国敦促伊朗当局保持克制。",
           "url": "https://flash.jin10.com/detail/20260110030546198800",
           "source": "金十数据",
@@ -78,17 +89,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时24分"
-        },
-        {
-          "title": "胡锡进：伊朗的骚乱离政权更迭似乎还远，但有个关键变量",
-          "url": "https://news.ifeng.com/c/8pnGCj1xreS",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时59分 ~ 13时27分]"
         },
         {
           "title": "哈梅内伊就伊朗多地骚乱表态",
@@ -113,6 +113,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时24分 ~ 04时31分]"
+        },
+        {
+          "title": "美国国务卿鲁比奥：美国支持勇敢的伊朗人民。",
+          "url": "https://flash.jin10.com/detail/20260110133457629800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时37分"
         },
         {
           "title": "布伦特原油站上64美元/桶，为去年12月8日以来首次，日内涨1.72%。投资者注意力从委内瑞拉转向伊朗。",
@@ -172,6 +183,86 @@
       ]
     },
     {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "为什么 deepseek 深度思考过程中总要先「嗯」一声？",
+          "url": "https://www.zhihu.com/question/1923049081044960601",
+          "source": "知乎",
+          "ranks": [
+            13,
+            8,
+            5,
+            4,
+            2,
+            3,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[04时31分 ~ 14时37分]"
+        },
+        {
+          "title": "Deepseek或将发布新AI模型",
+          "url": "https://search.bilibili.com/all?keyword=Deepseek%E6%88%96%E5%B0%86%E5%8F%91%E5%B8%83%E6%96%B0AI%E6%A8%A1%E5%9E%8B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时59分 ~ 14时37分]"
+        },
+        {
+          "title": "报道：DeepSeek将于2月发布下一代AI模型V4，具备“强大”的编程能力",
+          "url": "https://wallstreetcn.com/articles/3762982",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[07时25分 ~ 14时37分]"
+        },
+        {
+          "title": "DeepSeek准备第二次震惊全世界",
+          "url": "https://www.toutiao.com/trending/7593519269174840858/",
+          "source": "今日头条",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时26分 ~ 13时27分]"
+        },
+        {
+          "title": "DeepSeek能第二次震惊世界吗",
+          "url": "https://www.toutiao.com/trending/7593519269174840858/",
+          "source": "今日头条",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时37分"
+        },
+        {
+          "title": "DeepSeek能否第二次震惊全世界",
+          "url": "https://www.baidu.com/s?wd=DeepSeek%E8%83%BD%E5%90%A6%E7%AC%AC%E4%BA%8C%E6%AC%A1%E9%9C%87%E6%83%8A%E5%85%A8%E4%B8%96%E7%95%8C",
+          "source": "百度热搜",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时37分"
+        }
+      ]
+    },
+    {
       "keyword_group": "chatgpt openai",
       "match_count": 6,
       "titles": [
@@ -183,11 +274,12 @@
             1,
             8,
             13,
-            17
+            17,
+            27
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时59分 ~ 13时27分]"
+          "appearance_count": 5,
+          "time_info": "[09时59分 ~ 14时37分]"
         },
         {
           "title": "OpenAI和软银向合作伙伴SB Energy投资10亿美元。",
@@ -286,11 +378,12 @@
           "source": "财联社热门",
           "ranks": [
             10,
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时59分 ~ 13时27分]"
+          "appearance_count": 6,
+          "time_info": "[09时59分 ~ 14时37分]"
         },
         {
           "title": "（美股）费城金银指数收涨1.97%，报374.53点，本周累计上涨9.32%，整体震荡上行。 （全球时段）纽约证交所ARCA金矿开采商指数收涨1.38%，报2619.57点，美股盘初显著拉升，本周累涨7.39%。 （美股）原材料指数涨2.38%，报245.15点，本周累涨6.19%。 （美股）金属与矿业指数涨1.34%，报231.57点，本周累涨3.44%。",
@@ -330,63 +423,6 @@
       ]
     },
     {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "为什么 deepseek 深度思考过程中总要先「嗯」一声？",
-          "url": "https://www.zhihu.com/question/1923049081044960601",
-          "source": "知乎",
-          "ranks": [
-            13,
-            8,
-            5,
-            4,
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[04时31分 ~ 13时27分]"
-        },
-        {
-          "title": "Deepseek或将发布新AI模型",
-          "url": "https://search.bilibili.com/all?keyword=Deepseek%E6%88%96%E5%B0%86%E5%8F%91%E5%B8%83%E6%96%B0AI%E6%A8%A1%E5%9E%8B",
-          "source": "bilibili 热搜",
-          "ranks": [
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时59分 ~ 13时27分]"
-        },
-        {
-          "title": "报道：DeepSeek将于2月发布下一代AI模型V4，具备“强大”的编程能力",
-          "url": "https://wallstreetcn.com/articles/3762982",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时25分 ~ 13时27分]"
-        },
-        {
-          "title": "DeepSeek准备第二次震惊全世界",
-          "url": "https://www.toutiao.com/trending/7593519269174840858/",
-          "source": "今日头条",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时26分 ~ 13时27分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "金价",
       "match_count": 4,
       "titles": [
@@ -396,11 +432,12 @@
           "source": "金十数据",
           "ranks": [
             4,
-            8
+            8,
+            18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时38分 ~ 13时27分]"
+          "appearance_count": 3,
+          "time_info": "[12时38分 ~ 14时37分]"
         },
         {
           "title": "金价",
@@ -411,8 +448,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时38分 ~ 13时27分]"
+          "appearance_count": 4,
+          "time_info": "[12时38分 ~ 14时37分]"
         },
         {
           "title": "金价波动",
@@ -452,8 +489,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时59分 ~ 13时27分]"
+          "appearance_count": 6,
+          "time_info": "[09时59分 ~ 14时37分]"
         },
         {
           "title": "非农数据”温和“，标普新高，美元指数四连涨，黄金重回4500关口",
