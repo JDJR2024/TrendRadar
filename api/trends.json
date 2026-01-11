@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-11T21:34:14.208775+08:00",
-  "total_titles_processed": 1277,
+  "generated_at": "2026-01-11T22:24:17.055941+08:00",
+  "total_titles_processed": 1349,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 52,
+      "match_count": 56,
       "titles": [
         {
           "title": "外卖打车软件可使用，主要区域未发生骚乱…伊朗局势最新进展",
@@ -61,8 +61,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[13时30分 ~ 21时34分]"
+          "appearance_count": 17,
+          "time_info": "[13时30分 ~ 22时24分]"
         },
         {
           "title": "特朗普被曝已听取军事打击伊朗方案汇报，美伊真的会打起来吗？为何近期美国军事动作频频？",
@@ -74,8 +74,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[12时12分 ~ 21时34分]"
+          "appearance_count": 19,
+          "time_info": "[12时12分 ~ 22时24分]"
         },
         {
           "title": "伊朗军方：将捍卫国家利益",
@@ -166,11 +166,25 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            5
+            5,
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时51分 ~ 21时34分]"
+          "appearance_count": 3,
+          "time_info": "[20时51分 ~ 22时24分]"
+        },
+        {
+          "title": "总台现场直击丨德黑兰民众生活基本正常，伊朗称将捍卫国家利益",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32361627",
+          "source": "澎湃新闻",
+          "ranks": [
+            11,
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[19时21分 ~ 22时24分]"
         },
         {
           "title": "鲁比奥被曝同内塔尼亚胡通话谈伊朗局势等",
@@ -197,6 +211,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时21分"
+        },
+        {
+          "title": "美媒：特朗普政府正考虑多种方案，以支持伊朗抗议活动并削弱该国政权",
+          "url": "https://flash.jin10.com/detail/20260111220151159800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时24分"
+        },
+        {
+          "title": "伊朗媒体：“大量人员”在近期骚乱中死亡",
+          "url": "https://news.ifeng.com/c/8ppjl3SwLp5",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时24分"
         },
         {
           "title": "伊朗官员：这是外部势力策划的混合战争，旨在引发内战",
@@ -253,16 +289,29 @@
           "time_info": "[10时12分 ~ 15时26分]"
         },
         {
-          "title": "总台现场直击丨德黑兰民众生活基本正常，伊朗称将捍卫国家利益",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32361627",
+          "title": "伊朗警告美以：若遭攻击必将还击",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32363273",
           "source": "澎湃新闻",
           "ranks": [
+            12,
             11,
             10
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[19时21分 ~ 21时34分]"
+          "time_info": "[20时50分 ~ 22时24分]"
+        },
+        {
+          "title": "伊朗“大量人员”在近期骚乱中死亡",
+          "url": "https://www.toutiao.com/trending/7594047712492830730/",
+          "source": "今日头条",
+          "ranks": [
+            13,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[20时50分 ~ 22时24分]"
         },
         {
           "title": "伊朗警察总长：骚乱主要参与者已被逮捕",
@@ -317,27 +366,30 @@
           "time_info": "[10时12分 ~ 13时31分]"
         },
         {
-          "title": "伊朗警告美以：若遭攻击必将还击",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32363273",
-          "source": "澎湃新闻",
+          "title": "伊朗媒体：“大量人员”在近期骚乱中死亡",
+          "url": "https://wallstreetcn.com/livenews/3034728",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            12,
-            11
+            6,
+            11,
+            19
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时50分 ~ 21时34分]"
+          "appearance_count": 3,
+          "time_info": "[20时51分 ~ 22时24分]"
         },
         {
-          "title": "伊朗“大量人员”在近期骚乱中死亡",
-          "url": "https://www.toutiao.com/trending/7594047712492830730/",
-          "source": "今日头条",
+          "title": "伊朗警方：8名安全人员在骚乱中殉职",
+          "url": "https://flash.jin10.com/detail/20260111194421809800",
+          "source": "金十数据",
           "ranks": [
-            13
+            9,
+            11,
+            21
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时50分 ~ 21时34分]"
+          "appearance_count": 3,
+          "time_info": "[20时51分 ~ 22时24分]"
         },
         {
           "title": "鲁比奥被曝同内塔尼亚胡通话谈伊朗局势等",
@@ -353,6 +405,19 @@
           "time_info": "[12时13分 ~ 14时39分]"
         },
         {
+          "title": "伊朗总统：美以指使“暴徒”在伊朗制造不稳定局势",
+          "url": "https://flash.jin10.com/detail/20260111193634722800",
+          "source": "金十数据",
+          "ranks": [
+            13,
+            15,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时51分 ~ 22时24分]"
+        },
+        {
           "title": "伊朗",
           "url": "https://s.weibo.com/weibo?q=%E4%BC%8A%E6%9C%97&t=31&band_rank=13&Refer=top",
           "source": "微博",
@@ -363,6 +428,32 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[10时12分 ~ 12时13分]"
+        },
+        {
+          "title": "伊朗总统说决心解决好经济困难",
+          "url": "https://wallstreetcn.com/livenews/3034719",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14,
+            19,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时51分 ~ 22时24分]"
+        },
+        {
+          "title": "伊朗总统：美以指使“暴徒”在伊朗制造不稳定局势",
+          "url": "https://wallstreetcn.com/livenews/3034718",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15,
+            20,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时51分 ~ 22时24分]"
         },
         {
           "title": "伊朗全国局势平稳未发生动荡",
@@ -389,6 +480,32 @@
           "time_info": "[12时12分 ~ 13时30分]"
         },
         {
+          "title": "伊朗总统佩泽希齐扬敦促民众与“暴乱和恐怖分子”划清界限。",
+          "url": "https://flash.jin10.com/detail/20260111191904937800",
+          "source": "金十数据",
+          "ranks": [
+            17,
+            19,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时51分 ~ 22时24分]"
+        },
+        {
+          "title": "伊朗总统在接受国家电视台采访时表示：必须听取民众的抗议。 让我们坐下来，一起解决问题。 对（近期抗议活动相关的）罹难人员的家属表示哀悼。 那些抗议者们已经造成“悲剧性的后果”。",
+          "url": "https://wallstreetcn.com/livenews/3034716",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17,
+            22,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时51分 ~ 22时24分]"
+        },
+        {
           "title": "消息人士称以军目前没有对伊朗的进攻意图",
           "url": "https://flash.jin10.com/detail/20260111081558961800",
           "source": "金十数据",
@@ -400,18 +517,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[10时12分 ~ 13时31分]"
-        },
-        {
-          "title": "伊朗媒体：“大量人员”在近期骚乱中死亡",
-          "url": "https://wallstreetcn.com/livenews/3034728",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时51分 ~ 21时34分]"
         },
         {
           "title": "伊朗警察总长：骚乱主要参与者已被逮捕",
@@ -426,18 +531,6 @@
           "time_info": "[18时27分 ~ 19时21分]"
         },
         {
-          "title": "伊朗警方：8名安全人员在骚乱中殉职",
-          "url": "https://flash.jin10.com/detail/20260111194421809800",
-          "source": "金十数据",
-          "ranks": [
-            9,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时51分 ~ 21时34分]"
-        },
-        {
           "title": "特朗普再次威胁伊朗，伊朗军方：团结起来挫败敌人阴谋",
           "url": "https://wallstreetcn.com/livenews/3034596",
           "source": "华尔街见闻-快讯",
@@ -450,30 +543,6 @@
           "time_info": "[10时12分 ~ 12时13分]"
         },
         {
-          "title": "伊朗总统：美以指使“暴徒”在伊朗制造不稳定局势",
-          "url": "https://flash.jin10.com/detail/20260111193634722800",
-          "source": "金十数据",
-          "ranks": [
-            13,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时51分 ~ 21时34分]"
-        },
-        {
-          "title": "伊朗总统说决心解决好经济困难",
-          "url": "https://wallstreetcn.com/livenews/3034719",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时51分 ~ 21时34分]"
-        },
-        {
           "title": "消息人士称以军目前没有对伊朗的进攻意图",
           "url": "https://wallstreetcn.com/livenews/3034591",
           "source": "华尔街见闻-快讯",
@@ -484,42 +553,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时12分 ~ 12时13分]"
-        },
-        {
-          "title": "伊朗总统：美以指使“暴徒”在伊朗制造不稳定局势",
-          "url": "https://wallstreetcn.com/livenews/3034718",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时51分 ~ 21时34分]"
-        },
-        {
-          "title": "伊朗总统佩泽希齐扬敦促民众与“暴乱和恐怖分子”划清界限。",
-          "url": "https://flash.jin10.com/detail/20260111191904937800",
-          "source": "金十数据",
-          "ranks": [
-            17,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时51分 ~ 21时34分]"
-        },
-        {
-          "title": "伊朗总统在接受国家电视台采访时表示：必须听取民众的抗议。 让我们坐下来，一起解决问题。 对（近期抗议活动相关的）罹难人员的家属表示哀悼。 那些抗议者们已经造成“悲剧性的后果”。",
-          "url": "https://wallstreetcn.com/livenews/3034716",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时51分 ~ 21时34分]"
         },
         {
           "title": "伊朗总统佩泽希齐扬表示，当权机构已准备好倾听民众的声音。",
@@ -605,6 +638,17 @@
           "time_info": "[00时31分 ~ 02时35分]"
         },
         {
+          "title": "伊朗总统：政府认可和平抗议行为，愿与抗议团体会面",
+          "url": "https://wallstreetcn.com/livenews/3034741",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时24分"
+        },
+        {
           "title": "特朗普被曝听取军事打击伊朗方案",
           "url": "https://www.douyin.com/hot/2363984",
           "source": "抖音",
@@ -614,6 +658,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时12分"
+        },
+        {
+          "title": "伊朗总统：政府认可和平抗议行为 愿与抗议团体会面",
+          "url": "https://flash.jin10.com/detail/20260111212521502800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时24分"
         },
         {
           "title": "伊朗警方：8名安全人员在骚乱中殉职",
@@ -652,30 +707,19 @@
     },
     {
       "keyword_group": "以色列",
-      "match_count": 15,
+      "match_count": 18,
       "titles": [
         {
           "title": "以色列官员：应做好准备应对伊朗局势，但不应进行干预",
           "url": "https://news.ifeng.com/c/8ppRgtAuFbr",
           "source": "凤凰网",
           "ranks": [
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[17时26分 ~ 21时34分]"
-        },
-        {
-          "title": "以色列：始终奉行一个中国政策",
-          "url": "https://www.toutiao.com/trending/7594056236463853107/",
-          "source": "今日头条",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时50分 ~ 21时34分]"
+          "appearance_count": 10,
+          "time_info": "[17时26分 ~ 22时24分]"
         },
         {
           "title": "美媒：以色列和哈马斯正为新一轮冲突做准备",
@@ -687,6 +731,19 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时31分 ~ 07时24分]"
+        },
+        {
+          "title": "以色列：始终奉行一个中国政策",
+          "url": "https://www.toutiao.com/trending/7594056236463853107/",
+          "source": "今日头条",
+          "ranks": [
+            5,
+            4,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[20时50分 ~ 22时24分]"
         },
         {
           "title": "以色列消息人士：以色列总理内塔尼亚胡与美国国务卿鲁比奥在周六的电话中讨论了美国干预伊朗的可能性。三位出席以色列安全会议的消息人士表示，以色列正对美国可能干预伊朗的可能性保持高度警戒。",
@@ -713,6 +770,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时26分"
+        },
+        {
+          "title": "以色列总理内塔尼亚胡：以色列正密切关注伊朗局势的发展，并希望该国很快就能摆脱“暴政”。",
+          "url": "https://flash.jin10.com/detail/20260111220504551800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时24分"
+        },
+        {
+          "title": "以色列总理内塔尼亚胡：以色列正紧盯伊朗局势。",
+          "url": "https://wallstreetcn.com/livenews/3034747",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时24分"
         },
         {
           "title": "据AXIOS网站：美国国务卿鲁比奥周六与以色列总理内塔尼亚胡通了电话。",
@@ -795,6 +874,19 @@
           "time_info": "[16时33分 ~ 18时27分]"
         },
         {
+          "title": "以色列要求欧盟将伊朗伊斯兰革命卫队列为“恐怖组织”",
+          "url": "https://flash.jin10.com/detail/20260111194308445800",
+          "source": "金十数据",
+          "ranks": [
+            10,
+            12,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时51分 ~ 22时24分]"
+        },
+        {
           "title": "以色列官员：应做好准备应对伊朗局势，但不应进行干预",
           "url": "https://wallstreetcn.com/livenews/3034654",
           "source": "华尔街见闻-快讯",
@@ -809,27 +901,16 @@
         },
         {
           "title": "以色列要求欧盟将伊朗伊斯兰革命卫队列为“恐怖组织”",
-          "url": "https://flash.jin10.com/detail/20260111194308445800",
-          "source": "金十数据",
-          "ranks": [
-            10,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时51分 ~ 21时34分]"
-        },
-        {
-          "title": "以色列要求欧盟将伊朗伊斯兰革命卫队列为“恐怖组织”",
           "url": "https://wallstreetcn.com/livenews/3034720",
           "source": "华尔街见闻-快讯",
           "ranks": [
             13,
-            18
+            18,
+            26
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时51分 ~ 21时34分]"
+          "appearance_count": 3,
+          "time_info": "[20时51分 ~ 22时24分]"
         },
         {
           "title": "伊朗总统佩泽希齐扬表示，美国和以色列正指使“暴乱分子”在伊朗制造不稳定。",
@@ -837,11 +918,23 @@
           "source": "金十数据",
           "ranks": [
             15,
-            17
+            17,
+            27
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时51分 ~ 21时34分]"
+          "appearance_count": 3,
+          "time_info": "[20时51分 ~ 22时24分]"
+        },
+        {
+          "title": "伊朗总统称美国与以色列指使「暴徒」在伊朗制造不稳定局势，透露出哪些信息？",
+          "url": "https://www.zhihu.com/question/1993777619401929393",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时24分"
         }
       ]
     },
@@ -900,8 +993,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 30,
-          "time_info": "[00时31分 ~ 21时34分]"
+          "appearance_count": 31,
+          "time_info": "[00时31分 ~ 22时24分]"
         },
         {
           "title": "DeepSeek能否第二次震惊全世界",
@@ -946,8 +1039,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[18时26分 ~ 21时34分]"
+          "appearance_count": 8,
+          "time_info": "[18时26分 ~ 22时24分]"
         },
         {
           "title": "金价将走向何方",
@@ -1023,8 +1116,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时50分 ~ 21时34分]"
+          "appearance_count": 5,
+          "time_info": "[20时50分 ~ 22时24分]"
         },
         {
           "title": "下周看点：美股Q4财报季拉开帷幕",
@@ -1087,8 +1180,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 29,
-          "time_info": "[01时21分 ~ 21时34分]"
+          "appearance_count": 30,
+          "time_info": "[01时21分 ~ 22时24分]"
         },
         {
           "title": "摩根士丹利中国首席经济学家邢自强：未来行业配置展望方面，在当前形势下，高科技行业成为结构性赛道机会。 人工智能、生物制药、人形机器人等领域作为亮点，技术创新动能强劲，有望持续吸引市场关注。",
@@ -1119,6 +1212,23 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时31分 ~ 06时25分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "世界杯 欧洲杯 亚洲杯",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "首胜！2026 年 U23 亚洲杯 U23 国足 1:0 战胜澳大利亚 U23，如何评价本场比赛？",
+          "url": "https://www.zhihu.com/question/1993795773096280753",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时24分"
         }
       ]
     }
