@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-12T20:57:44.975830+08:00",
-  "total_titles_processed": 1581,
+  "generated_at": "2026-01-12T21:48:48.759012+08:00",
+  "total_titles_processed": 1678,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 65,
+      "match_count": 66,
       "titles": [
         {
           "title": "特朗普再次威胁伊朗，被曝已听取军事打击方案汇报 伊朗军方：团结起来挫败敌人阴谋",
@@ -41,8 +41,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时39分 ~ 20时57分]"
+          "appearance_count": 8,
+          "time_info": "[16时39分 ~ 21时48分]"
         },
         {
           "title": "伊朗警告美以：若遭攻击必将还击",
@@ -74,6 +74,20 @@
           "time_info": "[10时08分 ~ 20时57分]"
         },
         {
+          "title": "伊朗已有超百名安全人员在骚乱中丧生，美国将讨论干涉方案，骚乱的根本原因是何？美国或将从哪些方面干涉？",
+          "url": "https://www.zhihu.com/question/1993995898699658333",
+          "source": "知乎",
+          "ranks": [
+            19,
+            9,
+            7,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[14时43分 ~ 21时48分]"
+        },
+        {
           "title": "伊朗哀悼3天",
           "url": "https://www.douyin.com/hot/2364835",
           "source": "抖音",
@@ -81,24 +95,12 @@
             13,
             16,
             17,
-            22
+            22,
+            19
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[12时13分 ~ 20时57分]"
-        },
-        {
-          "title": "伊朗已有超百名安全人员在骚乱中丧生，美国将讨论干涉方案，骚乱的根本原因是何？美国或将从哪些方面干涉？",
-          "url": "https://www.zhihu.com/question/1993995898699658333",
-          "source": "知乎",
-          "ranks": [
-            19,
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[14时43分 ~ 20时57分]"
+          "appearance_count": 13,
+          "time_info": "[12时13分 ~ 21时48分]"
         },
         {
           "title": "特朗普被曝已听取军事打击伊朗方案汇报，美伊真的会打起来吗？为何近期美国军事动作频频？",
@@ -152,6 +154,19 @@
           "time_info": "[00时31分 ~ 06时24分]"
         },
         {
+          "title": "伊朗外长：伊朗安全部队已控制全国局势",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32367578",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[17时38分 ~ 21时48分]"
+        },
+        {
           "title": "伊朗政府宣布全国哀悼3天",
           "url": "https://news.ifeng.com/c/8pqCxO7hS7y",
           "source": "凤凰网",
@@ -161,6 +176,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时24分 ~ 07时24分]"
+        },
+        {
+          "title": "伊朗：不寻求战争但已做好准备",
+          "url": "https://www.douyin.com/hot/2365457",
+          "source": "抖音",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[17时38分 ~ 21时48分]"
         },
         {
           "title": "伊朗总统：政府认可和平抗议行为，愿与抗议团体会面",
@@ -227,29 +253,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[12时13分 ~ 16时39分]"
-        },
-        {
-          "title": "伊朗外长：伊朗安全部队已控制全国局势",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32367578",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时38分 ~ 20时57分]"
-        },
-        {
-          "title": "伊朗：不寻求战争但已做好准备",
-          "url": "https://www.douyin.com/hot/2365457",
-          "source": "抖音",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时38分 ~ 20时57分]"
         },
         {
           "title": "总部位于美国、关注人权状况的媒体机构HRANA称，与抗议活动相关的伊朗死亡人数已升至203人。",
@@ -693,7 +696,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时57分"
         },
@@ -718,6 +721,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时38分"
+        },
+        {
+          "title": "美备好三招对付伊朗，投行拆解背后金融逻辑丨Hi，今天怎么看？",
+          "url": "https://flash.jin10.com/detail/20260112211304767800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时48分"
         },
         {
           "title": "伊朗外长：互联网服务将在与安全部门协调后恢复",
@@ -963,7 +977,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "本周重磅日程：美国通胀、中国外贸数据，美股财报季正式开启，美高院关税裁决将出",
@@ -976,8 +990,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[10时08分 ~ 20时57分]"
+          "appearance_count": 14,
+          "time_info": "[10时08分 ~ 21时48分]"
         },
         {
           "title": "下周重磅日程：美国通胀、中国外贸数据，美股财报季正式开启，美高院关税裁决将出",
@@ -1016,6 +1030,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[10时08分 ~ 16时39分]"
+        },
+        {
+          "title": "伊朗局势微妙、鲍威尔被诉，美股债汇三杀，黄金突破4600美元，现货白银涨超6%，铜逼近新高，油价回调",
+          "url": "https://wallstreetcn.com/articles/3763053",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时48分"
         },
         {
           "title": "美股三大股指期货小幅低开，纳指期货下跌0.2%。",
