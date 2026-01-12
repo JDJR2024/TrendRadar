@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-13T06:24:00.564334+08:00",
-  "total_titles_processed": 640,
+  "generated_at": "2026-01-13T07:21:35.673360+08:00",
+  "total_titles_processed": 692,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 32,
+      "match_count": 36,
       "titles": [
         {
           "title": "伊朗外长：伊朗安全部队已控制全国局势",
@@ -17,8 +17,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时33分 ~ 06时24分]"
+          "appearance_count": 13,
+          "time_info": "[00时33分 ~ 07时21分]"
         },
         {
           "title": "伊朗外长说已控制全国局势",
@@ -29,11 +29,12 @@
             7,
             9,
             15,
-            16
+            16,
+            20
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时27分 ~ 06时24分]"
+          "appearance_count": 11,
+          "time_info": "[01时27分 ~ 07时21分]"
         },
         {
           "title": "伊朗已有超百名安全人员在骚乱中丧生，美国将讨论干涉方案，骚乱的根本原因是何？美国或将从哪些方面干涉？",
@@ -43,19 +44,32 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时33分 ~ 06时24分]"
+          "appearance_count": 13,
+          "time_info": "[00时33分 ~ 07时21分]"
         },
         {
-          "title": "美国已发布新的警报，建议美国公民离开伊朗或就地避难。",
-          "url": "https://flash.jin10.com/detail/20260113055724376800",
-          "source": "金十数据",
+          "title": "特朗普：对伊朗的贸易伙伴征收25%关税",
+          "url": "https://news.ifeng.com/c/8prxSzII5sJ",
+          "source": "凤凰网",
           "ranks": [
-            4
+            1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时24分"
+          "time_info": "07时21分"
+        },
+        {
+          "title": "美国总统特朗普倾向于袭击伊朗，但还没有做最终决定。（Axios）",
+          "url": "https://wallstreetcn.com/livenews/3035581",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            18,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时27分 ~ 07时21分]"
         },
         {
           "title": "白宫：外交是美国应对伊朗局势的“首选”方案",
@@ -68,18 +82,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时31分 ~ 05时27分]"
-        },
-        {
-          "title": "美国总统特朗普倾向于袭击伊朗，但还没有做最终决定。（Axios）",
-          "url": "https://wallstreetcn.com/livenews/3035581",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时27分 ~ 06时24分]"
         },
         {
           "title": "伊朗外长称已控制国内局势",
@@ -140,6 +142,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时27分 ~ 06时24分]"
+        },
+        {
+          "title": "美国已发布新的警报，建议美国公民离开伊朗或就地避难。",
+          "url": "https://flash.jin10.com/detail/20260113055724376800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时24分 ~ 07时21分]"
         },
         {
           "title": "美媒：白宫权衡伊朗核提议 建议特朗普“先礼后兵”",
@@ -232,7 +246,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时24分"
         },
@@ -243,7 +257,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时24分"
         },
@@ -281,6 +295,17 @@
           "time_info": "04时31分"
         },
         {
+          "title": "特朗普：对伊朗贸易伙伴加征25%关税",
+          "url": "https://www.douyin.com/hot/2365884",
+          "source": "抖音",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时21分"
+        },
+        {
           "title": "俄安全会议秘书：俄方愿继续发展与伊朗的合作",
           "url": "https://flash.jin10.com/detail/20260113043324470800",
           "source": "金十数据",
@@ -298,7 +323,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时24分"
         },
@@ -336,6 +361,17 @@
           "time_info": "04时31分"
         },
         {
+          "title": "特朗普：对伊朗贸易伙伴征收25%关税",
+          "url": "https://wallstreetcn.com/livenews/3035595",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时21分"
+        },
+        {
           "title": "俄安全会议秘书：俄方愿继续发展与伊朗的合作",
           "url": "https://wallstreetcn.com/livenews/3035561",
           "source": "华尔街见闻-快讯",
@@ -356,6 +392,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时40分"
+        },
+        {
+          "title": "特朗普：与伊朗做生意的国家将面临25%的关税",
+          "url": "https://flash.jin10.com/detail/20260113061534632800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时21分"
         },
         {
           "title": "骚乱过后 伊朗首都德黑兰整体局势趋于平稳",
@@ -383,7 +430,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 10,
+      "match_count": 12,
       "titles": [
         {
           "title": "伊朗局势微妙、鲍威尔被诉，美股债汇三杀，黄金突破4620美元，现货白银涨超6%，铜逼近新高，油价回调",
@@ -405,8 +452,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时33分 ~ 06时24分]"
+          "appearance_count": 13,
+          "time_info": "[00时33分 ~ 07时21分]"
         },
         {
           "title": "鲍威尔遭调查冲击市场 美股期指集体走低 黄金大涨 | 今夜看点",
@@ -414,11 +461,12 @@
           "source": "财联社热门",
           "ranks": [
             10,
-            9
+            9,
+            11
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时33分 ~ 06时24分]"
+          "appearance_count": 13,
+          "time_info": "[00时33分 ~ 07时21分]"
         },
         {
           "title": "美股收盘：金龙指数涨逾4% 阿里巴巴大涨10%",
@@ -460,22 +508,35 @@
           "url": "https://wallstreetcn.com/livenews/3035592",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            9,
+            20
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时24分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时24分 ~ 07时21分]"
         },
         {
           "title": "（美股）费城金银指数收涨3.73%，报388.50点，继续创历史新高，盘初迅速拉升，剩余时间持续高位窄幅震荡。 （全球时段）纽约证交所ARCA金矿开采商指数涨3.52%，报2711.76点，北京时间22:30美股开盘之前维持微幅上涨状态——持稳于2630点附近、随后“跳空”至2700点上方。 （美股）原材料指数涨1.57%，报249.00点。 （美股）金属与矿业指数涨1.79%，报235.72点。",
           "url": "https://wallstreetcn.com/livenews/3035591",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            10,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时24分 ~ 07时21分]"
+        },
+        {
+          "title": "美股收盘：三大指数小幅收涨 金龙指数飙升逾4% 阿里巴巴大涨10%",
+          "url": "https://www.cls.cn/detail/2255541",
+          "source": "财联社热门",
+          "ranks": [
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时24分"
+          "time_info": "07时21分"
         },
         {
           "title": "金十图示：2026年01月12日（周一）美股热门股票行情一览（美股收盘）",
@@ -484,7 +545,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时24分"
         },
@@ -495,15 +556,26 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时24分"
+        },
+        {
+          "title": "美股小盘股创七年来对大盘股最长连胜记录",
+          "url": "https://flash.jin10.com/detail/20260113060720442800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时21分"
         }
       ]
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "美联储调查风波之际，美股走V创新高，谷歌市值破4万亿，中概股大涨，金银大涨创新高",
@@ -517,16 +589,28 @@
           "time_info": "[06时23分 ~ 06时24分]"
         },
         {
+          "title": "美股走V新高，谷歌破4万亿，中概大涨，人民币创2023年5月来最高，金银大涨创新高",
+          "url": "https://wallstreetcn.com/articles/3763053",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时21分"
+        },
+        {
           "title": "美股七巨头收盘播报｜谷歌涨1%，收盘市值达到4万亿美元，Meta跌1.7%",
           "url": "https://wallstreetcn.com/livenews/3035583",
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            17
+            17,
+            29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时27分 ~ 06时24分]"
+          "appearance_count": 3,
+          "time_info": "[05时27分 ~ 07时21分]"
         },
         {
           "title": "Alphabet旗下谷歌公司：与苹果进入一份多年合作协议。 新款苹果基础模型将建立在谷歌Gemini基础之上。 模型将有助于支持未来的苹果智能功能。",
@@ -593,7 +677,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时24分"
         },
