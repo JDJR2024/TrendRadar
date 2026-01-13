@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-13T11:45:21.599494+08:00",
-  "total_titles_processed": 993,
+  "generated_at": "2026-01-13T12:44:40.267923+08:00",
+  "total_titles_processed": 1073,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 53,
+      "match_count": 54,
       "titles": [
         {
           "title": "伊朗外长：伊朗安全部队已控制全国局势",
@@ -18,8 +18,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时33分 ~ 11时45分]"
+          "appearance_count": 17,
+          "time_info": "[00时33分 ~ 12时44分]"
         },
         {
           "title": "伊朗外长说已控制全国局势",
@@ -57,8 +57,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时21分 ~ 11时45分]"
+          "appearance_count": 5,
+          "time_info": "[07时21分 ~ 12时44分]"
         },
         {
           "title": "伊朗局势突然反转，特朗普又心生一计",
@@ -68,8 +68,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时59分 ~ 11时45分]"
+          "appearance_count": 4,
+          "time_info": "[09时59分 ~ 12时44分]"
         },
         {
           "title": "伊朗发动支持政府集会，民众：我们绝不会抛弃哈梅内伊",
@@ -79,8 +79,20 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时59分 ~ 11时45分]"
+          "appearance_count": 4,
+          "time_info": "[09时59分 ~ 12时44分]"
+        },
+        {
+          "title": "美国国务院要求美国公民立即离开伊朗",
+          "url": "https://www.cls.cn/detail/2255607",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时59分 ~ 12时44分]"
         },
         {
           "title": "伊朗外长称已控制国内局势",
@@ -95,16 +107,15 @@
           "time_info": "[02时39分 ~ 11时45分]"
         },
         {
-          "title": "美国国务院要求美国公民立即离开伊朗",
-          "url": "https://www.cls.cn/detail/2255607",
-          "source": "财联社热门",
+          "title": "特朗普：对伊朗贸易伙伴征收25%关税，油价短线走高",
+          "url": "https://wallstreetcn.com/articles/3763124",
+          "source": "华尔街见闻",
           "ranks": [
-            8,
-            5
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时59分 ~ 11时45分]"
+          "appearance_count": 4,
+          "time_info": "[09时59分 ~ 12时44分]"
         },
         {
           "title": "美国总统特朗普倾向于袭击伊朗，但还没有做最终决定。（Axios）",
@@ -192,27 +203,29 @@
           "time_info": "[06时24分 ~ 07时21分]"
         },
         {
-          "title": "特朗普：对伊朗贸易伙伴征收25%关税，油价短线走高",
-          "url": "https://wallstreetcn.com/articles/3763124",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时59分 ~ 11时45分]"
-        },
-        {
           "title": "美国国务院要求美国公民立即离开伊朗",
           "url": "https://m.thepaper.cn/newsDetail_forward_32373300",
           "source": "澎湃新闻",
           "ranks": [
             20,
-            13
+            13,
+            11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时59分 ~ 11时45分]"
+          "appearance_count": 4,
+          "time_info": "[09时59分 ~ 12时44分]"
+        },
+        {
+          "title": "美国、法国开始从伊朗撤离人员，伊朗当前的局势到底有多严峻？是否是军事行动的前兆？",
+          "url": "https://www.zhihu.com/question/1994338886751625788",
+          "source": "知乎",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时45分 ~ 12时44分]"
         },
         {
           "title": "美媒：白宫权衡伊朗核提议 建议特朗普“先礼后兵”",
@@ -286,6 +299,18 @@
           "time_info": "[09时59分 ~ 10时00分]"
         },
         {
+          "title": "特朗普：对伊朗贸易伙伴征收25%关税",
+          "url": "https://www.cls.cn/detail/2255560",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时45分 ~ 12时44分]"
+        },
+        {
           "title": "伊朗塔斯尼姆通讯社指责美国查封其网络域名",
           "url": "https://wallstreetcn.com/livenews/3035567",
           "source": "华尔街见闻-快讯",
@@ -296,6 +321,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时27分 ~ 06时24分]"
+        },
+        {
+          "title": "特朗普：对伊朗贸易伙伴征收25%关税",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32372812",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时45分 ~ 12时44分]"
         },
         {
           "title": "美国：美公民立即离开伊朗",
@@ -343,6 +380,18 @@
           "time_info": "[02时40分 ~ 03时25分]"
         },
         {
+          "title": "伊朗外长：伊朗不寻求战争，但已做好战争准备",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32368032",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时45分 ~ 12时44分]"
+        },
+        {
           "title": "俄方称愿继续与伊朗发展合作",
           "url": "https://www.toutiao.com/trending/7594566671042625577/",
           "source": "今日头条",
@@ -376,15 +425,15 @@
           "time_info": "06时24分"
         },
         {
-          "title": "美国、法国开始从伊朗撤离人员，伊朗当前的局势到底有多严峻？是否是军事行动的前兆？",
-          "url": "https://www.zhihu.com/question/1994338886751625788",
-          "source": "知乎",
+          "title": "是否对伊朗采取军事打击？白宫回应",
+          "url": "https://www.toutiao.com/trending/7594674664643759657/",
+          "source": "今日头条",
           "ranks": [
             7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时45分"
+          "time_info": "12时44分"
         },
         {
           "title": "市场消息：伊朗向俄罗斯运送了价值27亿美元的导弹。",
@@ -453,17 +502,6 @@
           "time_info": "06时24分"
         },
         {
-          "title": "特朗普：对伊朗贸易伙伴征收25%关税",
-          "url": "https://www.cls.cn/detail/2255560",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时45分"
-        },
-        {
           "title": "白宫新闻秘书Leavitt：伊朗对美国公开披露的信息与私底下沟通的不一样。 总统特朗普有兴趣探索伊朗方面的信息。 特朗普已经与星链Starlink老板马斯克讨论伊朗的网络问题。 空袭伊朗是众多选项之一。 在通过外交手段处理伊朗问题方面，美国特使Witkoff是一个重要的“玩家”。",
           "url": "https://wallstreetcn.com/livenews/3035517",
           "source": "华尔街见闻-快讯",
@@ -473,17 +511,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时25分"
-        },
-        {
-          "title": "特朗普：对伊朗贸易伙伴征收25%关税",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32372812",
-          "source": "澎湃新闻",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时45分"
         },
         {
           "title": "伊朗外交部长与英国外交大臣对话，伊朗称：若英国无法保护我方代表团，伊朗可能会撤回（与欧洲多国会谈的代表）。",
@@ -536,18 +563,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时45分"
-        },
-        {
-          "title": "伊朗外长：伊朗不寻求战争，但已做好战争准备",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32368032",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时45分"
         },
@@ -631,8 +647,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时59分 ~ 11时45分]"
+          "appearance_count": 4,
+          "time_info": "[09时59分 ~ 12时44分]"
         },
         {
           "title": "美联储调查风波之际，美股走V创新高，谷歌市值破4万亿，中概股大涨，金银大涨创新高",
@@ -677,8 +693,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时59分 ~ 11时45分]"
+          "appearance_count": 4,
+          "time_info": "[09时59分 ~ 12时44分]"
         },
         {
           "title": "金银再创历史新高 谷歌市值首破4万亿美元 | 环球市场",
@@ -689,8 +705,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时59分 ~ 11时45分]"
+          "appearance_count": 4,
+          "time_info": "[09时59分 ~ 12时44分]"
         },
         {
           "title": "Alphabet旗下谷歌公司：与苹果进入一份多年合作协议。 新款苹果基础模型将建立在谷歌Gemini基础之上。 模型将有助于支持未来的苹果智能功能。",
@@ -735,7 +751,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时45分"
         },
@@ -836,8 +852,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时21分 ~ 11时45分]"
+          "appearance_count": 5,
+          "time_info": "[07时21分 ~ 12时44分]"
         },
         {
           "title": "美股收盘：金龙指数涨逾4% 阿里巴巴大涨10%",
@@ -942,11 +958,12 @@
           "url": "https://search.bilibili.com/all?keyword=%E6%A2%81%E6%96%87%E9%94%8B%E6%96%B0%E8%AE%BA%E6%96%87%E5%89%A7%E9%80%8F%E4%B8%8B%E4%B8%80%E4%BB%A3%E6%A8%A1%E5%9E%8B",
           "source": "bilibili 热搜",
           "ranks": [
-            2
+            2,
+            3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时45分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时45分 ~ 12时44分]"
         },
         {
           "title": "DeepSeek发布梁文锋署名新论文",
@@ -954,11 +971,12 @@
           "source": "百度热搜",
           "ranks": [
             18,
-            16
+            16,
+            10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时59分 ~ 11时45分]"
+          "appearance_count": 4,
+          "time_info": "[09时59分 ~ 12时44分]"
         },
         {
           "title": "DeepSeek开源大模型记忆模块！梁文锋署名新论文，下一代稀疏模型提前剧透",
@@ -1053,7 +1071,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时45分"
         }
@@ -1070,7 +1088,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时45分"
         }
