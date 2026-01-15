@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-15T18:31:37.790312+08:00",
-  "total_titles_processed": 1693,
+  "generated_at": "2026-01-15T19:25:55.850171+08:00",
+  "total_titles_processed": 1790,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 78,
+      "match_count": 83,
       "titles": [
         {
           "title": "美军机沿伊朗边界飞行",
@@ -86,8 +86,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[12时06分 ~ 18时31分]"
+          "appearance_count": 12,
+          "time_info": "[12时06分 ~ 19时25分]"
         },
         {
           "title": "伊朗对德黑兰飞行情报区空域管控",
@@ -98,11 +98,12 @@
             14,
             10,
             7,
-            9
+            9,
+            13
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[12时06分 ~ 18时31分]"
+          "appearance_count": 12,
+          "time_info": "[12时06分 ~ 19时25分]"
         },
         {
           "title": "伊朗：骚乱事件主要幕后人员落网",
@@ -235,6 +236,17 @@
           "time_info": "[05时27分 ~ 06时28分]"
         },
         {
+          "title": "王毅同伊朗外长通电话",
+          "url": "https://news.ifeng.com/c/8pwK9ZHpt9w",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时25分"
+        },
+        {
           "title": "【特朗普称观望伊朗局势发展】当地时间1月14日下午，美国总统特朗普在白宫对媒体谈及伊朗局势时表示，“我们要先观望局势发展”。他同时指出美国政府收到了“来自伊朗非常积极的声明”。不过他也并未排除美国采取军事行动的可能性。美媒分析指出，特朗普的这番言论“似乎意在缓解外界对局势可能升级为更广泛地区冲突的担忧”。(CCTV国际时讯",
           "url": "https://wallstreetcn.com/livenews/3037300",
           "source": "华尔街见闻-快讯",
@@ -277,6 +289,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时28分"
+        },
+        {
+          "title": "王毅同伊朗外长阿拉格齐通电话",
+          "url": "https://wallstreetcn.com/livenews/3037946",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时25分"
         },
         {
           "title": "伊朗外长：政府已完全掌控局面",
@@ -384,8 +407,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时33分 ~ 18时31分]"
+          "appearance_count": 4,
+          "time_info": "[17时33分 ~ 19时25分]"
         },
         {
           "title": "伊朗关闭领空",
@@ -443,6 +466,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时06分 ~ 12时07分]"
+        },
+        {
+          "title": "美国停办 75 国签证，其中包括巴西、伊朗、埃及，这在未来会影响 2026 年世界杯正常举办吗？",
+          "url": "https://www.zhihu.com/question/1995083094298944420",
+          "source": "知乎",
+          "ranks": [
+            11,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时31分 ~ 19时25分]"
         },
         {
           "title": "“星链”已向伊朗用户免费提供互联网服务",
@@ -537,6 +572,17 @@
           "time_info": "07时22分"
         },
         {
+          "title": "王毅同伊朗外长通电话",
+          "url": "https://www.douyin.com/hot/2368882",
+          "source": "抖音",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时25分"
+        },
+        {
           "title": "美军机沿伊朗边界飞行",
           "url": "https://www.douyin.com/hot/2367771",
           "source": "抖音",
@@ -579,6 +625,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时02分"
+        },
+        {
+          "title": "台积电财报点燃市场情绪，纳指期货转涨，伊朗局势暂时降温，原油跌4%，白银一度跌7%",
+          "url": "https://wallstreetcn.com/articles/3763348",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时25分"
         },
         {
           "title": "据华尔街日报：欧洲高级外交官对美国在伊朗问题上的相关计划感到“完全混乱”。",
@@ -625,17 +682,6 @@
           "time_info": "13时31分"
         },
         {
-          "title": "美国停办 75 国签证，其中包括巴西、伊朗、埃及，这在未来会影响 2026 年世界杯正常举办吗？",
-          "url": "https://www.zhihu.com/question/1995083094298944420",
-          "source": "知乎",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时31分"
-        },
-        {
           "title": "市场消息：西班牙要求公民离开伊朗。",
           "url": "https://flash.jin10.com/detail/20260115040228347800",
           "source": "金十数据",
@@ -656,6 +702,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时22分"
+        },
+        {
+          "title": "美航母打击群调往中东 伊朗最高战备",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%88%AA%E6%AF%8D%E6%89%93%E5%87%BB%E7%BE%A4%E8%B0%83%E5%BE%80%E4%B8%AD%E4%B8%9C+%E4%BC%8A%E6%9C%97%E6%9C%80%E9%AB%98%E6%88%98%E5%A4%87",
+          "source": "百度热搜",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时25分"
         },
         {
           "title": "美国总统特朗普：我有一些关于伊朗的消息，我们稍后会谈到。",
@@ -914,7 +971,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 17,
+      "match_count": 19,
       "titles": [
         {
           "title": "科技股下挫拖累美股，金银铜锡盘中齐创新高，金银比跌破50，原油重挫",
@@ -924,8 +981,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[10时01分 ~ 18时31分]"
+          "appearance_count": 14,
+          "time_info": "[10时01分 ~ 19时25分]"
         },
         {
           "title": "CPI降温未改降息预期，银行股拖累美股，摩根大通跌超4%，金银新高但黄金转跌",
@@ -1071,6 +1128,17 @@
           "time_info": "[06时28分 ~ 07时22分]"
         },
         {
+          "title": "贝莱德第四财季管理资产总额14.04万亿美元，同比增长22%，市场预期13.94万亿美元。 第四财季调整后每股收益（EPS）13.16美元，去年同期为11.93美元，市场预期12.28美元。 第四财季营收70.1亿美元，同比增长23%，市场预期67.8亿美元。 第四财季股票类净流入1260.5亿美元，固定收益类净流入837.7亿美元。 贝莱德美股盘前涨超1.6%。",
+          "url": "https://wallstreetcn.com/livenews/3037945",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时25分"
+        },
+        {
           "title": "美股盘前，明星科技股走强，阿斯麦(ASML.O)涨超5%、台积电(TSM.N)涨超3%、美光科技(MU.O)涨超2%。",
           "url": "https://flash.jin10.com/detail/20260115170737038800",
           "source": "金十数据",
@@ -1102,6 +1170,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时40分"
+        },
+        {
+          "title": "台积电美股盘前涨超6%。",
+          "url": "https://wallstreetcn.com/livenews/3037925",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时25分"
         },
         {
           "title": "金十图示：2026年01月14日（周三）热门中概股行情一览（美股盘中）",
@@ -1267,8 +1346,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[12时06分 ~ 18时31分]"
+          "appearance_count": 12,
+          "time_info": "[12时06分 ~ 19时25分]"
         },
         {
           "title": "谷歌：在Gemini推出个人智能。 用户可以通过APPs将Gemini个性化。 让Gemini更加个性化，更加主动，更加强大。",
@@ -1356,11 +1435,12 @@
           "ranks": [
             18,
             16,
-            17
+            17,
+            19
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[13时31分 ~ 18时31分]"
+          "appearance_count": 10,
+          "time_info": "[13时31分 ~ 19时25分]"
         },
         {
           "title": "美国官员：美国将就可向哈马斯提供的赦免计划与以色列进行磋商。",
@@ -1475,11 +1555,12 @@
           "url": "https://www.zhihu.com/question/1993756665422509304",
           "source": "知乎",
           "ranks": [
-            4
+            4,
+            3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时31分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时31分 ~ 19时25分]"
         }
       ]
     },
