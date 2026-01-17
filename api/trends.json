@@ -1,131 +1,12 @@
 {
-  "generated_at": "2026-01-17T23:25:31.769659+08:00",
-  "total_titles_processed": 1611,
+  "generated_at": "2026-01-18T00:29:39.634204+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 38,
+      "match_count": 6,
       "titles": [
-        {
-          "title": "上合组织就伊朗局势发布声明",
-          "url": "https://news.ifeng.com/c/8py8L49uSQu",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时36分 ~ 07时27分]"
-        },
-        {
-          "title": "美以领导人被曝再次通话，讨论伊朗局势",
-          "url": "https://news.ifeng.com/c/8pyPkswTcS4",
-          "source": "凤凰网",
-          "ranks": [
-            5,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[03时23分 ~ 17时26分]"
-        },
-        {
-          "title": "伊朗政府向市民发放“电子补贴券”，凤凰记者走访德黑兰连锁超市",
-          "url": "https://news.ifeng.com/c/8pz2QNtwV6g",
-          "source": "凤凰网",
-          "ranks": [
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[11时37分 ~ 22时24分]"
-        },
-        {
-          "title": "上海合作组织发表关于伊朗局势的声明",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%8A%E6%B5%B7%E5%90%88%E4%BD%9C%E7%BB%84%E7%BB%87%E5%8F%91%E8%A1%A8%E5%85%B3%E4%BA%8E%E4%BC%8A%E6%9C%97%E5%B1%80%E5%8A%BF%E7%9A%84%E5%A3%B0%E6%98%8E",
-          "source": "百度热搜",
-          "ranks": [
-            25,
-            19,
-            9,
-            8,
-            17,
-            15,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时36分 ~ 07时27分]"
-        },
-        {
-          "title": "释新闻｜特朗普为何暂缓对伊朗动武？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32397863",
-          "source": "澎湃新闻",
-          "ranks": [
-            13,
-            14,
-            12,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时36分 ~ 12时36分]"
-        },
-        {
-          "title": "火药味拉满,美国酝酿搞伊朗",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28349223&amp;topic_name=%E7%81%AB%E8%8D%AF%E5%91%B3%E6%8B%89%E6%BB%A1%2C%E7%BE%8E%E5%9B%BD%E9%85%9D%E9%85%BF%E6%90%9E%E4%BC%8A%E6%9C%97",
-          "source": "贴吧",
-          "ranks": [
-            13,
-            14,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时36分 ~ 11时37分]"
-        },
-        {
-          "title": "特朗普暂缓对伊朗发动军事打击，此举出于什么考虑？其后续可能有什么新动作？",
-          "url": "https://www.zhihu.com/question/1995430633518944539",
-          "source": "知乎",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时36分 ~ 07时27分]"
-        },
-        {
-          "title": "伊朗全境已恢复互联网服务。（央视新闻）",
-          "url": "https://wallstreetcn.com/livenews/3039091",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            6,
-            10,
-            13,
-            19,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时37分 ~ 19时21分]"
-        },
-        {
-          "title": "伊朗全境已恢复互联网服务",
-          "url": "https://www.douyin.com/hot/2370647",
-          "source": "抖音",
-          "ranks": [
-            10,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时37分 ~ 17时26分]"
-        },
         {
           "title": "伊朗短信发送功能已恢复，将逐步恢复互联网连接",
           "url": "https://wallstreetcn.com/livenews/3039145",
@@ -133,23 +14,9 @@
           "ranks": [
             3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时25分"
-        },
-        {
-          "title": "伊朗武装部队总参谋长：敌对势力利用媒体歪曲事实",
-          "url": "https://flash.jin10.com/detail/20260117160638101800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            8,
-            19,
-            29
-          ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时32分 ~ 19时21分]"
+          "appearance_count": 1,
+          "time_info": "00时29分"
         },
         {
           "title": "据伊朗方面消息，短信（SMS）发送功能当地时间16日晚已恢复；互联网将采取阶梯式、分阶段的方式逐步恢复连接。",
@@ -158,830 +25,143 @@
           "ranks": [
             5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时25分"
-        },
-        {
-          "title": "伊朗最高领袖哈梅内伊：伊朗认为美国总统特朗普应对抗议期间对伊朗人造成的伤亡、损失和诽谤负责。",
-          "url": "https://flash.jin10.com/detail/20260117174453624800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            12,
-            24,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时26分 ~ 21时32分]"
-        },
-        {
-          "title": "伊朗全境已恢复互联网服务。",
-          "url": "https://flash.jin10.com/detail/20260117135223968800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            12,
-            20,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时37分 ~ 17时26分]"
-        },
-        {
-          "title": "伊朗最高领袖哈梅内伊：我们不会把国家拖入战争，但也不会让国内外的犯罪分子逍遥法外。",
-          "url": "https://flash.jin10.com/detail/20260117184112590800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            16,
-            19,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时21分 ~ 22时24分]"
-        },
-        {
-          "title": "欧洲航空安全局：伊朗存在以及可能使用多种武器和防空系统，对在各高度运行的民用航班构成高风险。",
-          "url": "https://flash.jin10.com/detail/20260117024816094800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时23分 ~ 04时28分]"
-        },
-        {
-          "title": "巴基斯坦外长和伊朗外长通电话 呼吁保持地区和平稳定",
-          "url": "https://flash.jin10.com/detail/20260117164104796800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            15,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时26分 ~ 19时21分]"
-        },
-        {
-          "title": "欧洲航空安全局：美国可能采取军事行动已使伊朗防空部队进入高度戒备状态，目前德黑兰飞行情报区发生误判的可能性正在上升。",
-          "url": "https://flash.jin10.com/detail/20260117024414472800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时23分 ~ 04时28分]"
-        },
-        {
-          "title": "伊朗谴责七国集团发表干涉伊朗内政言论",
-          "url": "https://wallstreetcn.com/livenews/3039047",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            23,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时27分 ~ 11时37分]"
-        },
-        {
-          "title": "欧洲航空安全局：由于伊朗地区存在并可能使用种类繁多的武器及防空系统，这给在所有高度运行的民用航班带来了极高风险。",
-          "url": "https://flash.jin10.com/detail/20260117024228000800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时23分 ~ 04时28分]"
-        },
-        {
-          "title": "伊朗最高领袖哈梅内伊：特朗普是罪犯",
-          "url": "https://flash.jin10.com/detail/20260117182506253800",
-          "source": "金十数据",
-          "ranks": [
-            7,
-            19,
-            22,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时21分 ~ 22时24分]"
-        },
-        {
-          "title": "伊朗网络服务恢复约1小时后再次中断",
-          "url": "https://flash.jin10.com/detail/20260117194655217800",
-          "source": "金十数据",
-          "ranks": [
-            7,
-            10,
-            15,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时50分 ~ 23时25分]"
-        },
-        {
-          "title": "伊朗网络服务恢复约1小时后再次中断",
-          "url": "https://wallstreetcn.com/livenews/3039126",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            11,
-            14,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时50分 ~ 23时25分]"
-        },
-        {
-          "title": "伊朗谴责七国集团干涉伊朗内政",
-          "url": "https://wallstreetcn.com/livenews/3039124",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            13,
-            16,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时50分 ~ 23时25分]"
-        },
-        {
-          "title": "伊朗手机用户发送短信功能恢复",
-          "url": "https://wallstreetcn.com/livenews/3039060",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11,
-            17,
-            22,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时58分 ~ 13时26分]"
-        },
-        {
-          "title": "伊朗手机用户发送短信功能恢复",
-          "url": "https://flash.jin10.com/detail/20260117080650894800",
-          "source": "金十数据",
-          "ranks": [
-            15,
-            23,
-            25,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时58分 ~ 13时26分]"
-        },
-        {
-          "title": "惠誉：全球石油供应过剩可抵消伊朗和委内瑞拉的产量不确定性。",
-          "url": "https://flash.jin10.com/detail/20260117020120423800",
-          "source": "金十数据",
-          "ranks": [
-            7,
-            21,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时40分 ~ 04时28分]"
-        },
-        {
-          "title": "美总统与以总理被曝再次通话讨论伊朗局势",
-          "url": "https://wallstreetcn.com/livenews/3038960",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            18,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时40分 ~ 04时28分]"
-        },
-        {
-          "title": "特朗普自曝：我说服了自己，暂缓打击伊朗",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32406442",
-          "source": "澎湃新闻",
-          "ranks": [
-            13,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时32分 ~ 17时26分]"
-        },
-        {
-          "title": "以官员透露摩萨德局长已抵美，将与美方讨论伊朗局势",
-          "url": "https://wallstreetcn.com/livenews/3039013",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时26分 ~ 06时26分]"
-        },
-        {
-          "title": "伊朗总统与普京通话 指伊朗近期事件有西方直接参与",
-          "url": "https://wallstreetcn.com/livenews/3038944",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时29分 ~ 02时40分]"
-        },
-        {
-          "title": "伊朗警方破获一起重大武器走私案",
-          "url": "https://wallstreetcn.com/livenews/3039032",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时26分 ~ 07时27分]"
-        },
-        {
-          "title": "欧盟航空安全局建议航空运营商避开伊朗空域",
-          "url": "https://wallstreetcn.com/livenews/3039030",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时26分 ~ 07时27分]"
-        },
-        {
-          "title": "为何美国紧盯伊朗",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%BA%E4%BD%95%E7%BE%8E%E5%9B%BD%E7%B4%A7%E7%9B%AF%E4%BC%8A%E6%9C%97",
-          "source": "bilibili 热搜",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时23分 ~ 15时24分]"
-        },
-        {
-          "title": "特朗普自曝暂缓打伊朗原因",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E8%87%AA%E6%9B%9D%E6%9A%82%E7%BC%93%E6%89%93%E4%BC%8A%E6%9C%97%E5%8E%9F%E5%9B%A0%23&t=31&band_rank=7&Refer=top",
-          "source": "微博",
-          "ranks": [
-            7
-          ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "14时37分"
+          "time_info": "00时29分"
         },
         {
           "title": "特朗普罕见公开“感谢伊朗”",
           "url": "https://www.douyin.com/hot/2370651",
           "source": "抖音",
           "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时25分"
-        },
-        {
-          "title": "斯洛伐克驻伊朗大使馆暂时关闭",
-          "url": "https://wallstreetcn.com/livenews/3038983",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
+            11
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "04时28分"
+          "time_info": "00时29分"
         },
         {
-          "title": "伊朗媒体：约3000人因骚乱被捕",
-          "url": "https://wallstreetcn.com/livenews/3038899",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时36分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 12,
-      "titles": [
-        {
-          "title": "台积电带飞芯片股，力撑美股指反弹，白银一度跌逾7%后走V，原油大跌",
-          "url": "https://wallstreetcn.com/articles/3763348",
-          "source": "华尔街见闻",
-          "ranks": [
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时36分 ~ 07时27分]"
-        },
-        {
-          "title": "美股收盘：三大指数微幅下跌 财报季开局谨慎 美光科技涨超7%市值破4000亿",
-          "url": "https://www.cls.cn/detail/2260993",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            3,
-            5,
-            6,
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[07时26分 ~ 23时25分]"
-        },
-        {
-          "title": "美股期指走高 美联储静默期前市场谨慎乐观 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2260838",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            11,
-            10,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时36分 ~ 17时26分]"
-        },
-        {
-          "title": "科技股助推美股指全线上涨，纳指涨0.5%，白银价格逆势重挫5%",
-          "url": "https://wallstreetcn.com/articles/3763450",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时28分 ~ 07时27分]"
-        },
-        {
-          "title": "金十图示：2026年01月16日（周五）美股热门股票行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260117050528991800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[05时26分 ~ 09时58分]"
-        },
-        {
-          "title": "网络股ETF收跌将近0.9%，领跌美股行业ETF，半导体ETF涨1%",
-          "url": "https://wallstreetcn.com/livenews/3039017",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时26分 ~ 06时26分]"
-        },
-        {
-          "title": "金十图示：2026年01月16日（周五）热门中概股行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260117050524828800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[05时26分 ~ 09时58分]"
-        },
-        {
-          "title": "（美股）费城金银指数收涨0.06%，报395.01点，本周累计上涨5.47%。 （全球时段）纽约证交所ARCA金矿开采商指数收跌0.06%，报2760.43点，特朗普谈论哈塞特带来一波尖锐的V形走势，本周累涨5.38%。 （美股）原材料指数收跌0.21%，报252.23点，本周累涨2.89%。 （美股）金属与矿业指数收跌1.09%，报241.90点，本周累涨4.46%。",
-          "url": "https://wallstreetcn.com/livenews/3039039",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时26分 ~ 07时27分]"
-        },
-        {
-          "title": "美股三大指数小幅收跌 美光收涨近8%",
-          "url": "https://flash.jin10.com/detail/20260117050027802800",
-          "source": "金十数据",
-          "ranks": [
-            11,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[05时26分 ~ 09时58分]"
-        },
-        {
-          "title": "美股七巨头收盘播报｜周五（1月16日），美国科技股七巨头（Magnificent 7）指数跌0.30%，报204.59点，本周累计下跌1.58%。 “超大”市值科技股指数涨0.12%，报392.82点，本周累跌0.54%。",
-          "url": "https://wallstreetcn.com/livenews/3039026",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时26分 ~ 07时27分]"
-        },
-        {
-          "title": "金十图示：2026年01月16日（周五）美股热门股票行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20260117013135210800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时40分"
-        },
-        {
-          "title": "金十图示：2026年01月16日（周五）热门中概股行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20260117013123843800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时40分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "以色列",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "以色列向哈马斯发出通牒：两个月内解除武装",
-          "url": "https://wallstreetcn.com/livenews/3039099",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            5,
-            11,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时32分 ~ 19时21分]"
-        },
-        {
-          "title": "以色列向哈马斯发出通牒：两个月内解除武装",
-          "url": "https://flash.jin10.com/detail/20260117155518124800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            9,
-            20,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时32分 ~ 19时21分]"
-        },
-        {
-          "title": "伊朗最高领袖哈梅内伊：那些与以色列和美国有关联的人在抗议活动中造成了大规模破坏并导致数千人死亡。",
-          "url": "https://flash.jin10.com/detail/20260117184028196800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            17,
-            20,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时21分 ~ 22时24分]"
-        },
-        {
-          "title": "【特朗普称他“说服了自己”暂缓对伊朗采取军事行动】1月16日，美国总统唐纳德·特朗普在白宫表示，他“说服了自己”暂缓对伊朗采取军事行动。 当天在特朗普启程前往佛罗里达州之前，有记者在白宫向特朗普提问，是否是沙特、卡塔尔和阿曼领导人的劝说致使其放弃打击伊朗。特朗普随后回答道：“没有人说服我，是我自己说服了我自己。” 有消息人士15日透露，美国总统特朗普暂缓就军事打击伊朗作出决定。特朗普的顾问们告诉他，大规模军事打击不大可能在伊朗实现政权更迭，反而可能引发更大规模冲突，应观察伊朗国内局势再做决定。有美国和以色列消息人士称，以总理内塔尼亚胡14日同特朗普通电话，希望美推迟决定对伊朗采取行动，从而给以方更多时间准备应对伊朗可能的报复。（央视）",
-          "url": "https://wallstreetcn.com/livenews/3039016",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时26分 ~ 06时26分]"
-        },
-        {
-          "title": "纽约市养老基金或重启以色列国债投资 与新任市长立场冲突",
-          "url": "https://flash.jin10.com/detail/20260117211144796800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时24分 ~ 23时25分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "清华姚班陈立杰加入OpenAI",
-          "url": "https://search.bilibili.com/all?keyword=%E6%B8%85%E5%8D%8E%E5%A7%9A%E7%8F%AD%E9%99%88%E7%AB%8B%E6%9D%B0%E5%8A%A0%E5%85%A5OpenAI",
-          "source": "bilibili 热搜",
-          "ranks": [
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时36分 ~ 07时27分]"
-        },
-        {
-          "title": "OpenAI联合创始人兼总裁Greg Brockman：马斯克曾表示他需要持有OpenAI的多数股权。",
-          "url": "https://wallstreetcn.com/livenews/3039069",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            9,
-            14,
-            20,
-            25,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时58分 ~ 15时24分]"
-        },
-        {
-          "title": "OpenAI推出ChatGPT Go，美国订阅费用为每个月8美元，目前已在全球范围内上线。",
-          "url": "https://flash.jin10.com/detail/20260117020212481800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            19,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时40分 ~ 04时28分]"
-        },
-        {
-          "title": "马斯克就 \"不当得利 \"向 OpenAI和微软索赔高达1340亿美元",
-          "url": "https://wallstreetcn.com/livenews/3039109",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            17,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时26分 ~ 20时50分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美元",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "美元指数16日上涨",
-          "url": "https://flash.jin10.com/detail/20260117043039247800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时26分 ~ 07时27分]"
-        },
-        {
-          "title": "最近24小时，MarketVectorTM数字资产100小盘指数跌0.58%，暂报4084.85点，最近连续天累计上涨0.07%，整体大致持稳，1月11日北京时间22:10前后出现一波尖锐的冲高回落行情——最高达到6268.44点。 MarketVectorTM数字资产100中盘指数跌2.22%，报3725.95点，最近七天累跌1.99%，整体冲高回落。 MarketVector数字资产100指数跌1.72%，报19592.12点，最近七天累涨2.99%。 最近七天，比特币累涨4.92%，目前报94872美元；以太坊累涨6.40%，暂报3279美元；Solana累涨4.40%，狗狗币累跌2.99%，XRP累跌2.22%。",
-          "url": "https://wallstreetcn.com/livenews/3038945",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时29分 ~ 02时40分]"
-        },
-        {
-          "title": "美元指数涨幅扩大至0.1%，刷新日高至99.42上方。",
-          "url": "https://wallstreetcn.com/livenews/3038922",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时36分 ~ 01时29分]"
-        },
-        {
-          "title": "美元指数本周累涨超0.2%",
-          "url": "https://wallstreetcn.com/livenews/3038993",
+          "title": "伊朗网络服务恢复约1小时后再次中断",
+          "url": "https://wallstreetcn.com/livenews/3039126",
           "source": "华尔街见闻-快讯",
           "ranks": [
             21
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "05时26分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "中国持续减持美债有何动因",
-          "url": "https://www.toutiao.com/trending/7595953759675485747/",
-          "source": "今日头条",
-          "ranks": [
-            14,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时25分 ~ 14时37分]"
+          "time_info": "00时29分"
         },
         {
-          "title": "两年期美债收益率周五一度快速拉升，本周累涨超6.2个基点",
-          "url": "https://wallstreetcn.com/livenews/3038998",
+          "title": "伊朗谴责七国集团干涉伊朗内政",
+          "url": "https://wallstreetcn.com/livenews/3039124",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            17
+            23
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "05时26分"
+          "time_info": "00时29分"
         },
         {
-          "title": "现货黄金日内跌幅达1.5%，报4546.43美元/盎司。 纽约银日内跌幅达6.0%，报86.81美元/盎司。 纽蒙特矿业跌2.3%。 标普跌0.18%，纳指跌0.2%，半导体指数涨幅收窄至0.8%。 两年期美债收益率涨幅扩大至2.6个基点，刷新日高至3.59%上方。 美元指数短线从99.20点下方反弹，重返99.33一线。 特朗普称，希望哈塞特继续担任白宫顾问。",
-          "url": "https://wallstreetcn.com/livenews/3038910",
-          "source": "华尔街见闻-快讯",
+          "title": "伊朗网络服务恢复约1小时后再次中断",
+          "url": "https://flash.jin10.com/detail/20260117194655217800",
+          "source": "金十数据",
           "ranks": [
-            18
+            24
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "00时36分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "谷歌提交通知，就司法部搜索裁决提起上诉。",
-          "url": "https://flash.jin10.com/detail/20260117050916317800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            22,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[05时26分 ~ 11时37分]"
-        },
-        {
-          "title": "谷歌公司将针对美国法院判决“搜索中出现的非法操纵”提出上诉。",
-          "url": "https://wallstreetcn.com/livenews/3039041",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            11,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时26分 ~ 09时58分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "分析师：贵金属失去部分地缘政治溢价，仍认为金价有机会触及5000美元",
-          "url": "https://flash.jin10.com/detail/20260117140618013800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            11,
-            19,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时37分 ~ 17时26分]"
-        },
-        {
-          "title": "金价波动",
-          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7%E6%B3%A2%E5%8A%A8&t=31&band_rank=21&Refer=top",
-          "source": "微博",
-          "ranks": [
-            21,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时37分 ~ 12时36分]"
+          "time_info": "00时29分"
         }
       ]
     },
     {
       "keyword_group": "世界杯 欧洲杯 亚洲杯",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "圣李昊！U23 亚洲杯淘汰赛，中国队点球大战淘汰乌兹别克斯坦跻身四强，如何评价本场比赛？",
           "url": "https://www.zhihu.com/question/1995940692124459289",
           "source": "知乎",
           "ranks": [
-            7,
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[22时23分 ~ 23时25分]"
+          "appearance_count": 1,
+          "time_info": "00时29分"
         },
         {
-          "title": "中国 U23 男足与乌兹别克在亚洲杯 1/4 决赛中，能够拿下这场比赛吗？",
-          "url": "https://www.zhihu.com/question/1995757645857044327",
+          "title": "U23 亚洲杯，国足 VS 乌兹别克斯坦，如何评价本场比赛？",
+          "url": "https://www.zhihu.com/question/1995801010606715773",
           "source": "知乎",
           "ranks": [
-            14,
-            10
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时21分 ~ 20时50分]"
+          "appearance_count": 1,
+          "time_info": "00时29分"
+        },
+        {
+          "title": "晋级四强！2026 年 U23 亚洲杯中国 U23 点球大战 4:3 淘汰乌兹别克斯坦 U23，如何评价本场比赛？",
+          "url": "https://www.zhihu.com/question/1995982755394241338",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时29分"
         }
       ]
     },
     {
-      "keyword_group": "DeepSeek 梁文锋",
+      "keyword_group": "美债",
       "match_count": 1,
       "titles": [
         {
-          "title": "如何评价 DeepSeek 最新的「条件记忆」和字节 Seed 团队「Over-Encoding」之间的关联？",
-          "url": "https://www.zhihu.com/question/1995200812075480347",
-          "source": "知乎",
+          "title": "哈塞特“出局”，但美债为何“不涨反跌”？",
+          "url": "https://wallstreetcn.com/articles/3763504",
+          "source": "华尔街见闻",
           "ranks": [
-            12,
-            13
+            10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时25分 ~ 19时21分]"
+          "appearance_count": 1,
+          "time_info": "00时29分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "美股收盘：三大指数微幅下跌 财报季开局谨慎 美光科技涨超7%市值破4000亿",
+          "url": "https://www.cls.cn/detail/2260993",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时29分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "以色列",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "纽约市养老基金或重启以色列国债投资 与新任市长立场冲突",
+          "url": "https://flash.jin10.com/detail/20260117211144796800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时29分"
         }
       ]
     }
