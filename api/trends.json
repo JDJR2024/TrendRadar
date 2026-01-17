@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-17T20:50:14.625389+08:00",
-  "total_titles_processed": 1428,
+  "generated_at": "2026-01-17T21:32:59.244367+08:00",
+  "total_titles_processed": 1464,
   "failed_sources": [],
   "trends": [
     {
@@ -39,8 +39,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[11时37分 ~ 20时50分]"
+          "appearance_count": 16,
+          "time_info": "[11时37分 ~ 21时32分]"
         },
         {
           "title": "上海合作组织发表关于伊朗局势的声明",
@@ -141,6 +141,20 @@
           "time_info": "[16时32分 ~ 19时21分]"
         },
         {
+          "title": "伊朗最高领袖哈梅内伊：伊朗认为美国总统特朗普应对抗议期间对伊朗人造成的伤亡、损失和诽谤负责。",
+          "url": "https://flash.jin10.com/detail/20260117174453624800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            12,
+            24,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时26分 ~ 21时32分]"
+        },
+        {
           "title": "伊朗全境已恢复互联网服务。",
           "url": "https://flash.jin10.com/detail/20260117135223968800",
           "source": "金十数据",
@@ -167,19 +181,6 @@
           "time_info": "[03时23分 ~ 04时28分]"
         },
         {
-          "title": "伊朗最高领袖哈梅内伊：伊朗认为美国总统特朗普应对抗议期间对伊朗人造成的伤亡、损失和诽谤负责。",
-          "url": "https://flash.jin10.com/detail/20260117174453624800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            12,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时26分 ~ 20时50分]"
-        },
-        {
           "title": "巴基斯坦外长和伊朗外长通电话 呼吁保持地区和平稳定",
           "url": "https://flash.jin10.com/detail/20260117164104796800",
           "source": "金十数据",
@@ -191,6 +192,19 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[17时26分 ~ 19时21分]"
+        },
+        {
+          "title": "伊朗最高领袖哈梅内伊：我们不会把国家拖入战争，但也不会让国内外的犯罪分子逍遥法外。",
+          "url": "https://flash.jin10.com/detail/20260117184112590800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            16,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时21分 ~ 21时32分]"
         },
         {
           "title": "欧洲航空安全局：美国可能采取军事行动已使伊朗防空部队进入高度戒备状态，目前德黑兰飞行情报区发生误判的可能性正在上升。",
@@ -228,18 +242,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时23分 ~ 04时28分]"
-        },
-        {
-          "title": "伊朗最高领袖哈梅内伊：我们不会把国家拖入战争，但也不会让国内外的犯罪分子逍遥法外。",
-          "url": "https://flash.jin10.com/detail/20260117184112590800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时21分 ~ 20时50分]"
         },
         {
           "title": "伊朗手机用户发送短信功能恢复",
@@ -283,6 +285,19 @@
           "time_info": "[02时40分 ~ 04时28分]"
         },
         {
+          "title": "伊朗最高领袖哈梅内伊：特朗普是罪犯",
+          "url": "https://flash.jin10.com/detail/20260117182506253800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            19,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时21分 ~ 21时32分]"
+        },
+        {
           "title": "美总统与以总理被曝再次通话讨论伊朗局势",
           "url": "https://wallstreetcn.com/livenews/3038960",
           "source": "华尔街见闻-快讯",
@@ -320,16 +335,16 @@
           "time_info": "[05时26分 ~ 06时26分]"
         },
         {
-          "title": "伊朗最高领袖哈梅内伊：特朗普是罪犯",
-          "url": "https://flash.jin10.com/detail/20260117182506253800",
+          "title": "伊朗网络服务恢复约1小时后再次中断",
+          "url": "https://flash.jin10.com/detail/20260117194655217800",
           "source": "金十数据",
           "ranks": [
             7,
-            19
+            10
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[19时21分 ~ 20时50分]"
+          "time_info": "[20时50分 ~ 21时32分]"
         },
         {
           "title": "伊朗总统与普京通话 指伊朗近期事件有西方直接参与",
@@ -342,6 +357,30 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时29分 ~ 02时40分]"
+        },
+        {
+          "title": "伊朗网络服务恢复约1小时后再次中断",
+          "url": "https://wallstreetcn.com/livenews/3039126",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时50分 ~ 21时32分]"
+        },
+        {
+          "title": "伊朗谴责七国集团干涉伊朗内政",
+          "url": "https://wallstreetcn.com/livenews/3039124",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时50分 ~ 21时32分]"
         },
         {
           "title": "伊朗警方破获一起重大武器走私案",
@@ -379,28 +418,6 @@
           "time_info": "[15时23分 ~ 15时24分]"
         },
         {
-          "title": "伊朗网络服务恢复约1小时后再次中断",
-          "url": "https://flash.jin10.com/detail/20260117194655217800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时50分"
-        },
-        {
-          "title": "伊朗网络服务恢复约1小时后再次中断",
-          "url": "https://wallstreetcn.com/livenews/3039126",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时50分"
-        },
-        {
           "title": "特朗普自曝暂缓打伊朗原因",
           "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E8%87%AA%E6%9B%9D%E6%9A%82%E7%BC%93%E6%89%93%E4%BC%8A%E6%9C%97%E5%8E%9F%E5%9B%A0%23&t=31&band_rank=7&Refer=top",
           "source": "微博",
@@ -421,17 +438,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时28分"
-        },
-        {
-          "title": "伊朗谴责七国集团干涉伊朗内政",
-          "url": "https://wallstreetcn.com/livenews/3039124",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时50分"
         },
         {
           "title": "伊朗媒体：约3000人因骚乱被捕",
@@ -471,11 +477,12 @@
             3,
             5,
             6,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[07时26分 ~ 20时50分]"
+          "appearance_count": 20,
+          "time_info": "[07时26分 ~ 21时32分]"
         },
         {
           "title": "美股期指走高 美联储静默期前市场谨慎乐观 | 今夜看点",
@@ -746,6 +753,19 @@
           "time_info": "[16时32分 ~ 19时21分]"
         },
         {
+          "title": "伊朗最高领袖哈梅内伊：那些与以色列和美国有关联的人在抗议活动中造成了大规模破坏并导致数千人死亡。",
+          "url": "https://flash.jin10.com/detail/20260117184028196800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            17,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时21分 ~ 21时32分]"
+        },
+        {
           "title": "【特朗普称他“说服了自己”暂缓对伊朗采取军事行动】1月16日，美国总统唐纳德·特朗普在白宫表示，他“说服了自己”暂缓对伊朗采取军事行动。 当天在特朗普启程前往佛罗里达州之前，有记者在白宫向特朗普提问，是否是沙特、卡塔尔和阿曼领导人的劝说致使其放弃打击伊朗。特朗普随后回答道：“没有人说服我，是我自己说服了我自己。” 有消息人士15日透露，美国总统特朗普暂缓就军事打击伊朗作出决定。特朗普的顾问们告诉他，大规模军事打击不大可能在伊朗实现政权更迭，反而可能引发更大规模冲突，应观察伊朗国内局势再做决定。有美国和以色列消息人士称，以总理内塔尼亚胡14日同特朗普通电话，希望美推迟决定对伊朗采取行动，从而给以方更多时间准备应对伊朗可能的报复。（央视）",
           "url": "https://wallstreetcn.com/livenews/3039016",
           "source": "华尔街见闻-快讯",
@@ -756,18 +776,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时26分 ~ 06时26分]"
-        },
-        {
-          "title": "伊朗最高领袖哈梅内伊：那些与以色列和美国有关联的人在抗议活动中造成了大规模破坏并导致数千人死亡。",
-          "url": "https://flash.jin10.com/detail/20260117184028196800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时21分 ~ 20时50分]"
         }
       ]
     },
