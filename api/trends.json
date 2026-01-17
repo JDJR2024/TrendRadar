@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-18T05:22:54.290911+08:00",
-  "total_titles_processed": 395,
+  "generated_at": "2026-01-18T06:25:10.358650+08:00",
+  "total_titles_processed": 400,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时29分 ~ 05时22分]"
+          "appearance_count": 7,
+          "time_info": "[00时29分 ~ 06时25分]"
         },
         {
           "title": "伊朗短信发送功能已恢复，将逐步恢复互联网连接",
@@ -27,8 +27,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时29分 ~ 05时22分]"
+          "appearance_count": 7,
+          "time_info": "[00时29分 ~ 06时25分]"
         },
         {
           "title": "特朗普罕见公开“感谢伊朗”",
@@ -39,11 +39,12 @@
             8,
             9,
             16,
-            13
+            13,
+            15
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时29分 ~ 05时22分]"
+          "appearance_count": 9,
+          "time_info": "[00时29分 ~ 06时25分]"
         },
         {
           "title": "伊朗网络服务恢复约1小时后再次中断",
@@ -54,8 +55,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时29分 ~ 05时22分]"
+          "appearance_count": 7,
+          "time_info": "[00时29分 ~ 06时25分]"
         },
         {
           "title": "伊朗谴责七国集团干涉伊朗内政",
@@ -66,8 +67,8 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时29分 ~ 05时22分]"
+          "appearance_count": 7,
+          "time_info": "[00时29分 ~ 06时25分]"
         },
         {
           "title": "伊朗网络服务恢复约1小时后再次中断",
@@ -77,8 +78,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时29分 ~ 05时22分]"
+          "appearance_count": 7,
+          "time_info": "[00时29分 ~ 06时25分]"
         }
       ]
     },
@@ -94,8 +95,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时29分 ~ 05时22分]"
+          "appearance_count": 9,
+          "time_info": "[00时29分 ~ 06时25分]"
         },
         {
           "title": "U23 亚洲杯，国足 VS 乌兹别克斯坦，如何评价本场比赛？",
@@ -135,8 +136,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时29分 ~ 05时22分]"
+          "appearance_count": 9,
+          "time_info": "[00时29分 ~ 06时25分]"
         }
       ]
     },
@@ -152,8 +153,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时29分 ~ 05时22分]"
+          "appearance_count": 9,
+          "time_info": "[00时29分 ~ 06时25分]"
         }
       ]
     },
@@ -169,8 +170,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时29分 ~ 05时22分]"
+          "appearance_count": 7,
+          "time_info": "[00时29分 ~ 06时25分]"
         }
       ]
     }
