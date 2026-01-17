@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-17T11:37:58.796932+08:00",
-  "total_titles_processed": 859,
+  "generated_at": "2026-01-17T12:36:21.639712+08:00",
+  "total_titles_processed": 910,
   "failed_sources": [],
   "trends": [
     {
@@ -27,8 +27,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[03时23分 ~ 11时37分]"
+          "appearance_count": 10,
+          "time_info": "[03时23分 ~ 12时36分]"
         },
         {
           "title": "上海合作组织发表关于伊朗局势的声明",
@@ -58,8 +58,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时36分 ~ 11时37分]"
+          "appearance_count": 14,
+          "time_info": "[00时36分 ~ 12时36分]"
         },
         {
           "title": "火药味拉满,美国酝酿搞伊朗",
@@ -161,6 +161,43 @@
           "time_info": "[02时40分 ~ 04时28分]"
         },
         {
+          "title": "伊朗手机用户发送短信功能恢复",
+          "url": "https://wallstreetcn.com/livenews/3039060",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            17,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时58分 ~ 12时36分]"
+        },
+        {
+          "title": "伊朗手机用户发送短信功能恢复",
+          "url": "https://flash.jin10.com/detail/20260117080650894800",
+          "source": "金十数据",
+          "ranks": [
+            15,
+            23,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时58分 ~ 12时36分]"
+        },
+        {
+          "title": "伊朗政府向市民发放“电子补贴券”，凤凰记者走访德黑兰连锁超市",
+          "url": "https://news.ifeng.com/c/8pz2QNtwV6g",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时37分 ~ 12时36分]"
+        },
+        {
           "title": "以官员透露摩萨德局长已抵美，将与美方讨论伊朗局势",
           "url": "https://wallstreetcn.com/livenews/3039013",
           "source": "华尔街见闻-快讯",
@@ -197,18 +234,6 @@
           "time_info": "[06时26分 ~ 07时27分]"
         },
         {
-          "title": "伊朗手机用户发送短信功能恢复",
-          "url": "https://wallstreetcn.com/livenews/3039060",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时58分 ~ 11时37分]"
-        },
-        {
           "title": "欧盟航空安全局建议航空运营商避开伊朗空域",
           "url": "https://wallstreetcn.com/livenews/3039030",
           "source": "华尔街见闻-快讯",
@@ -219,29 +244,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时26分 ~ 07时27分]"
-        },
-        {
-          "title": "伊朗手机用户发送短信功能恢复",
-          "url": "https://flash.jin10.com/detail/20260117080650894800",
-          "source": "金十数据",
-          "ranks": [
-            15,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时58分 ~ 11时37分]"
-        },
-        {
-          "title": "伊朗政府向市民发放“电子补贴券”，凤凰记者走访德黑兰连锁超市",
-          "url": "https://news.ifeng.com/c/8pz2QNtwV6g",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时37分"
         },
         {
           "title": "斯洛伐克驻伊朗大使馆暂时关闭",
@@ -317,11 +319,12 @@
           "source": "财联社热门",
           "ranks": [
             12,
-            3
+            3,
+            5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时26分 ~ 11时37分]"
+          "appearance_count": 6,
+          "time_info": "[07时26分 ~ 12时36分]"
         },
         {
           "title": "金十图示：2026年01月16日（周五）美股热门股票行情一览（美股收盘）",
@@ -493,11 +496,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             3,
-            9
+            9,
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时58分 ~ 11时37分]"
+          "appearance_count": 3,
+          "time_info": "[09时58分 ~ 12时36分]"
         },
         {
           "title": "OpenAI推出ChatGPT Go，美国订阅费用为每个月8美元，目前已在全球范围内上线。",
@@ -583,11 +587,12 @@
           "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7%E6%B3%A2%E5%8A%A8&t=31&band_rank=21&Refer=top",
           "source": "微博",
           "ranks": [
-            21
+            21,
+            27
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时37分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时37分 ~ 12时36分]"
         }
       ]
     },
