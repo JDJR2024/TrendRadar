@@ -1,23 +1,12 @@
 {
-  "generated_at": "2026-01-18T04:28:20.878722+08:00",
-  "total_titles_processed": 383,
+  "generated_at": "2026-01-18T05:22:54.290911+08:00",
+  "total_titles_processed": 395,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
       "match_count": 6,
       "titles": [
-        {
-          "title": "伊朗短信发送功能已恢复，将逐步恢复互联网连接",
-          "url": "https://wallstreetcn.com/livenews/3039145",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时29分 ~ 04时28分]"
-        },
         {
           "title": "据伊朗方面消息，短信（SMS）发送功能当地时间16日晚已恢复；互联网将采取阶梯式、分阶段的方式逐步恢复连接。",
           "url": "https://flash.jin10.com/detail/20260117222342714800",
@@ -26,8 +15,20 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时29分 ~ 04时28分]"
+          "appearance_count": 6,
+          "time_info": "[00时29分 ~ 05时22分]"
+        },
+        {
+          "title": "伊朗短信发送功能已恢复，将逐步恢复互联网连接",
+          "url": "https://wallstreetcn.com/livenews/3039145",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时29分 ~ 05时22分]"
         },
         {
           "title": "特朗普罕见公开“感谢伊朗”",
@@ -37,33 +38,36 @@
             11,
             8,
             9,
-            16
+            16,
+            13
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时29分 ~ 04时28分]"
+          "appearance_count": 7,
+          "time_info": "[00时29分 ~ 05时22分]"
         },
         {
           "title": "伊朗网络服务恢复约1小时后再次中断",
           "url": "https://wallstreetcn.com/livenews/3039126",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            21
+            21,
+            24
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时29分 ~ 04时28分]"
+          "appearance_count": 6,
+          "time_info": "[00时29分 ~ 05时22分]"
         },
         {
           "title": "伊朗谴责七国集团干涉伊朗内政",
           "url": "https://wallstreetcn.com/livenews/3039124",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            23
+            23,
+            26
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时29分 ~ 04时28分]"
+          "appearance_count": 6,
+          "time_info": "[00时29分 ~ 05时22分]"
         },
         {
           "title": "伊朗网络服务恢复约1小时后再次中断",
@@ -73,8 +77,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时29分 ~ 04时28分]"
+          "appearance_count": 6,
+          "time_info": "[00时29分 ~ 05时22分]"
         }
       ]
     },
@@ -90,8 +94,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时29分 ~ 04时28分]"
+          "appearance_count": 7,
+          "time_info": "[00时29分 ~ 05时22分]"
         },
         {
           "title": "U23 亚洲杯，国足 VS 乌兹别克斯坦，如何评价本场比赛？",
@@ -131,8 +135,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时29分 ~ 04时28分]"
+          "appearance_count": 7,
+          "time_info": "[00时29分 ~ 05时22分]"
         }
       ]
     },
@@ -148,8 +152,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时29分 ~ 04时28分]"
+          "appearance_count": 7,
+          "time_info": "[00时29分 ~ 05时22分]"
         }
       ]
     },
@@ -165,8 +169,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时29分 ~ 04时28分]"
+          "appearance_count": 6,
+          "time_info": "[00时29分 ~ 05时22分]"
         }
       ]
     }
