@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-01-18T16:33:27.795569+08:00",
-  "total_titles_processed": 938,
+  "generated_at": "2026-01-18T17:27:01.049312+08:00",
+  "total_titles_processed": 1001,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
       "match_count": 13,
       "titles": [
+        {
+          "title": "伊朗示威平息，互联网服务将分三阶段恢复",
+          "url": "https://news.ifeng.com/c/8q0bPCNplIJ",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[10时11分 ~ 17时27分]"
+        },
         {
           "title": "据伊朗方面消息，短信（SMS）发送功能当地时间16日晚已恢复；互联网将采取阶梯式、分阶段的方式逐步恢复连接。",
           "url": "https://flash.jin10.com/detail/20260117222342714800",
@@ -17,18 +29,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时29分 ~ 07时24分]"
-        },
-        {
-          "title": "伊朗示威平息，互联网服务将分三阶段恢复",
-          "url": "https://news.ifeng.com/c/8q0bPCNplIJ",
-          "source": "凤凰网",
-          "ranks": [
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时11分 ~ 16时33分]"
         },
         {
           "title": "伊朗短信发送功能已恢复，将逐步恢复互联网连接",
@@ -85,11 +85,12 @@
             7,
             9,
             10,
-            16
+            16,
+            20
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时11分 ~ 16时33分]"
+          "appearance_count": 7,
+          "time_info": "[10时11分 ~ 17时27分]"
         },
         {
           "title": "伊朗网络服务恢复约1小时后再次中断",
@@ -122,11 +123,12 @@
           "ranks": [
             4,
             8,
-            21
+            21,
+            29
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时38分 ~ 16时33分]"
+          "appearance_count": 4,
+          "time_info": "[14时38分 ~ 17时27分]"
         },
         {
           "title": "伊朗瓦解一间谍组织 指其参与骚乱并纵火袭警",
@@ -188,11 +190,23 @@
             8,
             7,
             6,
-            13
+            13,
+            22
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时11分 ~ 16时33分]"
+          "appearance_count": 9,
+          "time_info": "[10时11分 ~ 17时27分]"
+        },
+        {
+          "title": "罕见！以色列总理公开叫板美国",
+          "url": "https://news.ifeng.com/c/8q05A8HPhF5",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时24分 ~ 17时27分]"
         },
         {
           "title": "纽约市养老基金或重启以色列国债投资 与新任市长立场冲突",
@@ -204,17 +218,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时29分 ~ 07时24分]"
-        },
-        {
-          "title": "罕见！以色列总理公开叫板美国",
-          "url": "https://news.ifeng.com/c/8q05A8HPhF5",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时24分 ~ 16时33分]"
         },
         {
           "title": "伊朗一间谍组织被瓦解，其主要成员曾多次前往以色列",
@@ -274,8 +277,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时38分 ~ 16时33分]"
+          "appearance_count": 6,
+          "time_info": "[14时38分 ~ 17时27分]"
         },
         {
           "title": "马斯克以「构成欺诈」为由向 OpenAI 、微软索赔 1340 亿美元，具体是怎么回事？他能索赔成功吗？",
@@ -286,8 +289,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时28分 ~ 16时33分]"
+          "appearance_count": 7,
+          "time_info": "[13时28分 ~ 17时27分]"
         },
         {
           "title": "AI巨头正式对簿公堂：马斯克向OpenAI、微软索赔最高1340亿美元",
