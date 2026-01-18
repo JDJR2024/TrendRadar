@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-19T06:25:06.914005+08:00",
-  "total_titles_processed": 441,
+  "generated_at": "2026-01-19T07:24:58.055023+08:00",
+  "total_titles_processed": 481,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时31分 ~ 06时25分]"
+          "appearance_count": 11,
+          "time_info": "[00时31分 ~ 07时24分]"
         },
         {
           "title": "世界周刊之伊朗危机",
@@ -25,11 +25,12 @@
           "ranks": [
             11,
             26,
-            25
+            25,
+            14
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时21分 ~ 06时25分]"
+          "appearance_count": 7,
+          "time_info": "[01时21分 ~ 07时24分]"
         },
         {
           "title": "伊朗外交部：美国干涉应为美伊关系紧张负责",
@@ -37,11 +38,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             8,
-            14
+            14,
+            29
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时20分 ~ 06时25分]"
+          "appearance_count": 5,
+          "time_info": "[03时20分 ~ 07时24分]"
         },
         {
           "title": "伊朗总统：袭击最高领袖等同“发动全面战争”",
@@ -49,11 +51,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             9,
-            15
+            15,
+            30
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时20分 ~ 06时25分]"
+          "appearance_count": 5,
+          "time_info": "[03时20分 ~ 07时24分]"
         },
         {
           "title": "伊朗总统佩泽希齐扬通过社交平台表示，任何对伊朗最高领袖哈梅内伊的攻击都将引发全面战争。",
@@ -82,8 +85,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时31分 ~ 06时25分]"
+          "appearance_count": 11,
+          "time_info": "[00时31分 ~ 07时24分]"
         },
         {
           "title": "翁家翌谈OpenAI模型跃迁",
@@ -109,11 +112,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             3,
-            9
+            9,
+            24
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时20分 ~ 06时25分]"
+          "appearance_count": 5,
+          "time_info": "[03时20分 ~ 07时24分]"
         },
         {
           "title": "土耳其外长称以色列摩萨德正在介入伊朗局势",
@@ -143,8 +147,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时31分 ~ 06时25分]"
+          "appearance_count": 11,
+          "time_info": "[00时31分 ~ 07时24分]"
         }
       ]
     },
