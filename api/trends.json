@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-18T21:33:22.622258+08:00",
-  "total_titles_processed": 1284,
+  "generated_at": "2026-01-18T22:23:35.503701+08:00",
+  "total_titles_processed": 1340,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[10时11分 ~ 21时33分]"
+          "appearance_count": 16,
+          "time_info": "[10时11分 ~ 22时23分]"
         },
         {
           "title": "据伊朗方面消息，短信（SMS）发送功能当地时间16日晚已恢复；互联网将采取阶梯式、分阶段的方式逐步恢复连接。",
@@ -229,8 +229,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[15时24分 ~ 21时33分]"
+          "appearance_count": 12,
+          "time_info": "[15时24分 ~ 22时23分]"
         },
         {
           "title": "以色列总理公开叫板美国",
@@ -268,11 +268,12 @@
             4,
             16,
             30,
-            2
+            2,
+            11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时26分 ~ 21时33分]"
+          "appearance_count": 5,
+          "time_info": "[18时26分 ~ 22时23分]"
         },
         {
           "title": "伊朗一间谍组织被瓦解，其主要成员曾多次前往以色列",
@@ -358,8 +359,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[14时38分 ~ 21时33分]"
+          "appearance_count": 13,
+          "time_info": "[14时38分 ~ 22时23分]"
         },
         {
           "title": "马斯克以「构成欺诈」为由向 OpenAI 、微软索赔 1340 亿美元，具体是怎么回事？他能索赔成功吗？",
@@ -370,8 +371,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[13时28分 ~ 21时33分]"
+          "appearance_count": 14,
+          "time_info": "[13时28分 ~ 22时23分]"
         },
         {
           "title": "AI巨头正式对簿公堂：马斯克向OpenAI、微软索赔最高1340亿美元",
@@ -496,8 +497,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时20分 ~ 21时33分]"
+          "appearance_count": 6,
+          "time_info": "[19时20分 ~ 22时23分]"
         }
       ]
     },
