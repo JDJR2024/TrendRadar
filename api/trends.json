@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-18T22:23:35.503701+08:00",
-  "total_titles_processed": 1340,
+  "generated_at": "2026-01-18T23:25:30.581860+08:00",
+  "total_titles_processed": 1408,
   "failed_sources": [],
   "trends": [
     {
@@ -272,8 +272,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时26分 ~ 22时23分]"
+          "appearance_count": 6,
+          "time_info": "[18时26分 ~ 23时25分]"
         },
         {
           "title": "伊朗一间谍组织被瓦解，其主要成员曾多次前往以色列",
@@ -359,8 +359,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[14时38分 ~ 22时23分]"
+          "appearance_count": 14,
+          "time_info": "[14时38分 ~ 23时25分]"
         },
         {
           "title": "马斯克以「构成欺诈」为由向 OpenAI 、微软索赔 1340 亿美元，具体是怎么回事？他能索赔成功吗？",
@@ -485,26 +485,8 @@
       ]
     },
     {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "没有商业模式--DeepSeek最坚固的“护城河”",
-          "url": "https://wallstreetcn.com/articles/3763534",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[19时20分 ~ 22时23分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "美股",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "美股收盘：三大指数微幅下跌 财报季开局谨慎 美光科技涨超7%市值破4000亿",
@@ -517,6 +499,35 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时29分 ~ 10时11分]"
+        },
+        {
+          "title": "美股明日休市 金银油交易提前结束",
+          "url": "https://flash.jin10.com/detail/20260118225633271800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时25分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "没有商业模式--DeepSeek最坚固的“护城河”",
+          "url": "https://wallstreetcn.com/articles/3763534",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[19时20分 ~ 23时25分]"
         }
       ]
     }
