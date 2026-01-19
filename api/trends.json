@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-19T15:33:19.393094+08:00",
-  "total_titles_processed": 1068,
+  "generated_at": "2026-01-19T16:39:58.921200+08:00",
+  "total_titles_processed": 1174,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 8,
+      "match_count": 10,
       "titles": [
         {
           "title": "伊朗总统警告特朗普：攻击哈梅内伊将引发全面战争",
@@ -69,11 +69,12 @@
             16,
             15,
             14,
-            12
+            12,
+            10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时15分 ~ 15时33分]"
+          "appearance_count": 5,
+          "time_info": "[12时15分 ~ 16时39分]"
         },
         {
           "title": "伊朗总统佩泽希齐扬通过社交平台表示，任何对伊朗最高领袖哈梅内伊的攻击都将引发全面战争。",
@@ -111,12 +112,34 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时09分 ~ 12时15分]"
+        },
+        {
+          "title": "伊朗拟永久退网",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E6%8B%9F%E6%B0%B8%E4%B9%85%E9%80%80%E7%BD%91%23&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时39分"
+        },
+        {
+          "title": "伊朗议会议长：我们挫败了破坏我国稳定的阴谋。",
+          "url": "https://flash.jin10.com/detail/20260119154724623800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时39分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "美股明日休市 金银油交易提前结束",
@@ -130,6 +153,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时31分 ~ 05时23分]"
+        },
+        {
+          "title": "格陵兰引发美欧关税战风险，欧股大幅低开、美股期货下跌，金银再创新高，铜价逼近13000",
+          "url": "https://wallstreetcn.com/articles/3763546",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时39分"
         },
         {
           "title": "A股制冷剂概念股震荡拉升，昊华科技涨停，永和股份、三美股份、巨化股份、金石资源跟涨。",
@@ -260,8 +294,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时31分 ~ 15时33分]"
+          "appearance_count": 17,
+          "time_info": "[00时31分 ~ 16时39分]"
         }
       ]
     }
