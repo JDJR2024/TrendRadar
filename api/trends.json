@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-19T18:35:26.141618+08:00",
-  "total_titles_processed": 1365,
+  "generated_at": "2026-01-19T19:27:09.892029+08:00",
+  "total_titles_processed": 1437,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "伊朗总统警告特朗普：攻击哈梅内伊将引发全面战争",
@@ -42,7 +42,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时35分"
         },
@@ -53,7 +53,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时35分"
         },
@@ -148,6 +148,17 @@
           "time_info": "[10时09分 ~ 12时15分]"
         },
         {
+          "title": "据伊朗塔斯尼姆通讯社：伊朗官员呼吁对受“误导”的示威者予以宽大处理。",
+          "url": "https://flash.jin10.com/detail/20260119190212302800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时27分"
+        },
+        {
           "title": "伊朗拟永久退网",
           "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E6%8B%9F%E6%B0%B8%E4%B9%85%E9%80%80%E7%BD%91%23&t=31&band_rank=19&Refer=top",
           "source": "微博",
@@ -183,8 +194,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时39分 ~ 18时35分]"
+          "appearance_count": 5,
+          "time_info": "[17时39分 ~ 19时27分]"
         },
         {
           "title": "美股明日休市 金银油交易提前结束",
@@ -271,7 +282,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时35分"
         }
