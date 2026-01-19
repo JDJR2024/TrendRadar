@@ -1,22 +1,23 @@
 {
-  "generated_at": "2026-01-19T07:24:58.055023+08:00",
-  "total_titles_processed": 481,
+  "generated_at": "2026-01-19T10:09:26.325906+08:00",
+  "total_titles_processed": 638,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 5,
+      "match_count": 7,
       "titles": [
         {
           "title": "伊朗总统警告特朗普：攻击哈梅内伊将引发全面战争",
           "url": "https://news.ifeng.com/c/8q1bdYC7EP7",
           "source": "凤凰网",
           "ranks": [
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时31分 ~ 07时24分]"
+          "appearance_count": 12,
+          "time_info": "[00时31分 ~ 10时09分]"
         },
         {
           "title": "世界周刊之伊朗危机",
@@ -26,11 +27,12 @@
             11,
             26,
             25,
-            14
+            14,
+            22
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时21分 ~ 07时24分]"
+          "appearance_count": 8,
+          "time_info": "[01时21分 ~ 10时09分]"
         },
         {
           "title": "伊朗外交部：美国干涉应为美伊关系紧张负责",
@@ -70,6 +72,28 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时28分 ~ 06时25分]"
+        },
+        {
+          "title": "伊朗：将追究特朗普等人责任",
+          "url": "https://news.ifeng.com/c/8q2B9XoMclS",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时09分"
+        },
+        {
+          "title": "伊朗总统：袭击最高领袖等同全面战争",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E6%80%BB%E7%BB%9F%EF%BC%9A%E8%A2%AD%E5%87%BB%E6%9C%80%E9%AB%98%E9%A2%86%E8%A2%96%E7%AD%89%E5%90%8C%E5%85%A8%E9%9D%A2%E6%88%98%E4%BA%89",
+          "source": "百度热搜",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时09分"
         }
       ]
     },
@@ -85,8 +109,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时31分 ~ 07时24分]"
+          "appearance_count": 12,
+          "time_info": "[00时31分 ~ 10时09分]"
         },
         {
           "title": "翁家翌谈OpenAI模型跃迁",
@@ -99,6 +123,34 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时34分 ~ 03时20分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "金价波动",
+          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7%E6%B3%A2%E5%8A%A8&t=31&band_rank=7&Refer=top",
+          "source": "微博",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时09分"
+        },
+        {
+          "title": "金价",
+          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=21&Refer=top",
+          "source": "微博",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时09分"
         }
       ]
     },
@@ -147,8 +199,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时31分 ~ 07时24分]"
+          "appearance_count": 12,
+          "time_info": "[00时31分 ~ 10时09分]"
         }
       ]
     },
