@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-19T14:46:46.886433+08:00",
-  "total_titles_processed": 986,
+  "generated_at": "2026-01-19T15:33:19.393094+08:00",
+  "total_titles_processed": 1068,
   "failed_sources": [],
   "trends": [
     {
@@ -62,6 +62,20 @@
           "time_info": "[03时20分 ~ 07时24分]"
         },
         {
+          "title": "一图看懂｜从中产跌落到空难激增：美国制裁如何重创伊朗？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32411977",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            15,
+            14,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时15分 ~ 15时33分]"
+        },
+        {
           "title": "伊朗总统佩泽希齐扬通过社交平台表示，任何对伊朗最高领袖哈梅内伊的攻击都将引发全面战争。",
           "url": "https://flash.jin10.com/detail/20260119040711327800",
           "source": "金十数据",
@@ -85,19 +99,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[10时09分 ~ 13时35分]"
-        },
-        {
-          "title": "一图看懂｜从中产跌落到空难激增：美国制裁如何重创伊朗？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32411977",
-          "source": "澎湃新闻",
-          "ranks": [
-            16,
-            15,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时15分 ~ 14时46分]"
         },
         {
           "title": "伊朗：将追究特朗普等人责任",
@@ -137,7 +138,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时46分"
         },
@@ -148,7 +149,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时46分"
         }
@@ -255,11 +256,12 @@
           "ranks": [
             6,
             5,
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时31分 ~ 14时46分]"
+          "appearance_count": 16,
+          "time_info": "[00时31分 ~ 15时33分]"
         }
       ]
     }
