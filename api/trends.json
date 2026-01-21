@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-21T12:08:54.586169+08:00",
-  "total_titles_processed": 1013,
+  "generated_at": "2026-01-21T13:34:03.908420+08:00",
+  "total_titles_processed": 1141,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
         {
           "title": "美股指集体低开，纳指跌1.6%，日债引领全球国债抛售潮，黄金一度突破4750美元",
@@ -51,8 +51,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时28分 ~ 12时08分]"
+          "appearance_count": 5,
+          "time_info": "[07时28分 ~ 13时34分]"
         },
         {
           "title": "美股收盘：关税阴影再度笼罩市场 三大指数集体大跌 纳指跌超2%",
@@ -64,8 +64,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时28分 ~ 12时08分]"
+          "appearance_count": 5,
+          "time_info": "[07时28分 ~ 13时34分]"
         },
         {
           "title": "【早报】欧美股市齐跌，英伟达、特斯拉跌逾4%；近期多家银行卫星上天",
@@ -76,8 +76,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时06分 ~ 12时08分]"
+          "appearance_count": 4,
+          "time_info": "[10时06分 ~ 13时34分]"
         },
         {
           "title": "（美股）费城金银指数收涨5.23%，报415.65点，美股长周末归来跳空高开、全天持续高位窄幅震荡。 （全球时段）纽约证交所ARCA金矿开采商指数涨4.65%，报2912.14点，继续创收盘历史新高，北京时间22:30美股开盘之前大致持稳于2780点附近，随后跳空走高至2880点一线并持续高位窄幅震荡。 （美股）原材料指数收涨0.42%，（美股）金属与矿业指数收涨0.96%。",
@@ -138,6 +138,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时28分 ~ 07时28分]"
+        },
+        {
+          "title": "美股存储概念股齐刷新高！闪迪暴涨10% 投行大幅上调目标价",
+          "url": "https://www.cls.cn/detail/2264507",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时33分 ~ 13时34分]"
         },
         {
           "title": "全球科技股指数ETF收跌将近3%，领跌美股行业ETF",
@@ -227,6 +238,29 @@
           "time_info": "[00时41分 ~ 10时06分]"
         },
         {
+          "title": "国际金价逼近 4700 美元，国内金饰品克价迈向 1500 元，这意味着什么？",
+          "url": "https://www.zhihu.com/question/1996659800252118065",
+          "source": "知乎",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时08分 ~ 13时34分]"
+        },
+        {
+          "title": "如何看待深圳水贝市场开始炒 999.9 铜条？为什么金价一涨，其他贵金属都跟着受追捧？",
+          "url": "https://www.zhihu.com/question/1996636704929502107",
+          "source": "知乎",
+          "ranks": [
+            17,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时08分 ~ 13时34分]"
+        },
+        {
           "title": "机构称金价上半年或冲击5000美元",
           "url": "https://flash.jin10.com/detail/20260121064720274800",
           "source": "金十数据",
@@ -249,35 +283,13 @@
           "time_info": "07时28分"
         },
         {
-          "title": "国际金价逼近 4700 美元，国内金饰品克价迈向 1500 元，这意味着什么？",
-          "url": "https://www.zhihu.com/question/1996659800252118065",
-          "source": "知乎",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时08分"
-        },
-        {
-          "title": "如何看待深圳水贝市场开始炒 999.9 铜条？为什么金价一涨，其他贵金属都跟着受追捧？",
-          "url": "https://www.zhihu.com/question/1996636704929502107",
-          "source": "知乎",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时08分"
-        },
-        {
           "title": "钻石价格大跌 同期黄金价格涨超400%",
           "url": "https://www.toutiao.com/trending/7596937973166833710/",
           "source": "今日头条",
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时08分"
         },
@@ -299,7 +311,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时08分"
         }
@@ -321,8 +333,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时41分 ~ 12时08分]"
+          "appearance_count": 14,
+          "time_info": "[00时41分 ~ 13时34分]"
         },
         {
           "title": "美债日债领跌！格陵兰危机与财政压力引发全球债市抛售潮",
@@ -334,8 +346,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时41分 ~ 12时08分]"
+          "appearance_count": 14,
+          "time_info": "[00时41分 ~ 13时34分]"
         },
         {
           "title": "丹麦养老基金AkademikerPension拟清仓美债，称美国信用风险“不可忽视”",
@@ -348,8 +360,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[06时27分 ~ 12时08分]"
+          "appearance_count": 7,
+          "time_info": "[06时27分 ~ 13时34分]"
         },
         {
           "title": "30年期美债收益率涨超7.9个基点",
@@ -369,69 +381,15 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时08分"
         }
       ]
     },
     {
-      "keyword_group": "世界杯 欧洲杯 亚洲杯",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "U23 亚洲杯半决赛，中国 vs 越南，如何评价本场比赛？",
-          "url": "https://www.zhihu.com/question/1996942837732827694",
-          "source": "知乎",
-          "ranks": [
-            6,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时44分 ~ 06时28分]"
-        },
-        {
-          "title": "U23 亚洲杯半决赛，国足 3-0 十人越南，首进决赛与日本争冠，如何评价本场比赛？",
-          "url": "https://www.zhihu.com/question/1996942837732827694",
-          "source": "知乎",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时28分 ~ 12时08分]"
-        },
-        {
-          "title": "u23 亚洲杯国足 3：0 击败越南，如何评价这场比赛？",
-          "url": "https://www.zhihu.com/question/1997118983611127419",
-          "source": "知乎",
-          "ranks": [
-            10,
-            12,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[04时15分 ~ 07时28分]"
-        },
-        {
-          "title": "打进决赛！2026 年 U23 亚洲杯半决赛 U23 国足 3:0 战胜越南 U23, 如何评价本场比赛？",
-          "url": "https://www.zhihu.com/question/1997118334769071695",
-          "source": "知乎",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时15分 ~ 06时28分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "chatgpt openai",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "马斯克建议：不要让你的亲人使用ChatGPT",
@@ -457,6 +415,17 @@
           "time_info": "01时36分"
         },
         {
+          "title": "盖茨基金会和OpenAI计划投资5000万美元 资助非洲AI医疗",
+          "url": "https://flash.jin10.com/detail/20260121131506452800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时34分"
+        },
+        {
           "title": "马斯克：不要让你的亲人使用 ChatGPT",
           "url": "https://flash.jin10.com/detail/20260121002446496800",
           "source": "金十数据",
@@ -466,6 +435,60 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时42分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "世界杯 欧洲杯 亚洲杯",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "U23 亚洲杯半决赛，国足 3-0 十人越南，首进决赛与日本争冠，如何评价本场比赛？",
+          "url": "https://www.zhihu.com/question/1996942837732827694",
+          "source": "知乎",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时28分 ~ 13时34分]"
+        },
+        {
+          "title": "U23 亚洲杯半决赛，中国 vs 越南，如何评价本场比赛？",
+          "url": "https://www.zhihu.com/question/1996942837732827694",
+          "source": "知乎",
+          "ranks": [
+            6,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[02时44分 ~ 06时28分]"
+        },
+        {
+          "title": "u23 亚洲杯国足 3：0 击败越南，如何评价这场比赛？",
+          "url": "https://www.zhihu.com/question/1997118983611127419",
+          "source": "知乎",
+          "ranks": [
+            10,
+            12,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[04时15分 ~ 07时28分]"
+        },
+        {
+          "title": "打进决赛！2026 年 U23 亚洲杯半决赛 U23 国足 3:0 战胜越南 U23, 如何评价本场比赛？",
+          "url": "https://www.zhihu.com/question/1997118334769071695",
+          "source": "知乎",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[04时15分 ~ 06时28分]"
         }
       ]
     },
@@ -587,11 +610,12 @@
           "url": "https://search.bilibili.com/all?keyword=DeepSeek%20Model%201%E6%82%84%E7%84%B6%E7%8E%B0%E8%BA%AB",
           "source": "bilibili 热搜",
           "ranks": [
-            4
+            4,
+            6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时08分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时08分 ~ 13时34分]"
         }
       ]
     },
@@ -627,7 +651,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时08分"
         }
