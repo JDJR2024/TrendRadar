@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-21T10:06:59.205931+08:00",
-  "total_titles_processed": 863,
+  "generated_at": "2026-01-21T12:08:54.586169+08:00",
+  "total_titles_processed": 1013,
   "failed_sources": [],
   "trends": [
     {
@@ -25,11 +25,12 @@
           "ranks": [
             6,
             7,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时41分 ~ 10时06分]"
+          "appearance_count": 12,
+          "time_info": "[00时41分 ~ 12时08分]"
         },
         {
           "title": "格陵兰引发关税战风险，美股债休市，欧股重创，人民币升破6.96，金银新高",
@@ -50,8 +51,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时28分 ~ 10时06分]"
+          "appearance_count": 3,
+          "time_info": "[07时28分 ~ 12时08分]"
         },
         {
           "title": "美股收盘：关税阴影再度笼罩市场 三大指数集体大跌 纳指跌超2%",
@@ -59,22 +60,24 @@
           "source": "财联社热门",
           "ranks": [
             5,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时28分 ~ 10时06分]"
+          "appearance_count": 3,
+          "time_info": "[07时28分 ~ 12时08分]"
         },
         {
           "title": "【早报】欧美股市齐跌，英伟达、特斯拉跌逾4%；近期多家银行卫星上天",
           "url": "https://www.cls.cn/detail/2264320",
           "source": "财联社热门",
           "ranks": [
-            2
+            2,
+            1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时06分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时06分 ~ 12时08分]"
         },
         {
           "title": "（美股）费城金银指数收涨5.23%，报415.65点，美股长周末归来跳空高开、全天持续高位窄幅震荡。 （全球时段）纽约证交所ARCA金矿开采商指数涨4.65%，报2912.14点，继续创收盘历史新高，北京时间22:30美股开盘之前大致持稳于2780点附近，随后跳空走高至2880点一线并持续高位窄幅震荡。 （美股）原材料指数收涨0.42%，（美股）金属与矿业指数收涨0.96%。",
@@ -196,7 +199,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 5,
+      "match_count": 9,
       "titles": [
         {
           "title": "格陵兰岛争端为啥会推高金价",
@@ -246,21 +249,65 @@
           "time_info": "07时28分"
         },
         {
+          "title": "国际金价逼近 4700 美元，国内金饰品克价迈向 1500 元，这意味着什么？",
+          "url": "https://www.zhihu.com/question/1996659800252118065",
+          "source": "知乎",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时08分"
+        },
+        {
+          "title": "如何看待深圳水贝市场开始炒 999.9 铜条？为什么金价一涨，其他贵金属都跟着受追捧？",
+          "url": "https://www.zhihu.com/question/1996636704929502107",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时08分"
+        },
+        {
+          "title": "钻石价格大跌 同期黄金价格涨超400%",
+          "url": "https://www.toutiao.com/trending/7596937973166833710/",
+          "source": "今日头条",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时08分"
+        },
+        {
           "title": "金价突破4800美元",
           "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E7%AA%81%E7%A0%B44800%E7%BE%8E%E5%85%83%23&t=31&band_rank=18&Refer=top",
           "source": "微博",
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时06分"
+        },
+        {
+          "title": "金十图示：2026年01月21日（周三）上海金早盘价为1081.52元/克，较国际金价(1080.9元/克)，高0.62元/克",
+          "url": "https://flash.jin10.com/detail/20260121112633290800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时08分"
         }
       ]
     },
     {
       "keyword_group": "美债",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "贝森特“安抚”市场：欧洲抛售美债是“虚假叙事”，最早下周公布新美联储主席",
@@ -274,8 +321,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时41分 ~ 10时06分]"
+          "appearance_count": 12,
+          "time_info": "[00时41分 ~ 12时08分]"
         },
         {
           "title": "美债日债领跌！格陵兰危机与财政压力引发全球债市抛售潮",
@@ -287,8 +334,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时41分 ~ 10时06分]"
+          "appearance_count": 12,
+          "time_info": "[00时41分 ~ 12时08分]"
         },
         {
           "title": "丹麦养老基金AkademikerPension拟清仓美债，称美国信用风险“不可忽视”",
@@ -297,11 +344,12 @@
           "ranks": [
             10,
             8,
-            6
+            6,
+            4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时27分 ~ 10时06分]"
+          "appearance_count": 5,
+          "time_info": "[06时27分 ~ 12时08分]"
         },
         {
           "title": "30年期美债收益率涨超7.9个基点",
@@ -313,6 +361,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时27分"
+        },
+        {
+          "title": "市场分析：投资者正在抛售美元、美债 转而买入黄金",
+          "url": "https://flash.jin10.com/detail/20260121111537191800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时08分"
         }
       ]
     },
@@ -340,8 +399,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时28分 ~ 10时06分]"
+          "appearance_count": 3,
+          "time_info": "[07时28分 ~ 12时08分]"
         },
         {
           "title": "u23 亚洲杯国足 3：0 击败越南，如何评价这场比赛？",
@@ -520,6 +579,23 @@
       ]
     },
     {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "DeepSeek Model 1悄然现身",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%20Model%201%E6%82%84%E7%84%B6%E7%8E%B0%E8%BA%AB",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时08分"
+        }
+      ]
+    },
+    {
       "keyword_group": "谷歌 google gemini",
       "match_count": 1,
       "titles": [
@@ -537,6 +613,23 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时41分 ~ 07时28分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "黄金",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "金十图示：2026年01月21日（周三）今日黄金饰品价格对比",
+          "url": "https://flash.jin10.com/detail/20260121115138760800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时08分"
         }
       ]
     }
