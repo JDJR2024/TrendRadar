@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-23T13:33:09.378759+08:00",
-  "total_titles_processed": 1161,
+  "generated_at": "2026-01-23T14:42:19.586042+08:00",
+  "total_titles_processed": 1282,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时26分 ~ 13时33分]"
+          "appearance_count": 8,
+          "time_info": "[07时26分 ~ 14时42分]"
         },
         {
           "title": "存储“涨飞”！“美股最强”闪迪涨超10%，美光、西部数据、希捷科技等全线大涨",
@@ -216,7 +216,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 8,
+      "match_count": 10,
       "titles": [
         {
           "title": "被误解的“渗透”和被低估的韧性：伊朗如何令各种“崩溃论”破产",
@@ -234,16 +234,28 @@
           "time_info": "[00时41分 ~ 07时27分]"
         },
         {
+          "title": "美国正调集重兵前往伊朗",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%9B%BD%E6%AD%A3%E8%B0%83%E9%9B%86%E9%87%8D%E5%85%B5%E5%89%8D%E5%BE%80%E4%BC%8A%E6%9C%97",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时42分"
+        },
+        {
           "title": "以媒称美近日或袭伊朗",
           "url": "https://www.douyin.com/hot/2376219",
           "source": "抖音",
           "ranks": [
             16,
-            10
+            10,
+            17
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时03分 ~ 13时33分]"
+          "appearance_count": 5,
+          "time_info": "[10时03分 ~ 14时42分]"
         },
         {
           "title": "美国总统特朗普：我曾（向伊朗当局）警告称如果继续执行处决美国将打击伊朗，德黑兰随后取消了处决。",
@@ -288,6 +300,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时29分"
+        },
+        {
+          "title": "美军对伊朗开战进入倒计时了吗",
+          "url": "https://www.toutiao.com/trending/7598386191951466003/",
+          "source": "今日头条",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时42分"
         },
         {
           "title": "伊朗议长称该国所有城市已恢复和平",
@@ -605,11 +628,12 @@
           "ranks": [
             18,
             20,
-            19
+            19,
+            17
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时03分 ~ 13时33分]"
+          "appearance_count": 6,
+          "time_info": "[10时03分 ~ 14时42分]"
         },
         {
           "title": "金十图示：2026年01月23日（周五）今日黄金饰品价格对比",
@@ -618,7 +642,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时33分"
         }
