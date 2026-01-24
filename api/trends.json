@@ -1,8 +1,212 @@
 {
-  "generated_at": "2026-01-24T10:00:00.061094+08:00",
-  "total_titles_processed": 723,
+  "generated_at": "2026-01-24T11:42:50.146438+08:00",
+  "total_titles_processed": 833,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "伊朗",
+      "match_count": 16,
+      "titles": [
+        {
+          "title": "外交部回应美调重兵前往伊朗",
+          "url": "https://www.douyin.com/hot/2377210",
+          "source": "抖音",
+          "ranks": [
+            5,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 14,
+          "time_info": "[00时37分 ~ 11时42分]"
+        },
+        {
+          "title": "美国正调集重兵前往伊朗",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%9B%BD%E6%AD%A3%E8%B0%83%E9%9B%86%E9%87%8D%E5%85%B5%E5%89%8D%E5%BE%80%E4%BC%8A%E6%9C%97",
+          "source": "bilibili 热搜",
+          "ranks": [
+            20,
+            24,
+            10,
+            25,
+            23,
+            4,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时37分 ~ 07时26分]"
+        },
+        {
+          "title": "外交部回应美调重兵前往伊朗：希望各方珍惜和平",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32448676",
+          "source": "澎湃新闻",
+          "ranks": [
+            6,
+            7,
+            9,
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 14,
+          "time_info": "[00时37分 ~ 11时42分]"
+        },
+        {
+          "title": "中方回应美国调重兵前往伊朗",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E7%BE%8E%E5%9B%BD%E8%B0%83%E9%87%8D%E5%85%B5%E5%89%8D%E5%BE%80%E4%BC%8A%E6%9C%97",
+          "source": "百度热搜",
+          "ranks": [
+            10,
+            6,
+            7,
+            8,
+            9,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[00时37分 ~ 10时00分]"
+        },
+        {
+          "title": "伊朗官员：伊朗军队已做好应对最坏情况的准备",
+          "url": "https://flash.jin10.com/detail/20260124104315512800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时42分"
+        },
+        {
+          "title": "伊朗：任何形式的攻击都将被视作对伊“全面战争”",
+          "url": "https://wallstreetcn.com/livenews/3043214",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时42分"
+        },
+        {
+          "title": "伊朗国际互联网服务将于未来24小时内全面恢复。",
+          "url": "https://flash.jin10.com/detail/20260124032228476800",
+          "source": "金十数据",
+          "ranks": [
+            10,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[04时32分 ~ 10时00分]"
+        },
+        {
+          "title": "美国宣布对与伊朗相关实体及油轮实施新一轮制裁",
+          "url": "https://flash.jin10.com/detail/20260123235740711800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时37分 ~ 01时31分]"
+        },
+        {
+          "title": "联合国人权理事会通过一项动议，延长对伊朗的调查，并呼吁就抗议活动展开紧急调查。",
+          "url": "https://flash.jin10.com/detail/20260124005640006800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时31分 ~ 02时41分]"
+        },
+        {
+          "title": "特朗普调重兵赴中东，伊朗：手指已放扳机上",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32448619",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时59分 ~ 11时42分]"
+        },
+        {
+          "title": "美国对伊朗又一轮新制裁 制裁伊朗相关油轮",
+          "url": "https://wallstreetcn.com/livenews/3043042",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时37分 ~ 01时31分]"
+        },
+        {
+          "title": "伊朗电视台现场展示自产无人机 曾在以伊冲突中投入使用",
+          "url": "https://wallstreetcn.com/livenews/3043187",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时00分 ~ 11时42分]"
+        },
+        {
+          "title": "伊朗官员：伊朗军队已做好应对最坏情况的准备",
+          "url": "https://news.ifeng.com/c/8qAfoQVeV7o",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时42分"
+        },
+        {
+          "title": "伊朗官员：伊朗军队已做好应对最坏情况的准备",
+          "url": "https://wallstreetcn.com/livenews/3043208",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时42分"
+        },
+        {
+          "title": "美国正调遣重兵前往伊朗，伊朗军方警告：“随时准备扣动扳机”",
+          "url": "https://wallstreetcn.com/livenews/3043184",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时00分"
+        },
+        {
+          "title": "伊朗媒体：互联网服务可能在未来24小时内全面恢复",
+          "url": "https://wallstreetcn.com/livenews/3043173",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时00分"
+        }
+      ]
+    },
     {
       "keyword_group": "美股",
       "match_count": 12,
@@ -27,8 +231,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时26分 ~ 10时00分]"
+          "appearance_count": 4,
+          "time_info": "[07时26分 ~ 11时42分]"
         },
         {
           "title": "Sable Offshore（SOC）美股下跌13%。",
@@ -43,6 +247,18 @@
           "time_info": "[03时28分 ~ 07时26分]"
         },
         {
+          "title": "美股收盘：三大指数涨跌不一 纳指小幅上涨 英特尔暴跌17%",
+          "url": "https://www.cls.cn/detail/2268496",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时26分 ~ 11时42分]"
+        },
+        {
           "title": "明晟公司（MSCI）新兴市场股票指数涨0.4%，创历史新高，连续第五个交易日上涨，创2025年5月份以来最长连涨天数。 阿里巴巴、台积电、MediaTek Inc.等亚洲科技股贡献突出。 2025年迄今，指数累计上涨大约7.0%，同期标普500指数累涨约1%。 拉美股市周五上涨，地区指数涨约1.3%，今年迄今累计上涨将近14%，MSCI新兴市场拉美股票指数创2018年以来收盘新高。巴西基准股指周五领涨，本周涨约8.7%。",
           "url": "https://wallstreetcn.com/livenews/3043162",
           "source": "华尔街见闻-快讯",
@@ -52,18 +268,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时26分"
-        },
-        {
-          "title": "美股收盘：三大指数涨跌不一 纳指小幅上涨 英特尔暴跌17%",
-          "url": "https://www.cls.cn/detail/2268496",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时26分 ~ 10时00分]"
         },
         {
           "title": "（美股）费城金银指数收涨1.97%，报434.46点，本周累上涨9.99%，整体持续走高。 （全球时段）纽约证交所ARCA金矿开采商指数涨2.38%，报3039.09点，本周累涨10.09%。 （美股）原材料指数收涨1.26%，报265.28点，本周累涨5.18%。 （美股）金属与矿业指数收涨1.91%，报252.45点，本周累涨4.36%。",
@@ -151,159 +355,78 @@
       ]
     },
     {
-      "keyword_group": "伊朗",
-      "match_count": 12,
+      "keyword_group": "以色列",
+      "match_count": 6,
       "titles": [
         {
-          "title": "外交部回应美调重兵前往伊朗",
-          "url": "https://www.douyin.com/hot/2377210",
-          "source": "抖音",
-          "ranks": [
-            5,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时37分 ~ 10时00分]"
-        },
-        {
-          "title": "美国正调集重兵前往伊朗",
-          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%9B%BD%E6%AD%A3%E8%B0%83%E9%9B%86%E9%87%8D%E5%85%B5%E5%89%8D%E5%BE%80%E4%BC%8A%E6%9C%97",
-          "source": "bilibili 热搜",
-          "ranks": [
-            20,
-            24,
-            10,
-            25,
-            23,
-            4,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时37分 ~ 07时26分]"
-        },
-        {
-          "title": "外交部回应美调重兵前往伊朗：希望各方珍惜和平",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32448676",
-          "source": "澎湃新闻",
-          "ranks": [
-            6,
-            7,
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时37分 ~ 10时00分]"
-        },
-        {
-          "title": "中方回应美国调重兵前往伊朗",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E7%BE%8E%E5%9B%BD%E8%B0%83%E9%87%8D%E5%85%B5%E5%89%8D%E5%BE%80%E4%BC%8A%E6%9C%97",
-          "source": "百度热搜",
-          "ranks": [
-            10,
-            6,
-            7,
-            8,
-            9,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时37分 ~ 10时00分]"
-        },
-        {
-          "title": "伊朗国际互联网服务将于未来24小时内全面恢复。",
-          "url": "https://flash.jin10.com/detail/20260124032228476800",
-          "source": "金十数据",
-          "ranks": [
-            10,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[04时32分 ~ 10时00分]"
-        },
-        {
-          "title": "美国宣布对与伊朗相关实体及油轮实施新一轮制裁",
-          "url": "https://flash.jin10.com/detail/20260123235740711800",
+          "title": "土耳其外交部长：有迹象表明以色列仍在寻求攻击伊朗。",
+          "url": "https://flash.jin10.com/detail/20260124030711591800",
           "source": "金十数据",
           "ranks": [
             1,
-            19
+            16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时37分 ~ 01时31分]"
+          "appearance_count": 5,
+          "time_info": "[03时28分 ~ 07时26分]"
         },
         {
-          "title": "联合国人权理事会通过一项动议，延长对伊朗的调查，并呼吁就抗议活动展开紧急调查。",
-          "url": "https://flash.jin10.com/detail/20260124005640006800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时31分 ~ 02时41分]"
-        },
-        {
-          "title": "美国对伊朗又一轮新制裁 制裁伊朗相关油轮",
-          "url": "https://wallstreetcn.com/livenews/3043042",
+          "title": "美中央司令部司令访问以色列",
+          "url": "https://wallstreetcn.com/livenews/3043149",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            10,
-            27
+            2,
+            14
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时37分 ~ 01时31分]"
+          "time_info": "[06时23分 ~ 07时26分]"
         },
         {
-          "title": "特朗普调重兵赴中东，伊朗：手指已放扳机上",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32448619",
-          "source": "澎湃新闻",
+          "title": "以色列媒体：多国航司部分取消周末赴中东航班",
+          "url": "https://wallstreetcn.com/livenews/3043144",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            18
+            5,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时23分 ~ 07时26分]"
+        },
+        {
+          "title": "美军中央司令部司令将于24日访问以色列",
+          "url": "https://flash.jin10.com/detail/20260124083235714800",
+          "source": "金十数据",
+          "ranks": [
+            12,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时00分 ~ 11时42分]"
+        },
+        {
+          "title": "土耳其外长：以色列正寻求攻击伊朗",
+          "url": "https://www.toutiao.com/trending/7597748110475542582/",
+          "source": "今日头条",
+          "ranks": [
+            30
           ],
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时59分 ~ 10时00分]"
         },
         {
-          "title": "伊朗电视台现场展示自产无人机 曾在以伊冲突中投入使用",
-          "url": "https://wallstreetcn.com/livenews/3043187",
+          "title": "多名美官员访问以色列 将讨论加沙和伊朗问题",
+          "url": "https://wallstreetcn.com/livenews/3043210",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            15
+            9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时00分"
-        },
-        {
-          "title": "美国正调遣重兵前往伊朗，伊朗军方警告：“随时准备扣动扳机”",
-          "url": "https://wallstreetcn.com/livenews/3043184",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时00分"
-        },
-        {
-          "title": "伊朗媒体：互联网服务可能在未来24小时内全面恢复",
-          "url": "https://wallstreetcn.com/livenews/3043173",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时00分"
+          "time_info": "11时42分"
         }
       ]
     },
@@ -371,70 +494,6 @@
       ]
     },
     {
-      "keyword_group": "以色列",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "土耳其外交部长：有迹象表明以色列仍在寻求攻击伊朗。",
-          "url": "https://flash.jin10.com/detail/20260124030711591800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[03时28分 ~ 07时26分]"
-        },
-        {
-          "title": "美中央司令部司令访问以色列",
-          "url": "https://wallstreetcn.com/livenews/3043149",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时23分 ~ 07时26分]"
-        },
-        {
-          "title": "以色列媒体：多国航司部分取消周末赴中东航班",
-          "url": "https://wallstreetcn.com/livenews/3043144",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时23分 ~ 07时26分]"
-        },
-        {
-          "title": "土耳其外长：以色列正寻求攻击伊朗",
-          "url": "https://www.toutiao.com/trending/7597748110475542582/",
-          "source": "今日头条",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时59分 ~ 10时00分]"
-        },
-        {
-          "title": "美军中央司令部司令将于24日访问以色列",
-          "url": "https://flash.jin10.com/detail/20260124083235714800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时00分"
-        }
-      ]
-    },
-    {
       "keyword_group": "chatgpt openai",
       "match_count": 4,
       "titles": [
@@ -443,11 +502,12 @@
           "url": "https://wallstreetcn.com/livenews/3043198",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            5,
+            20
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时00分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时00分 ~ 11时42分]"
         },
         {
           "title": "OpenAI的CEO Altman计划2月中旬前往印度。（TechCrunch）",
