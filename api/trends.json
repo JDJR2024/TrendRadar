@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-25T05:22:55.962229+08:00",
-  "total_titles_processed": 424,
+  "generated_at": "2026-01-25T06:25:26.299396+08:00",
+  "total_titles_processed": 436,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://wallstreetcn.com/livenews/3043294",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            10,
+            14
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时31分 ~ 05时22分]"
+          "appearance_count": 7,
+          "time_info": "[00时31分 ~ 06时25分]"
         },
         {
           "title": "伊朗国防部：伊朗的导弹防御能力得到加强",
@@ -26,8 +27,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时31分 ~ 05时22分]"
+          "appearance_count": 7,
+          "time_info": "[00时31分 ~ 06时25分]"
         },
         {
           "title": "美国特使赴以会晤内塔尼亚胡 聚焦加沙重建与伊朗局势",
@@ -37,8 +38,8 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时31分 ~ 05时22分]"
+          "appearance_count": 7,
+          "time_info": "[00时31分 ~ 06时25分]"
         },
         {
           "title": "伊朗首都德黑兰现况",
@@ -50,8 +51,8 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时36分 ~ 05时22分]"
+          "appearance_count": 6,
+          "time_info": "[02时36分 ~ 06时25分]"
         },
         {
           "title": "专家：美对伊朗极限施压增加地区风险",
@@ -78,8 +79,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时36分 ~ 05时22分]"
+          "appearance_count": 6,
+          "time_info": "[02时36分 ~ 06时25分]"
         },
         {
           "title": "U23 男足亚洲杯决赛，中国队下半场再丢两球，目前 0:4 落后，如何评价本场比赛？",
@@ -129,8 +130,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时31分 ~ 05时22分]"
+          "appearance_count": 8,
+          "time_info": "[00时31分 ~ 06时25分]"
         },
         {
           "title": "欧洲投资者对美股胃口缩减，长期脱钩或拉开序幕",
@@ -140,8 +141,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时31分 ~ 05时22分]"
+          "appearance_count": 7,
+          "time_info": "[00时31分 ~ 06时25分]"
         },
         {
           "title": "美股收盘：三大指数涨跌不一 纳指小幅上涨 英特尔暴跌17%",
@@ -151,8 +152,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时31分 ~ 05时22分]"
+          "appearance_count": 8,
+          "time_info": "[00时31分 ~ 06时25分]"
         }
       ]
     },
@@ -166,11 +167,12 @@
           "source": "知乎",
           "ranks": [
             9,
-            6
+            6,
+            14
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时31分 ~ 05时22分]"
+          "appearance_count": 8,
+          "time_info": "[00时31分 ~ 06时25分]"
         },
         {
           "title": "金价疯涨的底层逻辑",
@@ -216,8 +218,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时31分 ~ 05时22分]"
+          "appearance_count": 8,
+          "time_info": "[00时31分 ~ 06时25分]"
         }
       ]
     }
