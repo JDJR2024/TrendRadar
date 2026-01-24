@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-24T12:39:43.546312+08:00",
-  "total_titles_processed": 897,
+  "generated_at": "2026-01-24T13:27:08.031528+08:00",
+  "total_titles_processed": 936,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
         {
           "title": "外交部回应美调重兵前往伊朗",
@@ -14,11 +14,12 @@
           "ranks": [
             5,
             2,
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时37分 ~ 12时39分]"
+          "appearance_count": 17,
+          "time_info": "[00时37分 ~ 13时27分]"
         },
         {
           "title": "美国正调集重兵前往伊朗",
@@ -49,8 +50,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时37分 ~ 12时39分]"
+          "appearance_count": 17,
+          "time_info": "[00时37分 ~ 13时27分]"
         },
         {
           "title": "中方回应美国调重兵前往伊朗",
@@ -74,11 +75,25 @@
           "source": "金十数据",
           "ranks": [
             1,
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时42分 ~ 12时39分]"
+          "appearance_count": 3,
+          "time_info": "[11时42分 ~ 13时27分]"
+        },
+        {
+          "title": "特朗普调重兵赴中东，伊朗：手指已放扳机上",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32448619",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            19,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时59分 ~ 13时27分]"
         },
         {
           "title": "伊朗国际互联网服务将于未来24小时内全面恢复。",
@@ -105,6 +120,19 @@
           "time_info": "[00时37分 ~ 01时31分]"
         },
         {
+          "title": "伊朗：任何形式的攻击都将被视作对伊“全面战争”",
+          "url": "https://wallstreetcn.com/livenews/3043214",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            13,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时42分 ~ 13时27分]"
+        },
+        {
           "title": "联合国人权理事会通过一项动议，延长对伊朗的调查，并呼吁就抗议活动展开紧急调查。",
           "url": "https://flash.jin10.com/detail/20260124005640006800",
           "source": "金十数据",
@@ -117,30 +145,6 @@
           "time_info": "[01时31分 ~ 02时41分]"
         },
         {
-          "title": "伊朗：任何形式的攻击都将被视作对伊“全面战争”",
-          "url": "https://wallstreetcn.com/livenews/3043214",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时42分 ~ 12时39分]"
-        },
-        {
-          "title": "特朗普调重兵赴中东，伊朗：手指已放扳机上",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32448619",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时59分 ~ 12时39分]"
-        },
-        {
           "title": "伊朗官员：伊朗军队已做好应对最坏情况的准备",
           "url": "https://news.ifeng.com/c/8qAfoQVeV7o",
           "source": "凤凰网",
@@ -148,8 +152,21 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时42分 ~ 12时39分]"
+          "appearance_count": 4,
+          "time_info": "[11时42分 ~ 13时27分]"
+        },
+        {
+          "title": "伊朗官员：伊朗军队已做好应对最坏情况的准备",
+          "url": "https://wallstreetcn.com/livenews/3043208",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            19,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时42分 ~ 13时27分]"
         },
         {
           "title": "美国对伊朗又一轮新制裁 制裁伊朗相关油轮",
@@ -164,18 +181,6 @@
           "time_info": "[00时37分 ~ 01时31分]"
         },
         {
-          "title": "伊朗官员：伊朗军队已做好应对最坏情况的准备",
-          "url": "https://wallstreetcn.com/livenews/3043208",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时42分 ~ 12时39分]"
-        },
-        {
           "title": "伊朗电视台现场展示自产无人机 曾在以伊冲突中投入使用",
           "url": "https://wallstreetcn.com/livenews/3043187",
           "source": "华尔街见闻-快讯",
@@ -186,6 +191,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时00分 ~ 11时42分]"
+        },
+        {
+          "title": "特朗普：美国正调集重兵前往伊朗，许多舰艇正向伊朗行进",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32448442",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时26分 ~ 13时27分]"
         },
         {
           "title": "美国正调遣重兵前往伊朗，伊朗军方警告：“随时准备扣动扳机”",
@@ -216,6 +232,18 @@
       "match_count": 12,
       "titles": [
         {
+          "title": "美股盘整静待下周考验，英特尔暴跌18%，美元跌金属狂欢，白银破百、黄金逼近5000美元",
+          "url": "https://wallstreetcn.com/articles/3763993",
+          "source": "华尔街见闻",
+          "ranks": [
+            3,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[07时26分 ~ 13时27分]"
+        },
+        {
           "title": "地缘风险仍未消散，美股周线承压，英特尔跌14%，美元遭遇半年来最差一周，纽约期银突破100美元，创历史新高",
           "url": "https://wallstreetcn.com/articles/3763993",
           "source": "华尔街见闻",
@@ -227,28 +255,17 @@
           "time_info": "[00时37分 ~ 04时32分]"
         },
         {
-          "title": "美股盘整静待下周考验，英特尔暴跌18%，美元跌金属狂欢，白银破百、黄金逼近5000美元",
-          "url": "https://wallstreetcn.com/articles/3763993",
-          "source": "华尔街见闻",
-          "ranks": [
-            3,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时26分 ~ 12时39分]"
-        },
-        {
           "title": "美股收盘：三大指数涨跌不一 纳指小幅上涨 英特尔暴跌17%",
           "url": "https://www.cls.cn/detail/2268496",
           "source": "财联社热门",
           "ranks": [
             11,
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时26分 ~ 12时39分]"
+          "appearance_count": 7,
+          "time_info": "[07时26分 ~ 13时27分]"
         },
         {
           "title": "Sable Offshore（SOC）美股下跌13%。",
@@ -405,11 +422,12 @@
           "ranks": [
             12,
             17,
-            20
+            20,
+            21
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时00分 ~ 12时39分]"
+          "appearance_count": 4,
+          "time_info": "[10时00分 ~ 13时27分]"
         },
         {
           "title": "多名美官员访问以色列 将讨论加沙和伊朗问题",
@@ -417,11 +435,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             9,
-            17
+            17,
+            21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时42分 ~ 12时39分]"
+          "appearance_count": 3,
+          "time_info": "[11时42分 ~ 13时27分]"
         },
         {
           "title": "土耳其外长：以色列正寻求攻击伊朗",
