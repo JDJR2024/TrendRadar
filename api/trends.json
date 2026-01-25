@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-26T05:24:31.364037+08:00",
-  "total_titles_processed": 404,
+  "generated_at": "2026-01-26T06:26:16.471542+08:00",
+  "total_titles_processed": 427,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时32分 ~ 05时24分]"
+          "appearance_count": 9,
+          "time_info": "[00时32分 ~ 06时26分]"
         },
         {
           "title": "波斯湾的“极限施压”：美国为何总对伊朗“开剧场”？",
@@ -26,8 +26,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时32分 ~ 05时24分]"
+          "appearance_count": 9,
+          "time_info": "[00时32分 ~ 06时26分]"
         },
         {
           "title": "伊朗官员称伊武装力量已进入全面戒备状态",
@@ -35,11 +35,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             6,
-            11
+            11,
+            23
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时32分 ~ 05时24分]"
+          "appearance_count": 7,
+          "time_info": "[00时32分 ~ 06时26分]"
         },
         {
           "title": "伊朗称在多地抓获数百名与近期骚乱有关人员",
@@ -47,11 +48,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             7,
-            12
+            12,
+            24
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时32分 ~ 05时24分]"
+          "appearance_count": 7,
+          "time_info": "[00时32分 ~ 06时26分]"
         },
         {
           "title": "伊朗官员称伊武装力量已进入全面戒备状态",
@@ -92,11 +94,12 @@
           "ranks": [
             9,
             16,
-            25
+            25,
+            30
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时32分 ~ 05时24分]"
+          "appearance_count": 7,
+          "time_info": "[00时32分 ~ 06时26分]"
         },
         {
           "title": "拉法口岸开放在即，消息人士：以色列欲限流确保“出多进少”",
@@ -107,8 +110,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时36分 ~ 05时24分]"
+          "appearance_count": 7,
+          "time_info": "[02时36分 ~ 06时26分]"
         },
         {
           "title": "以色列军队：我们打击了在黎巴嫩南部一处武器制造基地活动的真主党成员。",
@@ -127,11 +130,12 @@
           "url": "https://flash.jin10.com/detail/20260126044307556800",
           "source": "金十数据",
           "ranks": [
-            6
+            6,
+            11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时24分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时24分 ~ 06时26分]"
         }
       ]
     },
@@ -163,11 +167,12 @@
           "ranks": [
             8,
             15,
-            24
+            24,
+            29
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时32分 ~ 05时24分]"
+          "appearance_count": 7,
+          "time_info": "[00时32分 ~ 06时26分]"
         }
       ]
     }
