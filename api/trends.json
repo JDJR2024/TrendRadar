@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-26T01:22:42.771264+08:00",
-  "total_titles_processed": 337,
+  "generated_at": "2026-01-26T02:37:00.982881+08:00",
+  "total_titles_processed": 356,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时32分 ~ 01时22分]"
+          "appearance_count": 4,
+          "time_info": "[00时32分 ~ 02时37分]"
         },
         {
           "title": "波斯湾的“极限施压”：美国为何总对伊朗“开剧场”？",
@@ -26,8 +26,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时32分 ~ 01时22分]"
+          "appearance_count": 4,
+          "time_info": "[00时32分 ~ 02时37分]"
         },
         {
           "title": "伊朗官员称伊武装力量已进入全面戒备状态",
@@ -37,8 +37,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时32分 ~ 01时22分]"
+          "appearance_count": 3,
+          "time_info": "[00时32分 ~ 02时37分]"
         },
         {
           "title": "伊朗称在多地抓获数百名与近期骚乱有关人员",
@@ -48,8 +48,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时32分 ~ 01时22分]"
+          "appearance_count": 3,
+          "time_info": "[00时32分 ~ 02时37分]"
         },
         {
           "title": "伊朗官员称伊武装力量已进入全面戒备状态",
@@ -59,8 +59,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时32分 ~ 01时22分]"
+          "appearance_count": 3,
+          "time_info": "[00时32分 ~ 02时37分]"
         },
         {
           "title": "伊朗通信部门：尚未接到恢复国际互联网连接的指令",
@@ -70,14 +70,14 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时32分 ~ 01时22分]"
+          "appearance_count": 3,
+          "time_info": "[00时32分 ~ 02时37分]"
         }
       ]
     },
     {
       "keyword_group": "以色列",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "美国总统特使威特科夫：美国总统特朗普与以色列总理内塔尼亚胡就加沙举行的会谈富有建设性且积极。",
@@ -87,8 +87,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时32分 ~ 01时22分]"
+          "appearance_count": 3,
+          "time_info": "[00时32分 ~ 02时37分]"
         },
         {
           "title": "以色列军队：我们打击了在黎巴嫩南部一处武器制造基地活动的真主党成员。",
@@ -98,8 +98,19 @@
             21
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时32分 ~ 02时37分]"
+        },
+        {
+          "title": "拉法口岸开放在即，消息人士：以色列欲限流确保“出多进少”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32461534",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时32分 ~ 01时22分]"
+          "time_info": "[02时36分 ~ 02时37分]"
         }
       ]
     },
@@ -115,8 +126,8 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时32分 ~ 01时22分]"
+          "appearance_count": 3,
+          "time_info": "[00时32分 ~ 02时37分]"
         }
       ]
     },
@@ -132,8 +143,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时32分 ~ 01时22分]"
+          "appearance_count": 3,
+          "time_info": "[00时32分 ~ 02时37分]"
         }
       ]
     }
