@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-26T03:21:49.643618+08:00",
-  "total_titles_processed": 365,
+  "generated_at": "2026-01-26T04:31:09.099162+08:00",
+  "total_titles_processed": 381,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时32分 ~ 03时21分]"
+          "appearance_count": 7,
+          "time_info": "[00时32分 ~ 04时31分]"
         },
         {
           "title": "波斯湾的“极限施压”：美国为何总对伊朗“开剧场”？",
@@ -26,8 +26,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时32分 ~ 03时21分]"
+          "appearance_count": 7,
+          "time_info": "[00时32分 ~ 04时31分]"
         },
         {
           "title": "伊朗官员称伊武装力量已进入全面戒备状态",
@@ -37,8 +37,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时32分 ~ 03时21分]"
+          "appearance_count": 5,
+          "time_info": "[00时32分 ~ 04时31分]"
         },
         {
           "title": "伊朗称在多地抓获数百名与近期骚乱有关人员",
@@ -48,30 +48,32 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时32分 ~ 03时21分]"
+          "appearance_count": 5,
+          "time_info": "[00时32分 ~ 04时31分]"
         },
         {
           "title": "伊朗官员称伊武装力量已进入全面戒备状态",
           "url": "https://flash.jin10.com/detail/20260125213838908800",
           "source": "金十数据",
           "ranks": [
-            13
+            13,
+            20
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时32分 ~ 03时21分]"
+          "appearance_count": 5,
+          "time_info": "[00时32分 ~ 04时31分]"
         },
         {
           "title": "伊朗通信部门：尚未接到恢复国际互联网连接的指令",
           "url": "https://flash.jin10.com/detail/20260125212511165800",
           "source": "金十数据",
           "ranks": [
-            14
+            14,
+            21
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时32分 ~ 03时21分]"
+          "appearance_count": 5,
+          "time_info": "[00时32分 ~ 04时31分]"
         }
       ]
     },
@@ -84,33 +86,36 @@
           "url": "https://flash.jin10.com/detail/20260125220223986800",
           "source": "金十数据",
           "ranks": [
-            9
+            9,
+            16
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时32分 ~ 03时21分]"
-        },
-        {
-          "title": "以色列军队：我们打击了在黎巴嫩南部一处武器制造基地活动的真主党成员。",
-          "url": "https://flash.jin10.com/detail/20260125204305443800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时32分 ~ 03时21分]"
+          "appearance_count": 5,
+          "time_info": "[00时32分 ~ 04时31分]"
         },
         {
           "title": "拉法口岸开放在即，消息人士：以色列欲限流确保“出多进少”",
           "url": "https://m.thepaper.cn/newsDetail_forward_32461534",
           "source": "澎湃新闻",
           "ranks": [
-            19
+            19,
+            18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时36分 ~ 03时21分]"
+          "appearance_count": 5,
+          "time_info": "[02时36分 ~ 04时31分]"
+        },
+        {
+          "title": "以色列军队：我们打击了在黎巴嫩南部一处武器制造基地活动的真主党成员。",
+          "url": "https://flash.jin10.com/detail/20260125204305443800",
+          "source": "金十数据",
+          "ranks": [
+            21,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时32分 ~ 04时31分]"
         }
       ]
     },
@@ -126,8 +131,8 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时32分 ~ 03时21分]"
+          "appearance_count": 5,
+          "time_info": "[00时32分 ~ 04时31分]"
         }
       ]
     },
@@ -140,11 +145,12 @@
           "url": "https://flash.jin10.com/detail/20260125221344220800",
           "source": "金十数据",
           "ranks": [
-            8
+            8,
+            15
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时32分 ~ 03时21分]"
+          "appearance_count": 5,
+          "time_info": "[00时32分 ~ 04时31分]"
         }
       ]
     }
