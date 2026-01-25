@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-25T17:27:45.899423+08:00",
-  "total_titles_processed": 980,
+  "generated_at": "2026-01-25T18:27:57.366896+08:00",
+  "total_titles_processed": 1034,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "历史学大佬：特朗普“明抢格陵兰”，是为了“暗度伊朗和乌克兰”",
@@ -18,8 +18,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时32分 ~ 17时27分]"
+          "appearance_count": 6,
+          "time_info": "[13时32分 ~ 18时27分]"
         },
         {
           "title": "伊朗国防部：伊朗的导弹防御能力得到加强",
@@ -96,6 +96,17 @@
           "time_info": "[14时39分 ~ 15时26分]"
         },
         {
+          "title": "伊朗官员：已为最坏情况做好准备",
+          "url": "https://www.toutiao.com/trending/7598489537325023268/",
+          "source": "今日头条",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时27分"
+        },
+        {
           "title": "专家：美对伊朗极限施压增加地区风险",
           "url": "https://www.toutiao.com/trending/7598905967417232939/",
           "source": "今日头条",
@@ -122,8 +133,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[02时36分 ~ 17时27分]"
+          "appearance_count": 17,
+          "time_info": "[02时36分 ~ 18时27分]"
         },
         {
           "title": "U23 男足亚洲杯决赛，中国队下半场再丢两球，目前 0:4 落后，如何评价本场比赛？",
@@ -203,6 +214,19 @@
           "time_info": "[00时31分 ~ 07时25分]"
         },
         {
+          "title": "金价",
+          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=11&Refer=top",
+          "source": "微博",
+          "ranks": [
+            11,
+            17,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时39分 ~ 18时27分]"
+        },
+        {
           "title": "金价波动",
           "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7%E6%B3%A2%E5%8A%A8&t=31&band_rank=10&Refer=top",
           "source": "微博",
@@ -215,19 +239,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[13时32分 ~ 16时33分]"
-        },
-        {
-          "title": "金价",
-          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=11&Refer=top",
-          "source": "微博",
-          "ranks": [
-            11,
-            17,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时39分 ~ 17时27分]"
         },
         {
           "title": "金价疯涨的底层逻辑",
@@ -281,8 +292,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时31分 ~ 17时27分]"
+          "appearance_count": 19,
+          "time_info": "[00时31分 ~ 18时27分]"
         }
       ]
     },
@@ -316,6 +327,34 @@
       ]
     },
     {
+      "keyword_group": "以色列",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "以色列财政部：2025年以色列累计筹资2070亿谢克尔债务。",
+          "url": "https://flash.jin10.com/detail/20260125174215996800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时27分"
+        },
+        {
+          "title": "以色列财政部：公共债务与国内生产总值之比在2025年达到68.6%，高于2024年的67.7%。",
+          "url": "https://flash.jin10.com/detail/20260125173634746800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时27分"
+        }
+      ]
+    },
+    {
       "keyword_group": "黄金",
       "match_count": 1,
       "titles": [
@@ -325,11 +364,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             4,
-            6
+            6,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时33分 ~ 17时27分]"
+          "appearance_count": 3,
+          "time_info": "[16时33分 ~ 18时27分]"
         }
       ]
     },
