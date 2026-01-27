@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-28T03:31:29.364065+08:00",
-  "total_titles_processed": 494,
+  "generated_at": "2026-01-28T04:32:16.318791+08:00",
+  "total_titles_processed": 531,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "以色列",
-      "match_count": 10,
+      "match_count": 15,
       "titles": [
         {
           "title": "以色列女子看电视发现自己死在伊朗",
@@ -17,19 +17,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时36分 ~ 03时31分]"
-        },
-        {
-          "title": "以色列总理内塔尼亚胡：每个人都知道我们目前所处的形势非常敏感和特殊。以色列国最不需要的就是选举，需要的是稳定。",
-          "url": "https://flash.jin10.com/detail/20260128030806979800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时31分"
+          "appearance_count": 8,
+          "time_info": "[00时36分 ~ 04时32分]"
         },
         {
           "title": "以色列女子看电视，发现自己“死”在伊朗，照片出现在以媒报道中",
@@ -39,52 +28,43 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时36分 ~ 03时31分]"
+          "appearance_count": 8,
+          "time_info": "[00时36分 ~ 04时32分]"
         },
         {
-          "title": "以色列总理内塔尼亚胡：我们已为各种情况做好准备。",
-          "url": "https://flash.jin10.com/detail/20260128030759991800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时31分"
-        },
-        {
-          "title": "以色列总理内塔尼亚胡：（就对伊朗进行先发制人打击的可能性）特朗普总统会做出他想做的决定，以色列也会做出本国想做的决定。",
-          "url": "https://flash.jin10.com/detail/20260128030726732800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时31分"
-        },
-        {
-          "title": "以色列总理内塔尼亚胡：以色列将控制从约旦河到地中海沿岸（包括加沙地带）的安全。",
-          "url": "https://flash.jin10.com/detail/20260128030648699800",
+          "title": "内塔尼亚胡称以色列同意“有限开放”拉法口岸",
+          "url": "https://flash.jin10.com/detail/20260128034406166800",
           "source": "金十数据",
           "ranks": [
             4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时31分"
+          "time_info": "04时32分"
         },
         {
-          "title": "以色列总理内塔尼亚胡未否认曾要求特朗普不要攻击伊朗。",
-          "url": "https://flash.jin10.com/detail/20260128030532843800",
+          "title": "以色列总理内塔尼亚胡：每个人都知道我们目前所处的形势非常敏感和特殊。以色列国最不需要的就是选举，需要的是稳定。",
+          "url": "https://flash.jin10.com/detail/20260128030806979800",
           "source": "金十数据",
           "ranks": [
-            5
+            1,
+            19
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时31分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时31分 ~ 04时32分]"
+        },
+        {
+          "title": "以色列总理内塔尼亚胡：我们已为各种情况做好准备。",
+          "url": "https://flash.jin10.com/detail/20260128030759991800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时31分 ~ 04时32分]"
         },
         {
           "title": "以色列军方表示，特种部队已部署到与约旦接壤的边境地区，应对渗透事件。",
@@ -99,6 +79,18 @@
           "time_info": "[02时47分 ~ 03时31分]"
         },
         {
+          "title": "以色列总理内塔尼亚胡：（就对伊朗进行先发制人打击的可能性）特朗普总统会做出他想做的决定，以色列也会做出本国想做的决定。",
+          "url": "https://flash.jin10.com/detail/20260128030726732800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时31分 ~ 04时32分]"
+        },
+        {
           "title": "以色列军方表示，已发现从约旦渗透进入以色列的“疑似渗透者”。",
           "url": "https://flash.jin10.com/detail/20260128022606469800",
           "source": "金十数据",
@@ -111,15 +103,84 @@
           "time_info": "[02时47分 ~ 03时31分]"
         },
         {
+          "title": "以色列总理内塔尼亚胡：以色列将控制从约旦河到地中海沿岸（包括加沙地带）的安全。",
+          "url": "https://flash.jin10.com/detail/20260128030648699800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时31分 ~ 04时32分]"
+        },
+        {
+          "title": "以色列总理内塔尼亚胡未否认曾要求特朗普不要攻击伊朗。",
+          "url": "https://flash.jin10.com/detail/20260128030532843800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时31分 ~ 04时32分]"
+        },
+        {
           "title": "以色列总理内塔尼亚胡：如果伊朗攻击我们，我们将以它从未见过的力量进行反击。",
           "url": "https://flash.jin10.com/detail/20260128024018421800",
           "source": "金十数据",
           "ranks": [
-            11
+            11,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时31分 ~ 04时32分]"
+        },
+        {
+          "title": "以色列总理内塔尼亚胡：拉法口岸将双向开放，我们不会阻止任何人离开。",
+          "url": "https://flash.jin10.com/detail/20260128032628854800",
+          "source": "金十数据",
+          "ranks": [
+            9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时31分"
+          "time_info": "04时32分"
+        },
+        {
+          "title": "以色列总理内塔尼亚胡：今年晚些时候会举行选举，现在举行选举会是个问题。",
+          "url": "https://flash.jin10.com/detail/20260128032559747800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时32分"
+        },
+        {
+          "title": "以色列总理内塔尼亚胡：如果能与沙特达成协议，我会很高兴——假设沙特愿意这样做。",
+          "url": "https://flash.jin10.com/detail/20260128031030951800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时32分"
+        },
+        {
+          "title": "以色列总理内塔尼亚胡：（谈与沙特的和平）任何想要与我们关系正常化的人都不应该加入和支持攻击以色列的团体。",
+          "url": "https://flash.jin10.com/detail/20260128030948803800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时32分"
         }
       ]
     },
@@ -137,8 +198,23 @@
             10
           ],
           "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时36分 ~ 04时32分]"
+        },
+        {
+          "title": "以女子看电视发现自己“死”在伊朗",
+          "url": "https://www.toutiao.com/trending/7599286725097259071/",
+          "source": "今日头条",
+          "ranks": [
+            23,
+            28,
+            20,
+            29,
+            25
+          ],
+          "is_new": false,
           "appearance_count": 6,
-          "time_info": "[00时36分 ~ 03时31分]"
+          "time_info": "[00时36分 ~ 04时32分]"
         },
         {
           "title": "据伊朗伊斯兰共和国通讯社（IRNA）：伊朗总统与沙特王储通话。",
@@ -162,19 +238,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时36分 ~ 01时33分]"
-        },
-        {
-          "title": "以女子看电视发现自己“死”在伊朗",
-          "url": "https://www.toutiao.com/trending/7599286725097259071/",
-          "source": "今日头条",
-          "ranks": [
-            23,
-            28,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时36分 ~ 03时31分]"
         },
         {
           "title": "伊朗总统与沙特王储通电话，讨论地区局势",
@@ -328,8 +391,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时36分 ~ 03时31分]"
+          "appearance_count": 8,
+          "time_info": "[00时36分 ~ 04时32分]"
         },
         {
           "title": "美股部分中概股走势强劲",
@@ -379,8 +442,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时36分 ~ 03时31分]"
+          "appearance_count": 8,
+          "time_info": "[00时36分 ~ 04时32分]"
         },
         {
           "title": "详解DeepSeek新模型OCR2",
@@ -390,8 +453,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时36分 ~ 03时31分]"
+          "appearance_count": 8,
+          "time_info": "[00时36分 ~ 04时32分]"
         },
         {
           "title": "DeepSeek-OCR 2重磅发布：AI学会“人类视觉逻辑”，以因果流解读图片",
@@ -402,8 +465,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时36分 ~ 03时31分]"
+          "appearance_count": 8,
+          "time_info": "[00时36分 ~ 04时32分]"
         }
       ]
     },
@@ -419,8 +482,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时36分 ~ 03时31分]"
+          "appearance_count": 8,
+          "time_info": "[00时36分 ~ 04时32分]"
         },
         {
           "title": "一项新兴市场货币指数连续第四个交易日上涨，彭博追踪的22种发展中市场货币中，有16种兑美元走强。该指数纳入了利率回报因素，随着美元回落，该指数目前处于纪录高位。",
@@ -459,8 +522,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时36分 ~ 03时31分]"
+          "appearance_count": 8,
+          "time_info": "[00时36分 ~ 04时32分]"
         },
         {
           "title": "花旗最新商品展望：牛市情景下，金价6000美元、铜15000、铝剑指4000大关",
@@ -468,11 +531,12 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时46分 ~ 03时31分]"
+          "appearance_count": 5,
+          "time_info": "[02时46分 ~ 04时32分]"
         }
       ]
     }
