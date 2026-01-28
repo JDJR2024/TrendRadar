@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-29T06:33:20.803831+08:00",
-  "total_titles_processed": 710,
+  "generated_at": "2026-01-29T07:31:46.389289+08:00",
+  "total_titles_processed": 781,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 21,
+      "match_count": 23,
       "titles": [
         {
           "title": "特朗普：一支庞大的舰队正前往伊朗",
@@ -15,20 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时44分 ~ 06时33分]"
-        },
-        {
-          "title": "伊朗启动紧急措施“备战”",
-          "url": "https://www.toutiao.com/trending/7599835425266089993/",
-          "source": "今日头条",
-          "ranks": [
-            2,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时44分 ~ 06时33分]"
+          "appearance_count": 11,
+          "time_info": "[00时44分 ~ 07时31分]"
         },
         {
           "title": "特朗普：一支庞大的舰队正前往伊朗",
@@ -39,8 +27,34 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时44分 ~ 06时33分]"
+          "appearance_count": 11,
+          "time_info": "[00时44分 ~ 07时31分]"
+        },
+        {
+          "title": "伊朗启动紧急措施“备战”",
+          "url": "https://www.toutiao.com/trending/7599835425266089993/",
+          "source": "今日头条",
+          "ranks": [
+            2,
+            4,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时44分 ~ 07时31分]"
+        },
+        {
+          "title": "特朗普：一支庞大的舰队正前往伊朗",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32482780",
+          "source": "澎湃新闻",
+          "ranks": [
+            12,
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时44分 ~ 07时31分]"
         },
         {
           "title": "特朗普再施压伊朗：庞大舰队已部署在途 谈判时间所剩无几",
@@ -50,23 +64,12 @@
             7,
             6,
             5,
-            4
+            4,
+            2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时44分 ~ 06时33分]"
-        },
-        {
-          "title": "特朗普：一支庞大的舰队正前往伊朗",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32482780",
-          "source": "澎湃新闻",
-          "ranks": [
-            12,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时44分 ~ 06时33分]"
+          "appearance_count": 11,
+          "time_info": "[00时44分 ~ 07时31分]"
         },
         {
           "title": "解读伊朗多重危机背后逻辑",
@@ -81,8 +84,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时44分 ~ 06时33分]"
+          "appearance_count": 11,
+          "time_info": "[00时44分 ~ 07时31分]"
         },
         {
           "title": "伊朗外长回应美方威胁：伊朗武装力量高度戒备",
@@ -91,9 +94,9 @@
           "ranks": [
             2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时33分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时33分 ~ 07时31分]"
         },
         {
           "title": "伊朗副外长：做好200%的自卫准备",
@@ -102,9 +105,9 @@
           "ranks": [
             3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时33分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时33分 ~ 07时31分]"
         },
         {
           "title": "中国代表：支持伊朗国家稳定，武力解决不了问题",
@@ -113,9 +116,9 @@
           "ranks": [
             4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时33分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时33分 ~ 07时31分]"
         },
         {
           "title": "伊朗总统宣布启动紧急状态",
@@ -152,6 +155,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时44分 ~ 01时37分]"
+        },
+        {
+          "title": "伊朗副外长：做好200%的自卫准备",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E5%89%AF%E5%A4%96%E9%95%BF%EF%BC%9A%E5%81%9A%E5%A5%BD200%25%E7%9A%84%E8%87%AA%E5%8D%AB%E5%87%86%E5%A4%87",
+          "source": "百度热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时31分"
+        },
+        {
+          "title": "特朗普再派舰队施压伊朗",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%86%8D%E6%B4%BE%E8%88%B0%E9%98%9F%E6%96%BD%E5%8E%8B%E4%BC%8A%E6%9C%97",
+          "source": "百度热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时31分"
         },
         {
           "title": "美国国务卿鲁比奥：伊朗的抗议活动可能已经平息，但未来还会再次爆发。",
@@ -256,7 +281,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
         {
           "title": "美股“七巨头”财报即将亮相：投资者该关注哪些要点？",
@@ -268,8 +293,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时44分 ~ 06时33分]"
+          "appearance_count": 11,
+          "time_info": "[00时44分 ~ 07时31分]"
         },
         {
           "title": "美股期指走高 美联储决议来袭 微软、Meta和特斯拉盘后公布财报 | 今夜看点",
@@ -280,8 +305,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时44分 ~ 06时33分]"
+          "appearance_count": 11,
+          "time_info": "[00时44分 ~ 07时31分]"
         },
         {
           "title": "金十图示：2026年01月28日（周三）美股热门股票行情一览（美股盘中）",
@@ -304,6 +329,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时37分"
+        },
+        {
+          "title": "特斯拉美股盘后快速回吐涨幅，该公司称2026年资本开支将超200亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3045885",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时31分"
         },
         {
           "title": "美股三大指数短线波动不大。",
@@ -379,7 +415,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时33分"
         },
@@ -390,7 +426,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时33分"
         },
@@ -412,7 +448,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时33分"
         },
@@ -442,7 +478,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 8,
+      "match_count": 10,
       "titles": [
         {
           "title": "渣打：金价出现任何回调都是买入机会",
@@ -465,8 +501,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时44分 ~ 06时33分]"
+          "appearance_count": 11,
+          "time_info": "[00时44分 ~ 07时31分]"
         },
         {
           "title": "金价波动如何影响实体金店",
@@ -478,11 +514,12 @@
             14,
             24,
             27,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时44分 ~ 06时33分]"
+          "appearance_count": 11,
+          "time_info": "[00时44分 ~ 07时31分]"
         },
         {
           "title": "金价暴涨女子卖300克黄金变现30万",
@@ -492,8 +529,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时44分 ~ 06时33分]"
+          "appearance_count": 11,
+          "time_info": "[00时44分 ~ 07时31分]"
         },
         {
           "title": "黄金价格为何一路猛涨",
@@ -504,8 +541,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时44分 ~ 06时33分]"
+          "appearance_count": 11,
+          "time_info": "[00时44分 ~ 07时31分]"
         },
         {
           "title": "金价波动",
@@ -517,8 +554,19 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[02时44分 ~ 06时33分]"
+          "appearance_count": 8,
+          "time_info": "[02时44分 ~ 07时31分]"
+        },
+        {
+          "title": "渣打：金价任何回调都是买入机会",
+          "url": "https://www.toutiao.com/trending/7600387008329944595/",
+          "source": "今日头条",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时31分"
         },
         {
           "title": "美联储主席鲍威尔：未从金价上涨中解读出太多宏观信息。",
@@ -530,6 +578,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时38分"
+        },
+        {
+          "title": "金价",
+          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=22&Refer=top",
+          "source": "微博",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时31分"
         },
         {
           "title": "金价在鲍威尔新闻发布会结束后刷新历史高位至5340美元上方",
@@ -592,11 +651,12 @@
           "url": "https://wallstreetcn.com/livenews/3045858",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            12
+            12,
+            29
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时33分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时33分 ~ 07时31分]"
         },
         {
           "title": "英国及包括法国和加拿大在内的盟友联合声明：我们强烈谴责以色列当局在东耶路撒冷拆毁近东救济工程处总部的行为。我们呼吁作为联合国成员国的以色列政府停止一切拆除行动。",
@@ -631,11 +691,12 @@
           "url": "https://wallstreetcn.com/livenews/3045867",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            3,
+            20
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时33分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时33分 ~ 07时31分]"
         },
         {
           "title": "谷歌同意就与蜂窝数据处理相关的集体诉讼达成和解协议，谷歌将支付1.35亿美元作为集体诉讼和解的一部分。",
@@ -647,6 +708,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时44分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "一位前OpenAI高级研究员创办了一家新的人工智能初创公司，目标是筹集高达10亿美元的资金。",
+          "url": "https://flash.jin10.com/detail/20260129071859575800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时31分"
+        },
+        {
+          "title": "OpenAI至少从编码初创公司Cline招聘了七名员工。",
+          "url": "https://flash.jin10.com/detail/20260129071311535800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时31分"
         }
       ]
     },
@@ -687,11 +776,12 @@
           "url": "https://wallstreetcn.com/livenews/3045866",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            4,
+            21
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时33分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时33分 ~ 07时31分]"
         },
         {
           "title": "美联储主席鲍威尔：短期内，我们可能会看到一些工作岗位因人工智能技术的应用而被取代，但尚不清楚整体影响。",
