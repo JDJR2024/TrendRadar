@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-30T18:41:06.412982+08:00",
-  "total_titles_processed": 1657,
+  "generated_at": "2026-01-30T19:33:46.102311+08:00",
+  "total_titles_processed": 1752,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 30,
+      "match_count": 32,
       "titles": [
         {
           "title": "伊朗随时准备“扣动扳机”",
@@ -35,6 +35,22 @@
           "time_info": "[00时51分 ~ 12时44分]"
         },
         {
+          "title": "欧盟宣布制裁伊朗官员和实体，将伊斯兰革命卫队列为“恐怖组织”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32492325",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            19,
+            18,
+            17,
+            14,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[14时56分 ~ 19时33分]"
+        },
+        {
           "title": "伊朗被曝将举行实弹军事演习 美政府再次面临部分“停摆” | 环球市场",
           "url": "https://www.cls.cn/detail/2274975",
           "source": "财联社热门",
@@ -46,21 +62,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[10时28分 ~ 16时46分]"
-        },
-        {
-          "title": "欧盟宣布制裁伊朗官员和实体，将伊斯兰革命卫队列为“恐怖组织”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32492325",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            19,
-            18,
-            17,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[14时56分 ~ 18时41分]"
         },
         {
           "title": "打击伊朗的机会窗口未到，特朗普在等什么？",
@@ -110,6 +111,17 @@
           "time_info": "04时37分"
         },
         {
+          "title": "据伊朗媒体：伊朗总统佩泽希齐扬表示，任何对伊朗的攻击都将立即遭到果断回应。佩泽希齐扬在与阿联酋总统的电话交谈中表示，伊朗始终选择通过互动和对话解决问题，不欢迎任何形式的战争。",
+          "url": "https://flash.jin10.com/detail/20260130190228935800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时33分"
+        },
+        {
           "title": "金十数据1月30日讯，美国总统特朗普在Truth Social上置顶了他威胁打击伊朗的帖文。",
           "url": "https://flash.jin10.com/detail/20260130032628040800",
           "source": "金十数据",
@@ -153,8 +165,20 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时40分 ~ 18时41分]"
+          "appearance_count": 3,
+          "time_info": "[18时40分 ~ 19时33分]"
+        },
+        {
+          "title": "曝伊朗4万吨“航母”出动",
+          "url": "https://www.toutiao.com/trending/7601069328506555931/",
+          "source": "今日头条",
+          "ranks": [
+            30,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时40分 ~ 19时33分]"
         },
         {
           "title": "评论员：伊朗数千枚导弹待命迎战",
@@ -204,17 +228,6 @@
           "time_info": "[04时37分 ~ 05时33分]"
         },
         {
-          "title": "曝伊朗4万吨“航母”出动",
-          "url": "https://www.toutiao.com/trending/7601069328506555931/",
-          "source": "今日头条",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时40分 ~ 18时41分]"
-        },
-        {
           "title": "以军被曝正就对伊朗军事行动与美军密切协作",
           "url": "https://flash.jin10.com/detail/20260130161350469800",
           "source": "金十数据",
@@ -232,7 +245,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时41分"
         },
@@ -257,6 +270,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时51分"
+        },
+        {
+          "title": "市场消息：伊朗和阿联酋总统举行通话。",
+          "url": "https://flash.jin10.com/detail/20260130185939508800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时33分"
         },
         {
           "title": "伊朗首都启动战时避难设施建设规划",
@@ -361,7 +385,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 24,
+      "match_count": 25,
       "titles": [
         {
           "title": "金价上涨的第一批受害者出现了",
@@ -458,6 +482,19 @@
           "time_info": "[00时51分 ~ 07时31分]"
         },
         {
+          "title": "金价28分钟内暴跌380美元",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B728%E5%88%86%E9%92%9F%E5%86%85%E6%9A%B4%E8%B7%8C380%E7%BE%8E%E5%85%83%23&t=31&band_rank=22&Refer=top",
+          "source": "微博",
+          "ranks": [
+            22,
+            26,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[15时43分 ~ 19时33分]"
+        },
+        {
           "title": "黄金价格回调开始了吗",
           "url": "https://www.toutiao.com/trending/7600951694344405055/",
           "source": "今日头条",
@@ -470,19 +507,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[14时56分 ~ 18时41分]"
-        },
-        {
-          "title": "金价28分钟内暴跌380美元",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B728%E5%88%86%E9%92%9F%E5%86%85%E6%9A%B4%E8%B7%8C380%E7%BE%8E%E5%85%83%23&t=31&band_rank=22&Refer=top",
-          "source": "微博",
-          "ranks": [
-            22,
-            26,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时43分 ~ 18时41分]"
         },
         {
           "title": "一口气看懂金价涨跌的底层逻辑",
@@ -535,13 +559,24 @@
           "time_info": "[12时44分 ~ 15时44分]"
         },
         {
+          "title": "沃什引爆鹰派预期，商品遭遇黑色星期五，白银跌17%逼近95美元、金价一度跌至4950、单日重挫400美元，美元走强",
+          "url": "https://wallstreetcn.com/articles/3764541",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时33分"
+        },
+        {
           "title": "贵金属集体回调 分析师称金价可能继续下探，白银投机过热",
           "url": "https://flash.jin10.com/detail/20260130182057635800",
           "source": "金十数据",
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时41分"
         },
@@ -587,11 +622,12 @@
           "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E6%9C%89%E6%9C%9B%E6%B6%A8%E8%87%B38500%E7%BE%8E%E5%85%83%23&t=31&band_rank=6&Refer=top",
           "source": "微博",
           "ranks": [
-            6
+            6,
+            15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时40分 ~ 18时41分]"
+          "appearance_count": 3,
+          "time_info": "[18时40分 ~ 19时33分]"
         },
         {
           "title": "金价史诗级大幅震荡",
@@ -663,7 +699,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 20,
+      "match_count": 21,
       "titles": [
         {
           "title": "微软AI支出引发忧虑，股价重挫10%拖累美股大盘，金银新高后一度跳水，铜油走强",
@@ -673,8 +709,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[07时31分 ~ 18时41分]"
+          "appearance_count": 13,
+          "time_info": "[07时31分 ~ 19时33分]"
         },
         {
           "title": "特朗普升级对伊施压，美股指齐跌，微软重挫11%，黄金跳水逼近5320，布油重回70美元",
@@ -825,6 +861,17 @@
           "time_info": "05时33分"
         },
         {
+          "title": "美股上市公司高管密集离场 是落袋为安还是预见危机？",
+          "url": "https://flash.jin10.com/detail/20260130185416724800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时33分"
+        },
+        {
           "title": "金十图示：2026年01月29日（周四）热门中概股行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20260130013040868800",
           "source": "金十数据",
@@ -894,7 +941,7 @@
     },
     {
       "keyword_group": "以色列",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "伊朗：美若动武 伊将打击以色列",
@@ -908,6 +955,17 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[01时41分 ~ 07时31分]"
+        },
+        {
+          "title": "南非宣布以色列临时代办为不受欢迎的人。",
+          "url": "https://flash.jin10.com/detail/20260130190312993800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时33分"
         },
         {
           "title": "以色列安全局局长亲属涉嫌向加沙走私货物",
@@ -1112,7 +1170,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时41分"
         }
