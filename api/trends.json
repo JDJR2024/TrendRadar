@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-30T12:44:47.505314+08:00",
-  "total_titles_processed": 1050,
+  "generated_at": "2026-01-30T13:52:26.293151+08:00",
+  "total_titles_processed": 1141,
   "failed_sources": [],
   "trends": [
     {
@@ -22,6 +22,19 @@
           "time_info": "[00时51分 ~ 12时44分]"
         },
         {
+          "title": "伊朗随时准备“扣动扳机”",
+          "url": "https://news.ifeng.com/c/8qKNo2ddMDD",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时28分 ~ 13时52分]"
+        },
+        {
           "title": "打击伊朗的机会窗口未到，特朗普在等什么？",
           "url": "https://v.ifeng.com/c/8qJY5CqQQ7n",
           "source": "凤凰网",
@@ -31,18 +44,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时51分 ~ 05时33分]"
-        },
-        {
-          "title": "伊朗随时准备“扣动扳机”",
-          "url": "https://news.ifeng.com/c/8qKNo2ddMDD",
-          "source": "凤凰网",
-          "ranks": [
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时28分 ~ 12时44分]"
         },
         {
           "title": "普京表示正密切关注伊朗问题相关进展",
@@ -117,6 +118,17 @@
           "time_info": "[03时34分 ~ 04时37分]"
         },
         {
+          "title": "伊朗被曝将举行实弹军事演习 美政府再次面临部分“停摆” | 环球市场",
+          "url": "https://www.cls.cn/detail/2274975",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时28分 ~ 13时52分]"
+        },
+        {
           "title": "评论员：伊朗数千枚导弹待命迎战",
           "url": "https://www.toutiao.com/trending/7600705793888882186/",
           "source": "今日头条",
@@ -150,17 +162,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时56分 ~ 03时34分]"
-        },
-        {
-          "title": "伊朗被曝将举行实弹军事演习 美政府再次面临部分“停摆” | 环球市场",
-          "url": "https://www.cls.cn/detail/2274975",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时28分 ~ 12时44分]"
         },
         {
           "title": "伊朗足协：无人能将伊朗排除出世界杯",
@@ -225,7 +226,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时44分"
         },
@@ -247,7 +248,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时44分"
         },
@@ -322,8 +323,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时31分 ~ 12时44分]"
+          "appearance_count": 4,
+          "time_info": "[07时31分 ~ 13时52分]"
+        },
+        {
+          "title": "美股收盘：业绩引爆微软Meta冰火两极 存储股闪迪盘后狂飙",
+          "url": "https://www.cls.cn/detail/2274922",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时31分 ~ 13时52分]"
         },
         {
           "title": "苹果股价美股盘后出现两波冲高回落行情，目前涨超0.9%。 业绩报告披露后，CEO库克和CFO正参与分析师电话会议。",
@@ -335,18 +348,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时31分"
-        },
-        {
-          "title": "美股收盘：业绩引爆微软Meta冰火两极 存储股闪迪盘后狂飙",
-          "url": "https://www.cls.cn/detail/2274922",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时31分 ~ 12时44分]"
         },
         {
           "title": "加密货币市场在美股开盘前后加速下跌",
@@ -497,7 +498,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "金价上涨的第一批受害者出现了",
@@ -510,8 +511,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时51分 ~ 12时44分]"
+          "appearance_count": 12,
+          "time_info": "[00时51分 ~ 13时52分]"
         },
         {
           "title": "黄金价格为何一路猛涨",
@@ -522,8 +523,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时51分 ~ 12时44分]"
+          "appearance_count": 12,
+          "time_info": "[00时51分 ~ 13时52分]"
         },
         {
           "title": "金价",
@@ -577,6 +578,18 @@
           "time_info": "[00时51分 ~ 07时31分]"
         },
         {
+          "title": "金价剧烈震荡引担忧？WGC：“狂飙涨势”是结构性转变而非投机，今年将继续！",
+          "url": "https://www.cls.cn/detail/2275001",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时28分 ~ 13时52分]"
+        },
+        {
           "title": "一口气看懂金价涨跌的底层逻辑",
           "url": "https://www.douyin.com/hot/2383551",
           "source": "抖音",
@@ -592,18 +605,6 @@
           "time_info": "[01时41分 ~ 07时31分]"
         },
         {
-          "title": "金价剧烈震荡引担忧？WGC：“狂飙涨势”是结构性转变而非投机，今年将继续！",
-          "url": "https://www.cls.cn/detail/2275001",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时28分 ~ 12时44分]"
-        },
-        {
           "title": "为什么 2026 年 1 月 29 日晚上的黄金价格出现大跳水？",
           "url": "https://www.zhihu.com/question/2000353838817882383",
           "source": "知乎",
@@ -615,16 +616,40 @@
           "time_info": "07时31分"
         },
         {
+          "title": "瑞银：黄金价格短期面临压力，中期修正风险上升",
+          "url": "https://flash.jin10.com/detail/20260130132853156800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时52分"
+        },
+        {
           "title": "今日金价",
           "url": "https://s.weibo.com/weibo?q=%E4%BB%8A%E6%97%A5%E9%87%91%E4%BB%B7&t=31&band_rank=11&Refer=top",
           "source": "微博",
           "ranks": [
             11,
-            21
+            21,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时28分 ~ 13时52分]"
+        },
+        {
+          "title": "黄金价格暴跌原因",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%BB%84%E9%87%91%E4%BB%B7%E6%A0%BC%E6%9A%B4%E8%B7%8C%E5%8E%9F%E5%9B%A0%23&t=31&band_rank=12&Refer=top",
+          "source": "微博",
+          "ranks": [
+            12,
+            22
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时28分 ~ 12时44分]"
+          "time_info": "[12时44分 ~ 13时52分]"
         },
         {
           "title": "金价跌幅扩大至5%。",
@@ -638,17 +663,6 @@
           "time_info": "00时51分"
         },
         {
-          "title": "黄金价格暴跌原因",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%BB%84%E9%87%91%E4%BB%B7%E6%A0%BC%E6%9A%B4%E8%B7%8C%E5%8E%9F%E5%9B%A0%23&t=31&band_rank=12&Refer=top",
-          "source": "微博",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时44分"
-        },
-        {
           "title": "女子10年前买408克金条 金价已翻5倍",
           "url": "https://www.toutiao.com/trending/7600762834013618222/",
           "source": "今日头条",
@@ -658,6 +672,96 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时28分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "以色列",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "伊朗：美若动武 伊将打击以色列",
+          "url": "https://www.douyin.com/hot/2382618",
+          "source": "抖音",
+          "ranks": [
+            9,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时41分 ~ 07时31分]"
+        },
+        {
+          "title": "以色列安全局局长亲属涉嫌向加沙走私货物",
+          "url": "https://flash.jin10.com/detail/20260130021654427800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            17,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时56分 ~ 04时37分]"
+        },
+        {
+          "title": "以色列全面提升防御与进攻准备 应对地区局势变化",
+          "url": "https://flash.jin10.com/detail/20260130032442986800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时34分 ~ 04时37分]"
+        },
+        {
+          "title": "据英国《金融时报》：苹果收购以色列初创公司Q.AI，交易估值接近20亿美元。",
+          "url": "https://flash.jin10.com/detail/20260130013359793800",
+          "source": "金十数据",
+          "ranks": [
+            12,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时56分 ~ 03时34分]"
+        },
+        {
+          "title": "苹果公司按接近20亿美元的估值收购Q.AI。 这家以色列人工智能（AI）公司的产品用于解析面部动作。（英国金融时报）",
+          "url": "https://wallstreetcn.com/livenews/3046630",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时56分 ~ 03时34分]"
+        },
+        {
+          "title": "苹果(AAPL.O)收购以色列人工智能初创公司Q.ai。",
+          "url": "https://flash.jin10.com/detail/20260130050039950800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时33分"
+        },
+        {
+          "title": "以色列公共安全屋已全部待命",
+          "url": "https://www.toutiao.com/trending/7600032986008354862/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时52分"
         }
       ]
     },
@@ -729,85 +833,6 @@
           "source": "金十数据",
           "ranks": [
             25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时33分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "以色列",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "伊朗：美若动武 伊将打击以色列",
-          "url": "https://www.douyin.com/hot/2382618",
-          "source": "抖音",
-          "ranks": [
-            9,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时41分 ~ 07时31分]"
-        },
-        {
-          "title": "以色列安全局局长亲属涉嫌向加沙走私货物",
-          "url": "https://flash.jin10.com/detail/20260130021654427800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            17,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时56分 ~ 04时37分]"
-        },
-        {
-          "title": "以色列全面提升防御与进攻准备 应对地区局势变化",
-          "url": "https://flash.jin10.com/detail/20260130032442986800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时34分 ~ 04时37分]"
-        },
-        {
-          "title": "据英国《金融时报》：苹果收购以色列初创公司Q.AI，交易估值接近20亿美元。",
-          "url": "https://flash.jin10.com/detail/20260130013359793800",
-          "source": "金十数据",
-          "ranks": [
-            12,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时56分 ~ 03时34分]"
-        },
-        {
-          "title": "苹果公司按接近20亿美元的估值收购Q.AI。 这家以色列人工智能（AI）公司的产品用于解析面部动作。（英国金融时报）",
-          "url": "https://wallstreetcn.com/livenews/3046630",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时56分 ~ 03时34分]"
-        },
-        {
-          "title": "苹果(AAPL.O)收购以色列人工智能初创公司Q.ai。",
-          "url": "https://flash.jin10.com/detail/20260130050039950800",
-          "source": "金十数据",
-          "ranks": [
-            17
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -929,7 +954,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时44分"
         }
