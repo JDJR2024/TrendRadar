@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-02T04:33:30.994306+08:00",
-  "total_titles_processed": 377,
+  "generated_at": "2026-02-02T05:28:45.597891+08:00",
+  "total_titles_processed": 389,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 8,
+      "match_count": 12,
       "titles": [
         {
           "title": "伊朗多地爆炸消息引发焦虑，美伊均释放和谈信号，哈梅内伊现身",
@@ -15,8 +15,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时36分 ~ 04时33分]"
+          "appearance_count": 7,
+          "time_info": "[00时36分 ~ 05时28分]"
         },
         {
           "title": "伊朗总统：战争既不符合伊朗也不符合美国利益",
@@ -27,8 +27,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时36分 ~ 04时33分]"
+          "appearance_count": 7,
+          "time_info": "[00时36分 ~ 05时28分]"
         },
         {
           "title": "伊朗官员：有关伊斯兰革命卫队计划在霍尔木兹海峡举行军事演习的媒体报道是错误的。伊斯兰革命卫队并未就将在霍尔木兹海峡举行军事演习发布任何官方公告。（路透）",
@@ -38,8 +38,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时36分 ~ 04时33分]"
+          "appearance_count": 6,
+          "time_info": "[00时36分 ~ 05时28分]"
         },
         {
           "title": "以美军方高层被曝本周末密集会谈，讨论对伊朗打击行动",
@@ -49,8 +49,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时36分 ~ 04时33分]"
+          "appearance_count": 6,
+          "time_info": "[00时36分 ~ 05时28分]"
         },
         {
           "title": "据路透社：伊朗官员表示，有关伊朗革命卫队计划在霍尔木兹海峡举行军事演习的媒体报道是错误的。革命卫队尚未就霍尔木兹海峡军演事宜发布官方声明。",
@@ -58,11 +58,12 @@
           "source": "金十数据",
           "ranks": [
             16,
-            19
+            19,
+            24
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时36分 ~ 04时33分]"
+          "appearance_count": 6,
+          "time_info": "[00时36分 ~ 05时28分]"
         },
         {
           "title": "以美军方高层被曝本周末密集会谈 讨论对伊朗打击行动",
@@ -70,11 +71,56 @@
           "source": "金十数据",
           "ranks": [
             19,
-            22
+            22,
+            27
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时36分 ~ 04时33分]"
+          "appearance_count": 6,
+          "time_info": "[00时36分 ~ 05时28分]"
+        },
+        {
+          "title": "外媒：伊朗官员否认计划在霍尔木兹海峡举行军演",
+          "url": "https://flash.jin10.com/detail/20260202044309941800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时28分"
+        },
+        {
+          "title": "美方释放与伊朗谈判信号 双方或在土耳其举行会晤",
+          "url": "https://flash.jin10.com/detail/20260202042728495800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时28分"
+        },
+        {
+          "title": "据华盛顿邮报：一位伊朗外交官表示，在目前情况下，任何谈判都不可能。特朗普提出的谈判条件既不切实际，也毫无谈判的余地。",
+          "url": "https://flash.jin10.com/detail/20260202042610304800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时28分"
+        },
+        {
+          "title": "特朗普称希望与伊朗“能够达成协议”",
+          "url": "https://flash.jin10.com/detail/20260202040920171800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时28分"
         },
         {
           "title": "伊朗革命卫队海军司令：伊朗人民将继续坚定不移地抵御敌人的阴谋。",
@@ -115,19 +161,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时36分 ~ 04时33分]"
-        },
-        {
-          "title": "以色列在拉法口岸以军控制区设专用安检通道",
-          "url": "https://flash.jin10.com/detail/20260202040529446800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时33分"
+          "appearance_count": 7,
+          "time_info": "[00时36分 ~ 05时28分]"
         },
         {
           "title": "八国外长发表联合声明 强烈谴责以色列违反加沙停火协议",
@@ -137,8 +172,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时36分 ~ 04时33分]"
+          "appearance_count": 6,
+          "time_info": "[00时36分 ~ 05时28分]"
         },
         {
           "title": "以色列方面表示，通往埃及的加沙过境点将于周一向巴勒斯坦人开放。",
@@ -146,11 +181,12 @@
           "source": "金十数据",
           "ranks": [
             9,
-            12
+            12,
+            17
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时36分 ~ 04时33分]"
+          "appearance_count": 6,
+          "time_info": "[00时36分 ~ 05时28分]"
         },
         {
           "title": "八国外长发表联合声明 强烈谴责以色列违反加沙停火协议",
@@ -158,11 +194,24 @@
           "source": "金十数据",
           "ranks": [
             15,
-            18
+            18,
+            23
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时36分 ~ 04时33分]"
+          "appearance_count": 6,
+          "time_info": "[00时36分 ~ 05时28分]"
+        },
+        {
+          "title": "以色列在拉法口岸以军控制区设专用安检通道",
+          "url": "https://flash.jin10.com/detail/20260202040529446800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时33分 ~ 05时28分]"
         }
       ]
     },
@@ -178,8 +227,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时36分 ~ 04时33分]"
+          "appearance_count": 7,
+          "time_info": "[00时36分 ~ 05时28分]"
         },
         {
           "title": "黄仁勋：OpenAI邀请英伟达进行高达1000亿美元投资，但千亿美元投资“绝非承诺”。我们将逐步投资OpenAI。",
@@ -189,8 +238,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时36分 ~ 04时33分]"
+          "appearance_count": 6,
+          "time_info": "[00时36分 ~ 05时28分]"
         }
       ]
     },
@@ -206,8 +255,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时36分 ~ 04时33分]"
+          "appearance_count": 7,
+          "time_info": "[00时36分 ~ 05时28分]"
         },
         {
           "title": "男子看金价下跌花20多万买200克",
@@ -219,8 +268,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时29分 ~ 04时33分]"
+          "appearance_count": 6,
+          "time_info": "[01时29分 ~ 05时28分]"
         }
       ]
     },
@@ -236,8 +285,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时36分 ~ 04时33分]"
+          "appearance_count": 7,
+          "time_info": "[00时36分 ~ 05时28分]"
         }
       ]
     }
