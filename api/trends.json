@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-04T19:38:16.642547+08:00",
-  "total_titles_processed": 1735,
+  "generated_at": "2026-02-04T21:10:35.943619+08:00",
+  "total_titles_processed": 1859,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[13时53分 ~ 19时38分]"
+          "appearance_count": 11,
+          "time_info": "[13时53分 ~ 21时10分]"
         },
         {
           "title": "美军击落伊朗无人机",
@@ -46,8 +46,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时51分 ~ 19时38分]"
+          "appearance_count": 6,
+          "time_info": "[16时51分 ~ 21时10分]"
         },
         {
           "title": "美军称击落伊朗无人机，双方在危险的边缘互相试探？",
@@ -57,8 +57,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时37分 ~ 19时38分]"
+          "appearance_count": 3,
+          "time_info": "[19时37分 ~ 21时10分]"
         },
         {
           "title": "伊朗方面表示，感谢所有为创造形成外交进程条件而作出努力的友好国家。",
@@ -150,6 +150,17 @@
           "time_info": "04时43分"
         },
         {
+          "title": "报道称伊朗炮艇逼近挂美国旗油轮、接近美航母的伊无人机被美击落，原油跳涨",
+          "url": "https://wallstreetcn.com/articles/3764876",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时52分 ~ 21时10分]"
+        },
+        {
           "title": "特朗普称正与伊朗进行谈判",
           "url": "https://m.thepaper.cn/newsDetail_forward_32529283",
           "source": "澎湃新闻",
@@ -172,17 +183,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时59分 ~ 03时10分]"
-        },
-        {
-          "title": "报道称伊朗炮艇逼近挂美国旗油轮、接近美航母的伊无人机被美击落，原油跳涨",
-          "url": "https://wallstreetcn.com/articles/3764876",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时52分 ~ 19时38分]"
         },
         {
           "title": "美军击落伊朗无人机后，油轮遭伊炮艇威胁",
@@ -314,7 +314,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时38分"
         },
@@ -498,7 +498,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 29,
+      "match_count": 31,
       "titles": [
         {
           "title": "大反弹！白银涨11%，黄金涨6%，美股指涨跌互现，Palantir涨12%，沃尔玛市值首超1万亿美元",
@@ -520,8 +520,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[07时33分 ~ 19时38分]"
+          "appearance_count": 15,
+          "time_info": "[07时33分 ~ 21时10分]"
         },
         {
           "title": "美股爆发AI恐慌！Anthropic新工具掀软件股抛售，路透盘中跌超20%",
@@ -532,8 +532,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[10时28分 ~ 19时38分]"
+          "appearance_count": 14,
+          "time_info": "[10时28分 ~ 21时10分]"
         },
         {
           "title": "美制造业数据托底风险偏好，美股、加密货币齐反弹、美元续涨，金银企稳，原油重挫",
@@ -553,11 +553,12 @@
           "ranks": [
             5,
             3,
-            4
+            4,
+            1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[13时53分 ~ 19时38分]"
+          "appearance_count": 11,
+          "time_info": "[13时53分 ~ 21时10分]"
         },
         {
           "title": "美股收盘：三大指数集体收跌 “AI抢饭碗”引发软件股抛售",
@@ -594,8 +595,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[12时44分 ~ 19时38分]"
+          "appearance_count": 12,
+          "time_info": "[12时44分 ~ 21时10分]"
         },
         {
           "title": "美股期指走高 Palantir盘前大涨逾11% | 今夜看点",
@@ -825,6 +826,17 @@
           "time_info": "06时36分"
         },
         {
+          "title": "优步第一季度预计调整后EBITDA为23.7亿至24.7亿美元，市场预期为24.5亿美元。 第一季度预计总预订额为520亿至535亿美元，市场预期为513.7亿美元。 第四季度营收为143.7亿美元，同比增长20%，市场预期为142.9亿美元。 第四季度调整后EBITDA为24.9亿美元，同比增长35%，市场预期为24.8亿美元。 第四季度每股收益为0.14美元，去年同期为3.21美元。 第四季度净利润为2.96亿美元，同比下降96%。 优步美股盘前跌近9%。",
+          "url": "https://wallstreetcn.com/livenews/3049864",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时10分"
+        },
+        {
           "title": "美股延续跌势，纳指下跌2.00%。",
           "url": "https://flash.jin10.com/detail/20260204021533895800",
           "source": "金十数据",
@@ -834,6 +846,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时10分"
+        },
+        {
+          "title": "礼来第四季度调整后每股收益7.54美元，去年同期为5.32美元。 第四季度营收为192.9亿美元，同比增长43%，市场预期为180.1亿美元。 预计全年营收为800亿至830亿美元，市场预期为777.1亿美元。 预计全球产品价格降幅在10%至15%之间。 礼来美股盘前涨超4%。",
+          "url": "https://wallstreetcn.com/livenews/3049858",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时10分"
         }
       ]
     },
@@ -1137,7 +1160,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时38分"
         },
@@ -1189,7 +1212,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 6,
+      "match_count": 8,
       "titles": [
         {
           "title": "1 克黄金能打一张完整黄金婚书引热议，黄金的延展性到底有多强？金价飙升，这种轻量奢华蕴藏多大商业空间？",
@@ -1219,6 +1242,28 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[01时01分 ~ 05时40分]"
+        },
+        {
+          "title": "调查：地缘风险与央行买盘支撑 2026年金价或再创新高",
+          "url": "https://flash.jin10.com/detail/20260204205419654800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时10分"
+        },
+        {
+          "title": "路透调查：2026年金价预计平均为每盎司4746.50美元，2027年为4745.42美元。2026年银价预计平均为每盎司79.50美元，2027年为71.80美元。",
+          "url": "https://flash.jin10.com/detail/20260204205023665800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时10分"
         },
         {
           "title": "金价创2009年以来最大单日涨幅",
@@ -1274,7 +1319,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "120倍回报、千亿美元浮盈，SpaceX上市的隐藏大赢家——谷歌！",
@@ -1287,8 +1332,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[01时01分 ~ 19时38分]"
+          "appearance_count": 25,
+          "time_info": "[01时01分 ~ 21时10分]"
         },
         {
           "title": "书面证词显示，谷歌(GOOG.O)旗下自动驾驶部门Waymo将向美国参议院委员会作证，为其安全记录辩护，并表示其自动驾驶车辆导致的严重伤亡或更严重车祸数量仅为人类驾驶员的十分之一。",
@@ -1300,6 +1345,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时59分"
+        },
+        {
+          "title": "美国参议院Warren等参议员敦促美国联邦贸易委员会（FTC）审查科技行业的人工智能相关交易，涉及英伟达、Meta和谷歌。（CNBC）",
+          "url": "https://wallstreetcn.com/livenews/3049876",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时10分"
         },
         {
           "title": "谷歌(GOOG.O)：统一维护服务正式上线，通过集中式控制面板查看并管理谷歌云服务中的维护事件。",
@@ -1338,7 +1394,7 @@
     },
     {
       "keyword_group": "美债",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "周二（2月3日）纽约尾盘，美国10年期国债收益率跌0.79个基点，报4.2695%。 两年期美债收益率跌0.41个基点，报3.5675%；30年期美债收益率跌0.83个基点，报4.9035%。",
@@ -1353,6 +1409,17 @@
           "time_info": "[04时43分 ~ 05时40分]"
         },
         {
+          "title": "2/10年期美债收益率差逼近四年来最阔水平",
+          "url": "https://flash.jin10.com/detail/20260204204145278800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时10分"
+        },
+        {
           "title": "日本国债收益率走高挤压美债空间 吸筹竞争或推升美国偿债成本",
           "url": "https://flash.jin10.com/detail/20260204111146150800",
           "source": "金十数据",
@@ -1362,6 +1429,45 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时44分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "人工智能 AI ChatGPT",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "腾讯混元AI Infra核心技术开源",
+          "url": "https://wallstreetcn.com/livenews/3049846",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时38分"
+        },
+        {
+          "title": "国民党代表团参访清华大学，了解大陆AI技术",
+          "url": "https://news.ifeng.com/c/8qTccGGdcdv",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时10分"
+        },
+        {
+          "title": "中国人工智能产业发展联盟：突破算力芯片、工业大模型等关键技术 做优应用生态",
+          "url": "https://wallstreetcn.com/livenews/3049706",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时51分"
         }
       ]
     },
@@ -1392,34 +1498,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时36分 ~ 07时33分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "人工智能 AI ChatGPT",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "腾讯混元AI Infra核心技术开源",
-          "url": "https://wallstreetcn.com/livenews/3049846",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时38分"
-        },
-        {
-          "title": "中国人工智能产业发展联盟：突破算力芯片、工业大模型等关键技术 做优应用生态",
-          "url": "https://wallstreetcn.com/livenews/3049706",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时51分"
         }
       ]
     }
