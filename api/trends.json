@@ -1,24 +1,12 @@
 {
-  "generated_at": "2026-02-08T05:32:55.435694+08:00",
-  "total_titles_processed": 412,
+  "generated_at": "2026-02-08T06:31:59.662240+08:00",
+  "total_titles_processed": 430,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
       "match_count": 10,
       "titles": [
-        {
-          "title": "伊美谈判“暂时”结束，伊朗外长称开局良好",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32555521",
-          "source": "澎湃新闻",
-          "ranks": [
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时37分 ~ 05时32分]"
-        },
         {
           "title": "特朗普签署行政命令，对与伊朗有贸易往来的国家征收关税",
           "url": "https://www.cls.cn/detail/2283610",
@@ -27,8 +15,21 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时37分 ~ 05时32分]"
+          "appearance_count": 8,
+          "time_info": "[00时37分 ~ 06时31分]"
+        },
+        {
+          "title": "伊美谈判“暂时”结束，伊朗外长称开局良好",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32555521",
+          "source": "澎湃新闻",
+          "ranks": [
+            7,
+            8,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时37分 ~ 06时31分]"
         },
         {
           "title": "伊朗外长：第二轮伊美谈判地点可能发生变化",
@@ -36,11 +37,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             9,
-            11
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时37分 ~ 05时32分]"
+          "appearance_count": 7,
+          "time_info": "[00时37分 ~ 06时31分]"
         },
         {
           "title": "伊朗外长：第二轮伊美谈判地点可能发生变化",
@@ -50,8 +52,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时37分 ~ 05时32分]"
+          "appearance_count": 7,
+          "time_info": "[00时37分 ~ 06时31分]"
         },
         {
           "title": "伊朗外长会见卡塔尔首相兼外交大臣，就地区局势交换意见",
@@ -59,11 +61,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             13,
-            15
+            15,
+            16
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时37分 ~ 05时32分]"
+          "appearance_count": 7,
+          "time_info": "[00时37分 ~ 06时31分]"
         },
         {
           "title": "伊朗外长会见卡塔尔首相兼外交大臣 就地区局势交换意见",
@@ -73,8 +76,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时37分 ~ 05时32分]"
+          "appearance_count": 7,
+          "time_info": "[00时37分 ~ 06时31分]"
         },
         {
           "title": "伊朗武装部队总参谋长：军队始终保持高度戒备状态",
@@ -84,8 +87,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时37分 ~ 05时32分]"
+          "appearance_count": 7,
+          "time_info": "[00时37分 ~ 06时31分]"
         },
         {
           "title": "伊朗外长为伊美谈判划定“红线”",
@@ -93,11 +96,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             17,
-            19
+            19,
+            20
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时37分 ~ 05时32分]"
+          "appearance_count": 7,
+          "time_info": "[00时37分 ~ 06时31分]"
         },
         {
           "title": "伊朗武装部队总参谋长：军队始终保持高度戒备状态",
@@ -105,11 +109,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             19,
-            21
+            21,
+            22
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时37分 ~ 05时32分]"
+          "appearance_count": 7,
+          "time_info": "[00时37分 ~ 06时31分]"
         },
         {
           "title": "与美接触后，伊朗外长划定国家核心利益的两条“红线”",
@@ -137,8 +142,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时37分 ~ 05时32分]"
+          "appearance_count": 8,
+          "time_info": "[00时37分 ~ 06时31分]"
         },
         {
           "title": "美股收盘：道指历史首次站上5万点 中概股指数涨超3%",
@@ -148,8 +153,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时37分 ~ 05时32分]"
+          "appearance_count": 8,
+          "time_info": "[00时37分 ~ 06时31分]"
         },
         {
           "title": "美股三大期指集体反弹 亚马逊盘前大跌近9% | 今夜看点",
@@ -159,8 +164,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时37分 ~ 05时32分]"
+          "appearance_count": 8,
+          "time_info": "[00时37分 ~ 06时31分]"
         }
       ]
     },
@@ -176,8 +181,25 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时37分 ~ 05时32分]"
+          "appearance_count": 8,
+          "time_info": "[00时37分 ~ 06时31分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "黄金——资产再配置，金价走向何方？",
+          "url": "https://wallstreetcn.com/articles/3765213",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时31分"
         }
       ]
     },
@@ -193,8 +215,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时37分 ~ 05时32分]"
+          "appearance_count": 7,
+          "time_info": "[00时37分 ~ 06时31分]"
         }
       ]
     },
@@ -210,8 +232,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时37分 ~ 05时32分]"
+          "appearance_count": 8,
+          "time_info": "[00时37分 ~ 06时31分]"
         }
       ]
     }
