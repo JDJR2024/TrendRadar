@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-08T06:31:59.662240+08:00",
-  "total_titles_processed": 430,
+  "generated_at": "2026-02-08T07:35:31.714418+08:00",
+  "total_titles_processed": 460,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时37分 ~ 06时31分]"
+          "appearance_count": 9,
+          "time_info": "[00时37分 ~ 07时35分]"
         },
         {
           "title": "伊美谈判“暂时”结束，伊朗外长称开局良好",
@@ -28,8 +28,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时37分 ~ 06时31分]"
+          "appearance_count": 9,
+          "time_info": "[00时37分 ~ 07时35分]"
         },
         {
           "title": "伊朗外长：第二轮伊美谈判地点可能发生变化",
@@ -38,11 +38,12 @@
           "ranks": [
             9,
             11,
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时37分 ~ 06时31分]"
+          "appearance_count": 8,
+          "time_info": "[00时37分 ~ 07时35分]"
         },
         {
           "title": "伊朗外长：第二轮伊美谈判地点可能发生变化",
@@ -52,8 +53,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时37分 ~ 06时31分]"
+          "appearance_count": 8,
+          "time_info": "[00时37分 ~ 07时35分]"
         },
         {
           "title": "伊朗外长会见卡塔尔首相兼外交大臣，就地区局势交换意见",
@@ -62,11 +63,12 @@
           "ranks": [
             13,
             15,
-            16
+            16,
+            17
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时37分 ~ 06时31分]"
+          "appearance_count": 8,
+          "time_info": "[00时37分 ~ 07时35分]"
         },
         {
           "title": "伊朗外长会见卡塔尔首相兼外交大臣 就地区局势交换意见",
@@ -76,8 +78,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时37分 ~ 06时31分]"
+          "appearance_count": 8,
+          "time_info": "[00时37分 ~ 07时35分]"
         },
         {
           "title": "伊朗武装部队总参谋长：军队始终保持高度戒备状态",
@@ -87,8 +89,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时37分 ~ 06时31分]"
+          "appearance_count": 8,
+          "time_info": "[00时37分 ~ 07时35分]"
         },
         {
           "title": "伊朗外长为伊美谈判划定“红线”",
@@ -97,11 +99,12 @@
           "ranks": [
             17,
             19,
-            20
+            20,
+            21
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时37分 ~ 06时31分]"
+          "appearance_count": 8,
+          "time_info": "[00时37分 ~ 07时35分]"
         },
         {
           "title": "伊朗武装部队总参谋长：军队始终保持高度戒备状态",
@@ -110,11 +113,12 @@
           "ranks": [
             19,
             21,
-            22
+            22,
+            23
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时37分 ~ 06时31分]"
+          "appearance_count": 8,
+          "time_info": "[00时37分 ~ 07时35分]"
         },
         {
           "title": "与美接触后，伊朗外长划定国家核心利益的两条“红线”",
@@ -153,8 +157,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时37分 ~ 06时31分]"
+          "appearance_count": 9,
+          "time_info": "[00时37分 ~ 07时35分]"
         },
         {
           "title": "美股三大期指集体反弹 亚马逊盘前大跌近9% | 今夜看点",
@@ -170,6 +174,34 @@
       ]
     },
     {
+      "keyword_group": "世界杯 欧洲杯 亚洲杯",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "2026 乒乓球亚洲杯男子单打：林诗栋 3-4 户上隼辅，止步 8 强。如何评价本场比赛？",
+          "url": "https://www.zhihu.com/question/2003592261804520571",
+          "source": "知乎",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时37分 ~ 06时31分]"
+        },
+        {
+          "title": "2026 乒乓球亚洲杯男子单打四分之一决赛林诗栋 3-4 户上隼辅，止步 8 强，如何评价本场比赛？",
+          "url": "https://www.zhihu.com/question/2003592261804520571",
+          "source": "知乎",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时35分"
+        }
+      ]
+    },
+    {
       "keyword_group": "DeepSeek 梁文锋",
       "match_count": 1,
       "titles": [
@@ -178,11 +210,12 @@
           "url": "https://wallstreetcn.com/articles/3765209",
           "source": "华尔街见闻",
           "ranks": [
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时37分 ~ 06时31分]"
+          "appearance_count": 9,
+          "time_info": "[00时37分 ~ 07时35分]"
         }
       ]
     },
@@ -195,11 +228,12 @@
           "url": "https://wallstreetcn.com/articles/3765213",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时31分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时31分 ~ 07时35分]"
         }
       ]
     },
@@ -215,25 +249,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时37分 ~ 06时31分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "世界杯 欧洲杯 亚洲杯",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "2026 乒乓球亚洲杯男子单打：林诗栋 3-4 户上隼辅，止步 8 强。如何评价本场比赛？",
-          "url": "https://www.zhihu.com/question/2003592261804520571",
-          "source": "知乎",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
           "appearance_count": 8,
-          "time_info": "[00时37分 ~ 06时31分]"
+          "time_info": "[00时37分 ~ 07时35分]"
         }
       ]
     }
