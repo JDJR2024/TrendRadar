@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-08T13:08:01.520007+08:00",
-  "total_titles_processed": 722,
+  "generated_at": "2026-02-08T14:57:31.483293+08:00",
+  "total_titles_processed": 809,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             8,
             10,
-            11
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时37分 ~ 13时08分]"
+          "appearance_count": 14,
+          "time_info": "[00时37分 ~ 14时57分]"
         },
         {
           "title": "伊美谈判“暂时”结束，伊朗外长称开局良好",
@@ -126,6 +127,19 @@
           "time_info": "[00时37分 ~ 07时35分]"
         },
         {
+          "title": "伊朗武装部队总参谋长：伊空军处于“最高战备状态”",
+          "url": "https://flash.jin10.com/detail/20260208094240359800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时54分 ~ 14时57分]"
+        },
+        {
           "title": "美特使登航母，与击落伊朗无人机飞行员交流",
           "url": "https://news.ifeng.com/c/8qZP3seoZvF",
           "source": "凤凰网",
@@ -138,28 +152,17 @@
           "time_info": "[10时53分 ~ 13时08分]"
         },
         {
-          "title": "伊朗武装部队总参谋长：伊空军处于“最高战备状态”",
-          "url": "https://flash.jin10.com/detail/20260208094240359800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时54分 ~ 13时08分]"
-        },
-        {
           "title": "伊朗外长：第二轮伊美谈判有望在未来几天内举行",
           "url": "https://flash.jin10.com/detail/20260208081205961800",
           "source": "金十数据",
           "ranks": [
             9,
-            17
+            17,
+            18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时54分 ~ 13时08分]"
+          "appearance_count": 3,
+          "time_info": "[10时54分 ~ 14时57分]"
         },
         {
           "title": "与美接触后，伊朗外长划定国家核心利益的两条“红线”",
@@ -200,8 +203,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时37分 ~ 13时08分]"
+          "appearance_count": 14,
+          "time_info": "[00时37分 ~ 14时57分]"
         },
         {
           "title": "美股三大期指集体反弹 亚马逊盘前大跌近9% | 今夜看点",
@@ -221,6 +224,18 @@
       "match_count": 2,
       "titles": [
         {
+          "title": "因金价飙升，意大利冬奥会金牌成史上最昂贵金牌，如何评价这一变化？",
+          "url": "https://www.zhihu.com/question/2003305831391785957",
+          "source": "知乎",
+          "ranks": [
+            11,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时07分 ~ 14时57分]"
+        },
+        {
           "title": "黄金——资产再配置，金价走向何方？",
           "url": "https://wallstreetcn.com/articles/3765213",
           "source": "华尔街见闻",
@@ -231,17 +246,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时31分 ~ 07时35分]"
-        },
-        {
-          "title": "因金价飙升，意大利冬奥会金牌成史上最昂贵金牌，如何评价这一变化？",
-          "url": "https://www.zhihu.com/question/2003305831391785957",
-          "source": "知乎",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时07分 ~ 13时08分]"
         }
       ]
     },
