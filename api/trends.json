@@ -1,23 +1,12 @@
 {
-  "generated_at": "2026-02-09T01:31:47.151286+08:00",
-  "total_titles_processed": 330,
+  "generated_at": "2026-02-09T02:44:07.782649+08:00",
+  "total_titles_processed": 350,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
       "match_count": 3,
       "titles": [
-        {
-          "title": "伊朗武装部队总参谋长：没有兴趣发动地区战争",
-          "url": "https://wallstreetcn.com/livenews/3051828",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时37分 ~ 01时31分]"
-        },
         {
           "title": "伊朗外长：伊美核谈判开局良好",
           "url": "https://m.thepaper.cn/newsDetail_forward_32563811",
@@ -26,8 +15,19 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时37分 ~ 01时31分]"
+          "appearance_count": 4,
+          "time_info": "[00时37分 ~ 02时44分]"
+        },
+        {
+          "title": "伊朗武装部队总参谋长：没有兴趣发动地区战争",
+          "url": "https://wallstreetcn.com/livenews/3051828",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时37分 ~ 02时44分]"
         },
         {
           "title": "伊朗外长：伊方绝不接受“零浓缩铀”",
@@ -37,8 +37,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时37分 ~ 01时31分]"
+          "appearance_count": 3,
+          "time_info": "[00时37分 ~ 02时44分]"
         }
       ]
     },
@@ -47,17 +47,6 @@
       "match_count": 2,
       "titles": [
         {
-          "title": "高盛交易员警告：美股抛售尚未结束",
-          "url": "https://flash.jin10.com/detail/20260209002129268800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时37分 ~ 01时31分]"
-        },
-        {
           "title": "美股本周大波动，投资者在担心：美国经济真的强吗？AI成利空了？避险资产炒成风险资产了？",
           "url": "https://wallstreetcn.com/articles/3765246",
           "source": "华尔街见闻",
@@ -65,8 +54,19 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时37分 ~ 01时31分]"
+          "appearance_count": 4,
+          "time_info": "[00时37分 ~ 02时44分]"
+        },
+        {
+          "title": "高盛交易员警告：美股抛售尚未结束",
+          "url": "https://flash.jin10.com/detail/20260209002129268800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时37分 ~ 02时44分]"
         }
       ]
     },
@@ -79,11 +79,29 @@
           "url": "https://wallstreetcn.com/articles/3765245",
           "source": "华尔街见闻",
           "ranks": [
-            6
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时37分 ~ 02时44分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "金价巨震下买黄金的人怎么样了",
+          "url": "https://www.toutiao.com/trending/7604465515100114459/",
+          "source": "今日头条",
+          "ranks": [
+            9
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时37分 ~ 01时31分]"
+          "time_info": "[02时43分 ~ 02时44分]"
         }
       ]
     },
@@ -99,8 +117,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时37分 ~ 01时31分]"
+          "appearance_count": 3,
+          "time_info": "[00时37分 ~ 02时44分]"
         }
       ]
     },
@@ -116,8 +134,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时37分 ~ 01时31分]"
+          "appearance_count": 4,
+          "time_info": "[00时37分 ~ 02时44分]"
         }
       ]
     },
@@ -134,8 +152,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时37分 ~ 01时31分]"
+          "appearance_count": 4,
+          "time_info": "[00时37分 ~ 02时44分]"
         }
       ]
     }
