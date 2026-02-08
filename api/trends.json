@@ -1,22 +1,23 @@
 {
-  "generated_at": "2026-02-08T07:35:31.714418+08:00",
-  "total_titles_processed": 460,
+  "generated_at": "2026-02-08T10:54:07.838541+08:00",
+  "total_titles_processed": 601,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 10,
+      "match_count": 13,
       "titles": [
         {
           "title": "特朗普签署行政命令，对与伊朗有贸易往来的国家征收关税",
           "url": "https://www.cls.cn/detail/2283610",
           "source": "财联社热门",
           "ranks": [
-            8
+            8,
+            10
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时37分 ~ 07时35分]"
+          "appearance_count": 11,
+          "time_info": "[00时37分 ~ 10时54分]"
         },
         {
           "title": "伊美谈判“暂时”结束，伊朗外长称开局良好",
@@ -39,22 +40,24 @@
             9,
             11,
             12,
-            13
+            13,
+            23
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时37分 ~ 07时35分]"
+          "appearance_count": 9,
+          "time_info": "[00时37分 ~ 10时54分]"
         },
         {
           "title": "伊朗外长：第二轮伊美谈判地点可能发生变化",
           "url": "https://flash.jin10.com/detail/20260207210239858800",
           "source": "金十数据",
           "ranks": [
-            10
+            10,
+            22
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时37分 ~ 07时35分]"
+          "appearance_count": 9,
+          "time_info": "[00时37分 ~ 10时54分]"
         },
         {
           "title": "伊朗外长会见卡塔尔首相兼外交大臣，就地区局势交换意见",
@@ -64,11 +67,12 @@
             13,
             15,
             16,
-            17
+            17,
+            27
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时37分 ~ 07时35分]"
+          "appearance_count": 9,
+          "time_info": "[00时37分 ~ 10时54分]"
         },
         {
           "title": "伊朗外长会见卡塔尔首相兼外交大臣 就地区局势交换意见",
@@ -121,6 +125,28 @@
           "time_info": "[00时37分 ~ 07时35分]"
         },
         {
+          "title": "伊朗武装部队总参谋长：伊空军处于“最高战备状态”",
+          "url": "https://flash.jin10.com/detail/20260208094240359800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时54分"
+        },
+        {
+          "title": "美特使登航母，与击落伊朗无人机飞行员交流",
+          "url": "https://news.ifeng.com/c/8qZP3seoZvF",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时53分 ~ 10时54分]"
+        },
+        {
           "title": "与美接触后，伊朗外长划定国家核心利益的两条“红线”",
           "url": "https://m.thepaper.cn/newsDetail_forward_32558478",
           "source": "澎湃新闻",
@@ -131,6 +157,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时37分 ~ 01时31分]"
+        },
+        {
+          "title": "伊朗外长：第二轮伊美谈判有望在未来几天内举行",
+          "url": "https://flash.jin10.com/detail/20260208081205961800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时54分"
         }
       ]
     },
@@ -154,11 +191,12 @@
           "url": "https://www.cls.cn/detail/2283586",
           "source": "财联社热门",
           "ranks": [
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时37分 ~ 07时35分]"
+          "appearance_count": 11,
+          "time_info": "[00时37分 ~ 10时54分]"
         },
         {
           "title": "美股三大期指集体反弹 亚马逊盘前大跌近9% | 今夜看点",
@@ -195,7 +233,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时35分"
         }
