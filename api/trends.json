@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-09T06:33:42.047513+08:00",
-  "total_titles_processed": 438,
+  "generated_at": "2026-02-09T07:37:17.412332+08:00",
+  "total_titles_processed": 501,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "美股本周大波动，投资者在担心：美国经济真的强吗？AI成利空了？避险资产炒成风险资产了？",
@@ -15,8 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时37分 ~ 06时33分]"
+          "appearance_count": 10,
+          "time_info": "[00时37分 ~ 07时37分]"
         },
         {
           "title": "高盛交易员警告：美股抛售尚未结束",
@@ -43,6 +43,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时32分 ~ 06时33分]"
+        },
+        {
+          "title": "美股三大股指期货周一盘初均涨0.2%。",
+          "url": "https://flash.jin10.com/detail/20260209070343004800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时37分"
         }
       ]
     },
@@ -60,8 +71,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时37分 ~ 06时33分]"
+          "appearance_count": 10,
+          "time_info": "[00时37分 ~ 07时37分]"
         },
         {
           "title": "伊朗武装部队总参谋长：没有兴趣发动地区战争",
@@ -101,8 +112,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时37分 ~ 06时33分]"
+          "appearance_count": 10,
+          "time_info": "[00时37分 ~ 07时37分]"
         }
       ]
     },
@@ -117,11 +128,12 @@
           "ranks": [
             9,
             28,
-            1
+            1,
+            24
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时43分 ~ 04时34分]"
+          "appearance_count": 6,
+          "time_info": "[02时43分 ~ 07时37分]"
         }
       ]
     },
@@ -154,7 +166,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时33分"
         }
@@ -174,8 +186,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时37分 ~ 06时33分]"
+          "appearance_count": 10,
+          "time_info": "[00时37分 ~ 07时37分]"
         }
       ]
     },
@@ -194,8 +206,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时37分 ~ 06时33分]"
+          "appearance_count": 10,
+          "time_info": "[00时37分 ~ 07时37分]"
         }
       ]
     }
