@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-09T10:38:49.822216+08:00",
-  "total_titles_processed": 669,
+  "generated_at": "2026-02-09T13:06:18.063952+08:00",
+  "total_titles_processed": 832,
   "failed_sources": [],
   "trends": [
     {
@@ -59,7 +59,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "伊朗外长：伊美核谈判开局良好",
@@ -88,6 +88,17 @@
           "time_info": "[00时37分 ~ 05时32分]"
         },
         {
+          "title": "外媒：伊朗外长称，伊朗已向中俄通报伊美谈判有关情况",
+          "url": "https://wallstreetcn.com/livenews/3052067",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时06分"
+        },
+        {
           "title": "伊朗外长：伊方绝不接受“零浓缩铀”",
           "url": "https://wallstreetcn.com/livenews/3051814",
           "source": "华尔街见闻-快讯",
@@ -101,6 +112,36 @@
       ]
     },
     {
+      "keyword_group": "世界杯 欧洲杯 亚洲杯",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "2026 海口亚洲杯女单决赛，孙颖莎 4-3 王曼昱夺冠，如何评价本场比赛？",
+          "url": "https://www.zhihu.com/question/2003914802620233331",
+          "source": "知乎",
+          "ranks": [
+            2,
+            8,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时37分 ~ 07时37分]"
+        },
+        {
+          "title": "2026 亚洲杯女单决赛，孙颖莎 4 比 3 王曼昱首次夺冠，如何评价这场比赛？",
+          "url": "https://www.zhihu.com/question/2003938838045819654",
+          "source": "知乎",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时06分"
+        }
+      ]
+    },
+    {
       "keyword_group": "谷歌 google gemini",
       "match_count": 1,
       "titles": [
@@ -110,11 +151,12 @@
           "source": "华尔街见闻",
           "ranks": [
             6,
-            7
+            7,
+            5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时37分 ~ 10时38分]"
+          "appearance_count": 12,
+          "time_info": "[00时37分 ~ 13时06分]"
         }
       ]
     },
@@ -170,25 +212,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时33分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "世界杯 欧洲杯 亚洲杯",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "2026 海口亚洲杯女单决赛，孙颖莎 4-3 王曼昱夺冠，如何评价本场比赛？",
-          "url": "https://www.zhihu.com/question/2003914802620233331",
-          "source": "知乎",
-          "ranks": [
-            2,
-            8,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时37分 ~ 07时37分]"
         }
       ]
     },
