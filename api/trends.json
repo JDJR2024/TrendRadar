@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-16T21:14:33.317834+08:00",
-  "total_titles_processed": 1328,
+  "generated_at": "2026-02-16T22:47:43.522448+08:00",
+  "total_titles_processed": 1467,
   "failed_sources": [],
   "trends": [
     {
@@ -18,8 +18,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时10分 ~ 21时14分]"
+          "appearance_count": 8,
+          "time_info": "[15时10分 ~ 22时47分]"
         },
         {
           "title": "伊朗外长启程赴会，以总理预设四项条件",
@@ -388,8 +388,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[13时03分 ~ 21时14分]"
+          "appearance_count": 10,
+          "time_info": "[13时03分 ~ 22时47分]"
         },
         {
           "title": "OpenAI高管：工程师变成“魔法师”，AI将开启新一轮创业狂潮",
@@ -502,7 +502,7 @@
     },
     {
       "keyword_group": "以色列",
-      "match_count": 8,
+      "match_count": 10,
       "titles": [
         {
           "title": "以色列总检察长：尚未审查内塔尼亚胡赦免请求",
@@ -517,6 +517,18 @@
           "time_info": "[00时38分 ~ 07时32分]"
         },
         {
+          "title": "内塔尼亚胡：以色列计划10年内停止接受美国资金援助",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32620966",
+          "source": "澎湃新闻",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时50分 ~ 22时47分]"
+        },
+        {
           "title": "特朗普或支持以色列打击伊朗",
           "url": "https://news.ifeng.com/c/8qmhQv7Byxy",
           "source": "凤凰网",
@@ -527,18 +539,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[10时36分 ~ 15时10分]"
-        },
-        {
-          "title": "内塔尼亚胡：以色列计划10年内停止接受美国资金援助",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32620966",
-          "source": "澎湃新闻",
-          "ranks": [
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时50分 ~ 21时14分]"
         },
         {
           "title": "美官员称美军情报部门讨论支持以色列空袭伊朗",
@@ -582,9 +582,20 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时14分"
+        },
+        {
+          "title": "以色列财政部长敦促以色列央行降息。",
+          "url": "https://flash.jin10.com/detail/20260216215414988800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时47分"
         },
         {
           "title": "以色列无人机袭击黎叙边境致4人死亡",
@@ -596,6 +607,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时37分"
+        },
+        {
+          "title": "以色列拟10年后告别美军事资金援助",
+          "url": "https://www.toutiao.com/trending/7607211046742540334/",
+          "source": "今日头条",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时47分"
         }
       ]
     },
@@ -610,11 +632,12 @@
           "ranks": [
             7,
             8,
-            9
+            9,
+            11
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[00时37分 ~ 21时14分]"
+          "appearance_count": 25,
+          "time_info": "[00时37分 ~ 22时47分]"
         },
         {
           "title": "消息称 Anthropic 员工效率远超谷歌，入职需「杀死自我」，这种企业文化有效吗？",
@@ -634,6 +657,18 @@
         },
         {
           "title": "阿里发布千问3.5，性能媲美Gemini 3， Token价格仅为其1/18",
+          "url": "https://wallstreetcn.com/articles/3765786",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时50分 ~ 22时47分]"
+        },
+        {
+          "title": "阿里发布千问3.5，性能媲美Gemini 3， Token价格仅为其1/18",
           "url": "https://wallstreetcn.com/livenews/3055703",
           "source": "华尔街见闻-快讯",
           "ranks": [
@@ -646,25 +681,13 @@
           "time_info": "[18时01分 ~ 19时50分]"
         },
         {
-          "title": "阿里发布千问3.5，性能媲美Gemini 3， Token价格仅为其1/18",
-          "url": "https://wallstreetcn.com/articles/3765786",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时50分 ~ 21时14分]"
-        },
-        {
           "title": "千问3.5成本仅为谷歌大模型5%",
           "url": "https://s.weibo.com/weibo?q=%23%E5%8D%83%E9%97%AE3.5%E6%88%90%E6%9C%AC%E4%BB%85%E4%B8%BA%E8%B0%B7%E6%AD%8C%E5%A4%A7%E6%A8%A1%E5%9E%8B5%25%23&t=31&band_rank=18&Refer=top",
           "source": "微博",
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时14分"
         }
@@ -682,8 +705,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时01分"
+          "appearance_count": 2,
+          "time_info": "[19时01分 ~ 22时47分]"
         },
         {
           "title": "大摩：市场开始买美债了",
@@ -759,7 +782,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时14分"
         }
