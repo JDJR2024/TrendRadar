@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-17T05:35:13.819492+08:00",
-  "total_titles_processed": 499,
+  "generated_at": "2026-02-17T06:34:49.738437+08:00",
+  "total_titles_processed": 548,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_32620966",
           "source": "澎湃新闻",
           "ranks": [
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时52分 ~ 05时35分]"
+          "appearance_count": 11,
+          "time_info": "[00时52分 ~ 06时34分]"
         },
         {
           "title": "以色列国防军：针对真主党屡次违反停火协议的行为，不久前以军对位于黎巴嫩南部塔卢塞地区的一名真主党恐怖分子实施了打击。",
@@ -58,6 +59,30 @@
           "time_info": "[02时52分 ~ 04时38分]"
         },
         {
+          "title": "古特雷斯谴责以色列决定在约旦河西岸恢复土地登记程序",
+          "url": "https://wallstreetcn.com/livenews/3055832",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时35分 ~ 06时34分]"
+        },
+        {
+          "title": "据福克斯新闻记者：此外，很难想象美国或以色列会在2月22日冬奥会结束前对伊朗发动打击。（2014年普京是在索契冬奥会结束后才派兵进入克里米亚；而四年前在北京冬奥会闭幕后，俄罗斯向乌克兰派出了15万大军）",
+          "url": "https://flash.jin10.com/detail/20260217042820518800",
+          "source": "金十数据",
+          "ranks": [
+            10,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时35分 ~ 06时34分]"
+        },
+        {
           "title": "市场消息：美国共和党参议员格雷厄姆会见以色列总理内塔尼亚胡。",
           "url": "https://flash.jin10.com/detail/20260216234955341800",
           "source": "金十数据",
@@ -80,28 +105,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时53分 ~ 01时42分]"
-        },
-        {
-          "title": "古特雷斯谴责以色列决定在约旦河西岸恢复土地登记程序",
-          "url": "https://wallstreetcn.com/livenews/3055832",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时35分"
-        },
-        {
-          "title": "据福克斯新闻记者：此外，很难想象美国或以色列会在2月22日冬奥会结束前对伊朗发动打击。（2014年普京是在索契冬奥会结束后才派兵进入克里米亚；而四年前在北京冬奥会闭幕后，俄罗斯向乌克兰派出了15万大军）",
-          "url": "https://flash.jin10.com/detail/20260217042820518800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时35分"
         }
       ]
     },
@@ -141,11 +144,12 @@
           "url": "https://flash.jin10.com/detail/20260217051005590800",
           "source": "金十数据",
           "ranks": [
-            5
+            5,
+            25
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时35分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时35分 ~ 06时34分]"
         },
         {
           "title": "据伊朗官方媒体：伊朗国家石油公司表示，印度扣押的三艘船只与伊朗毫无关联。",
@@ -212,7 +216,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "OpenClaw创始人加入OpenAI，目标“开发一款连我妈妈都能用的AI助手”",
@@ -223,41 +227,55 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时52分 ~ 05时35分]"
+          "appearance_count": 11,
+          "time_info": "[00时52分 ~ 06时34分]"
         },
         {
           "title": "OpenAI：系统（恢复）全面运作。",
           "url": "https://wallstreetcn.com/livenews/3055842",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1
+            1,
+            11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时35分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时35分 ~ 06时34分]"
         },
         {
           "title": "市场消息：OpenAI当前遭遇一些问题，购物搜索功能陷入宕机状态。",
           "url": "https://flash.jin10.com/detail/20260217050055263800",
           "source": "金十数据",
           "ranks": [
-            6
+            6,
+            26
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时35分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时35分 ~ 06时34分]"
         },
         {
           "title": "OpenAI目前正经历某些问题，购物搜索功能宕机。",
           "url": "https://wallstreetcn.com/livenews/3055834",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            7,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时35分 ~ 06时34分]"
+        },
+        {
+          "title": "OpenAI：系统已恢复全面运作。",
+          "url": "https://flash.jin10.com/detail/20260217052259501800",
+          "source": "金十数据",
+          "ranks": [
+            18
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时35分"
+          "time_info": "06时34分"
         }
       ]
     },
@@ -274,8 +292,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时52分 ~ 05时35分]"
+          "appearance_count": 11,
+          "time_info": "[00时52分 ~ 06时34分]"
         },
         {
           "title": "阿里除夕开源千问3.5：性能媲美Gemini 3 Pro， 实现原生多模态模型代际跃迁",
@@ -284,11 +302,12 @@
           "ranks": [
             7,
             6,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时52分 ~ 05时35分]"
+          "appearance_count": 11,
+          "time_info": "[00时52分 ~ 06时34分]"
         },
         {
           "title": "印度举办AI“影响力”峰会，谷歌、OpenAI等高管预计出席",
@@ -330,11 +349,12 @@
           "url": "https://wallstreetcn.com/livenews/3055833",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            8,
+            18
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时35分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时35分 ~ 06时34分]"
         }
       ]
     }
