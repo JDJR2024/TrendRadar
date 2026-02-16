@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-16T22:47:43.522448+08:00",
-  "total_titles_processed": 1467,
+  "generated_at": "2026-02-16T23:46:13.938467+08:00",
+  "total_titles_processed": 1560,
   "failed_sources": [],
   "trends": [
     {
@@ -18,8 +18,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[15时10分 ~ 22时47分]"
+          "appearance_count": 10,
+          "time_info": "[15时10分 ~ 23时46分]"
         },
         {
           "title": "伊朗外长启程赴会，以总理预设四项条件",
@@ -373,6 +373,139 @@
       ]
     },
     {
+      "keyword_group": "以色列",
+      "match_count": 11,
+      "titles": [
+        {
+          "title": "以色列总检察长：尚未审查内塔尼亚胡赦免请求",
+          "url": "https://wallstreetcn.com/livenews/3055612",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时38分 ~ 07时32分]"
+        },
+        {
+          "title": "内塔尼亚胡：以色列计划10年内停止接受美国资金援助",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32620966",
+          "source": "澎湃新闻",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时50分 ~ 23时46分]"
+        },
+        {
+          "title": "特朗普或支持以色列打击伊朗",
+          "url": "https://news.ifeng.com/c/8qmhQv7Byxy",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时36分 ~ 15时10分]"
+        },
+        {
+          "title": "美官员称美军情报部门讨论支持以色列空袭伊朗",
+          "url": "https://wallstreetcn.com/livenews/3055640",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时32分 ~ 10时37分]"
+        },
+        {
+          "title": "以色列财政部长敦促以色列央行降息。",
+          "url": "https://flash.jin10.com/detail/20260216215414988800",
+          "source": "金十数据",
+          "ranks": [
+            11,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时47分 ~ 23时46分]"
+        },
+        {
+          "title": "以色列统计局：2025年出口增长5.9%，私人消费增长2.6%，投资增长7.1%，公共支出增长1.7%。以色列2025年GDP增长3.1%，高于2024年的1.0%；2025年人均GDP增长1.7%。",
+          "url": "https://flash.jin10.com/detail/20260216190059123800",
+          "source": "金十数据",
+          "ranks": [
+            15,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时50分 ~ 21时14分]"
+        },
+        {
+          "title": "以色列国防军：6名武装分子在拉法地下隧道竖井中被击毙。",
+          "url": "https://flash.jin10.com/detail/20260216183754812800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时01分"
+        },
+        {
+          "title": "印度总理莫迪将在2月25日-26日前往以色列。",
+          "url": "https://flash.jin10.com/detail/20260216195618317800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "21时14分"
+        },
+        {
+          "title": "以色列无人机袭击黎叙边境致4人死亡",
+          "url": "https://wallstreetcn.com/livenews/3055645",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时37分"
+        },
+        {
+          "title": "以色列拟10年后告别美军事资金援助",
+          "url": "https://www.toutiao.com/trending/7607211046742540334/",
+          "source": "今日头条",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "22时47分"
+        },
+        {
+          "title": "市场消息：德国集装箱航运公司赫伯罗特（Hapag-Lloyd）同意以35美元/股的价格现金收购以色列竞争对手ZIM。",
+          "url": "https://flash.jin10.com/detail/20260216221619400800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时46分"
+        }
+      ]
+    },
+    {
       "keyword_group": "chatgpt openai",
       "match_count": 10,
       "titles": [
@@ -388,8 +521,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[13时03分 ~ 22时47分]"
+          "appearance_count": 12,
+          "time_info": "[13时03分 ~ 23时46分]"
         },
         {
           "title": "OpenAI高管：工程师变成“魔法师”，AI将开启新一轮创业狂潮",
@@ -501,129 +634,8 @@
       ]
     },
     {
-      "keyword_group": "以色列",
-      "match_count": 10,
-      "titles": [
-        {
-          "title": "以色列总检察长：尚未审查内塔尼亚胡赦免请求",
-          "url": "https://wallstreetcn.com/livenews/3055612",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时38分 ~ 07时32分]"
-        },
-        {
-          "title": "内塔尼亚胡：以色列计划10年内停止接受美国资金援助",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32620966",
-          "source": "澎湃新闻",
-          "ranks": [
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时50分 ~ 22时47分]"
-        },
-        {
-          "title": "特朗普或支持以色列打击伊朗",
-          "url": "https://news.ifeng.com/c/8qmhQv7Byxy",
-          "source": "凤凰网",
-          "ranks": [
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时36分 ~ 15时10分]"
-        },
-        {
-          "title": "美官员称美军情报部门讨论支持以色列空袭伊朗",
-          "url": "https://wallstreetcn.com/livenews/3055640",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时32分 ~ 10时37分]"
-        },
-        {
-          "title": "以色列统计局：2025年出口增长5.9%，私人消费增长2.6%，投资增长7.1%，公共支出增长1.7%。以色列2025年GDP增长3.1%，高于2024年的1.0%；2025年人均GDP增长1.7%。",
-          "url": "https://flash.jin10.com/detail/20260216190059123800",
-          "source": "金十数据",
-          "ranks": [
-            15,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时50分 ~ 21时14分]"
-        },
-        {
-          "title": "以色列国防军：6名武装分子在拉法地下隧道竖井中被击毙。",
-          "url": "https://flash.jin10.com/detail/20260216183754812800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时01分"
-        },
-        {
-          "title": "印度总理莫迪将在2月25日-26日前往以色列。",
-          "url": "https://flash.jin10.com/detail/20260216195618317800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时14分"
-        },
-        {
-          "title": "以色列财政部长敦促以色列央行降息。",
-          "url": "https://flash.jin10.com/detail/20260216215414988800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时47分"
-        },
-        {
-          "title": "以色列无人机袭击黎叙边境致4人死亡",
-          "url": "https://wallstreetcn.com/livenews/3055645",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时37分"
-        },
-        {
-          "title": "以色列拟10年后告别美军事资金援助",
-          "url": "https://www.toutiao.com/trending/7607211046742540334/",
-          "source": "今日头条",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时47分"
-        }
-      ]
-    },
-    {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "谷歌债券遭全球疯抢 但保护条款“缺席”引发隐忧",
@@ -661,11 +673,12 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时50分 ~ 22时47分]"
+          "appearance_count": 5,
+          "time_info": "[19时50分 ~ 23时46分]"
         },
         {
           "title": "阿里发布千问3.5，性能媲美Gemini 3， Token价格仅为其1/18",
@@ -681,6 +694,17 @@
           "time_info": "[18时01分 ~ 19时50分]"
         },
         {
+          "title": "阿里除夕开源千问3.5：性能媲美Gemini 3 Pro， 实现原生多模态模型代际跃迁",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32621821",
+          "source": "澎湃新闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时45分 ~ 23时46分]"
+        },
+        {
           "title": "千问3.5成本仅为谷歌大模型5%",
           "url": "https://s.weibo.com/weibo?q=%23%E5%8D%83%E9%97%AE3.5%E6%88%90%E6%9C%AC%E4%BB%85%E4%B8%BA%E8%B0%B7%E6%AD%8C%E5%A4%A7%E6%A8%A1%E5%9E%8B5%25%23&t=31&band_rank=18&Refer=top",
           "source": "微博",
@@ -694,36 +718,8 @@
       ]
     },
     {
-      "keyword_group": "美债",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "避险模式！大摩：市场开始买美债了",
-          "url": "https://wallstreetcn.com/articles/3765775",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时01分 ~ 22时47分]"
-        },
-        {
-          "title": "大摩：市场开始买美债了",
-          "url": "https://www.toutiao.com/trending/7607327141323083327/",
-          "source": "今日头条",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时10分"
-        }
-      ]
-    },
-    {
       "keyword_group": "美股",
-      "match_count": 2,
+      "match_count": 4,
       "titles": [
         {
           "title": "金十整理：下周重要事件与数据预告——美联储会议纪要携PCE数据登场，中国与多地市场因春节假期休市、美股周一因美国总统日休市一日",
@@ -751,6 +747,56 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[16时55分 ~ 21时14分]"
+        },
+        {
+          "title": "提醒：美股今日因假期休市一天。",
+          "url": "https://wallstreetcn.com/livenews/3055774",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时46分"
+        },
+        {
+          "title": "美股今日休市一天",
+          "url": "https://flash.jin10.com/detail/20260216222506509800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时46分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "避险模式！大摩：市场开始买美债了",
+          "url": "https://wallstreetcn.com/articles/3765775",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时01分 ~ 23时46分]"
+        },
+        {
+          "title": "大摩：市场开始买美债了",
+          "url": "https://www.toutiao.com/trending/7607327141323083327/",
+          "source": "今日头条",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时10分"
         }
       ]
     },
