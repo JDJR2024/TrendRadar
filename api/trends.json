@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-18T22:51:53.723484+08:00",
-  "total_titles_processed": 1726,
+  "generated_at": "2026-02-18T23:57:55.677518+08:00",
+  "total_titles_processed": 1820,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 32,
+      "match_count": 35,
       "titles": [
         {
           "title": "伊朗谈判新策略曝光：与美联合开发油气田、矿区，采购美飞机，“让美国能快速获得高额经济回报”！",
@@ -50,8 +50,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时57分 ~ 22时51分]"
+          "appearance_count": 11,
+          "time_info": "[12时57分 ~ 23时57分]"
         },
         {
           "title": "万斯：美方向伊朗划定“红线”",
@@ -168,6 +168,18 @@
           "time_info": "[04时43分 ~ 05时41分]"
         },
         {
+          "title": "伊朗将迅速落实伊俄全面战略合作计划",
+          "url": "https://www.toutiao.com/trending/7607948856885624895/",
+          "source": "今日头条",
+          "ranks": [
+            7,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时15分 ~ 23时57分]"
+        },
+        {
           "title": "伊朗外长要求美国停止动武威胁",
           "url": "https://wallstreetcn.com/livenews/3056206",
           "source": "华尔街见闻-快讯",
@@ -192,17 +204,6 @@
           "time_info": "[03时37分 ~ 04时43分]"
         },
         {
-          "title": "伊朗将迅速落实伊俄全面战略合作计划",
-          "url": "https://www.toutiao.com/trending/7607948856885624895/",
-          "source": "今日头条",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时15分"
-        },
-        {
           "title": "美国副总统万斯：但伊朗人尚未愿意承认特朗普设定的某些红线。",
           "url": "https://flash.jin10.com/detail/20260218041935194800",
           "source": "金十数据",
@@ -212,6 +213,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时43分"
+        },
+        {
+          "title": "伊朗首都附近发生火灾，靠近军事设施",
+          "url": "https://flash.jin10.com/detail/20260218232706815800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时57分"
         },
         {
           "title": "美国副总统万斯：在某些方面，伊朗谈判进展顺利。",
@@ -225,6 +237,17 @@
           "time_info": "04时43分"
         },
         {
+          "title": "伊朗与俄罗斯将举行海上联合军演",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32629571",
+          "source": "澎湃新闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时57分"
+        },
+        {
           "title": "据NBC新闻：美国官员表示，伊朗称将在两周内带来“详细提案，以解决我们立场中的一些开放性差距。”",
           "url": "https://flash.jin10.com/detail/20260218050959244800",
           "source": "金十数据",
@@ -234,6 +257,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时41分"
+        },
+        {
+          "title": "伊朗首都德黑兰附近的帕兰德发生火灾。",
+          "url": "https://flash.jin10.com/detail/20260218230908167800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时57分"
         },
         {
           "title": "伊朗将在未来两周向美国递交详细方案。（Axios）",
@@ -319,7 +353,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时51分"
         },
@@ -382,7 +416,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 24,
+      "match_count": 30,
       "titles": [
         {
           "title": "AI担忧仍存，美股走V微涨，软件股再遭抛售，金银油下挫，期银跌近6%",
@@ -393,8 +427,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[10时36分 ~ 22时51分]"
+          "appearance_count": 12,
+          "time_info": "[10时36分 ~ 23时57分]"
         },
         {
           "title": "“AI恐慌交易”持续发酵 美股三大期指小幅走低 | 今夜看点",
@@ -407,8 +441,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[01时07分 ~ 22时51分]"
+          "appearance_count": 21,
+          "time_info": "[01时07分 ~ 23时57分]"
         },
         {
           "title": "美股休市，科技股拖累欧股反弹，黄金失去“中国动力”失守5000美元，人民币涨破6.89",
@@ -428,11 +462,12 @@
           "ranks": [
             11,
             9,
-            10
+            10,
+            12
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[10时36分 ~ 22时51分]"
+          "appearance_count": 12,
+          "time_info": "[10时36分 ~ 23时57分]"
         },
         {
           "title": "AI担忧仍存，美股走V微涨，软件股再遭抛售，大宗商品普跌，英央行降息预期上升，英镑一度跳水1%",
@@ -457,6 +492,18 @@
           "time_info": "[17时55分 ~ 18时53分]"
         },
         {
+          "title": "摩根大通交易台：“先卖再问”的美股AI抛售潮即将结束，抄底软件股的时候到了",
+          "url": "https://wallstreetcn.com/articles/3765829",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时55分 ~ 23时57分]"
+        },
+        {
           "title": "金十图示：2026年02月17日（周二）美股热门股票行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20260218052500000800",
           "source": "金十数据",
@@ -466,6 +513,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时41分"
+        },
+        {
+          "title": "美股三大指数小幅高开，黄金收复5000，白银日内涨5%，原油上涨3%",
+          "url": "https://wallstreetcn.com/articles/3765834",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时57分"
         },
         {
           "title": "金十图示：2026年02月17日（周二）热门中概股行情一览（美股收盘）",
@@ -485,7 +543,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时51分"
         },
@@ -518,21 +576,9 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时51分"
-        },
-        {
-          "title": "摩根大通交易台：“先卖再问”的美股AI抛售潮即将结束，抄底软件股的时候到了",
-          "url": "https://wallstreetcn.com/articles/3765829",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时55分 ~ 22时51分]"
         },
         {
           "title": "美股大类资产类ETF多数下跌，黄金ETF收跌超3.1%，地产ETF涨超0.9%",
@@ -583,6 +629,17 @@
           "time_info": "[07时14分 ~ 07时35分]"
         },
         {
+          "title": "美股两房涨幅扩大",
+          "url": "https://wallstreetcn.com/livenews/3056379",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时57分"
+        },
+        {
           "title": "日用品ETF收跌超1.4%，领跌美股行业ETF，标普能源板块跌约1.4%",
           "url": "https://wallstreetcn.com/livenews/3056131",
           "source": "华尔街见闻-快讯",
@@ -592,6 +649,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时41分"
+        },
+        {
+          "title": "美股三大期指集体走高 美联储将公布1月会议纪要 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2291551",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时57分"
+        },
+        {
+          "title": "房利美股价迅速扩大涨幅，上涨4%。",
+          "url": "https://flash.jin10.com/detail/20260218231319433800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时57分"
         },
         {
           "title": "凯撒娱乐（CZR）美股盘后涨超3%。 该公司四季度同店净营收29.2亿美元，分析师预期28.9亿美元。 四季度同店调整后EBITDA为9.01亿美元，分析师预期9.001亿美元。",
@@ -644,9 +723,20 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时51分"
+        },
+        {
+          "title": "美股盘初，主要行业ETF涨跌不一，能源业ETF、区域银行业ETF涨超1%，公用事业ETF跌近1%。",
+          "url": "https://wallstreetcn.com/livenews/3056367",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时57分"
         },
         {
           "title": "金十数据整理：每日美股市场要闻速递（2026-02-18）",
@@ -655,15 +745,26 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时51分"
+        },
+        {
+          "title": "美股盘初：黄金股、热门中概股普涨，英伟达涨约2%",
+          "url": "https://wallstreetcn.com/livenews/3056361",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时57分"
         }
       ]
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "谷歌I/O开发者大会将于5月19日至20日举办",
@@ -735,6 +836,17 @@
           "time_info": "01时07分"
         },
         {
+          "title": "谷歌：推出499美元的Pixel 10A智能手机，价格保持不变。",
+          "url": "https://flash.jin10.com/detail/20260218230854451800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时57分"
+        },
+        {
           "title": "Alphabet旗下谷歌公司计划从可再生能源公司Ormat Technologies获取电力供应，来支持自家在美国内华达州的一系列数据中心的运作。 根据协议，Ormat将向谷歌供应至多150 MW的电力。",
           "url": "https://wallstreetcn.com/livenews/3056046",
           "source": "华尔街见闻-快讯",
@@ -755,6 +867,59 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时53分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "以色列",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "八国联合谴责以色列",
+          "url": "https://www.toutiao.com/trending/7607792193613807667/",
+          "source": "今日头条",
+          "ranks": [
+            10,
+            25,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时07分 ~ 07时14分]"
+        },
+        {
+          "title": "市场消息：两架美国E-3C哨兵预警机飞越以色列特拉维夫上空，前往沙特苏丹王子空军基地。",
+          "url": "https://flash.jin10.com/detail/20260218233508035800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时57分"
+        },
+        {
+          "title": "以色列媒体称以方正为“美伊谈判破裂可能性”做准备",
+          "url": "https://wallstreetcn.com/livenews/3056208",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时58分 ~ 14时07分]"
+        },
+        {
+          "title": "以色列媒体称以方正为“美伊谈判破裂可能性”做准备",
+          "url": "https://flash.jin10.com/detail/20260218114753284800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时58分"
         }
       ]
     },
@@ -837,48 +1002,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时07分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "以色列",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "八国联合谴责以色列",
-          "url": "https://www.toutiao.com/trending/7607792193613807667/",
-          "source": "今日头条",
-          "ranks": [
-            10,
-            25,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时07分 ~ 07时14分]"
-        },
-        {
-          "title": "以色列媒体称以方正为“美伊谈判破裂可能性”做准备",
-          "url": "https://wallstreetcn.com/livenews/3056208",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时58分 ~ 14时07分]"
-        },
-        {
-          "title": "以色列媒体称以方正为“美伊谈判破裂可能性”做准备",
-          "url": "https://flash.jin10.com/detail/20260218114753284800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时58分"
         }
       ]
     },
