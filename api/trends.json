@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-20T22:43:44.888046+08:00",
-  "total_titles_processed": 1701,
+  "generated_at": "2026-02-20T23:41:40.849490+08:00",
+  "total_titles_processed": 1793,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 56,
+      "match_count": 58,
       "titles": [
         {
           "title": "这一次不一样？美军做好“最早本周末打击伊朗”准备，油价会如何？",
@@ -85,11 +85,12 @@
             8,
             9,
             21,
-            25
+            25,
+            18
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[13时57分 ~ 22时43分]"
+          "appearance_count": 13,
+          "time_info": "[13时57分 ~ 23时41分]"
         },
         {
           "title": "美军在中东集结近 23 年来最大空中兵力，伊朗致信联合国称若遭军事侵略将反击，局势会怎样发展？",
@@ -100,8 +101,20 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[12时51分 ~ 22时43分]"
+          "appearance_count": 14,
+          "time_info": "[12时51分 ~ 23时41分]"
+        },
+        {
+          "title": "伊朗石油部长：与美国石油合作并非不可能",
+          "url": "https://news.ifeng.com/c/8qtwXLy365G",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[19时36分 ~ 23时41分]"
         },
         {
           "title": "原油贵金属大幅收涨 消息称美以或将联合袭击伊朗 | 环球市场",
@@ -114,8 +127,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[00时59分 ~ 22时43分]"
+          "appearance_count": 26,
+          "time_info": "[00时59分 ~ 23时41分]"
         },
         {
           "title": "美设定“3月中旬”期限：对伊朗兵力将部署到位，战云逼近？",
@@ -194,18 +207,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[01时56分 ~ 07时48分]"
-        },
-        {
-          "title": "伊朗石油部长：与美国石油合作并非不可能",
-          "url": "https://news.ifeng.com/c/8qtwXLy365G",
-          "source": "凤凰网",
-          "ranks": [
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时36分 ~ 22时43分]"
         },
         {
           "title": "对于伊朗和油价，特朗普是“自信过头”还是“姿态做足”？",
@@ -525,7 +526,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时43分"
         },
@@ -550,6 +551,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "21时09分"
+        },
+        {
+          "title": "特朗普称在考虑有限打击伊朗",
+          "url": "https://wallstreetcn.com/livenews/3056976",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时41分"
         },
         {
           "title": "三名硅谷工程师被控将敏感数据传输到伊朗",
@@ -618,13 +630,24 @@
           "time_info": "18时43分"
         },
         {
+          "title": "美国官员表示，美国针对伊朗的军事规划已高度成熟。",
+          "url": "https://flash.jin10.com/detail/20260220230553820800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时41分"
+        },
+        {
           "title": "伊朗外长：将在三天内确定与美方的协议草案",
           "url": "https://wallstreetcn.com/livenews/3056946",
           "source": "华尔街见闻-快讯",
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时43分"
         },
@@ -635,7 +658,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时43分"
         },
@@ -698,7 +721,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 20,
+      "match_count": 21,
       "titles": [
         {
           "title": "科技股拖累美股，金融股砸盘，美伊开打危险撑原油至半年新高，降息分歧压制黄金涨势",
@@ -710,8 +733,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[06时37分 ~ 22时43分]"
+          "appearance_count": 17,
+          "time_info": "[06时37分 ~ 23时41分]"
         },
         {
           "title": "美股三大指数高开后悉数转跌，明星科技股普跌，黄金站上5000美元",
@@ -736,8 +759,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[10时31分 ~ 22时43分]"
+          "appearance_count": 15,
+          "time_info": "[10时31分 ~ 23时41分]"
         },
         {
           "title": "“AI恐慌交易”持续发酵 美股三大期指小幅走低 | 今夜看点",
@@ -772,11 +795,12 @@
           "ranks": [
             8,
             7,
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[16时49分 ~ 22时43分]"
+          "appearance_count": 11,
+          "time_info": "[16时49分 ~ 23时41分]"
         },
         {
           "title": "美股三大期指集体走高 美联储将公布1月会议纪要 | 今夜看点",
@@ -788,8 +812,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[00时59分 ~ 22时43分]"
+          "appearance_count": 26,
+          "time_info": "[00时59分 ~ 23时41分]"
         },
         {
           "title": "美股收盘：“七巨头”集体走高 三大指数齐收涨",
@@ -801,8 +825,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[00时59分 ~ 22时43分]"
+          "appearance_count": 26,
+          "time_info": "[00时59分 ~ 23时41分]"
         },
         {
           "title": "美股收盘：三大指数小幅收升 英伟达Meta深化合作关系",
@@ -827,15 +851,17 @@
           "time_info": "05时39分"
         },
         {
-          "title": "周五美股盘前你需要了解的全球要闻",
-          "url": "https://wallstreetcn.com/livenews/3056969",
-          "source": "华尔街见闻-快讯",
+          "title": "静候“美联储最爱通胀指标”，美股期货转跌，黄金站上5040美元，白银突破81美元",
+          "url": "https://wallstreetcn.com/articles/3765902",
+          "source": "华尔街见闻",
           "ranks": [
-            3
+            10,
+            8,
+            5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时43分"
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[21时08分 ~ 23时41分]"
         },
         {
           "title": "金十图示：2026年02月19日（周四）热门中概股行情一览（美股收盘）",
@@ -855,7 +881,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时43分"
         },
@@ -882,6 +908,18 @@
           "time_info": "05时39分"
         },
         {
+          "title": "周五美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3056969",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时43分 ~ 23时41分]"
+        },
+        {
           "title": "美股大类资产类ETF涨跌各异，布油基金涨超2.2%",
           "url": "https://wallstreetcn.com/livenews/3056806",
           "source": "华尔街见闻-快讯",
@@ -892,18 +930,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时37分 ~ 07时48分]"
-        },
-        {
-          "title": "静候“美联储最爱通胀指标”，美股期货转跌，黄金站上5040美元，白银突破81美元",
-          "url": "https://wallstreetcn.com/articles/3765902",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时08分 ~ 22时43分]"
         },
         {
           "title": "AppLovin美股盘后涨6.6%。",
@@ -936,9 +962,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时43分"
+        },
+        {
+          "title": "美国通胀压力依然顽固，美股三大股指集体走低",
+          "url": "https://wallstreetcn.com/livenews/3056973",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时41分"
         }
       ]
     },
@@ -958,17 +995,6 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时59分 ~ 10时31分]"
-        },
-        {
-          "title": "OpenAI智能音箱售价或定在200至300美元之间。（The Information）",
-          "url": "https://wallstreetcn.com/livenews/3056968",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时43分"
         },
         {
           "title": "OpenAI CEO Sam Altman：对儿童社交媒体的限制将是好事。",
@@ -992,6 +1018,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时48分 ~ 10时31分]"
+        },
+        {
+          "title": "OpenAI智能音箱售价或定在200至300美元之间。（The Information）",
+          "url": "https://wallstreetcn.com/livenews/3056968",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时43分 ~ 23时41分]"
         },
         {
           "title": "英国政府：OpenAI和微软(MSFT.O)承诺为人工智能安全研究所的旗舰对齐项目提供新资金。",
@@ -1060,7 +1098,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时43分"
         },
@@ -1071,7 +1109,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时43分"
         },
@@ -1290,6 +1328,35 @@
       ]
     },
     {
+      "keyword_group": "美元",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "周四（2月19日）纽约尾盘，ICE美元指数涨0.20%，报97.894点，北京时间17:08跌至97.572点刷新日低，随后逐步上扬，22:25刷新日高至98.074点。 彭博美元指数涨0.16%，报1191.07点，日内交投区间为1188.01-1192.71点。",
+          "url": "https://wallstreetcn.com/livenews/3056755",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时43分 ~ 05时39分]"
+        },
+        {
+          "title": "美元指数DXY短线下挫20点，最低至97.71。",
+          "url": "https://flash.jin10.com/detail/20260220230300265800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时41分"
+        }
+      ]
+    },
+    {
       "keyword_group": "DeepSeek 梁文锋",
       "match_count": 1,
       "titles": [
@@ -1304,24 +1371,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时59分 ~ 01时57分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美元",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "周四（2月19日）纽约尾盘，ICE美元指数涨0.20%，报97.894点，北京时间17:08跌至97.572点刷新日低，随后逐步上扬，22:25刷新日高至98.074点。 彭博美元指数涨0.16%，报1191.07点，日内交投区间为1188.01-1192.71点。",
-          "url": "https://wallstreetcn.com/livenews/3056755",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时43分 ~ 05时39分]"
         }
       ]
     }
