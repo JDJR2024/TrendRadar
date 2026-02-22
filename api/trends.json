@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-22T21:51:21.266234+08:00",
-  "total_titles_processed": 1204,
+  "generated_at": "2026-02-22T22:32:28.820692+08:00",
+  "total_titles_processed": 1267,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 40,
+      "match_count": 42,
       "titles": [
         {
           "title": "中东睿评｜美以与伊朗博弈的混沌状态只能靠战争才能打破吗？",
@@ -18,8 +18,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[12时53分 ~ 21时51分]"
+          "appearance_count": 15,
+          "time_info": "[12时53分 ~ 22时32分]"
         },
         {
           "title": "特朗普称伊朗骚乱致3.2万反政府人士死亡，伊外长驳斥",
@@ -90,6 +90,20 @@
           "time_info": "[12时53分 ~ 19时27分]"
         },
         {
+          "title": "持续放风试探，美官员称或对伊朗发动针对特定个人的军事打击",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32641921",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            18,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[16时39分 ~ 22时32分]"
+        },
+        {
           "title": "伊朗总统佩泽希齐扬：克服敌人不公正行为的方式在于恢复国家团结与凝聚力，我们将克服这些动荡，最终的胜利将属于伊朗人民。",
           "url": "https://flash.jin10.com/detail/20260221222723330800",
           "source": "金十数据",
@@ -124,20 +138,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时35分 ~ 10时36分]"
-        },
-        {
-          "title": "持续放风试探，美官员称或对伊朗发动针对特定个人的军事打击",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32641921",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            18,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时39分 ~ 21时51分]"
         },
         {
           "title": "“谈判陷入僵局”，外媒爆料：伊朗外长拒绝打开美方装有导弹提议的信函，并将其退回",
@@ -226,6 +226,17 @@
           "time_info": "[12时53分 ~ 15时39分]"
         },
         {
+          "title": "曝伊朗革命卫队已接管黎巴嫩真主党",
+          "url": "https://www.toutiao.com/trending/7608787946786996230/",
+          "source": "今日头条",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时32分"
+        },
+        {
           "title": "伊朗外长驳斥特朗普涉伊朗骚乱伤亡人数言论",
           "url": "https://flash.jin10.com/detail/20260222113538527800",
           "source": "金十数据",
@@ -269,6 +280,21 @@
           "time_info": "[13时56分 ~ 16时39分]"
         },
         {
+          "title": "美国总统特使：特朗普感到“好奇”，“伊朗为何还没有屈服”",
+          "url": "https://wallstreetcn.com/livenews/3057256",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            13,
+            14,
+            15,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时31分 ~ 22时32分]"
+        },
+        {
           "title": "美国总统特使：伊朗可能“大概一周内”就能生产出工业级炸弹",
           "url": "https://flash.jin10.com/detail/20260222172455189800",
           "source": "金十数据",
@@ -281,6 +307,21 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[18时31分 ~ 21时51分]"
+        },
+        {
+          "title": "伊朗官员称伊朗与美国在解除制裁问题上存在分歧，计划于3月初举行新一轮会谈。（路透）",
+          "url": "https://wallstreetcn.com/livenews/3057255",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            14,
+            15,
+            16,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时31分 ~ 22时32分]"
         },
         {
           "title": "市场消息：伊朗外长阿拉格奇和国际原子能机构总干事格罗西通过电话讨论了美伊谈判。",
@@ -320,34 +361,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时30分 ~ 10时36分]"
-        },
-        {
-          "title": "美国总统特使：特朗普感到“好奇”，“伊朗为何还没有屈服”",
-          "url": "https://wallstreetcn.com/livenews/3057256",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            13,
-            14,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时31分 ~ 21时51分]"
-        },
-        {
-          "title": "伊朗官员称伊朗与美国在解除制裁问题上存在分歧，计划于3月初举行新一轮会谈。（路透）",
-          "url": "https://wallstreetcn.com/livenews/3057255",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            14,
-            15,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时31分 ~ 21时51分]"
         },
         {
           "title": "伊朗高级官员：伊朗与美国在制裁减免问题上存在分歧",
@@ -475,6 +488,17 @@
           "time_info": "[07时30分 ~ 10时36分]"
         },
         {
+          "title": "伊朗总统：伊朗人民绝不会向霸凌屈服",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32641336",
+          "source": "澎湃新闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时51分 ~ 22时32分]"
+        },
+        {
           "title": "英国《卫报》：伊朗拒绝出口其高浓缩铀库存",
           "url": "https://flash.jin10.com/detail/20260222192934431800",
           "source": "金十数据",
@@ -510,21 +534,21 @@
           "time_info": "10时36分"
         },
         {
-          "title": "伊朗总统：伊朗人民绝不会向霸凌屈服",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32641336",
-          "source": "澎湃新闻",
+          "title": "据AXIOS网站：如果伊朗尽快提交核方案，美伊谈判预计将于下周五举行。",
+          "url": "https://flash.jin10.com/detail/20260222220602460800",
+          "source": "金十数据",
           "ranks": [
-            10
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "21时51分"
+          "time_info": "22时32分"
         }
       ]
     },
     {
       "keyword_group": "以色列",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "美大使：以色列拿下整个中东，也没问题",
@@ -573,11 +597,12 @@
             8,
             15,
             16,
-            17
+            17,
+            21
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时37分 ~ 21时51分]"
+          "appearance_count": 6,
+          "time_info": "[17时37分 ~ 22时32分]"
         },
         {
           "title": "以色列称不会向所谓“和平委员会”提供资金",
@@ -606,6 +631,19 @@
           "time_info": "[07时30分 ~ 10时36分]"
         },
         {
+          "title": "以色列总理内塔尼亚胡：计划在中东地区或内部建立联盟体系。",
+          "url": "https://flash.jin10.com/detail/20260222194243581800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            8,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时00分 ~ 22时32分]"
+        },
+        {
           "title": "伊朗国防消息人士：特朗普在西亚的扩张是针对伊朗和阿拉伯国家的“勒索”；伊朗不会陷入漫长且徒劳的谈判进程；如果美国或以色列发动战争，伊朗的反应将是广泛且无限制的。",
           "url": "https://flash.jin10.com/detail/20260222162245388800",
           "source": "金十数据",
@@ -619,18 +657,6 @@
           "time_info": "[17时37分 ~ 19时27分]"
         },
         {
-          "title": "以色列总理内塔尼亚胡：计划在中东地区或内部建立联盟体系。",
-          "url": "https://flash.jin10.com/detail/20260222194243581800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时00分 ~ 21时51分]"
-        },
-        {
           "title": "约旦谴责美国驻以色列大使“荒谬”言论",
           "url": "https://wallstreetcn.com/livenews/3057204",
           "source": "华尔街见闻-快讯",
@@ -640,6 +666,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时30分"
+        },
+        {
+          "title": "市场消息：以色列总理内塔尼亚胡将与国防高层举行安全会议，之后将召开安全内阁会议。",
+          "url": "https://flash.jin10.com/detail/20260222213335868800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时32分"
         },
         {
           "title": "沙特谴责美国驻以色列大使言论",
@@ -681,8 +718,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 26,
-          "time_info": "[00时35分 ~ 21时51分]"
+          "appearance_count": 27,
+          "time_info": "[00时35分 ~ 22时32分]"
         },
         {
           "title": "过去30年来未见之局面！美股指数波动之小创1960年来之最，而个股波动率却高达指数7倍",
@@ -697,8 +734,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[13时55分 ~ 21时51分]"
+          "appearance_count": 14,
+          "time_info": "[13时55分 ~ 22时32分]"
         },
         {
           "title": "美股收盘：多重利空压顶华尔街情绪恶化 三大指数集体下跌",
@@ -750,11 +787,12 @@
             14,
             16,
             17,
-            27
+            27,
+            21
           ],
           "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[00时35分 ~ 21时51分]"
+          "appearance_count": 26,
+          "time_info": "[00时35分 ~ 22时32分]"
         },
         {
           "title": "都想学英伟达“芯片换融资”，谷歌和AMD都要扶持“AI云”",
@@ -782,8 +820,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 26,
-          "time_info": "[00时35分 ~ 21时51分]"
+          "appearance_count": 27,
+          "time_info": "[00时35分 ~ 22时32分]"
         },
         {
           "title": "表面风光之下，OpenAI的“四大困境”",
@@ -796,8 +834,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[15时39分 ~ 21时51分]"
+          "appearance_count": 10,
+          "time_info": "[15时39分 ~ 22时32分]"
         },
         {
           "title": "传言成真？英伟达对OpenAI的“1000亿美元投资”最终“打了三折”",
@@ -831,8 +869,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[10时36分 ~ 21时51分]"
+          "appearance_count": 16,
+          "time_info": "[10时36分 ~ 22时32分]"
         }
       ]
     },
