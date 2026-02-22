@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-22T21:00:38.899130+08:00",
-  "total_titles_processed": 1155,
+  "generated_at": "2026-02-22T21:51:21.266234+08:00",
+  "total_titles_processed": 1204,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 39,
+      "match_count": 40,
       "titles": [
         {
           "title": "中东睿评｜美以与伊朗博弈的混沌状态只能靠战争才能打破吗？",
@@ -14,11 +14,12 @@
           "ranks": [
             6,
             5,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[12时53分 ~ 21时00分]"
+          "appearance_count": 14,
+          "time_info": "[12时53分 ~ 21时51分]"
         },
         {
           "title": "特朗普称伊朗骚乱致3.2万反政府人士死亡，伊外长驳斥",
@@ -125,6 +126,20 @@
           "time_info": "[00时35分 ~ 10时36分]"
         },
         {
+          "title": "持续放风试探，美官员称或对伊朗发动针对特定个人的军事打击",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32641921",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            18,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[16时39分 ~ 21时51分]"
+        },
+        {
           "title": "“谈判陷入僵局”，外媒爆料：伊朗外长拒绝打开美方装有导弹提议的信函，并将其退回",
           "url": "https://wallstreetcn.com/livenews/3057181",
           "source": "华尔街见闻-快讯",
@@ -171,20 +186,6 @@
           "time_info": "[00时35分 ~ 07时30分]"
         },
         {
-          "title": "持续放风试探，美官员称或对伊朗发动针对特定个人的军事打击",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32641921",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            18,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时39分 ~ 21时00分]"
-        },
-        {
           "title": "学者：伊朗低估了局势严重性",
           "url": "https://www.toutiao.com/trending/7609505260092001838/",
           "source": "今日头条",
@@ -194,6 +195,21 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时55分 ~ 13时56分]"
+        },
+        {
+          "title": "美国总统特使：特朗普很好奇伊朗为什么还没有屈服？",
+          "url": "https://flash.jin10.com/detail/20260222171300975800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            6,
+            15,
+            28,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时37分 ~ 21时51分]"
         },
         {
           "title": "伊朗",
@@ -225,20 +241,6 @@
           "time_info": "[12时53分 ~ 16时39分]"
         },
         {
-          "title": "美国总统特使：特朗普很好奇伊朗为什么还没有屈服？",
-          "url": "https://flash.jin10.com/detail/20260222171300975800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            6,
-            15,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时37分 ~ 21时00分]"
-        },
-        {
           "title": "美媒：特朗普身边几人建议不要轰炸伊朗 参议员格雷厄姆持反对意见",
           "url": "https://flash.jin10.com/detail/20260222130132829800",
           "source": "金十数据",
@@ -267,6 +269,20 @@
           "time_info": "[13时56分 ~ 16时39分]"
         },
         {
+          "title": "美国总统特使：伊朗可能“大概一周内”就能生产出工业级炸弹",
+          "url": "https://flash.jin10.com/detail/20260222172455189800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            13,
+            26,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时31分 ~ 21时51分]"
+        },
+        {
           "title": "市场消息：伊朗外长阿拉格奇和国际原子能机构总干事格罗西通过电话讨论了美伊谈判。",
           "url": "https://flash.jin10.com/detail/20260222160427817800",
           "source": "金十数据",
@@ -286,24 +302,12 @@
           "source": "金十数据",
           "ranks": [
             1,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时27分 ~ 21时00分]"
-        },
-        {
-          "title": "美国总统特使：伊朗可能“大概一周内”就能生产出工业级炸弹",
-          "url": "https://flash.jin10.com/detail/20260222172455189800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            13,
-            26
+            14,
+            16
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[18时31分 ~ 21时00分]"
+          "time_info": "[19时27分 ~ 21时51分]"
         },
         {
           "title": "伊朗总统：伊朗人民绝不会向霸凌屈服",
@@ -316,6 +320,34 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时30分 ~ 10时36分]"
+        },
+        {
+          "title": "美国总统特使：特朗普感到“好奇”，“伊朗为何还没有屈服”",
+          "url": "https://wallstreetcn.com/livenews/3057256",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            13,
+            14,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时31分 ~ 21时51分]"
+        },
+        {
+          "title": "伊朗官员称伊朗与美国在解除制裁问题上存在分歧，计划于3月初举行新一轮会谈。（路透）",
+          "url": "https://wallstreetcn.com/livenews/3057255",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            14,
+            15,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时31分 ~ 21时51分]"
         },
         {
           "title": "伊朗高级官员：伊朗与美国在制裁减免问题上存在分歧",
@@ -331,19 +363,6 @@
           "time_info": "[17时37分 ~ 19时27分]"
         },
         {
-          "title": "美国总统特使：特朗普感到“好奇”，“伊朗为何还没有屈服”",
-          "url": "https://wallstreetcn.com/livenews/3057256",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            13,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时31分 ~ 21时00分]"
-        },
-        {
           "title": "伊朗高级官员：美国公司始终可以作为承包商参与伊朗的油气田开发。",
           "url": "https://flash.jin10.com/detail/20260222163551859800",
           "source": "金十数据",
@@ -355,19 +374,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[17时37分 ~ 19时27分]"
-        },
-        {
-          "title": "伊朗官员称伊朗与美国在解除制裁问题上存在分歧，计划于3月初举行新一轮会谈。（路透）",
-          "url": "https://wallstreetcn.com/livenews/3057255",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            14,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时31分 ~ 21时00分]"
         },
         {
           "title": "伊朗高级官员：伊朗不会将其石油和矿产资源的控制权移交美国。",
@@ -469,6 +475,18 @@
           "time_info": "[07时30分 ~ 10时36分]"
         },
         {
+          "title": "英国《卫报》：伊朗拒绝出口其高浓缩铀库存",
+          "url": "https://flash.jin10.com/detail/20260222192934431800",
+          "source": "金十数据",
+          "ranks": [
+            12,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时00分 ~ 21时51分]"
+        },
+        {
           "title": "伊朗将所有欧盟国家海军和空军列为“恐怖组织”",
           "url": "https://flash.jin10.com/detail/20260222081201154800",
           "source": "金十数据",
@@ -492,15 +510,15 @@
           "time_info": "10时36分"
         },
         {
-          "title": "英国《卫报》：伊朗拒绝出口其高浓缩铀库存",
-          "url": "https://flash.jin10.com/detail/20260222192934431800",
-          "source": "金十数据",
+          "title": "伊朗总统：伊朗人民绝不会向霸凌屈服",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32641336",
+          "source": "澎湃新闻",
           "ranks": [
-            12
+            10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "21时00分"
+          "time_info": "21时51分"
         }
       ]
     },
@@ -554,11 +572,12 @@
             1,
             8,
             15,
-            16
+            16,
+            17
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时37分 ~ 21时00分]"
+          "appearance_count": 5,
+          "time_info": "[17时37分 ~ 21时51分]"
         },
         {
           "title": "以色列称不会向所谓“和平委员会”提供资金",
@@ -604,11 +623,12 @@
           "url": "https://flash.jin10.com/detail/20260222194243581800",
           "source": "金十数据",
           "ranks": [
-            6
+            6,
+            8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时00分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时00分 ~ 21时51分]"
         },
         {
           "title": "约旦谴责美国驻以色列大使“荒谬”言论",
@@ -661,8 +681,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[00时35分 ~ 21时00分]"
+          "appearance_count": 26,
+          "time_info": "[00时35分 ~ 21时51分]"
         },
         {
           "title": "过去30年来未见之局面！美股指数波动之小创1960年来之最，而个股波动率却高达指数7倍",
@@ -677,8 +697,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[13时55分 ~ 21时00分]"
+          "appearance_count": 13,
+          "time_info": "[13时55分 ~ 21时51分]"
         },
         {
           "title": "美股收盘：多重利空压顶华尔街情绪恶化 三大指数集体下跌",
@@ -733,8 +753,8 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[00时35分 ~ 21时00分]"
+          "appearance_count": 25,
+          "time_info": "[00时35分 ~ 21时51分]"
         },
         {
           "title": "都想学英伟达“芯片换融资”，谷歌和AMD都要扶持“AI云”",
@@ -762,8 +782,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[00时35分 ~ 21时00分]"
+          "appearance_count": 26,
+          "time_info": "[00时35分 ~ 21时51分]"
         },
         {
           "title": "表面风光之下，OpenAI的“四大困境”",
@@ -776,8 +796,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[15时39分 ~ 21时00分]"
+          "appearance_count": 9,
+          "time_info": "[15时39分 ~ 21时51分]"
         },
         {
           "title": "传言成真？英伟达对OpenAI的“1000亿美元投资”最终“打了三折”",
@@ -807,11 +827,12 @@
             5,
             4,
             1,
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[10时36分 ~ 21时00分]"
+          "appearance_count": 15,
+          "time_info": "[10时36分 ~ 21时51分]"
         }
       ]
     },
