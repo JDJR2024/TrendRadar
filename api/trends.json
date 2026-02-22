@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-22T14:56:06.787797+08:00",
-  "total_titles_processed": 809,
+  "generated_at": "2026-02-22T15:39:55.132883+08:00",
+  "total_titles_processed": 842,
   "failed_sources": [],
   "trends": [
     {
@@ -83,6 +83,30 @@
           "time_info": "[00时35分 ~ 10时36分]"
         },
         {
+          "title": "中东睿评｜美以与伊朗博弈的混沌状态只能靠战争才能打破吗？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32639434",
+          "source": "澎湃新闻",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时53分 ~ 15时39分]"
+        },
+        {
+          "title": "特朗普称伊朗骚乱致3.2万反政府人士死亡，伊外长驳斥",
+          "url": "https://news.ifeng.com/c/8qwthOIxvmA",
+          "source": "凤凰网",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时53分 ~ 15时39分]"
+        },
+        {
           "title": "“谈判陷入僵局”，外媒爆料：伊朗外长拒绝打开美方装有导弹提议的信函，并将其退回",
           "url": "https://wallstreetcn.com/livenews/3057181",
           "source": "华尔街见闻-快讯",
@@ -129,28 +153,17 @@
           "time_info": "[00时35分 ~ 07时30分]"
         },
         {
-          "title": "中东睿评｜美以与伊朗博弈的混沌状态只能靠战争才能打破吗？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32639434",
-          "source": "澎湃新闻",
+          "title": "伊朗外长驳斥特朗普涉伊朗骚乱伤亡人数言论",
+          "url": "https://wallstreetcn.com/livenews/3057239",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            6,
-            5
+            3,
+            4,
+            7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时53分 ~ 14时56分]"
-        },
-        {
-          "title": "特朗普称伊朗骚乱致3.2万反政府人士死亡，伊外长驳斥",
-          "url": "https://news.ifeng.com/c/8qwthOIxvmA",
-          "source": "凤凰网",
-          "ranks": [
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时53分 ~ 14时56分]"
+          "appearance_count": 4,
+          "time_info": "[12时53分 ~ 15时39分]"
         },
         {
           "title": "学者：伊朗低估了局势严重性",
@@ -164,54 +177,18 @@
           "time_info": "[13时55分 ~ 13时56分]"
         },
         {
-          "title": "伊朗外长驳斥特朗普涉伊朗骚乱伤亡人数言论",
-          "url": "https://wallstreetcn.com/livenews/3057239",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            4,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时53分 ~ 14时56分]"
-        },
-        {
           "title": "伊朗",
           "url": "https://s.weibo.com/weibo?q=%E4%BC%8A%E6%9C%97&t=31&band_rank=12&Refer=top",
           "source": "微博",
           "ranks": [
             12,
             13,
-            20
+            20,
+            21
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时53分 ~ 14时56分]"
-        },
-        {
-          "title": "美媒：特朗普身边几人建议不要轰炸伊朗 参议员格雷厄姆持反对意见",
-          "url": "https://flash.jin10.com/detail/20260222130132829800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时56分 ~ 14时56分]"
-        },
-        {
-          "title": "据AXIOS网站：特朗普团队在与伊朗的谈判中展现出有限的灵活性。",
-          "url": "https://flash.jin10.com/detail/20260222125635642800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时56分 ~ 14时56分]"
+          "appearance_count": 6,
+          "time_info": "[12时53分 ~ 15时39分]"
         },
         {
           "title": "伊朗外长驳斥特朗普涉伊朗骚乱伤亡人数言论",
@@ -220,11 +197,38 @@
           "ranks": [
             4,
             10,
-            15
+            15,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时53分 ~ 15时39分]"
+        },
+        {
+          "title": "美媒：特朗普身边几人建议不要轰炸伊朗 参议员格雷厄姆持反对意见",
+          "url": "https://flash.jin10.com/detail/20260222130132829800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            7,
+            10
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[12时53分 ~ 14时56分]"
+          "time_info": "[13时56分 ~ 15时39分]"
+        },
+        {
+          "title": "据AXIOS网站：特朗普团队在与伊朗的谈判中展现出有限的灵活性。",
+          "url": "https://flash.jin10.com/detail/20260222125635642800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            8,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时56分 ~ 15时39分]"
         },
         {
           "title": "伊朗总统：伊朗人民绝不会向霸凌屈服",
@@ -237,6 +241,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时30分 ~ 10时36分]"
+        },
+        {
+          "title": "知情人士：特朗普考虑对伊朗实施“有限规模”的初步打击",
+          "url": "https://www.cls.cn/detail/2291926",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时55分 ~ 15时39分]"
         },
         {
           "title": "伊朗将所有欧盟国家海军和空军列为“恐怖组织”",
@@ -261,17 +276,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时30分 ~ 10时36分]"
-        },
-        {
-          "title": "知情人士：特朗普考虑对伊朗实施“有限规模”的初步打击",
-          "url": "https://www.cls.cn/detail/2291926",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时55分 ~ 14时56分]"
         },
         {
           "title": "伊朗将所有欧盟国家海军和空军列为“恐怖组织”",
@@ -321,8 +325,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时36分 ~ 14时56分]"
+          "appearance_count": 7,
+          "time_info": "[10时36分 ~ 15时39分]"
         },
         {
           "title": "沙特谴责美国驻以色列大使“不负责任”言论",
@@ -346,8 +350,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时53分 ~ 14时56分]"
+          "appearance_count": 4,
+          "time_info": "[12时53分 ~ 15时39分]"
         },
         {
           "title": "约旦谴责美国驻以色列大使“荒谬”言论",
@@ -400,8 +404,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时35分 ~ 14时56分]"
+          "appearance_count": 18,
+          "time_info": "[00时35分 ~ 15时39分]"
         },
         {
           "title": "美股收盘：多重利空压顶华尔街情绪恶化 三大指数集体下跌",
@@ -412,8 +416,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时35分 ~ 14时56分]"
+          "appearance_count": 18,
+          "time_info": "[00时35分 ~ 15时39分]"
         },
         {
           "title": "过去30年来未见之局面！美股指数波动之小创1960年来之最，而个股波动率却高达指数7倍",
@@ -421,11 +425,12 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时55分 ~ 14时56分]"
+          "appearance_count": 5,
+          "time_info": "[13时55分 ~ 15时39分]"
         }
       ]
     },
@@ -448,8 +453,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时35分 ~ 14时56分]"
+          "appearance_count": 18,
+          "time_info": "[00时35分 ~ 15时39分]"
         },
         {
           "title": "如果OpenAI估值8300亿美元，那谷歌该值多少？",
@@ -458,11 +463,12 @@
           "ranks": [
             9,
             8,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时36分 ~ 14时56分]"
+          "appearance_count": 7,
+          "time_info": "[10时36分 ~ 15时39分]"
         },
         {
           "title": "都想学英伟达“芯片换融资”，谷歌和AMD都要扶持“AI云”",
@@ -479,7 +485,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "什么信号？OpenAI大幅下调算力支出目标：6000亿美元！",
@@ -490,8 +496,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时35分 ~ 14时56分]"
+          "appearance_count": 18,
+          "time_info": "[00时35分 ~ 15时39分]"
         },
         {
           "title": "传言成真？英伟达对OpenAI的“1000亿美元投资”最终“打了三折”",
@@ -502,8 +508,19 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时53分 ~ 14时56分]"
+          "appearance_count": 6,
+          "time_info": "[12时53分 ~ 15时39分]"
+        },
+        {
+          "title": "表面风光之下，OpenAI的“四大困境”",
+          "url": "https://wallstreetcn.com/articles/3765945",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时39分"
         }
       ]
     },
@@ -518,11 +535,12 @@
           "ranks": [
             16,
             6,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时36分 ~ 14时56分]"
+          "appearance_count": 7,
+          "time_info": "[10时36分 ~ 15时39分]"
         }
       ]
     },
