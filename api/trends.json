@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-23T13:02:59.516921+08:00",
-  "total_titles_processed": 802,
+  "generated_at": "2026-02-23T15:11:35.756071+08:00",
+  "total_titles_processed": 928,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 33,
+      "match_count": 40,
       "titles": [
         {
           "title": "曝伊朗革命卫队已接管黎巴嫩真主党",
@@ -133,7 +133,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时02分"
         },
@@ -219,8 +219,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时37分 ~ 13时02分]"
+          "appearance_count": 3,
+          "time_info": "[10时37分 ~ 15时11分]"
         },
         {
           "title": "伊朗医学组织：战备医疗体系随时待命，快速反应队伍可即刻增援",
@@ -231,8 +231,20 @@
             9
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时37分 ~ 15时11分]"
+        },
+        {
+          "title": "伊朗外长：有可能达成比2015年伊核协议“更好的协议”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32644744",
+          "source": "澎湃新闻",
+          "ranks": [
+            10,
+            13
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时37分 ~ 13时02分]"
+          "time_info": "[13时02分 ~ 15时11分]"
         },
         {
           "title": "据纽约时报：知情人士透露，特朗普已告知顾问，如果外交手段或初步的针对性打击未能迫使伊朗屈服，将考虑在未来数月内发动更大规模攻击。",
@@ -257,6 +269,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时37分 ~ 13时02分]"
+        },
+        {
+          "title": "伊朗还有多少反制手段可用",
+          "url": "https://www.toutiao.com/trending/7609833657821302298/",
+          "source": "今日头条",
+          "ranks": [
+            14,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时37分 ~ 15时11分]"
         },
         {
           "title": "美国总统特使：特朗普感到“好奇”，“伊朗为何还没有屈服”",
@@ -294,26 +318,48 @@
           "time_info": "[00时37分 ~ 01时31分]"
         },
         {
+          "title": "美国可能于2月23日或24日对伊朗发动打击",
+          "url": "https://news.ifeng.com/c/8qyjFuaqHm4",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时11分"
+        },
+        {
+          "title": "伊朗外长称若遭美国攻击将正当防卫",
+          "url": "https://wallstreetcn.com/livenews/3057368",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时11分"
+        },
+        {
           "title": "伊朗外长强调不会屈服于压力 伊方被曝或考虑让步",
           "url": "https://flash.jin10.com/detail/20260223124040365800",
           "source": "金十数据",
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时02分"
         },
         {
-          "title": "伊朗外长：有可能达成比2015年伊核协议“更好的协议”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32644744",
-          "source": "澎湃新闻",
+          "title": "伊朗为何欲迅速落实伊俄全面战略合作",
+          "url": "https://www.toutiao.com/trending/7609922436754050606/",
+          "source": "今日头条",
           "ranks": [
-            10
+            9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时02分"
+          "time_info": "15时11分"
         },
         {
           "title": "以总理内塔尼亚胡被曝对美方伊朗政策存疑",
@@ -327,15 +373,15 @@
           "time_info": "07时32分"
         },
         {
-          "title": "伊朗还有多少反制手段可用",
-          "url": "https://www.toutiao.com/trending/7609833657821302298/",
-          "source": "今日头条",
+          "title": "特朗普被曝考虑对伊朗先“小打”再“大打”",
+          "url": "https://wallstreetcn.com/livenews/3057362",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            14
+            13
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时37分"
+          "time_info": "15时11分"
         },
         {
           "title": "伊朗陆军司令：正持续监控边境沿线的所有敌方动向。全面战备是防止敌方误判和敌对行动的主要威慑手段。",
@@ -360,15 +406,48 @@
           "time_info": "10时37分"
         },
         {
+          "title": "报道称美国可能在2月23日或2月24日对伊朗发动军事打击",
+          "url": "https://wallstreetcn.com/livenews/3057358",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时11分"
+        },
+        {
           "title": "伊朗陆军称密切监控边境敌方动向",
           "url": "https://flash.jin10.com/detail/20260223115649999800",
           "source": "金十数据",
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时02分"
+        },
+        {
+          "title": "伊朗外长强调不会屈服于压力 伊方被曝或考虑让步",
+          "url": "https://wallstreetcn.com/livenews/3057357",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时11分"
+        },
+        {
+          "title": "美军重兵合围伊朗",
+          "url": "https://www.douyin.com/hot/2409181",
+          "source": "抖音",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时11分"
         },
         {
           "title": "伊朗总统：正持续密切关注美国行动",
@@ -440,7 +519,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时02分"
         },
@@ -470,8 +549,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时37分 ~ 13时02分]"
+          "appearance_count": 14,
+          "time_info": "[00时37分 ~ 15时11分]"
         },
         {
           "title": "表面风光之下，OpenAI的“四大困境”",
@@ -499,8 +578,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时37分 ~ 13时02分]"
+          "appearance_count": 14,
+          "time_info": "[00时37分 ~ 15时11分]"
         },
         {
           "title": "过去30年来未见之局面！美股指数波动之小创1960年来之最，而个股波动率却高达指数7倍",
@@ -552,8 +631,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[02时42分 ~ 13时02分]"
+          "appearance_count": 11,
+          "time_info": "[02时42分 ~ 15时11分]"
         }
       ]
     }
