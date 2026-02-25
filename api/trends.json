@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-26T03:51:16.350261+08:00",
-  "total_titles_processed": 490,
+  "generated_at": "2026-02-26T04:57:42.264875+08:00",
+  "total_titles_processed": 513,
   "failed_sources": [],
   "trends": [
     {
@@ -15,19 +15,32 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时09分 ~ 03时51分]"
+          "appearance_count": 4,
+          "time_info": "[00时09分 ~ 04时57分]"
         },
         {
           "title": "伊朗外长抵达日内瓦 准备参加伊美第三轮间接谈判",
           "url": "https://wallstreetcn.com/livenews/3059029",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            8,
+            11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时51分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时51分 ~ 04时57分]"
+        },
+        {
+          "title": "伊朗外交部证实，伊朗代表团和外长已抵达日内瓦。",
+          "url": "https://flash.jin10.com/detail/20260226024150889800",
+          "source": "金十数据",
+          "ranks": [
+            19,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时51分 ~ 04时57分]"
         },
         {
           "title": "美国副总统万斯：希望伊朗人认真对待周四的谈判。",
@@ -72,17 +85,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时09分"
-        },
-        {
-          "title": "伊朗外交部证实，伊朗代表团和外长已抵达日内瓦。",
-          "url": "https://flash.jin10.com/detail/20260226024150889800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时51分"
         },
         {
           "title": "美方公布新一轮涉伊朗制裁名单",
@@ -151,22 +153,24 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             3,
-            26
+            26,
+            29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时02分 ~ 03时51分]"
+          "appearance_count": 3,
+          "time_info": "[02时02分 ~ 04时57分]"
         },
         {
           "title": "谷歌公司在欧盟抱怨之后测试搜索引擎的修改。（路透）",
           "url": "https://wallstreetcn.com/livenews/3059014",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            21
+            21,
+            24
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时51分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时51分 ~ 04时57分]"
         }
       ]
     },
@@ -183,8 +187,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时09分 ~ 03时51分]"
+          "appearance_count": 4,
+          "time_info": "[00时09分 ~ 04时57分]"
         },
         {
           "title": "美股三大期指集体走高 英伟达财报重磅来袭 | 今夜看点",
@@ -195,8 +199,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时09分 ~ 03时51分]"
+          "appearance_count": 4,
+          "time_info": "[00时09分 ~ 04时57分]"
         },
         {
           "title": "金十图示：2026年02月25日（周三）美股热门股票行情一览（美股盘中）",
@@ -321,11 +325,12 @@
           "source": "微博",
           "ranks": [
             7,
-            24
+            24,
+            25
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时09分 ~ 03时51分]"
+          "appearance_count": 4,
+          "time_info": "[00时09分 ~ 04时57分]"
         }
       ]
     }
