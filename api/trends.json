@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-25T15:55:40.454992+08:00",
-  "total_titles_processed": 1242,
+  "generated_at": "2026-02-25T16:57:15.440182+08:00",
+  "total_titles_processed": 1324,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 38,
+      "match_count": 39,
       "titles": [
         {
           "title": "在伊朗中国人：华联会已准备撤离方案",
@@ -35,6 +35,18 @@
           "time_info": "[00时04分 ~ 10时40分]"
         },
         {
+          "title": "媒体：伊朗即将购入中国超音速反舰导弹",
+          "url": "https://news.ifeng.com/c/8r1iOMfEAgf",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时40分 ~ 16时57分]"
+        },
+        {
           "title": "伊朗一军用直升机坠毁",
           "url": "https://www.douyin.com/hot/2410332",
           "source": "抖音",
@@ -58,34 +70,24 @@
             16,
             17,
             18,
-            24
+            24,
+            25
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时04分 ~ 15时55分]"
-        },
-        {
-          "title": "媒体：伊朗即将购入中国超音速反舰导弹",
-          "url": "https://news.ifeng.com/c/8r1iOMfEAgf",
-          "source": "凤凰网",
-          "ranks": [
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时40分 ~ 15时55分]"
+          "appearance_count": 16,
+          "time_info": "[00时04分 ~ 16时57分]"
         },
         {
           "title": "伊朗大规模军演 试射多种导弹",
           "url": "https://www.douyin.com/hot/2410859",
           "source": "抖音",
           "ranks": [
-            2
+            2,
+            5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时57分 ~ 15时55分]"
+          "appearance_count": 5,
+          "time_info": "[12时57分 ~ 16时57分]"
         },
         {
           "title": "美大军压境伊朗为何不屈服",
@@ -96,8 +98,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时06分 ~ 15时55分]"
+          "appearance_count": 4,
+          "time_info": "[14时06分 ~ 16时57分]"
         },
         {
           "title": "美军参联会主席警告：对伊朗动武可能带来重大风险",
@@ -129,7 +131,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时55分"
         },
@@ -143,6 +145,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时16分"
+        },
+        {
+          "title": "特朗普：伊朗正研制能打到美国的导弹",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E4%BC%8A%E6%9C%97%E6%AD%A3%E7%A0%94%E5%88%B6%E8%83%BD%E6%89%93%E5%88%B0%E7%BE%8E%E5%9B%BD%E7%9A%84%E5%AF%BC%E5%BC%B9",
+          "source": "百度热搜",
+          "ranks": [
+            21,
+            20,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时57分 ~ 16时57分]"
         },
         {
           "title": "特朗普：伊朗正研制很快打到美国的导弹",
@@ -169,18 +184,6 @@
           "time_info": "[05时41分 ~ 07时38分]"
         },
         {
-          "title": "特朗普：伊朗正研制能打到美国的导弹",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E4%BC%8A%E6%9C%97%E6%AD%A3%E7%A0%94%E5%88%B6%E8%83%BD%E6%89%93%E5%88%B0%E7%BE%8E%E5%9B%BD%E7%9A%84%E5%AF%BC%E5%BC%B9",
-          "source": "百度热搜",
-          "ranks": [
-            21,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时57分 ~ 15时55分]"
-        },
-        {
           "title": "伊朗副外长：伊方准备好与美方尽快达成协议",
           "url": "https://wallstreetcn.com/livenews/3058276",
           "source": "华尔街见闻-快讯",
@@ -205,13 +208,24 @@
           "time_info": "[10时40分 ~ 12时57分]"
         },
         {
+          "title": "美中情局公开教伊朗人“怎么找它”",
+          "url": "https://www.toutiao.com/trending/7610697188645158955/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时56分 ~ 16时57分]"
+        },
+        {
           "title": "日媒：一名日本公民被伊朗拘留",
           "url": "https://www.toutiao.com/trending/7610698832640216603/",
           "source": "今日头条",
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时55分"
         },
@@ -567,6 +581,17 @@
           "time_info": "[04时42分 ~ 05时41分]"
         },
         {
+          "title": "7000字“AI鬼故事”引发美股地震！始作俑者：我也没想到……",
+          "url": "https://www.cls.cn/detail/2294269",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时55分 ~ 16时57分]"
+        },
+        {
           "title": "德债收益率在美股盘初短暂地拉升",
           "url": "https://wallstreetcn.com/livenews/3058277",
           "source": "华尔街见闻-快讯",
@@ -623,17 +648,6 @@
           "time_info": "05时41分"
         },
         {
-          "title": "7000字“AI鬼故事”引发美股地震！始作俑者：我也没想到……",
-          "url": "https://www.cls.cn/detail/2294269",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时55分"
-        },
-        {
           "title": "全球科技股指数ETF收涨超1.7%，和网络股指数ETF领跑美股行业ETF",
           "url": "https://wallstreetcn.com/livenews/3058348",
           "source": "华尔街见闻-快讯",
@@ -654,6 +668,69 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时20分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "以色列",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "11架美军F-22战斗机已部署至以色列",
+          "url": "https://www.baidu.com/s?wd=11%E6%9E%B6%E7%BE%8E%E5%86%9BF-22%E6%88%98%E6%96%97%E6%9C%BA%E5%B7%B2%E9%83%A8%E7%BD%B2%E8%87%B3%E4%BB%A5%E8%89%B2%E5%88%97",
+          "source": "百度热搜",
+          "ranks": [
+            15,
+            28,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时40分 ~ 14时06分]"
+        },
+        {
+          "title": "印度总理莫迪：对访问以色列感到兴奋，希望加强双边关系。",
+          "url": "https://flash.jin10.com/detail/20260225162541254800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时57分"
+        },
+        {
+          "title": "以色列军队：我们向未经协调设立军事哨所的黎巴嫩士兵鸣枪示警。",
+          "url": "https://flash.jin10.com/detail/20260225011448655800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时20分"
+        },
+        {
+          "title": "美军向以色列南部部署11架F-22战斗机",
+          "url": "https://wallstreetcn.com/livenews/3058292",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时16分"
+        },
+        {
+          "title": "美军向以色列部署F-22战斗机",
+          "url": "https://flash.jin10.com/detail/20260225022000756800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时16分"
         }
       ]
     },
@@ -710,58 +787,6 @@
       ]
     },
     {
-      "keyword_group": "以色列",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "11架美军F-22战斗机已部署至以色列",
-          "url": "https://www.baidu.com/s?wd=11%E6%9E%B6%E7%BE%8E%E5%86%9BF-22%E6%88%98%E6%96%97%E6%9C%BA%E5%B7%B2%E9%83%A8%E7%BD%B2%E8%87%B3%E4%BB%A5%E8%89%B2%E5%88%97",
-          "source": "百度热搜",
-          "ranks": [
-            15,
-            28,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时40分 ~ 14时06分]"
-        },
-        {
-          "title": "以色列军队：我们向未经协调设立军事哨所的黎巴嫩士兵鸣枪示警。",
-          "url": "https://flash.jin10.com/detail/20260225011448655800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时20分"
-        },
-        {
-          "title": "美军向以色列南部部署11架F-22战斗机",
-          "url": "https://wallstreetcn.com/livenews/3058292",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时16分"
-        },
-        {
-          "title": "美军向以色列部署F-22战斗机",
-          "url": "https://flash.jin10.com/detail/20260225022000756800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时16分"
-        }
-      ]
-    },
-    {
       "keyword_group": "金价",
       "match_count": 3,
       "titles": [
@@ -772,7 +797,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时55分"
         },
@@ -783,7 +808,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时55分"
         },
@@ -794,7 +819,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时55分"
         }
