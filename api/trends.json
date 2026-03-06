@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-07T05:35:23.668966+08:00",
-  "total_titles_processed": 551,
+  "generated_at": "2026-03-07T06:34:56.840366+08:00",
+  "total_titles_processed": 578,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 57,
+      "match_count": 58,
       "titles": [
         {
           "title": "美以伊战争｜伊朗炸了美企巨头数据中心",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时50分 ~ 05时35分]"
+          "appearance_count": 10,
+          "time_info": "[00时50分 ~ 06时34分]"
         },
         {
           "title": "最后的血性！伊朗护卫舰被命中沉没前，发射最后一枚导弹",
@@ -26,8 +26,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时50分 ~ 05时35分]"
+          "appearance_count": 10,
+          "time_info": "[00时50分 ~ 06时34分]"
         },
         {
           "title": "打伊朗，有人替美国算了笔账",
@@ -37,8 +37,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时50分 ~ 05时35分]"
+          "appearance_count": 10,
+          "time_info": "[00时50分 ~ 06时34分]"
         },
         {
           "title": "中方是否向伊朗提供了军事支持？外交部回应",
@@ -48,8 +48,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时50分 ~ 05时35分]"
+          "appearance_count": 10,
+          "time_info": "[00时50分 ~ 06时34分]"
         },
         {
           "title": "伊朗有限“锁喉”：中国尚能应对，美西方措手不及，局势如何发展",
@@ -59,8 +59,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时50分 ~ 05时35分]"
+          "appearance_count": 10,
+          "time_info": "[00时50分 ~ 06时34分]"
         },
         {
           "title": "美以袭击伊朗进入第 7 天，当前局势如何？有哪些值得关注的信息？",
@@ -70,8 +70,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时50分 ~ 05时35分]"
+          "appearance_count": 10,
+          "time_info": "[00时50分 ~ 06时34分]"
         },
         {
           "title": "伊朗军舰在国际海域遭袭后回应：将让敌人付出代价",
@@ -81,8 +81,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时50分 ~ 05时35分]"
+          "appearance_count": 10,
+          "time_info": "[00时50分 ~ 06时34分]"
         },
         {
           "title": "伊朗外长：我们在对抗两个拥核国家",
@@ -92,8 +92,20 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时50分 ~ 05时35分]"
+          "appearance_count": 10,
+          "time_info": "[00时50分 ~ 06时34分]"
+        },
+        {
+          "title": "阿联酋考虑冻结伊朗资产！此举或重创伊朗经济命脉",
+          "url": "https://www.cls.cn/detail/2305209",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时50分 ~ 06时34分]"
         },
         {
           "title": "伊朗大使说250年怎能挑衅3000年历史",
@@ -104,8 +116,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时50分 ~ 05时35分]"
+          "appearance_count": 10,
+          "time_info": "[00时50分 ~ 06时34分]"
         },
         {
           "title": "伊朗大规模发射先进导弹",
@@ -115,19 +127,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时50分 ~ 05时35分]"
-        },
-        {
-          "title": "阿联酋考虑冻结伊朗资产！此举或重创伊朗经济命脉",
-          "url": "https://www.cls.cn/detail/2305209",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时50分 ~ 05时35分]"
+          "appearance_count": 10,
+          "time_info": "[00时50分 ~ 06时34分]"
         },
         {
           "title": "伊朗总统：一些国家已开始调解冲突",
@@ -137,8 +138,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时50分 ~ 05时35分]"
+          "appearance_count": 10,
+          "time_info": "[00时50分 ~ 06时34分]"
         },
         {
           "title": "伊朗称摧毁位于阿联酋和约旦萨德雷达",
@@ -148,8 +149,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时50分 ~ 05时35分]"
+          "appearance_count": 10,
+          "time_info": "[00时50分 ~ 06时34分]"
         },
         {
           "title": "伊朗称摧毁中东三国的美军雷达",
@@ -163,8 +164,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时50分 ~ 05时35分]"
+          "appearance_count": 10,
+          "time_info": "[00时50分 ~ 06时34分]"
         },
         {
           "title": "伊朗大规模发射「霍拉姆沙赫尔 -4」和「法塔赫」等先进导弹，此轮打击的影响将如何向外辐射？",
@@ -174,8 +175,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时50分 ~ 05时35分]"
+          "appearance_count": 10,
+          "time_info": "[00时50分 ~ 06时34分]"
         },
         {
           "title": "如何评价伊朗军方称使用无人机击中美军「林肯」号航母？「航母被击中」到底意味着什么？",
@@ -185,8 +186,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时50分 ~ 05时35分]"
+          "appearance_count": 10,
+          "time_info": "[00时50分 ~ 06时34分]"
         },
         {
           "title": "伊朗称击中美国林肯号航母",
@@ -198,11 +199,12 @@
             20,
             24,
             26,
-            29
+            29,
+            28
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时50分 ~ 05时35分]"
+          "appearance_count": 10,
+          "time_info": "[00时50分 ~ 06时34分]"
         },
         {
           "title": "无人机发威,伊朗称击中林肯号",
@@ -213,8 +215,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时50分 ~ 05时35分]"
+          "appearance_count": 10,
+          "time_info": "[00时50分 ~ 06时34分]"
         },
         {
           "title": "伊朗发射超重型导弹为遇难学生复仇",
@@ -222,11 +224,12 @@
           "source": "微博",
           "ranks": [
             22,
-            23
+            23,
+            28
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时50分 ~ 05时35分]"
+          "appearance_count": 10,
+          "time_info": "[00时50分 ~ 06时34分]"
         },
         {
           "title": "伊朗断网,亚马逊接连遭殃",
@@ -237,8 +240,8 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时50分 ~ 05时35分]"
+          "appearance_count": 10,
+          "time_info": "[00时50分 ~ 06时34分]"
         },
         {
           "title": "伊朗外长说对抗美以已是胜利",
@@ -247,11 +250,12 @@
           "ranks": [
             29,
             26,
-            25
+            25,
+            24
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时39分 ~ 05时35分]"
+          "appearance_count": 9,
+          "time_info": "[01时39分 ~ 06时34分]"
         },
         {
           "title": "特朗普：不接受哈梅内伊儿子担任伊朗新领导人，“我必须亲自参与任命”，伊朗外长：这完全是伊朗人民的事，任何人都无权干涉",
@@ -261,8 +265,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[02时54分 ~ 05时35分]"
+          "appearance_count": 8,
+          "time_info": "[02时54分 ~ 06时34分]"
         },
         {
           "title": "伊朗打击伊拉克库尔德地区",
@@ -270,11 +274,24 @@
           "source": "微博",
           "ranks": [
             29,
-            27
+            27,
+            26
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[02时54分 ~ 05时35分]"
+          "appearance_count": 8,
+          "time_info": "[02时54分 ~ 06时34分]"
+        },
+        {
+          "title": "伊朗军队：我们还没有发挥出全部能力。",
+          "url": "https://flash.jin10.com/detail/20260307031510069800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[03时38分 ~ 06时34分]"
         },
         {
           "title": "伊朗军方发言人：将开始使用载有2吨弹头的超重型霍拉姆沙赫尔-4导弹。",
@@ -286,18 +303,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时39分"
-        },
-        {
-          "title": "伊朗军队：我们还没有发挥出全部能力。",
-          "url": "https://flash.jin10.com/detail/20260307031510069800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时38分 ~ 05时35分]"
         },
         {
           "title": "铝供应受战争波及：美国买家因伊朗战火转向替代来源",
@@ -357,8 +362,74 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时38分 ~ 05时35分]"
+          "appearance_count": 3,
+          "time_info": "[04时38分 ~ 06时34分]"
+        },
+        {
+          "title": "据伊朗媒体：在伊朗中部纳坦兹市郊区听到爆炸声。",
+          "url": "https://flash.jin10.com/detail/20260307034135831800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时38分 ~ 06时34分]"
+        },
+        {
+          "title": "美国司法部：已针对据称与伊朗石油运输网络有关的逾1530万美元资金提起民事没收诉讼。",
+          "url": "https://flash.jin10.com/detail/20260307033934912800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时38分 ~ 06时34分]"
+        },
+        {
+          "title": "美国总统特朗普：（谈伊朗）无条件投降可能是（伊朗人）宣布无条件投降，也可能是他们再也无法战斗，没有人或东西可以战斗时。",
+          "url": "https://flash.jin10.com/detail/20260307033923007800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时38分 ~ 06时34分]"
+        },
+        {
+          "title": "克里姆林宫：普京与伊朗总统佩泽希齐扬进行了电话交谈。",
+          "url": "https://flash.jin10.com/detail/20260307033828361800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时38分 ~ 06时34分]"
+        },
+        {
+          "title": "市场消息：沙特阿拉伯已加强与伊朗的直接沟通，以缓解战争局势。",
+          "url": "https://flash.jin10.com/detail/20260307032617765800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时38分 ~ 06时34分]"
+        },
+        {
+          "title": "伊朗称向美军“林肯”号航母发射导弹",
+          "url": "https://flash.jin10.com/detail/20260307032254005800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时38分 ~ 06时34分]"
         },
         {
           "title": "美国中央司令部：周四夜间，伊朗军队向巴林的民用住宅区发射了七架攻击型无人机。",
@@ -385,34 +456,12 @@
           "time_info": "[04时38分 ~ 05时35分]"
         },
         {
-          "title": "据伊朗媒体：在伊朗中部纳坦兹市郊区听到爆炸声。",
-          "url": "https://flash.jin10.com/detail/20260307034135831800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时38分 ~ 05时35分]"
-        },
-        {
           "title": "当地时间6日晚，伊朗纳坦兹市郊区传出爆炸声。（央视新闻）",
           "url": "https://wallstreetcn.com/livenews/3065447",
           "source": "华尔街见闻-快讯",
           "ranks": [
             10,
             25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时38分 ~ 05时35分]"
-        },
-        {
-          "title": "美国司法部：已针对据称与伊朗石油运输网络有关的逾1530万美元资金提起民事没收诉讼。",
-          "url": "https://flash.jin10.com/detail/20260307033934912800",
-          "source": "金十数据",
-          "ranks": [
-            11
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -431,48 +480,16 @@
           "time_info": "[04时38分 ~ 05时35分]"
         },
         {
-          "title": "美国总统特朗普：（谈伊朗）无条件投降可能是（伊朗人）宣布无条件投降，也可能是他们再也无法战斗，没有人或东西可以战斗时。",
-          "url": "https://flash.jin10.com/detail/20260307033923007800",
-          "source": "金十数据",
+          "title": "普京与伊朗总统通电话",
+          "url": "https://wallstreetcn.com/livenews/3065461",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            12
+            12,
+            29
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[04时38分 ~ 05时35分]"
-        },
-        {
-          "title": "克里姆林宫：普京与伊朗总统佩泽希齐扬进行了电话交谈。",
-          "url": "https://flash.jin10.com/detail/20260307033828361800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时38分 ~ 05时35分]"
-        },
-        {
-          "title": "市场消息：沙特阿拉伯已加强与伊朗的直接沟通，以缓解战争局势。",
-          "url": "https://flash.jin10.com/detail/20260307032617765800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时38分 ~ 05时35分]"
-        },
-        {
-          "title": "伊朗称向美军“林肯”号航母发射导弹",
-          "url": "https://flash.jin10.com/detail/20260307032254005800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时38分 ~ 05时35分]"
+          "time_info": "[05时35分 ~ 06时34分]"
         },
         {
           "title": "伊朗启动“真实承诺4”第23轮军事行动",
@@ -520,6 +537,17 @@
           "time_info": "00时50分"
         },
         {
+          "title": "伊朗官员对库尔德武装“渗透”活动发出警告",
+          "url": "https://wallstreetcn.com/livenews/3065485",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时34分"
+        },
+        {
           "title": "欧洲央行执委施纳贝尔：欧洲央行仍处有利地位，但伊朗战争带来通胀上行风险。",
           "url": "https://flash.jin10.com/detail/20260307010311260800",
           "source": "金十数据",
@@ -529,17 +557,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时39分"
-        },
-        {
-          "title": "普京与伊朗总统通电话",
-          "url": "https://wallstreetcn.com/livenews/3065461",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时35分"
         },
         {
           "title": "惠誉评级：预计伊朗冲突将导致美元走强、削弱债券发行市场，对高投机级发行人而言尤其如此。",
@@ -570,7 +587,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时35分"
         },
@@ -676,8 +693,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时50分 ~ 05时35分]"
+          "appearance_count": 10,
+          "time_info": "[00时50分 ~ 06时34分]"
         },
         {
           "title": "伊朗称袭击以色列最大机场",
@@ -687,8 +704,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时50分 ~ 05时35分]"
+          "appearance_count": 10,
+          "time_info": "[00时50分 ~ 06时34分]"
         },
         {
           "title": "据伊朗国家电视台：伊朗高级军事发言人称，伊朗并未关闭霍尔木兹海峡，但与以色列或美国有关的船只无法通行。",
@@ -698,8 +715,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时38分 ~ 05时35分]"
+          "appearance_count": 3,
+          "time_info": "[04时38分 ~ 06时34分]"
         },
         {
           "title": "市场消息：以色列多地收到伊朗导弹警报。",
@@ -732,8 +749,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时37分 ~ 05时35分]"
+          "appearance_count": 4,
+          "time_info": "[04时37分 ~ 06时34分]"
         },
         {
           "title": "市场消息：以色列国防军最新评估显示，伊朗剩余的导弹发射装置数量在100至200套之间。",
@@ -856,6 +873,48 @@
       ]
     },
     {
+      "keyword_group": "美债",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "非农疲软提振降息预期，美债走高，美股指低开，纳指跌超1.4%，WTI原油近两年来首破86美元，现货黄金短线拉升",
+          "url": "https://wallstreetcn.com/articles/3766902",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时50分 ~ 06时34分]"
+        },
+        {
+          "title": "非农前夜，油价飙升引发通胀担忧，芯片股领跌美股，美债四连跌，美元走强",
+          "url": "https://wallstreetcn.com/articles/3766762",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时50分 ~ 06时34分]"
+        },
+        {
+          "title": "周五（3月6日）纽约尾盘，美国10年期基准国债收益率涨0.19个基点，报4.1383%，北京时间21:30发布美国非农就业报告时跳水至4.1035%刷新日低，随后反弹、在22:38（美股盘初）刷新日高至4.1848%，本周累计上涨20.08个基点，整体持续走高。 两年期美债收益率跌1.59个基点，报3.5605%，本周累涨18.56个基点，整体交投于3.3586%-3.6289%区间。",
+          "url": "https://wallstreetcn.com/livenews/3065494",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时34分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美股",
       "match_count": 3,
       "titles": [
@@ -864,11 +923,12 @@
           "url": "https://wallstreetcn.com/livenews/3065473",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            3,
+            20
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时35分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时35分 ~ 06时34分]"
         },
         {
           "title": "美股军工股洛克希德·马丁目前涨1.86%，RTX公司涨1.30%，诺斯罗普·格鲁曼涨0.86%，L3Harris涨0.90%。 据媒体报道，特朗普将召集国防承包商高管，强调提升武器产能以应对美伊冲突。",
@@ -926,37 +986,6 @@
       ]
     },
     {
-      "keyword_group": "美债",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "非农疲软提振降息预期，美债走高，美股指低开，纳指跌超1.4%，WTI原油近两年来首破86美元，现货黄金短线拉升",
-          "url": "https://wallstreetcn.com/articles/3766902",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时50分 ~ 05时35分]"
-        },
-        {
-          "title": "非农前夜，油价飙升引发通胀担忧，芯片股领跌美股，美债四连跌，美元走强",
-          "url": "https://wallstreetcn.com/articles/3766762",
-          "source": "华尔街见闻",
-          "ranks": [
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时50分 ~ 05时35分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "美元",
       "match_count": 1,
       "titles": [
@@ -965,11 +994,12 @@
           "url": "https://wallstreetcn.com/livenews/3065462",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            11
+            11,
+            28
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时35分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时35分 ~ 06时34分]"
         }
       ]
     }
