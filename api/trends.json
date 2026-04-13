@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-13T11:23:45.660804+08:00",
-  "total_titles_processed": 752,
+  "generated_at": "2026-04-13T14:20:07.700459+08:00",
+  "total_titles_processed": 928,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 109,
+      "match_count": 127,
       "titles": [
         {
           "title": "美伊谈判“无果而终”，伊朗称“由于美方贪婪和野心”，万斯表态“已展现灵活和诚意，将返回美国”",
@@ -154,11 +154,12 @@
           "url": "https://wallstreetcn.com/articles/3769762",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时46分 ~ 07时41分]"
+          "appearance_count": 12,
+          "time_info": "[00时46分 ~ 14时20分]"
         },
         {
           "title": "万斯称美伊未达成协议，核心原因是伊朗未明确承诺放弃发展核武器，为什么核问题如此关键？下轮谈判重点在哪？",
@@ -310,6 +311,18 @@
           "time_info": "[02时57分 ~ 11时23分]"
         },
         {
+          "title": "美军称“自4月13日起封锁伊朗港口海上交通”，报道称英国不参与，伊朗称“荒唐可笑”",
+          "url": "https://wallstreetcn.com/articles/3769783",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时23分 ~ 14时20分]"
+        },
+        {
           "title": "伊朗启动石油设施重建，计划两个月内恢复八成产能",
           "url": "https://wallstreetcn.com/livenews/3086469",
           "source": "华尔街见闻-快讯",
@@ -361,6 +374,17 @@
           "time_info": "[00时46分 ~ 06时40分]"
         },
         {
+          "title": "伊朗战争丨霍尔木兹海峡船舶通行再次完全中断",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时19分 ~ 14时20分]"
+        },
+        {
           "title": "伊朗议会高官：在谈判中抵制了美方三大“无理要求”",
           "url": "https://wallstreetcn.com/livenews/3086480",
           "source": "华尔街见闻-快讯",
@@ -389,6 +413,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时46分 ~ 05时40分]"
+        },
+        {
+          "title": "特朗普：今晚10点封锁伊朗，大卖美国石油",
+          "url": "https://www.cls.cn/detail/2341979",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时19分 ~ 14时20分]"
         },
         {
           "title": "伊朗外交部：伊朗与法国外长进行了电话交谈，双方就美以谈判的最新进展进行了讨论和交流。",
@@ -421,7 +456,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时23分"
         },
@@ -495,17 +530,6 @@
           "time_info": "[02时57分 ~ 06时40分]"
         },
         {
-          "title": "美军称“自4月13日起封锁伊朗港口海上交通”，报道称英国不参与，伊朗称“荒唐可笑”",
-          "url": "https://wallstreetcn.com/articles/3769783",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时23分"
-        },
-        {
           "title": "伊朗议长卡利巴夫：好好享受当前的油价水平吧。 在所谓的‘封锁’之下，很快你（指美国）就会开始怀念每加仑4-5美元的汽油价格。",
           "url": "https://wallstreetcn.com/livenews/3086488",
           "source": "华尔街见闻-快讯",
@@ -526,9 +550,20 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时23分"
+        },
+        {
+          "title": "消息人士称，受伊朗局势影响，迪拜购物中心的奢侈品牌3月份销售额下滑30%至50%。",
+          "url": "https://flash.jin10.com/detail/20260413140020942800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时20分"
         },
         {
           "title": "据伊朗国家媒体：伊朗首席谈判代表卡利巴夫对美国总统特朗普表示：“如果你挑衅，我们就迎战；如果你以理相待，我们就以理相待。”",
@@ -828,6 +863,41 @@
           "time_info": "[00时46分 ~ 03时43分]"
         },
         {
+          "title": "伊朗公布驱离美军舰视频",
+          "url": "https://search.bilibili.com/all?keyword=%E4%BC%8A%E6%9C%97%E5%85%AC%E5%B8%83%E9%A9%B1%E7%A6%BB%E7%BE%8E%E5%86%9B%E8%88%B0%E8%A7%86%E9%A2%91",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时23分 ~ 14时20分]"
+        },
+        {
+          "title": "美媒：特朗普考虑恢复对伊朗的有限军事打击",
+          "url": "https://news.ifeng.com/c/8sHT0I0yzy3",
+          "source": "凤凰网",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时23分 ~ 14时20分]"
+        },
+        {
+          "title": "伊朗外长：距达成协议仅一步之遥",
+          "url": "https://www.toutiao.com/trending/7627631226568003135/",
+          "source": "今日头条",
+          "ranks": [
+            6,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时23分 ~ 14时20分]"
+        },
+        {
           "title": "美国高级官员表示，伊朗拒绝了停止铀浓缩及拆除主要浓缩设施的要求。",
           "url": "https://flash.jin10.com/detail/20260413000652303800",
           "source": "金十数据",
@@ -880,6 +950,18 @@
           "time_info": "[03时43分 ~ 05时40分]"
         },
         {
+          "title": "美中央司令部：4月13日起封锁伊朗港口海上交通",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32957233",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时23分 ~ 14时20分]"
+        },
+        {
           "title": "伊朗称特朗普威胁封锁霍尔木兹荒谬",
           "url": "https://flash.jin10.com/detail/20260413025340242800",
           "source": "金十数据",
@@ -891,6 +973,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时43分 ~ 05时40分]"
+        },
+        {
+          "title": "美中央司令部称 4 月 13 日起封锁伊朗港口海上交通，会引发新一轮冲突吗？对谈判有哪些影响？",
+          "url": "https://www.zhihu.com/question/2026927220413785958",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时23分 ~ 14时20分]"
         },
         {
           "title": "伊朗议会议长回应美方威胁：若挑衅将遭反击",
@@ -906,6 +999,62 @@
           "time_info": "[03时43分 ~ 05时40分]"
         },
         {
+          "title": "美伊谈判 20 多小时未果，伊朗称多次提新方案，但美方要求「过度」，双方有哪些分歧点？会默认延长停火吗？",
+          "url": "https://www.zhihu.com/question/2026738996449997562",
+          "source": "知乎",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时23分 ~ 14时20分]"
+        },
+        {
+          "title": "伊朗外长：距离达成协议仅一步之遥",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E5%A4%96%E9%95%BF%EF%BC%9A%E8%B7%9D%E7%A6%BB%E8%BE%BE%E6%88%90%E5%8D%8F%E8%AE%AE%E4%BB%85%E4%B8%80%E6%AD%A5%E4%B9%8B%E9%81%A5",
+          "source": "百度热搜",
+          "ranks": [
+            14,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时23分 ~ 14时20分]"
+        },
+        {
+          "title": "美以袭击伊朗进入第 45 天，当前局势如何？哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2026772596289527821",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时23分 ~ 14时20分]"
+        },
+        {
+          "title": "美今晚10点将封锁伊朗",
+          "url": "https://www.toutiao.com/trending/7628010534004067882/",
+          "source": "今日头条",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时19分 ~ 14时20分]"
+        },
+        {
+          "title": "停火岌岌可危？特朗普被曝考虑恢复对伊朗有限军事打击",
+          "url": "https://www.cls.cn/detail/2341889",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时19分 ~ 14时20分]"
+        },
+        {
           "title": "美军4月13日起封锁伊朗港口海上交通",
           "url": "https://www.toutiao.com/trending/7628010534004067882/",
           "source": "今日头条",
@@ -916,6 +1065,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时41分 ~ 11时23分]"
+        },
+        {
+          "title": "谈判无果，伊朗局势发展有几种可能",
+          "url": "https://wallstreetcn.com/articles/3769773",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时19分 ~ 14时20分]"
+        },
+        {
+          "title": "伊朗公布驱离美军舰视频",
+          "url": "https://www.cls.cn/detail/2341737",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时19分 ~ 14时20分]"
         },
         {
           "title": "伊朗革命卫队：霍尔木兹海峡允许非军事船只通过",
@@ -954,6 +1125,17 @@
           "time_info": "[01时40分 ~ 02时57分]"
         },
         {
+          "title": "伊朗外长：伊美谈判距离达成协议仅“一步之遥”",
+          "url": "https://www.cls.cn/detail/2341786",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时19分 ~ 14时20分]"
+        },
+        {
           "title": "IMF总裁格奥尔基耶娃：伊朗战争影响已显现，（目前）油轮无法抵达亚洲地区。",
           "url": "https://flash.jin10.com/detail/20260412232803419800",
           "source": "金十数据",
@@ -964,6 +1146,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时46分 ~ 01时40分]"
+        },
+        {
+          "title": "美军超5万士兵登陆伊朗？谣言",
+          "url": "https://www.toutiao.com/trending/7627824109988888602/",
+          "source": "今日头条",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时19分 ~ 14时20分]"
         },
         {
           "title": "IMF总裁格奥尔基耶娃：IMF将因为伊朗战争而下调2026年预期。",
@@ -1000,6 +1193,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时46分 ~ 01时40分]"
+        },
+        {
+          "title": "美国将在伊朗封锁下的霍尔木兹海峡外叠加封锁，此举将对各经济体和资本市场产生怎样影响？",
+          "url": "https://www.zhihu.com/question/2026783822520264331",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时19分 ~ 14时20分]"
         },
         {
           "title": "伊朗伊斯兰革命卫队警告称：（美国）在霍尔木兹海峡的任何“错误举动”都将遭到报复。（伊朗媒体Tasnim）",
@@ -1050,48 +1254,26 @@
           "time_info": "[00时46分 ~ 01时40分]"
         },
         {
-          "title": "伊朗外长：距达成协议仅一步之遥",
-          "url": "https://www.toutiao.com/trending/7627631226568003135/",
-          "source": "今日头条",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时23分"
-        },
-        {
           "title": "伊朗总统：已做好准备达成公平协议",
           "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E6%80%BB%E7%BB%9F%EF%BC%9A%E5%B7%B2%E5%81%9A%E5%A5%BD%E5%87%86%E5%A4%87%E8%BE%BE%E6%88%90%E5%85%AC%E5%B9%B3%E5%8D%8F%E8%AE%AE",
           "source": "百度热搜",
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时23分"
         },
         {
-          "title": "伊朗公布驱离美军舰视频",
-          "url": "https://search.bilibili.com/all?keyword=%E4%BC%8A%E6%9C%97%E5%85%AC%E5%B8%83%E9%A9%B1%E7%A6%BB%E7%BE%8E%E5%86%9B%E8%88%B0%E8%A7%86%E9%A2%91",
-          "source": "bilibili 热搜",
+          "title": "150美元油价警告，挡不住特朗普的强硬：不在乎伊朗谈不谈，准时封锁",
+          "url": "https://flash.jin10.com/detail/20260413135619252800",
+          "source": "金十数据",
           "ranks": [
-            6
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时23分"
-        },
-        {
-          "title": "美媒：特朗普考虑恢复对伊朗的有限军事打击",
-          "url": "https://news.ifeng.com/c/8sHT0I0yzy3",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时23分"
+          "time_info": "14时20分"
         },
         {
           "title": "往返非伊朗港口船只可通行 美国对伊朗实施定向封锁",
@@ -1103,6 +1285,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时40分"
+        },
+        {
+          "title": "伊朗战争扰乱供应链后，日本卫浴产品制造商东陶（Toto）暂停接受浴室产品订单。",
+          "url": "https://flash.jin10.com/detail/20260413134958391800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时20分"
         },
         {
           "title": "伊朗外交部长：美国丝毫不吸取教训。善意换来善意，敌意带来敌意。",
@@ -1127,17 +1320,6 @@
           "time_info": "07时41分"
         },
         {
-          "title": "美中央司令部称 4 月 13 日起封锁伊朗港口海上交通，会引发新一轮冲突吗？对谈判有哪些影响？",
-          "url": "https://www.zhihu.com/question/2026927220413785958",
-          "source": "知乎",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时23分"
-        },
-        {
           "title": "伊朗外交部长：然而，就在距离《伊斯兰堡谅解备忘录》仅咫尺之遥时，我们却遭遇了极端主义、不断变换条件以及封锁。",
           "url": "https://flash.jin10.com/detail/20260413053324765800",
           "source": "金十数据",
@@ -1160,6 +1342,17 @@
           "time_info": "07时41分"
         },
         {
+          "title": "伊朗驻巴基斯坦大使：美伊谈判是一个过程 非单一事件",
+          "url": "https://wallstreetcn.com/livenews/3086680",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时20分"
+        },
+        {
           "title": "伊朗外交部长：在47年来最高级别的密集谈判中，伊朗以诚意与美国展开对话，旨在结束战争。",
           "url": "https://flash.jin10.com/detail/20260413053303808800",
           "source": "金十数据",
@@ -1177,18 +1370,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时23分"
-        },
-        {
-          "title": "美伊谈判 20 多小时未果，伊朗称多次提新方案，但美方要求「过度」，双方有哪些分歧点？会默认延长停火吗？",
-          "url": "https://www.zhihu.com/question/2026738996449997562",
-          "source": "知乎",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时23分"
         },
@@ -1199,29 +1381,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时23分"
-        },
-        {
-          "title": "伊朗外长：距离达成协议仅一步之遥",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E5%A4%96%E9%95%BF%EF%BC%9A%E8%B7%9D%E7%A6%BB%E8%BE%BE%E6%88%90%E5%8D%8F%E8%AE%AE%E4%BB%85%E4%B8%80%E6%AD%A5%E4%B9%8B%E9%81%A5",
-          "source": "百度热搜",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时23分"
-        },
-        {
-          "title": "美中央司令部：4月13日起封锁伊朗港口海上交通",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32957233",
-          "source": "澎湃新闻",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时23分"
         },
@@ -1237,6 +1397,17 @@
           "time_info": "07时41分"
         },
         {
+          "title": "伊朗驻巴基斯坦大使：美伊谈判是一个过程 非单一事件",
+          "url": "https://flash.jin10.com/detail/20260413133312968800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时20分"
+        },
+        {
           "title": "伊朗公布驱离美军舰视频",
           "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E5%85%AC%E5%B8%83%E9%A9%B1%E7%A6%BB%E7%BE%8E%E5%86%9B%E8%88%B0%E8%A7%86%E9%A2%91%23&t=31&band_rank=18&Refer=top",
           "source": "微博",
@@ -1246,17 +1417,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时41分"
-        },
-        {
-          "title": "美以袭击伊朗进入第 45 天，当前局势如何？哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/2026772596289527821",
-          "source": "知乎",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时23分"
         },
         {
           "title": "谈判破裂后，特朗普考虑对伊朗进行有限打击，这可能成为打破美伊和平谈判僵局的一种方式。（华尔街日报）",
@@ -1270,13 +1430,24 @@
           "time_info": "07时41分"
         },
         {
+          "title": "伊朗：任何军事船只靠近霍尔木兹海峡将遭到强硬应对",
+          "url": "https://wallstreetcn.com/livenews/3086666",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时20分"
+        },
+        {
           "title": "伊朗民众眼中的美伊谈判",
           "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E6%B0%91%E4%BC%97%E7%9C%BC%E4%B8%AD%E7%9A%84%E7%BE%8E%E4%BC%8A%E8%B0%88%E5%88%A4%23&t=31&band_rank=19&Refer=top",
           "source": "微博",
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时23分"
         },
@@ -1287,7 +1458,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时23分"
         },
@@ -1309,7 +1480,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时23分"
         },
@@ -1325,6 +1496,17 @@
           "time_info": "00时46分"
         },
         {
+          "title": "特朗普重申将封锁进出伊朗港口船只",
+          "url": "https://wallstreetcn.com/livenews/3086663",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时20分"
+        },
+        {
           "title": "据伊朗国家媒体：伊朗总统与俄罗斯总统通话时表示，若美国“重返国际法框架”，达成协议指日可待。",
           "url": "https://flash.jin10.com/detail/20260412231430891800",
           "source": "金十数据",
@@ -1334,6 +1516,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时46分"
+        },
+        {
+          "title": "东盟敦促美国和伊朗继续进行谈判以结束冲突",
+          "url": "https://wallstreetcn.com/livenews/3086662",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时20分"
         },
         {
           "title": "据伊朗国家媒体：伊朗总统与俄罗斯总统通话表示，伊朗已做好准备，达成一项确保稳定和平与安全的“平衡且公正”协议。",
@@ -1353,9 +1546,20 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时23分"
+        },
+        {
+          "title": "东南亚国家敦促美国和伊朗继续和平谈判",
+          "url": "https://flash.jin10.com/detail/20260413132512424800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时20分"
         },
         {
           "title": "伊朗称美军舰试图“渗透”霍尔木兹海峡 制造“成功通行”假象",
@@ -1372,7 +1576,7 @@
     },
     {
       "keyword_group": "以色列",
-      "match_count": 11,
+      "match_count": 13,
       "titles": [
         {
           "title": "内塔尼亚胡称以色列对黎巴嫩的战争仍在继续",
@@ -1404,6 +1608,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时46分 ~ 05时40分]"
+        },
+        {
+          "title": "前美反恐部门高官：美应坚持自身诉求 而非以色列立场",
+          "url": "https://wallstreetcn.com/livenews/3086701",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时20分"
         },
         {
           "title": "以色列为何最不愿意停止战争",
@@ -1447,6 +1662,17 @@
           "time_info": "[00时46分 ~ 02时57分]"
         },
         {
+          "title": "西班牙大臣：我们没有诽谤，以色列政府就是种族灭绝的犯罪政权",
+          "url": "https://news.ifeng.com/c/8sHeFNMztLD",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时23分 ~ 14时20分]"
+        },
+        {
           "title": "美国总统特朗普：石油价格一开始可能降不下来，但最终还是会跌的。 原油价格与汽油价格可能会在中期选举之前下跌，也可能会略微更高。 坦率来说，汽油价格涨势并没有我（原来）想象的那么多。 （美国和以色列发动的伊朗）战争爆发以来，股市跌幅并不是非常大。",
           "url": "https://wallstreetcn.com/livenews/3086448",
           "source": "华尔街见闻-快讯",
@@ -1484,24 +1710,13 @@
           "time_info": "[00时46分 ~ 01时40分]"
         },
         {
-          "title": "西班牙大臣：我们没有诽谤，以色列政府就是种族灭绝的犯罪政权",
-          "url": "https://news.ifeng.com/c/8sHeFNMztLD",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时23分"
-        },
-        {
           "title": "黎巴嫩卫生部表示，自3月2日以色列发动进攻以来，累计死亡人数已上升至2055人，另有至少6588人受伤。",
           "url": "https://flash.jin10.com/detail/20260413105522676800",
           "source": "金十数据",
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时23分"
         },
@@ -1512,9 +1727,20 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时23分"
+        },
+        {
+          "title": "以色列在上加利利地区拦截无人机。",
+          "url": "https://flash.jin10.com/detail/20260413131635562800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时20分"
         }
       ]
     },
@@ -1529,11 +1755,12 @@
           "ranks": [
             12,
             13,
-            14
+            14,
+            15
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时46分 ~ 11时23分]"
+          "appearance_count": 13,
+          "time_info": "[00时46分 ~ 14时20分]"
         },
         {
           "title": "国际油价开盘跳涨，美股期货跌超1%",
@@ -1590,9 +1817,26 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时23分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "黄金、美债双双大跌！中东局势恐慌下市场再现“避险资产不避险”",
+          "url": "https://www.cls.cn/detail/2341771",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时19分 ~ 14时20分]"
         }
       ]
     },
