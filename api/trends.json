@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-17T06:48:53.081674+08:00",
-  "total_titles_processed": 598,
+  "generated_at": "2026-04-17T07:46:47.141918+08:00",
+  "total_titles_processed": 670,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 49,
+      "match_count": 50,
       "titles": [
         {
           "title": "伊朗：将就官员被暗杀追究美以责任",
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时25分 ~ 06时48分]"
+          "appearance_count": 6,
+          "time_info": "[00时25分 ~ 07时46分]"
         },
         {
           "title": "美军喊话 ：要去伊朗的船立即掉头，否则我们就动武",
@@ -27,8 +27,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时25分 ~ 06时48分]"
+          "appearance_count": 6,
+          "time_info": "[00时25分 ~ 07时46分]"
         },
         {
           "title": "美对伊启动“经济狂怒”行动、施压达成协议，伊朗斥为经济恐怖主义，称敌人误判战局",
@@ -36,11 +36,12 @@
           "source": "华尔街见闻",
           "ranks": [
             4,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时10分 ~ 06时48分]"
+          "appearance_count": 5,
+          "time_info": "[02时10分 ~ 07时46分]"
         },
         {
           "title": "伊朗战争丨美参联会主席：将全球追击挂伊朗国旗船只",
@@ -66,6 +67,54 @@
           "time_info": "[00时25分 ~ 06时48分]"
         },
         {
+          "title": "美方对伊朗启动代号为“经济狂怒”的行动",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32986818",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            17,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时25分 ~ 07时46分]"
+        },
+        {
+          "title": "伊朗战争丨伊朗总统：民众对美国不再抱有任何信任",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时48分 ~ 07时46分]"
+        },
+        {
+          "title": "伊朗披露击落美C-130细节",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E6%8A%AB%E9%9C%B2%E5%87%BB%E8%90%BD%E7%BE%8EC-130%E7%BB%86%E8%8A%82",
+          "source": "百度热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时25分 ~ 07时46分]"
+        },
+        {
+          "title": "美方对伊朗启动代号为「经济狂怒」的行动，其具体措施与以往制裁会有何差异？可能对双方谈判有怎样的影响？",
+          "url": "https://www.zhihu.com/question/2028214096009412938",
+          "source": "知乎",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时25分 ~ 07时46分]"
+        },
+        {
           "title": "伊朗战争丨特朗普：伊朗已同意不拥有核武器",
           "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
           "source": "凤凰网",
@@ -77,26 +126,42 @@
           "time_info": "05时50分"
         },
         {
-          "title": "伊朗战争丨伊朗总统：民众对美国不再抱有任何信任",
-          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
-          "source": "凤凰网",
+          "title": "美称伊朗最高领袖已受伤但仍活着",
+          "url": "https://www.toutiao.com/trending/7628521830282592297/",
+          "source": "今日头条",
           "ranks": [
-            1
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时25分 ~ 07时46分]"
+        },
+        {
+          "title": "伊朗总统感谢中国",
+          "url": "https://www.toutiao.com/trending/7628829127155826738/",
+          "source": "今日头条",
+          "ranks": [
+            30,
+            19,
+            18,
+            16,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时25分 ~ 07时46分]"
+        },
+        {
+          "title": "黎以停火十天生效，特朗普趁势喊话：伊朗同意不拥核，美伊周末或复谈",
+          "url": "https://flash.jin10.com/detail/20260417071827235800",
+          "source": "金十数据",
+          "ranks": [
+            3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时48分"
-        },
-        {
-          "title": "伊朗披露击落美C-130细节",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E6%8A%AB%E9%9C%B2%E5%87%BB%E8%90%BD%E7%BE%8EC-130%E7%BB%86%E8%8A%82",
-          "source": "百度热搜",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时25分 ~ 06时48分]"
+          "time_info": "07时46分"
         },
         {
           "title": "美国总统特朗普：在伊朗问题上取得大量进展。 不确定是否需要延长停火。 与伊朗的下一次会议可能在本周末举行。与伊朗达成协议的前景非常乐观。 现在，伊朗愿意做一些他们两个月之前不愿意做的事。 看起来我们与伊朗达成协议的前景非常好。 如果没有协议，将重启打击。",
@@ -108,18 +173,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时10分"
-        },
-        {
-          "title": "美方对伊朗启动代号为「经济狂怒」的行动，其具体措施与以往制裁会有何差异？可能对双方谈判有怎样的影响？",
-          "url": "https://www.zhihu.com/question/2028214096009412938",
-          "source": "知乎",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时25分 ~ 06时48分]"
         },
         {
           "title": "美对伊启动代号为“经济狂怒”的行动，美防长：如伊朗拒绝协议，随时重启作战",
@@ -155,44 +208,19 @@
           "time_info": "02时10分"
         },
         {
-          "title": "美方对伊朗启动代号为“经济狂怒”的行动",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32986818",
-          "source": "澎湃新闻",
+          "title": "美防长称伊朗最高领袖受伤但活着",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E9%98%B2%E9%95%BF%E7%A7%B0%E4%BC%8A%E6%9C%97%E6%9C%80%E9%AB%98%E9%A2%86%E8%A2%96%E5%8F%97%E4%BC%A4%E4%BD%86%E6%B4%BB%E7%9D%80%23&t=31&band_rank=27&Refer=top",
+          "source": "微博",
           "ranks": [
-            18,
-            17,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时25分 ~ 06时48分]"
-        },
-        {
-          "title": "美称伊朗最高领袖已受伤但仍活着",
-          "url": "https://www.toutiao.com/trending/7628521830282592297/",
-          "source": "今日头条",
-          "ranks": [
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时25分 ~ 06时48分]"
-        },
-        {
-          "title": "伊朗总统感谢中国",
-          "url": "https://www.toutiao.com/trending/7628829127155826738/",
-          "source": "今日头条",
-          "ranks": [
-            30,
-            19,
-            18,
-            16,
+            27,
+            24,
+            23,
+            14,
             17
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[00时25分 ~ 06时48分]"
+          "time_info": "[02时10分 ~ 07时46分]"
         },
         {
           "title": "伊朗议长：黎巴嫩是地区全面停火不可或缺一环",
@@ -251,20 +279,6 @@
             19,
             12,
             20
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时10分 ~ 06时48分]"
-        },
-        {
-          "title": "美防长称伊朗最高领袖受伤但活着",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E9%98%B2%E9%95%BF%E7%A7%B0%E4%BC%8A%E6%9C%97%E6%9C%80%E9%AB%98%E9%A2%86%E8%A2%96%E5%8F%97%E4%BC%A4%E4%BD%86%E6%B4%BB%E7%9D%80%23&t=31&band_rank=27&Refer=top",
-          "source": "微博",
-          "ranks": [
-            27,
-            24,
-            23,
-            14
           ],
           "is_new": false,
           "appearance_count": 4,
@@ -430,7 +444,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时48分"
         },
@@ -452,7 +466,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时48分"
         },
@@ -581,8 +595,19 @@
     },
     {
       "keyword_group": "以色列",
-      "match_count": 34,
+      "match_count": 36,
       "titles": [
+        {
+          "title": "李在明硬刚以色列是一时冲动吗",
+          "url": "https://www.toutiao.com/trending/7628409818994835483/",
+          "source": "今日头条",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时46分"
+        },
         {
           "title": "以色列总理内塔尼亚胡：我们的核心要求是黎巴嫩真主党必须被解散。",
           "url": "https://flash.jin10.com/detail/20260417015906336800",
@@ -661,17 +686,6 @@
           "time_info": "00时25分"
         },
         {
-          "title": "以色列军方：停火后部队仍驻扎在黎巴嫩南部，呼吁黎巴嫩居民不要向利塔尼河以南移动。",
-          "url": "https://flash.jin10.com/detail/20260417055728226800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时48分"
-        },
-        {
           "title": "以色列总理内塔尼亚胡：我同意（与黎巴嫩）为期十天的停火。 我们的核心要求是，必须解散黎巴嫩真主党。",
           "url": "https://wallstreetcn.com/livenews/3089523",
           "source": "华尔街见闻-快讯",
@@ -681,17 +695,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时10分"
-        },
-        {
-          "title": "据黎巴嫩国家通讯社：以色列炮兵在停火生效后继续轰炸黎巴嫩南部地区。",
-          "url": "https://flash.jin10.com/detail/20260417055647356800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时48分"
         },
         {
           "title": "以媒：从媒体上得知与黎停火，以色列高官又惊又怒",
@@ -704,6 +707,30 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时02分 ~ 05时50分]"
+        },
+        {
+          "title": "以色列军方：停火后部队仍驻扎在黎巴嫩南部，呼吁黎巴嫩居民不要向利塔尼河以南移动。",
+          "url": "https://flash.jin10.com/detail/20260417055728226800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时48分 ~ 07时46分]"
+        },
+        {
+          "title": "据黎巴嫩国家通讯社：以色列炮兵在停火生效后继续轰炸黎巴嫩南部地区。",
+          "url": "https://flash.jin10.com/detail/20260417055647356800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时48分 ~ 07时46分]"
         },
         {
           "title": "以色列多城遭蜜蜂大规模入侵",
@@ -719,6 +746,18 @@
           "time_info": "[02时10分 ~ 05时50分]"
         },
         {
+          "title": "联合国秘书长古特雷斯：欢迎以色列与黎巴嫩之间停火的公告。",
+          "url": "https://flash.jin10.com/detail/20260417055411910800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时48分 ~ 07时46分]"
+        },
+        {
           "title": "黎真主党称将尊重临时停火 前提是以色列停止敌对行动",
           "url": "https://flash.jin10.com/detail/20260417043438892800",
           "source": "金十数据",
@@ -729,6 +768,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时50分 ~ 06时48分]"
+        },
+        {
+          "title": "美国务院：以黎停火期限可延长 以色列保留“自卫权利”",
+          "url": "https://flash.jin10.com/detail/20260417070521345800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时46分"
         },
         {
           "title": "特朗普：黎巴嫩与以色列将停火10天",
@@ -762,17 +812,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时10分"
-        },
-        {
-          "title": "联合国秘书长古特雷斯：欢迎以色列与黎巴嫩之间停火的公告。",
-          "url": "https://flash.jin10.com/detail/20260417055411910800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时48分"
         },
         {
           "title": "以色列在2小时内对黎巴嫩南部发动了50次空袭。（黎巴嫩国家新闻通讯社NNA）",
@@ -965,7 +1004,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 11,
+      "match_count": 13,
       "titles": [
         {
           "title": "停火延长预期提振市场，美股高开，台积电跌超1%，布油涨2%",
@@ -984,11 +1023,12 @@
           "url": "https://www.cls.cn/detail/2346842",
           "source": "财联社热门",
           "ranks": [
-            5
+            5,
+            4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时48分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时48分 ~ 07时46分]"
         },
         {
           "title": "“反手做空，趁现在还来得及”！高盛交易员警告美股涨过头，抛出6笔对冲交易",
@@ -996,11 +1036,23 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            9
+            9,
+            6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时25分 ~ 06时48分]"
+          "appearance_count": 6,
+          "time_info": "[00时25分 ~ 07时46分]"
+        },
+        {
+          "title": "中东紧张局势持续，美股勉强新高，纳指十二连涨，中概股指跑赢大盘，原油两连涨",
+          "url": "https://wallstreetcn.com/articles/3770109",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时46分"
         },
         {
           "title": "AI需求强劲支撑涨势 美股三大期指小幅走高 | 今夜看点",
@@ -1011,8 +1063,19 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时25分 ~ 06时48分]"
+          "appearance_count": 6,
+          "time_info": "[00时25分 ~ 07时46分]"
+        },
+        {
+          "title": "美股收盘：百度涨超3%",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E6%94%B6%E7%9B%98%EF%BC%9A%E7%99%BE%E5%BA%A6%E6%B6%A8%E8%B6%853%25",
+          "source": "百度热搜",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时46分"
         },
         {
           "title": "欧洲STOXX 600指数初步收涨0.01%，报617.33点。 欧元区STOXX 50指数初步收平，报5940.00点，美股开盘之后显著跳水。 富时泛欧绩优300指数初步收跌0.06%，报2458.30点。",
@@ -1127,7 +1190,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时48分"
         },
