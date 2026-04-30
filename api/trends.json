@@ -1,22 +1,34 @@
 {
-  "generated_at": "2026-05-01T02:14:27.508655+08:00",
-  "total_titles_processed": 403,
+  "generated_at": "2026-05-01T04:12:48.457180+08:00",
+  "total_titles_processed": 472,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 13,
+      "match_count": 29,
       "titles": [
         {
           "title": "美军拟以“高超音速导弹”打击伊朗，周四将向特朗普汇报新“打击计划”",
           "url": "https://wallstreetcn.com/articles/3771344",
           "source": "华尔街见闻",
           "ranks": [
-            7
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时24分 ~ 04时12分]"
+        },
+        {
+          "title": "伊朗战争丨以防长：或很快对伊朗再次采取行动",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W?isFull=0&immersion=true&ifengsp=1",
+          "source": "凤凰网",
+          "ranks": [
+            6
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时24分 ~ 02时14分]"
+          "time_info": "[02时14分 ~ 04时12分]"
         },
         {
           "title": "后继乏力，美国对伊朗已使出最后手段？",
@@ -42,15 +54,15 @@
           "time_info": "00时24分"
         },
         {
-          "title": "伊朗战争丨以防长：或很快对伊朗再次采取行动",
-          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W?isFull=0&immersion=true&ifengsp=1",
-          "source": "凤凰网",
+          "title": "美国总统特朗普：我们在发动伊朗战争方面并不曾需要（来自北约的）任何帮助。",
+          "url": "https://wallstreetcn.com/livenews/3097682",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时14分"
+          "time_info": "04时12分"
         },
         {
           "title": "国际足联主席因凡蒂诺：伊朗将参加世界杯，并将在美国比赛。",
@@ -59,9 +71,42 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时14分"
+        },
+        {
+          "title": "一位白宫官员表示，特朗普政府正与国会进行“积极磋商”，探讨是否寻求对伊朗战争的授权。",
+          "url": "https://flash.jin10.com/detail/20260501034758501800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时12分"
+        },
+        {
+          "title": "美国官员：伊朗战争成本接近500亿美元。",
+          "url": "https://flash.jin10.com/detail/20260501034727215800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时12分"
+        },
+        {
+          "title": "美国总统特朗普：美国将从伊朗获得核材料。",
+          "url": "https://flash.jin10.com/detail/20260501034714128800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时12分"
         },
         {
           "title": "伊朗总统：持续推进海上封锁的行为不可容忍",
@@ -70,9 +115,53 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时14分"
+        },
+        {
+          "title": "特朗普称他可能需要打破伊朗停火协议",
+          "url": "https://flash.jin10.com/detail/20260501034702107800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时12分"
+        },
+        {
+          "title": "特朗普：伊朗现在无法从石油中获得任何收入，除了我和另外几个人，没人懂与伊朗谈判",
+          "url": "https://wallstreetcn.com/livenews/3097677",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时12分"
+        },
+        {
+          "title": "阿联酋外交部：禁止公民前往伊朗、黎巴嫩和伊拉克。",
+          "url": "https://flash.jin10.com/detail/20260501034327246800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时12分"
+        },
+        {
+          "title": "伊朗议长嘲笑美国封锁：美国从东到西建两堵墙都没伊朗总边界长",
+          "url": "https://flash.jin10.com/detail/20260501033839708800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时12分"
         },
         {
           "title": "24小时接收6500吨装备 以防长称或“很快恢复”对伊朗军事行动",
@@ -81,9 +170,31 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时14分"
+        },
+        {
+          "title": "美国总统特朗普：试图以某种方式拯救伊朗。",
+          "url": "https://flash.jin10.com/detail/20260501032756806800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时12分"
+        },
+        {
+          "title": "美国总统特朗普：我们要看看伊朗能撑多久。",
+          "url": "https://flash.jin10.com/detail/20260501032750451800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时12分"
         },
         {
           "title": "美国国防部长赫格塞思：我们今天面临的最大危险是那些试图破坏我们对抗伊朗努力的失败主义民主党人。",
@@ -95,6 +206,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时24分"
+        },
+        {
+          "title": "美国总统特朗普：美国国务卿鲁比奥积极参与与伊朗的谈判。",
+          "url": "https://flash.jin10.com/detail/20260501032621467800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时12分"
         },
         {
           "title": "乳胶制造商Synthomer预计第二季度表现强劲，伊朗战争对亚洲竞争对手造成干扰",
@@ -119,6 +241,28 @@
           "time_info": "00时24分"
         },
         {
+          "title": "特朗普称只有他和少数几个人知道伊朗谈判的真实情况。",
+          "url": "https://flash.jin10.com/detail/20260501032430305800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时12分"
+        },
+        {
+          "title": "美国总统特朗普：我们不需要任何关于伊朗的帮助。",
+          "url": "https://flash.jin10.com/detail/20260501032337584800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时12分"
+        },
+        {
           "title": "泽连斯基：伊朗战争使乌克兰和谈悬而未决",
           "url": "https://flash.jin10.com/detail/20260430233245131800",
           "source": "金十数据",
@@ -130,6 +274,28 @@
           "time_info": "00时24分"
         },
         {
+          "title": "美国加州州长纽森：在特朗普与伊朗的冲突持续61天后，国家平均汽油价格已达到每加仑4.30美元，涨幅近30%。此外，食品、运输、航班等价格也在上涨。特朗普政府和共和党国会对此的反应？沉默无声。",
+          "url": "https://flash.jin10.com/detail/20260501032134400800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时12分"
+        },
+        {
+          "title": "美国总统特朗普：一旦伊朗战争结束，汽油价格将会下降。",
+          "url": "https://flash.jin10.com/detail/20260501031709849800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时12分"
+        },
+        {
           "title": "特朗普再次对德国总理涉伊朗言论表达不满",
           "url": "https://wallstreetcn.com/livenews/3097606",
           "source": "华尔街见闻-快讯",
@@ -139,6 +305,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时24分"
+        },
+        {
+          "title": "伊朗最高领袖：将确保波斯湾区域安全",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E6%9C%80%E9%AB%98%E9%A2%86%E8%A2%96%EF%BC%9A%E5%B0%86%E7%A1%AE%E4%BF%9D%E6%B3%A2%E6%96%AF%E6%B9%BE%E5%8C%BA%E5%9F%9F%E5%AE%89%E5%85%A8",
+          "source": "百度热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时12分"
         },
         {
           "title": "美国众议院议长约翰逊表示，美国并未与伊朗处于战争状态。国会无需就针对伊朗的军事行动进行表决。（NBC新闻）",
@@ -158,15 +335,16 @@
       "match_count": 6,
       "titles": [
         {
-          "title": "谷歌母公司Alphabet涨幅扩大至10%，创最近逾一年来最大盘中涨幅。",
-          "url": "https://wallstreetcn.com/livenews/3097667",
-          "source": "华尔街见闻-快讯",
+          "title": "“科技四巨头”罕见同日财报：谷歌大涨Meta重挫，谷歌、微软和亚马逊云增长迅猛，谷歌和Meta上调资本开支",
+          "url": "https://wallstreetcn.com/articles/3771319",
+          "source": "华尔街见闻",
           "ranks": [
-            2
+            6,
+            4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时14分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时24分 ~ 04时12分]"
         },
         {
           "title": "谷歌公司：开始在配置谷歌的乘用车推广Gemini。",
@@ -181,15 +359,16 @@
           "time_info": "[00时24分 ~ 02时14分]"
         },
         {
-          "title": "“科技四巨头”罕见同日财报：谷歌大涨Meta重挫，谷歌、微软和亚马逊云增长迅猛，谷歌和Meta上调资本开支",
-          "url": "https://wallstreetcn.com/articles/3771319",
-          "source": "华尔街见闻",
+          "title": "谷歌母公司Alphabet涨幅扩大至10%，创最近逾一年来最大盘中涨幅。",
+          "url": "https://wallstreetcn.com/livenews/3097667",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            2,
+            19
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时24分 ~ 02时14分]"
+          "time_info": "[02时14分 ~ 04时12分]"
         },
         {
           "title": "谷歌母公司Q1营收超预期增长22%，AI驱动多板块业务增长，云业务大增63%",
@@ -197,11 +376,12 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            10
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时24分 ~ 02时14分]"
+          "appearance_count": 3,
+          "time_info": "[00时24分 ~ 04时12分]"
         },
         {
           "title": "胡锡进：只要中国赚钱机会越来越多，谷歌就不舍得真正“离开”",
@@ -212,8 +392,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时24分 ~ 02时14分]"
+          "appearance_count": 3,
+          "time_info": "[00时24分 ~ 04时12分]"
         },
         {
           "title": "谷歌A创约8个月最大盘中涨幅",
@@ -233,6 +413,30 @@
       "match_count": 5,
       "titles": [
         {
+          "title": "OpenAI为用户提供新安全措施，可抛弃密码登录",
+          "url": "https://wallstreetcn.com/livenews/3097661",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时14分 ~ 04时12分]"
+        },
+        {
+          "title": "Yubico与OpenAI达成合作协议，前者用户可以通过OpenAI的安全项目购买Yubikeys。",
+          "url": "https://wallstreetcn.com/livenews/3097659",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时14分 ~ 04时12分]"
+        },
+        {
           "title": "4月30日，马斯克重返证人席，接受OpenAI律师反询问。",
           "url": "https://wallstreetcn.com/livenews/3097631",
           "source": "华尔街见闻-快讯",
@@ -244,35 +448,13 @@
           "time_info": "00时24分"
         },
         {
-          "title": "OpenAI为用户提供新安全措施，可抛弃密码登录",
-          "url": "https://wallstreetcn.com/livenews/3097661",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时14分"
-        },
-        {
-          "title": "Yubico与OpenAI达成合作协议，前者用户可以通过OpenAI的安全项目购买Yubikeys。",
-          "url": "https://wallstreetcn.com/livenews/3097659",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时14分"
-        },
-        {
           "title": "OpenAI 被曝联手联发科、高通开发手机芯片，高通涨逾 10%，这对 AI 手机市场来说意味着什么？",
           "url": "https://www.zhihu.com/question/2032183066840360184",
           "source": "知乎",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时14分"
         },
@@ -283,7 +465,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时14分"
         }
@@ -301,8 +483,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时24分 ~ 02时14分]"
+          "appearance_count": 3,
+          "time_info": "[00时24分 ~ 04时12分]"
         },
         {
           "title": "Deepseek-V4 究竟在编程上和 Claude-Opus-4.7 差距有多大？",
@@ -310,33 +492,36 @@
           "source": "知乎",
           "ranks": [
             9,
-            7
+            7,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时24分 ~ 02时14分]"
-        },
-        {
-          "title": "从硅谷视角看DeepSeekV4",
-          "url": "https://search.bilibili.com/all?keyword=%E4%BB%8E%E7%A1%85%E8%B0%B7%E8%A7%86%E8%A7%92%E7%9C%8BDeepSeekV4",
-          "source": "bilibili 热搜",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时24分 ~ 02时14分]"
+          "appearance_count": 3,
+          "time_info": "[00时24分 ~ 04时12分]"
         },
         {
           "title": "DeepSeek多模态模型来了",
           "url": "https://www.baidu.com/s?wd=DeepSeek%E5%A4%9A%E6%A8%A1%E6%80%81%E6%A8%A1%E5%9E%8B%E6%9D%A5%E4%BA%86",
           "source": "百度热搜",
           "ranks": [
-            15
+            15,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时24分 ~ 02时14分]"
+          "appearance_count": 3,
+          "time_info": "[00时24分 ~ 04时12分]"
+        },
+        {
+          "title": "从硅谷视角看DeepSeekV4",
+          "url": "https://search.bilibili.com/all?keyword=%E4%BB%8E%E7%A1%85%E8%B0%B7%E8%A7%86%E8%A7%92%E7%9C%8BDeepSeekV4",
+          "source": "bilibili 热搜",
+          "ranks": [
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时24分 ~ 04时12分]"
         }
       ]
     },
@@ -350,11 +535,12 @@
           "source": "今日头条",
           "ranks": [
             13,
-            7
+            7,
+            16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时24分 ~ 02时14分]"
+          "appearance_count": 3,
+          "time_info": "[00时24分 ~ 04时12分]"
         },
         {
           "title": "金价突涨",
@@ -362,11 +548,12 @@
           "source": "微博",
           "ranks": [
             29,
-            22
+            22,
+            25
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时24分 ~ 02时14分]"
+          "appearance_count": 3,
+          "time_info": "[00时24分 ~ 04时12分]"
         },
         {
           "title": "美国银行：预计铝价格将提前至2026年四季度达到4000美元/吨，之前预计要到2027年二季度才会涨至那样的水平。 上调锌价格预期12.7%，至3309美元/吨。 铜市场仍然供应紧俏，预计2026-27年将存在供应缺口。 重申对未来12个月黄金价格6000美元/盎司的预期。",
@@ -403,7 +590,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时14分"
         },
@@ -432,6 +619,35 @@
       ]
     },
     {
+      "keyword_group": "美股",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "经济数据与财报提振市场情绪，美股高开，日元跳涨，油价高位回落，金银上涨",
+          "url": "https://wallstreetcn.com/articles/3771356",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时24分 ~ 04时12分]"
+        },
+        {
+          "title": "美股收盘，道指初步收涨1.62%、标普500指数涨1.02%、纳指0.89涨%。Alphabet(GOOG.O)收涨9.95%，创历史新高；高通(QCOM.O)涨超15%。纳斯达克中国金龙指数涨2.1%，阿里巴巴(BABA.N)涨超1%。",
+          "url": "https://flash.jin10.com/detail/20260501040155496800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时12分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美债",
       "match_count": 1,
       "titles": [
@@ -440,28 +656,29 @@
           "url": "https://wallstreetcn.com/articles/3771214",
           "source": "华尔街见闻",
           "ranks": [
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时24分 ~ 02时14分]"
+          "appearance_count": 3,
+          "time_info": "[00时24分 ~ 04时12分]"
         }
       ]
     },
     {
-      "keyword_group": "美股",
+      "keyword_group": "美元",
       "match_count": 1,
       "titles": [
         {
-          "title": "经济数据与财报提振市场情绪，美股高开，日元跳涨，油价高位回落，金银上涨",
-          "url": "https://wallstreetcn.com/articles/3771356",
-          "source": "华尔街见闻",
+          "title": "周四（4月30日）纽约尾盘，ICE美元指数跌0.88%，报98.090点，4月份累计下跌1.88%，整体交投区间为100.273-97.632点，大部分时间交投于99点下方。",
+          "url": "https://wallstreetcn.com/livenews/3097685",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            3
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时24分 ~ 02时14分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时12分"
         }
       ]
     },
