@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-02T16:23:22.370547+08:00",
-  "total_titles_processed": 1031,
+  "generated_at": "2026-05-02T18:02:28.504734+08:00",
+  "total_titles_processed": 1132,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 85,
+      "match_count": 86,
       "titles": [
         {
           "title": "美防长：“60天时限”已“暂停” 对伊朗军事行动无需寻求国会授权",
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时04分 ~ 16时23分]"
+          "appearance_count": 14,
+          "time_info": "[00时04分 ~ 18时02分]"
         },
         {
           "title": "伊朗最高领袖、总统、议长、外长、革命卫队密集发声",
@@ -39,8 +39,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[06时55分 ~ 16时23分]"
+          "appearance_count": 8,
+          "time_info": "[06时55分 ~ 18时02分]"
         },
         {
           "title": "以军：如果不能移除伊朗的浓缩铀，就是“巨大的失败”",
@@ -51,8 +51,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[02时02分 ~ 16时23分]"
+          "appearance_count": 12,
+          "time_info": "[02时02分 ~ 18时02分]"
         },
         {
           "title": "伊朗总统表示美国海上封锁不可容忍 特朗普称已摧毁伊朗核能力 | 环球市场",
@@ -95,6 +95,18 @@
           "time_info": "[05时57分 ~ 08时46分]"
         },
         {
+          "title": "伊朗转交新方案，“放宽谈判条件”，特朗普称“不满意”，但“倾向于不打击”",
+          "url": "https://wallstreetcn.com/articles/3771465",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时23分 ~ 18时02分]"
+        },
+        {
           "title": "美辩称袭击伊朗系“自卫”，伊朗怒斥",
           "url": "https://news.ifeng.com/c/8sm4vXslE7P",
           "source": "凤凰网",
@@ -106,16 +118,52 @@
           "time_info": "[00时04分 ~ 06时56分]"
         },
         {
-          "title": "伊朗转交新方案，“放宽谈判条件”，特朗普称“不满意”，但“倾向于不打击”",
-          "url": "https://wallstreetcn.com/articles/3771465",
-          "source": "华尔街见闻",
+          "title": "伊朗战争丨伊高级军官：伊美再次爆发冲突可能性很大",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W?isFull=0&immersion=true&ifengsp=1",
+          "source": "凤凰网",
           "ranks": [
-            2,
-            1
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时23分 ~ 18时02分]"
+        },
+        {
+          "title": "美伊局势追踪：特朗普“不满”伊朗最新谈判方案 白宫称敌对行动已“结束”",
+          "url": "https://www.cls.cn/detail/2362040",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            5,
+            2
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[11时23分 ~ 16时23分]"
+          "time_info": "[14时11分 ~ 18时02分]"
+        },
+        {
+          "title": "【早报】白宫：与伊朗的敌对行动已经“结束”；特朗普：下周对欧盟输美汽车和卡车加征25%关税",
+          "url": "https://www.cls.cn/detail/2362026",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[08时45分 ~ 18时02分]"
+        },
+        {
+          "title": "美以袭击伊朗进入第 64 天，当前局势如何？还有哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2033683551262963211",
+          "source": "知乎",
+          "ranks": [
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[08时45分 ~ 18时02分]"
         },
         {
           "title": "伊朗递交最新谈判方案",
@@ -153,17 +201,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[04时07分 ~ 08时46分]"
-        },
-        {
-          "title": "伊朗战争丨伊高级军官：伊美再次爆发冲突可能性很大",
-          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W?isFull=0&immersion=true&ifengsp=1",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时23分"
         },
         {
           "title": "伊朗塔斯尼姆通讯社称，与白宫毫无根据的说法相反，目前仍没有迹象表明储油空间即将耗尽。",
@@ -245,30 +282,6 @@
           "time_info": "02时03分"
         },
         {
-          "title": "【早报】白宫：与伊朗的敌对行动已经“结束”；特朗普：下周对欧盟输美汽车和卡车加征25%关税",
-          "url": "https://www.cls.cn/detail/2362026",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时45分 ~ 16时23分]"
-        },
-        {
-          "title": "美以袭击伊朗进入第 64 天，当前局势如何？还有哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/2033683551262963211",
-          "source": "知乎",
-          "ranks": [
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时45分 ~ 16时23分]"
-        },
-        {
           "title": "伊朗战争丨特朗普：对伊朗最新的谈判方案不满意",
           "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W?isFull=0&immersion=true&ifengsp=1",
           "source": "凤凰网",
@@ -289,6 +302,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[06时55分 ~ 08时46分]"
+        },
+        {
+          "title": "伊朗战争会再次影响访华行程吗？特朗普答凤凰记者问",
+          "url": "https://news.ifeng.com/c/8snAXIe1Bbr",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时23分 ~ 18时02分]"
         },
         {
           "title": "美国总统特朗普：（关于伊朗）我们不会提前离开，问题会再次出现。",
@@ -327,18 +351,6 @@
           "time_info": "[02时03分 ~ 04时07分]"
         },
         {
-          "title": "美伊局势追踪：特朗普“不满”伊朗最新谈判方案 白宫称敌对行动已“结束”",
-          "url": "https://www.cls.cn/detail/2362040",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时11分 ~ 16时23分]"
-        },
-        {
           "title": "未爆弹药爆炸致伊朗革命卫队14人死亡",
           "url": "https://www.toutiao.com/trending/7634184090782105663/",
           "source": "今日头条",
@@ -375,17 +387,6 @@
           "time_info": "[04时07分 ~ 06时56分]"
         },
         {
-          "title": "伊朗战争会再次影响访华行程吗？特朗普答凤凰记者问",
-          "url": "https://news.ifeng.com/c/8snAXIe1Bbr",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时23分 ~ 16时23分]"
-        },
-        {
           "title": "“60天期限”已到 伊朗递交新方案",
           "url": "https://www.baidu.com/s?wd=%E2%80%9C60%E5%A4%A9%E6%9C%9F%E9%99%90%E2%80%9D%E5%B7%B2%E5%88%B0+%E4%BC%8A%E6%9C%97%E9%80%92%E4%BA%A4%E6%96%B0%E6%96%B9%E6%A1%88",
           "source": "百度热搜",
@@ -396,6 +397,19 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[08时45分 ~ 11时23分]"
+        },
+        {
+          "title": "规避“60天期限”，特朗普致函国会称与伊朗敌对行动已“结束”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33091461",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时11分 ~ 18时02分]"
         },
         {
           "title": "惠誉：确认阿布扎比评级为“AA”；展望稳定。 稳定的展望反映了石油出口收入在伊朗战争期间的韧性，这显著抵消了战争带来的负面影响。 伊朗战争结束后，我们预计政府将推出旨在振兴非石油经济的支持计划。",
@@ -492,16 +506,16 @@
           "time_info": "[14时11分 ~ 16时23分]"
         },
         {
-          "title": "规避“60天期限”，特朗普致函国会称与伊朗敌对行动已“结束”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33091461",
-          "source": "澎湃新闻",
+          "title": "伊朗高级军事官员：伊美间再次爆发军事冲突可能性很大",
+          "url": "https://wallstreetcn.com/livenews/3098119",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            15,
-            11
+            11,
+            23
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[14时11分 ~ 16时23分]"
+          "time_info": "[16时23分 ~ 18时02分]"
         },
         {
           "title": "特朗普将美国封锁伊朗港口比作海盗行为：是“非常赚钱的生意”",
@@ -514,6 +528,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时11分 ~ 16时23分]"
+        },
+        {
+          "title": "伊朗向巴基斯坦提交伊美谈判最新方案",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33090851",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时23分 ~ 18时02分]"
         },
         {
           "title": "伊朗经调解方转交谈判新方案，特朗普称“不满意”、告知国会与伊战事已“结束”",
@@ -536,6 +562,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时23分"
+        },
+        {
+          "title": "伊朗透露最高领袖身体状况",
+          "url": "https://www.toutiao.com/trending/7634841070266368054/",
+          "source": "今日头条",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时02分"
         },
         {
           "title": "俄伊外长通电话 讨论伊朗就结束与美以冲突的立场",
@@ -591,17 +628,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时03分"
-        },
-        {
-          "title": "伊朗高级军事官员：伊美间再次爆发军事冲突可能性很大",
-          "url": "https://wallstreetcn.com/livenews/3098119",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时23分"
         },
         {
           "title": "伊朗最高领袖：当前阶段需要推动“经济抗争”",
@@ -778,17 +804,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时03分"
-        },
-        {
-          "title": "伊朗向巴基斯坦提交伊美谈判最新方案",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33090851",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时23分"
         },
         {
           "title": "特朗普称伊朗拥核“不会发生”",
@@ -1134,7 +1149,7 @@
     },
     {
       "keyword_group": "以色列",
-      "match_count": 7,
+      "match_count": 11,
       "titles": [
         {
           "title": "以色列 24 小时接收 6500 吨装备，称或「很快需要」恢复对伊军事行动，美国将扮演怎样的角色？",
@@ -1150,26 +1165,39 @@
           "time_info": "[02时02分 ~ 11时23分]"
         },
         {
-          "title": "以色列国防军发言人：在最新一系列报复性打击中，摧毁了超过50个真主党基础设施地点。",
-          "url": "https://flash.jin10.com/detail/20260502155058447800",
+          "title": "以色列称将把扣押的2名活动人士移交执法部门",
+          "url": "https://flash.jin10.com/detail/20260502174721650800",
           "source": "金十数据",
           "ranks": [
             1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时23分"
+          "time_info": "18时02分"
+        },
+        {
+          "title": "以色列国防军发言人：在最新一系列报复性打击中，摧毁了超过50个真主党基础设施地点。",
+          "url": "https://flash.jin10.com/detail/20260502155058447800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时23分 ~ 18时02分]"
         },
         {
           "title": "据卡塔尔通讯社：以色列空袭黎巴嫩南部，造成两人死亡，多人受伤。",
           "url": "https://flash.jin10.com/detail/20260502153512588800",
           "source": "金十数据",
           "ranks": [
-            2
+            2,
+            25
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时23分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时23分 ~ 18时02分]"
         },
         {
           "title": "美国务院批准向以色列等中东四国出售武器",
@@ -1215,9 +1243,42 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时23分"
+        },
+        {
+          "title": "伊朗宣布处决两名向以色列提供情报的间谍",
+          "url": "https://wallstreetcn.com/livenews/3098131",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时02分"
+        },
+        {
+          "title": "以色列对黎巴嫩袭击造成至少13人死亡",
+          "url": "https://wallstreetcn.com/livenews/3098130",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时02分"
+        },
+        {
+          "title": "以色列对黎巴嫩袭击造成至少13人死亡",
+          "url": "https://flash.jin10.com/detail/20260502160852267800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时02分"
         }
       ]
     },
@@ -1321,6 +1382,19 @@
           "time_info": "[00时04分 ~ 16时23分]"
         },
         {
+          "title": "DeepSeek拟人 哇呀啧呜哇",
+          "url": "https://s.weibo.com/weibo?q=DeepSeek%E6%8B%9F%E4%BA%BA%20%E5%93%87%E5%91%80%E5%95%A7%E5%91%9C%E5%93%87&t=31&band_rank=29&Refer=top",
+          "source": "微博",
+          "ranks": [
+            29,
+            28,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时23分 ~ 18时02分]"
+        },
+        {
           "title": "Claude画的DeepSeek蓝胖鱼",
           "url": "https://s.weibo.com/weibo?q=Claude%E7%94%BB%E7%9A%84DeepSeek%E8%93%9D%E8%83%96%E9%B1%BC&t=31&band_rank=24&Refer=top",
           "source": "微博",
@@ -1331,18 +1405,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时11分 ~ 16时23分]"
-        },
-        {
-          "title": "DeepSeek拟人 哇呀啧呜哇",
-          "url": "https://s.weibo.com/weibo?q=DeepSeek%E6%8B%9F%E4%BA%BA%20%E5%93%87%E5%91%80%E5%95%A7%E5%91%9C%E5%93%87&t=31&band_rank=29&Refer=top",
-          "source": "微博",
-          "ranks": [
-            29,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时23分 ~ 16时23分]"
         },
         {
           "title": "DeepSeek 现在我是你爹了",
@@ -1359,7 +1421,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "马斯克承认蒸馏ChatGPT",
@@ -1381,8 +1443,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时11分 ~ 16时23分]"
+          "appearance_count": 3,
+          "time_info": "[14时11分 ~ 18时02分]"
         },
         {
           "title": "OpenAI 称 GPT-5.5 中「哥布林」泛滥是奖励机制所致，这反映了大模型训练的哪些难题？",
@@ -1392,8 +1454,71 @@
             8
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时11分 ~ 18时02分]"
+        },
+        {
+          "title": "OpenAI：人工智能在一个月内从编写20%的代码提升至80%。",
+          "url": "https://flash.jin10.com/detail/20260502172401507800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时02分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "人工智能 AI ChatGPT",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "日本首相高市早苗：旨在与越南及其他国家合作开展AI技术研发。 致力于推动印太地区的数字化基础设施建设。",
+          "url": "https://wallstreetcn.com/livenews/3098138",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时02分"
+        },
+        {
+          "title": "美军使用AI技术在霍尔木兹海峡扫雷",
+          "url": "https://flash.jin10.com/detail/20260502085918272800",
+          "source": "金十数据",
+          "ranks": [
+            12,
+            26
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[14时11分 ~ 16时23分]"
+          "time_info": "[11时23分 ~ 14时11分]"
+        },
+        {
+          "title": "美军使用AI技术在霍尔木兹海峡扫雷",
+          "url": "https://wallstreetcn.com/livenews/3098092",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时23分 ~ 14时11分]"
+        },
+        {
+          "title": "美军使用AI技术在霍尔木兹海峡扫雷",
+          "url": "https://www.toutiao.com/trending/7634071718033837610/",
+          "source": "今日头条",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时23分"
         }
       ]
     },
@@ -1441,47 +1566,6 @@
       ]
     },
     {
-      "keyword_group": "人工智能 AI ChatGPT",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "美军使用AI技术在霍尔木兹海峡扫雷",
-          "url": "https://flash.jin10.com/detail/20260502085918272800",
-          "source": "金十数据",
-          "ranks": [
-            12,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时23分 ~ 14时11分]"
-        },
-        {
-          "title": "美军使用AI技术在霍尔木兹海峡扫雷",
-          "url": "https://wallstreetcn.com/livenews/3098092",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时23分 ~ 14时11分]"
-        },
-        {
-          "title": "美军使用AI技术在霍尔木兹海峡扫雷",
-          "url": "https://www.toutiao.com/trending/7634071718033837610/",
-          "source": "今日头条",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时23分"
-        }
-      ]
-    },
-    {
       "keyword_group": "美元",
       "match_count": 2,
       "titles": [
@@ -1508,6 +1592,23 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[08时46分 ~ 14时11分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "金价今年或跌回4000美元",
+          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E4%BB%8A%E5%B9%B4%E6%88%96%E8%B7%8C%E5%9B%9E4000%E7%BE%8E%E5%85%83",
+          "source": "百度热搜",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时02分"
         }
       ]
     }
