@@ -1,12 +1,26 @@
 {
-  "generated_at": "2026-05-09T12:26:57.506314+08:00",
-  "total_titles_processed": 778,
+  "generated_at": "2026-05-09T15:12:07.934724+08:00",
+  "total_titles_processed": 918,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 41,
+      "match_count": 46,
       "titles": [
+        {
+          "title": "美国务卿敦促“进入严肃谈判进程”，美军向伊朗“违反封锁”油轮开火，伊称海湾交火已停但恐重燃",
+          "url": "https://wallstreetcn.com/articles/3771862",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            4,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[03时25分 ~ 15时12分]"
+        },
         {
           "title": "伊朗南部霍尔木兹甘省一港口城市传出爆炸声",
           "url": "https://news.ifeng.com/c/8sy1qxEZ8vp",
@@ -52,20 +66,6 @@
           "time_info": "[01时24分 ~ 07时01分]"
         },
         {
-          "title": "美国务卿敦促“进入严肃谈判进程”，美军向伊朗“违反封锁”油轮开火，伊称海湾交火已停但恐重燃",
-          "url": "https://wallstreetcn.com/articles/3771862",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            4,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[03时25分 ~ 12时26分]"
-        },
-        {
           "title": "霍尔木兹局势又紧张！伊朗称美违反停火空袭、已反击，美军称拦截伊发起的无端袭击",
           "url": "https://wallstreetcn.com/articles/3771778",
           "source": "华尔街见闻",
@@ -75,6 +75,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时24分 ~ 05时10分]"
+        },
+        {
+          "title": "现场画面：伊朗海军扣押一艘油轮",
+          "url": "https://v.ifeng.com/c/8syr0bovpBY",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时26分 ~ 15时12分]"
         },
         {
           "title": "岚目镜观｜从三权分立到“民选皇帝”：伊朗战事如何刺穿美国宪政神话",
@@ -108,42 +120,32 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时26分"
         },
         {
-          "title": "现场画面：伊朗海军扣押一艘油轮",
-          "url": "https://v.ifeng.com/c/8syr0bovpBY",
-          "source": "凤凰网",
+          "title": "鲁比奥访意公开施压 质疑为何不支持对伊朗动武",
+          "url": "https://wallstreetcn.com/livenews/3101019",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时26分"
-        },
-        {
-          "title": "伊朗官员：最高领袖非常健康",
-          "url": "https://wallstreetcn.com/livenews/3101004",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时26分"
+          "time_info": "15时12分"
         },
         {
           "title": "伊朗驻华大使：美国没法施压中国，改变对伊朗关系",
           "url": "https://news.ifeng.com/c/8syp7qZWoVz",
           "source": "凤凰网",
           "ranks": [
-            4
+            4,
+            8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时26分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时26分 ~ 15时12分]"
         },
         {
           "title": "伊朗外长与英国外交大臣通电话。（IRIB）",
@@ -181,6 +183,18 @@
           "time_info": "[01时24分 ~ 07时01分]"
         },
         {
+          "title": "伊朗官员：最高领袖非常健康",
+          "url": "https://wallstreetcn.com/livenews/3101004",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时26分 ~ 15时12分]"
+        },
+        {
           "title": "伊朗外长：美国破坏性做法正在削弱外交进程",
           "url": "https://wallstreetcn.com/livenews/3100940",
           "source": "华尔街见闻-快讯",
@@ -216,6 +230,17 @@
           "time_info": "[01时24分 ~ 05时10分]"
         },
         {
+          "title": "伊朗战争丨伊朗官员披露穆杰塔巴伤情",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W?isFull=0&immersion=true&ifengsp=1",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时11分 ~ 15时12分]"
+        },
+        {
           "title": "伊朗官员称美军袭击伊民用船只，已致1死10伤",
           "url": "https://wallstreetcn.com/livenews/3100858",
           "source": "华尔街见闻-快讯",
@@ -226,6 +251,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时24分 ~ 03时25分]"
+        },
+        {
+          "title": "伊朗官员说最高领袖非常健康",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E5%AE%98%E5%91%98%E8%AF%B4%E6%9C%80%E9%AB%98%E9%A2%86%E8%A2%96%E9%9D%9E%E5%B8%B8%E5%81%A5%E5%BA%B7%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时11分 ~ 15时12分]"
         },
         {
           "title": "连续两天交火 伊朗警告冲突可能重燃",
@@ -267,7 +303,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时26分"
         },
@@ -300,7 +336,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时26分"
         },
@@ -314,6 +350,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时25分"
+        },
+        {
+          "title": "伊朗称美军打击伊朗6艘民用船",
+          "url": "https://wallstreetcn.com/livenews/3101008",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时12分"
         },
         {
           "title": "伊朗常驻联合国代表：美袭击伊朗油轮违反停火协议",
@@ -388,7 +435,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时26分"
         },
@@ -468,6 +515,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时25分"
+        },
+        {
+          "title": "伊朗称美军打击伊朗6艘民用船",
+          "url": "https://flash.jin10.com/detail/20260509125121027800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时12分"
         }
       ]
     },
@@ -496,8 +554,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时05分 ~ 12时26分]"
+          "appearance_count": 4,
+          "time_info": "[08时05分 ~ 15时12分]"
         },
         {
           "title": "美股收盘：标普纳指周线6连阳 存储、CPU四大牛股均涨超10%",
@@ -505,11 +563,12 @@
           "source": "财联社热门",
           "ranks": [
             4,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时05分 ~ 12时26分]"
+          "appearance_count": 4,
+          "time_info": "[08时05分 ~ 15时12分]"
         },
         {
           "title": "周五（5月8日），美股AI软件先驱指数跌0.29%，报106.05点，跳空低开之后逐步收复失地，本周累涨6.36%。 成分股HubSpot收跌19.03%，ServiceNOW跌2.58%，Salesforce跌2.43%，Adobe跌1.35%，微软跌1.34%跌幅第五大，铿腾电子涨1.63%表现第五，MongoDB涨2.06%，新思科技涨2.23%，C3.ai涨3.03%，Datadog涨6.06%。",
@@ -628,7 +687,7 @@
     },
     {
       "keyword_group": "以色列",
-      "match_count": 9,
+      "match_count": 13,
       "titles": [
         {
           "title": "标普：（关于以色列）展望稳定反映了以下观点：在停火协议支撑下，军事局势的缓和将降低以色列面临的短期安全风险。",
@@ -673,6 +732,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时10分 ~ 08时05分]"
+        },
+        {
+          "title": "兵韬志略｜以色列向阿联酋部署防空系统，将深刻冲击中东安全格局",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33122049",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时26分 ~ 15时12分]"
         },
         {
           "title": "标普：军事局势缓和将缓解供给侧压力，推动以色列2027年实际GDP增速接近6%。",
@@ -720,15 +791,48 @@
           "time_info": "[05时10分 ~ 07时01分]"
         },
         {
-          "title": "兵韬志略｜以色列向阿联酋部署防空系统，将深刻冲击中东安全格局",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33122049",
-          "source": "澎湃新闻",
+          "title": "以色列国防军： 在贝卡谷地，以色列国防军打击了一个真主党用于生产武器的地下设施。",
+          "url": "https://flash.jin10.com/detail/20260509130600178800",
+          "source": "金十数据",
           "ranks": [
-            17
+            21
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时26分"
+          "time_info": "15时12分"
+        },
+        {
+          "title": "以色列国防军：被打击的目标包括武器储存设施、发射器，以及真主党用于推进针对以色列平民和国防军士兵的恐怖活动的建筑。",
+          "url": "https://flash.jin10.com/detail/20260509130454643800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时12分"
+        },
+        {
+          "title": "以色列国防军：在过去24小时内，以色列国防军从空中和地面打击了超过85个真主党的基础设施目标。",
+          "url": "https://flash.jin10.com/detail/20260509130439233800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时12分"
+        },
+        {
+          "title": "以色列国防军：以色列国防军继续在黎巴嫩南部开展行动，以消除对以色列平民和国防军士兵的威胁。",
+          "url": "https://flash.jin10.com/detail/20260509130419839800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时12分"
         }
       ]
     },
@@ -741,33 +845,36 @@
           "url": "https://search.bilibili.com/all?keyword=DeepSeek%E8%AF%86%E5%9B%BE%E6%A8%A1%E5%BC%8F%E5%A4%A7%E8%8C%83%E5%9B%B4%E5%BC%80%E6%94%BE",
           "source": "bilibili 热搜",
           "ranks": [
-            6
+            6,
+            4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时26分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时26分 ~ 15时12分]"
         },
         {
           "title": "冲击中国AI融资王！报道：DeepSeek首轮融资目标500亿元，估值或突破3500亿元",
           "url": "https://wallstreetcn.com/articles/3771864",
           "source": "华尔街见闻",
           "ranks": [
-            7
+            7,
+            5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时26分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时26分 ~ 15时12分]"
         },
         {
           "title": "DeepSeek正式跨入图文交互时代",
           "url": "https://s.weibo.com/weibo?q=%23DeepSeek%E6%AD%A3%E5%BC%8F%E8%B7%A8%E5%85%A5%E5%9B%BE%E6%96%87%E4%BA%A4%E4%BA%92%E6%97%B6%E4%BB%A3%23&t=31&band_rank=27&Refer=top",
           "source": "微博",
           "ranks": [
-            27
+            27,
+            9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时26分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时26分 ~ 15时12分]"
         },
         {
           "title": "Redis之父给DeepSeek V4造推理引擎",
@@ -776,7 +883,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时26分"
         }
@@ -830,6 +937,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时10分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "英伟达13倍涨幅不过尔尔？自ChatGPT问世以来的AI疯牛榜正发生巨变！",
+          "url": "https://www.cls.cn/detail/2366733",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时11分 ~ 15时12分]"
         }
       ]
     },
