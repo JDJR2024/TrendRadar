@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-11T01:07:40.953252+08:00",
-  "total_titles_processed": 376,
+  "generated_at": "2026-05-11T03:11:50.100040+08:00",
+  "total_titles_processed": 445,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 37,
+      "match_count": 53,
       "titles": [
         {
           "title": "放行卡塔尔商船，伊朗向海湾国家释放积极信号",
@@ -15,8 +15,19 @@
             2
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时02分 ~ 03时11分]"
+        },
+        {
+          "title": "伊朗战争丨超20艘美国军舰参与封锁伊朗任务",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W?isFull=0&immersion=true&ifengsp=1",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时02分 ~ 01时07分]"
+          "time_info": "[01时07分 ~ 03时11分]"
         },
         {
           "title": "美国能源部长Wright：美国能源部将参与处理伊朗的核材料。",
@@ -24,23 +35,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            3
+            3,
+            16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时02分 ~ 01时07分]"
-        },
-        {
-          "title": "海事分析公司：伊朗可能正用快艇护航船只",
-          "url": "https://wallstreetcn.com/livenews/3101143",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时02分 ~ 01时07分]"
+          "appearance_count": 3,
+          "time_info": "[00时02分 ~ 03时11分]"
         },
         {
           "title": "伊朗战争丨伊朗已就美国的提案作出回应",
@@ -54,15 +54,28 @@
           "time_info": "00时02分"
         },
         {
-          "title": "伊朗战争丨超20艘美国军舰参与封锁伊朗任务",
-          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W?isFull=0&immersion=true&ifengsp=1",
-          "source": "凤凰网",
+          "title": "美媒证实一艘美国商船遭伊朗无人机袭击",
+          "url": "https://flash.jin10.com/detail/20260511030713251800",
+          "source": "金十数据",
           "ranks": [
             1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时07分"
+          "time_info": "03时11分"
+        },
+        {
+          "title": "海事分析公司：伊朗可能正用快艇护航船只",
+          "url": "https://wallstreetcn.com/livenews/3101143",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            5,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时02分 ~ 03时11分]"
         },
         {
           "title": "内塔尼亚胡：美以对伊朗的军事行动尚未结束",
@@ -71,9 +84,31 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时07分"
+        },
+        {
+          "title": "据华尔街日报：伊朗对美国的回应中提出稀释浓缩铀并将其部分转移至第三国的建议。",
+          "url": "https://flash.jin10.com/detail/20260511030438511800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时11分"
+        },
+        {
+          "title": "据华尔街日报：伊朗在回应中拒绝拆除核设施，并要求在接下来的30天内就核问题进行谈判。",
+          "url": "https://flash.jin10.com/detail/20260511030416630800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时11分"
         },
         {
           "title": "伊朗副外长：法英勿加剧危机 只有伊朗能保障霍尔木兹海峡安全",
@@ -82,9 +117,33 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时07分"
+        },
+        {
+          "title": "美国总统特朗普宣称：伊朗一直在与美国和全世界“耍花招”。 伊朗将再也笑不出来。",
+          "url": "https://wallstreetcn.com/livenews/3101151",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时11分"
+        },
+        {
+          "title": "伊朗已回应美国提出的结束战争方案",
+          "url": "https://www.cls.cn/detail/2367306",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时02分 ~ 03时11分]"
         },
         {
           "title": "巴基斯坦总理在发言中表示，该国陆军司令已告知他，已收到伊朗对美国提议的回复。",
@@ -112,39 +171,16 @@
         },
         {
           "title": "伊朗已回应美国提出的结束战争方案",
-          "url": "https://www.cls.cn/detail/2367306",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时02分 ~ 01时07分]"
-        },
-        {
-          "title": "伊朗已回应美国提出的结束战争方案",
           "url": "https://wallstreetcn.com/livenews/3101140",
           "source": "华尔街见闻-快讯",
           "ranks": [
             6,
-            7
+            7,
+            20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时02分 ~ 01时07分]"
-        },
-        {
-          "title": "伊朗副外长：海洋安全不能通过军事力量的展示来实现。不安全的根源在于诉诸武力、对沿海国家的持续威胁以及海上封锁。",
-          "url": "https://flash.jin10.com/detail/20260510232149952800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时02分 ~ 01时07分]"
+          "appearance_count": 3,
+          "time_info": "[00时02分 ~ 03时11分]"
         },
         {
           "title": "伊朗摧毁两个与摩萨德有关联的行动组",
@@ -152,11 +188,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             8,
-            9
+            9,
+            22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时02分 ~ 01时07分]"
+          "appearance_count": 3,
+          "time_info": "[00时02分 ~ 03时11分]"
         },
         {
           "title": "伊朗已回应美国提出的结束战争方案",
@@ -164,11 +201,12 @@
           "source": "今日头条",
           "ranks": [
             9,
-            14
+            14,
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时02分 ~ 01时07分]"
+          "appearance_count": 3,
+          "time_info": "[00时02分 ~ 03时11分]"
         },
         {
           "title": "伊朗革命卫队警告：侵犯伊朗船只将引发猛烈打击",
@@ -179,8 +217,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时02分 ~ 01时07分]"
+          "appearance_count": 3,
+          "time_info": "[00时02分 ~ 03时11分]"
         },
         {
           "title": "阿联酋称拦截伊朗导弹和无人机",
@@ -188,7 +226,20 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             12,
-            13
+            13,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时02分 ~ 03时11分]"
+        },
+        {
+          "title": "伊朗副外长：海洋安全不能通过军事力量的展示来实现。不安全的根源在于诉诸武力、对沿海国家的持续威胁以及海上封锁。",
+          "url": "https://flash.jin10.com/detail/20260510232149952800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            29
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -205,6 +256,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时02分 ~ 01时07分]"
+        },
+        {
+          "title": "伊朗已回应美国提出的结束战争方案",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E5%B7%B2%E5%9B%9E%E5%BA%94%E7%BE%8E%E5%9B%BD%E6%8F%90%E5%87%BA%E7%9A%84%E7%BB%93%E6%9D%9F%E6%88%98%E4%BA%89%E6%96%B9%E6%A1%88",
+          "source": "百度热搜",
+          "ranks": [
+            30,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时07分 ~ 03时11分]"
         },
         {
           "title": "伊朗称若敌人再袭将进入新作战领域",
@@ -249,7 +312,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时07分"
         },
@@ -260,9 +323,75 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时07分"
+        },
+        {
+          "title": "以总理称与伊朗战事“尚未结束”，必须运离其高浓缩铀",
+          "url": "https://wallstreetcn.com/livenews/3101164",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时11分"
+        },
+        {
+          "title": "伊朗回应美方提议：聚焦结束地区战争 愿就核计划与海峡问题谈判",
+          "url": "https://flash.jin10.com/detail/20260511021055839800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时11分"
+        },
+        {
+          "title": "美国总统特朗普：伊朗将无法再嘲笑美国。",
+          "url": "https://flash.jin10.com/detail/20260511020232071800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时11分"
+        },
+        {
+          "title": "美军：超20艘美国军舰参与对伊朗实施封锁",
+          "url": "https://wallstreetcn.com/livenews/3101158",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时11分"
+        },
+        {
+          "title": "特朗普斥伊朗“玩弄美国47年” 称不再容忍",
+          "url": "https://flash.jin10.com/detail/20260511015611933800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时11分"
+        },
+        {
+          "title": "伊朗警告法英两国：只有伊朗能保障霍尔木兹海峡安全",
+          "url": "https://wallstreetcn.com/livenews/3101157",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时11分"
         },
         {
           "title": "伊朗对美国方案的回应聚焦“结束战争与海上安全”",
@@ -274,6 +403,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时02分"
+        },
+        {
+          "title": "特朗普：美方一直在监控伊朗埋在废墟下的浓缩铀",
+          "url": "https://wallstreetcn.com/livenews/3101160",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时11分"
         },
         {
           "title": "伊朗副外长：法国和英国军舰若出现在霍尔木兹海峡，可能伴随美国非法且违反国际法的行动，伊朗将立即予以果断回应。",
@@ -304,7 +444,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时07分"
         },
@@ -342,6 +482,17 @@
           "time_info": "00时02分"
         },
         {
+          "title": "专家警告：伊朗与美国全面和平协议“遥遥无期”",
+          "url": "https://flash.jin10.com/detail/20260511013416424800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时11分"
+        },
+        {
           "title": "特朗普：美方一直在监控伊朗埋在废墟下的浓缩铀",
           "url": "https://flash.jin10.com/detail/20260510222748266800",
           "source": "金十数据",
@@ -359,7 +510,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时07分"
         },
@@ -373,6 +524,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时02分"
+        },
+        {
+          "title": "巴林王国谴责伊朗对阿联酋的持续公然攻击。",
+          "url": "https://flash.jin10.com/detail/20260511012236852800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时11分"
         },
         {
           "title": "美国总统特朗普：我并没有说针对伊朗的敌对行动已经结束，但我说过他们被击败了。",
@@ -419,21 +581,43 @@
           "time_info": "00时02分"
         },
         {
-          "title": "伊朗已回应美国提出的结束战争方案",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E5%B7%B2%E5%9B%9E%E5%BA%94%E7%BE%8E%E5%9B%BD%E6%8F%90%E5%87%BA%E7%9A%84%E7%BB%93%E6%9D%9F%E6%88%98%E4%BA%89%E6%96%B9%E6%A1%88",
-          "source": "百度热搜",
+          "title": "美国驻联合国大使：伊朗不能将世界经济作为人质。",
+          "url": "https://flash.jin10.com/detail/20260511010410524800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时11分"
+        },
+        {
+          "title": "美国驻联合国大使：我们对伊朗的红线非常明确。",
+          "url": "https://flash.jin10.com/detail/20260511010402974800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时11分"
+        },
+        {
+          "title": "美国驻联合国大使：正在研究由巴基斯坦转交的伊朗回应。",
+          "url": "https://flash.jin10.com/detail/20260511010349520800",
+          "source": "金十数据",
           "ranks": [
             30
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时07分"
+          "time_info": "03时11分"
         }
       ]
     },
     {
       "keyword_group": "以色列",
-      "match_count": 15,
+      "match_count": 23,
       "titles": [
         {
           "title": "据法新社：以色列总理本雅明·内塔尼亚胡周日在接受采访时表示，只有将伊朗的浓缩铀库存“清除掉”，美以对伊朗的战争才算真正结束。",
@@ -501,7 +685,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时07分"
         },
@@ -515,6 +699,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时02分"
+        },
+        {
+          "title": "据以色列第i24频道：以色列总理内塔尼亚胡离开在死海举行的德鲁兹派与切尔克斯派地方领导人会议，他向与会者表示，必须赶回耶路撒冷接听美国总统特朗普的紧急来电。",
+          "url": "https://flash.jin10.com/detail/20260511020842922800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时11分"
         },
         {
           "title": "据以色列i24新闻台：以色列国防军总参谋长埃亚勒·扎米尔警告称，若不立即实施改革，预备役部队将“自行瓦解”。",
@@ -556,7 +751,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时07分"
         },
@@ -567,9 +762,20 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时07分"
+        },
+        {
+          "title": "据沙特媒体哈达斯（alhadath）援引以色列媒体报道，以色列总理内塔尼亚胡今晚将与美国总统特朗普通电话。",
+          "url": "https://flash.jin10.com/detail/20260511014956071800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时11分"
         },
         {
           "title": "以色列空袭黎巴嫩南部卡夫尔希尔镇及卡夫尔朱兹镇。",
@@ -578,9 +784,53 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时07分"
+        },
+        {
+          "title": "据以色列第13频道：哈马斯在加沙开始每月生产数百个炸弹、炮弹和导弹。",
+          "url": "https://flash.jin10.com/detail/20260511014847282800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时11分"
+        },
+        {
+          "title": "据以色列第13频道：哈马斯在加沙进行理论和实战训练，尽管军队仍在该地区。",
+          "url": "https://flash.jin10.com/detail/20260511014818385800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时11分"
+        },
+        {
+          "title": "据以色列第13频道：哈马斯目前已停止在加沙地带挖掘新隧道。",
+          "url": "https://flash.jin10.com/detail/20260511014757747800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时11分"
+        },
+        {
+          "title": "以色列对黎巴嫩南部纳巴提耶地区的德尔阿尔扎赫拉尼镇进行了第五次空袭。",
+          "url": "https://flash.jin10.com/detail/20260511013940711800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时11分"
         },
         {
           "title": "以色列军方警告黎巴嫩南部代尔扎赫拉尼、贾尔朱赫和苏朱德三镇的居民立即撤离。",
@@ -589,9 +839,31 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时07分"
+        },
+        {
+          "title": "伊拉克否认境内存在以色列军事基地",
+          "url": "https://flash.jin10.com/detail/20260511012456793800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时11分"
+        },
+        {
+          "title": "以色列对黎巴嫩南部纳巴提耶地区德尔阿尔扎赫拉尼镇进行了两次袭击。",
+          "url": "https://flash.jin10.com/detail/20260511011627280800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时11分"
         },
         {
           "title": "美媒：以色列在伊拉克沙漠建立针对伊朗的秘密基地",
@@ -615,11 +887,12 @@
           "url": "https://www.zhihu.com/question/2036432998422115875",
           "source": "知乎",
           "ranks": [
-            7
+            7,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时02分 ~ 01时07分]"
+          "appearance_count": 3,
+          "time_info": "[00时02分 ~ 03时11分]"
         },
         {
           "title": "DeepSeek睁眼,开放识图模式",
@@ -630,8 +903,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时02分 ~ 01时07分]"
+          "appearance_count": 3,
+          "time_info": "[00时02分 ~ 03时11分]"
         },
         {
           "title": "周末要闻汇总：DeepSeek据悉拟募资最高500亿元人民币；证监会查处2起财务造假案件",
@@ -640,9 +913,9 @@
           "ranks": [
             13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时07分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时07分 ~ 03时11分]"
         }
       ]
     },
@@ -675,8 +948,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时02分 ~ 01时07分]"
+          "appearance_count": 3,
+          "time_info": "[00时02分 ~ 03时11分]"
         }
       ]
     },
@@ -689,11 +962,12 @@
           "url": "https://wallstreetcn.com/livenews/3101148",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1
+            1,
+            10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时07分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时07分 ~ 03时11分]"
         }
       ]
     }
