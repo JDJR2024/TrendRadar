@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-16T01:44:32.635490+08:00",
-  "total_titles_processed": 312,
+  "generated_at": "2026-05-16T03:44:41.801108+08:00",
+  "total_titles_processed": 392,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "以色列",
-      "match_count": 6,
+      "match_count": 14,
       "titles": [
         {
           "title": "以色列国防部长卡茨：以色列国防军在加沙空袭中瞄准哈马斯高级指挥官。",
@@ -52,6 +52,17 @@
           "time_info": "01时44分"
         },
         {
+          "title": "以色列空袭加沙城住宅楼和汽车，造成4人死亡",
+          "url": "https://wallstreetcn.com/livenews/3104591",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时44分"
+        },
+        {
           "title": "据沙特媒体Alhadath：以色列方面表示，为可能与伊朗恢复战斗做好准备。恢复对伊朗的战争决定仍然取决于特朗普总统。",
           "url": "https://flash.jin10.com/detail/20260516010528421800",
           "source": "金十数据",
@@ -63,6 +74,72 @@
           "time_info": "01时44分"
         },
         {
+          "title": "黎巴嫩驻美国大使：与以色列的谈判已促成政治和安全两个方面的进展。",
+          "url": "https://flash.jin10.com/detail/20260516031025728800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时44分"
+        },
+        {
+          "title": "【以军：以色列正在为重启对伊朗军事行动做准备】当地时间15日晚，总台记者获悉，一位以色列高级官员称，以色列正在为即将重启针对伊朗的军事行动做准备，军事行动可能将“持续数天甚至数周”。这位官员表示：“美国人明白与伊朗的谈判毫无进展”。他补充道：“我们正在为持续数天甚至数周的战斗做准备，并等待特朗普总统的最终决定。未来24小时内我们将了解更多情况”。（央视）",
+          "url": "https://wallstreetcn.com/livenews/3104587",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时44分"
+        },
+        {
+          "title": "以色列驻美国大使：与黎巴嫩的谈判成功机会很大。",
+          "url": "https://flash.jin10.com/detail/20260516025916462800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时44分"
+        },
+        {
+          "title": "美国务院：以色列与黎巴嫩之间的停火协议将延长45天",
+          "url": "https://wallstreetcn.com/livenews/3104585",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时44分"
+        },
+        {
+          "title": "以色列驻美国大使：与黎巴嫩的和平谈判是坦诚和富有成效的。",
+          "url": "https://flash.jin10.com/detail/20260516025814782800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时44分"
+        },
+        {
+          "title": "以色列空袭加沙城住宅楼和汽车 造成4人死亡",
+          "url": "https://flash.jin10.com/detail/20260516023143706800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时44分"
+        },
+        {
           "title": "消息人士：以色列与黎巴嫩的谈判至今未达成任何最终协议。",
           "url": "https://flash.jin10.com/detail/20260516003520893800",
           "source": "金十数据",
@@ -72,12 +149,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时44分"
+        },
+        {
+          "title": "以官员：以色列正在为重启对伊朗军事行动做准备",
+          "url": "https://flash.jin10.com/detail/20260516021834227800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时44分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "全球长债收益率飙升，美股走低，纳指跌2%，英伟达跌4%，白银大跌9%，黄金跌3%",
@@ -89,6 +177,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时44分"
+        },
+        {
+          "title": "原油大涨掀债市抛售潮，美股回落，盘中纳指跌2%，加息预期升温，金银重挫",
+          "url": "https://wallstreetcn.com/articles/3772341",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时44分"
         },
         {
           "title": "数字货币市场周五走低，比特币在美股开盘时加速下跌",
@@ -138,7 +237,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
         {
           "title": "美国已拒绝伊朗就结束战争提出的书面方案",
@@ -148,8 +247,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时44分"
+          "appearance_count": 2,
+          "time_info": "[01时44分 ~ 03时44分]"
         },
         {
           "title": "美以袭击伊朗进入第 77 天，当前局势如何？哪些信息值得关注？",
@@ -159,8 +258,30 @@
             11
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时44分 ~ 03时44分]"
+        },
+        {
+          "title": "伊朗最高领袖顾问：新的秩序正在迅速调整规则，而这些规则不再以美国为中心。",
+          "url": "https://flash.jin10.com/detail/20260516032352430800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时44分"
+          "time_info": "03时44分"
+        },
+        {
+          "title": "TankerTrackers：伊朗石油运输减少主因可能是泄漏事故，而非美国封锁",
+          "url": "https://wallstreetcn.com/livenews/3104590",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时44分"
         },
         {
           "title": "伊朗革命卫队：在西北部阿尔达比勒省破获一个隶属于摩萨德的间谍网络，并逮捕了其中一名主要成员。",
@@ -184,11 +305,12 @@
           "url": "https://wallstreetcn.com/articles/3772362",
           "source": "华尔街见闻",
           "ranks": [
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时44分"
+          "appearance_count": 2,
+          "time_info": "[01时44分 ~ 03时44分]"
         },
         {
           "title": "油价与美债收益率齐升 美股期指集体走低 芯片股盘前普跌 | 今夜看点",
@@ -198,8 +320,25 @@
             12
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时44分 ~ 03时44分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "Deepseek不语 只是一味跟团",
+          "url": "https://s.weibo.com/weibo?q=Deepseek%E4%B8%8D%E8%AF%AD%20%E5%8F%AA%E6%98%AF%E4%B8%80%E5%91%B3%E8%B7%9F%E5%9B%A2&t=31&band_rank=4&Refer=top",
+          "source": "微博",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时44分"
+          "time_info": "03时44分"
         }
       ]
     },
@@ -217,6 +356,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时44分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "美元指数涨约0.5%，本周累计涨幅扩大至超过1.4%",
+          "url": "https://wallstreetcn.com/livenews/3104599",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时44分"
         }
       ]
     }
