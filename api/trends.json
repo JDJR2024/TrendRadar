@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-17T01:58:39.445952+08:00",
-  "total_titles_processed": 384,
+  "generated_at": "2026-05-17T03:19:21.740512+08:00",
+  "total_titles_processed": 417,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 20,
+      "match_count": 26,
       "titles": [
         {
           "title": "FBI通缉美国前女特工：13年前叛逃伊朗，传递五角大楼机密",
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时07分 ~ 01时58分]"
+          "appearance_count": 3,
+          "time_info": "[00时07分 ~ 03时19分]"
         },
         {
           "title": "谈判濒临破裂，美以被曝最早下周恢复对伊朗打击，选项包括地面夺取核材料",
@@ -26,8 +26,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时07分 ~ 01时58分]"
+          "appearance_count": 3,
+          "time_info": "[00时07分 ~ 03时19分]"
         },
         {
           "title": "消息人士：美以或最早下周恢复对伊朗军事行动",
@@ -37,30 +37,52 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时07分 ~ 01时58分]"
+          "appearance_count": 3,
+          "time_info": "[00时07分 ~ 03时19分]"
         },
         {
-          "title": "美国怀疑伊朗黑客入侵多州加油站燃油监测系统",
-          "url": "https://flash.jin10.com/detail/20260517013755887800",
+          "title": "伊朗股市将于下周二重新开放。（伊朗国家媒体）",
+          "url": "https://wallstreetcn.com/livenews/3104817",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时19分"
+        },
+        {
+          "title": "伊朗股市将于下周二重开",
+          "url": "https://flash.jin10.com/detail/20260517024230307800",
           "source": "金十数据",
           "ranks": [
             2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时58分"
+          "time_info": "03时19分"
         },
         {
-          "title": "伊朗一机油工厂发生火灾致至少10人受伤",
-          "url": "https://wallstreetcn.com/livenews/3104807",
+          "title": "据伊朗官方媒体：伊朗股市将于下周二重开。",
+          "url": "https://flash.jin10.com/detail/20260517023242958800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时19分"
+        },
+        {
+          "title": "伊朗布什尔核电站二号机组恢复建设",
+          "url": "https://wallstreetcn.com/livenews/3104819",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            5
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时07分 ~ 01时58分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时19分"
         },
         {
           "title": "特朗普在「空军一号」接受采访，释放大量关于贸易、台湾、伊朗等议题信号，哪些内容值得关注？",
@@ -68,44 +90,118 @@
           "source": "知乎",
           "ranks": [
             9,
-            7
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时07分 ~ 03时19分]"
+        },
+        {
+          "title": "美国怀疑伊朗黑客入侵多州加油站燃油监测系统",
+          "url": "https://flash.jin10.com/detail/20260517013755887800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            12
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时07分 ~ 01时58分]"
+          "time_info": "[01时58分 ~ 03时19分]"
+        },
+        {
+          "title": "伊朗一机油工厂发生火灾致至少10人受伤",
+          "url": "https://wallstreetcn.com/livenews/3104807",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时07分 ~ 03时19分]"
         },
         {
           "title": "伊朗一机油工厂发生火灾",
           "url": "https://wallstreetcn.com/livenews/3104803",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            9,
+            15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时07分 ~ 01时58分]"
+          "appearance_count": 3,
+          "time_info": "[00时07分 ~ 03时19分]"
         },
         {
           "title": "【伊朗官员：伊方制定的霍尔木兹海峡航线交通管理机制将于近期公布】当地时间5月16日，伊朗议会国家安全委员会主席阿齐兹在社交平台表示，在维护国家主权和保障国际贸易安全的框架下，伊朗已制定一套专业的霍尔木兹海峡航线交通管理机制，并将于近期正式公布。该机制仅对与伊朗合作的商船和相关方开放。伊朗将收取必要的费用，作为其通过该机制提供的专业服务的交换。该航线将继续对美国“自由计划”的参与者关闭。（央视）",
           "url": "https://wallstreetcn.com/livenews/3104789",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            21
+            21,
+            27
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时07分 ~ 01时58分]"
+          "appearance_count": 3,
+          "time_info": "[00时07分 ~ 03时19分]"
         },
         {
           "title": "伊朗议会国家安全委员会负责人：伊朗已制定一项机制，用于管理霍尔木兹海峡沿指定航线的通行，该机制将很快公布。 在此过程中，只有商业船只和与伊朗合作的各方才能从中受益。 将对该机制下提供的专门服务收取必要费用。 这条航线将对“自由计划”的运营方保持关闭。",
           "url": "https://wallstreetcn.com/livenews/3104787",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            23
+            23,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时07分 ~ 03时19分]"
+        },
+        {
+          "title": "伊朗布什尔核电站二号机组恢复建设",
+          "url": "https://flash.jin10.com/detail/20260517005821557800",
+          "source": "金十数据",
+          "ranks": [
+            12,
+            22
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时07分 ~ 01时58分]"
+          "time_info": "[01时58分 ~ 03时19分]"
+        },
+        {
+          "title": "美国官员怂恿阿联酋夺取伊朗的关键岛屿",
+          "url": "https://flash.jin10.com/detail/20260517004855407800",
+          "source": "金十数据",
+          "ranks": [
+            16,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时58分 ~ 03时19分]"
+        },
+        {
+          "title": "伊朗：已制定管理霍尔木兹海峡指定航道的专业机制",
+          "url": "https://wallstreetcn.com/livenews/3104818",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时19分"
+        },
+        {
+          "title": "特朗普：如果不能达成和平协议，伊朗将面临“非常糟糕的处境”",
+          "url": "https://flash.jin10.com/detail/20260517015331327800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时19分"
         },
         {
           "title": "据俄新社：克里姆林宫表示，俄罗斯总统普京与阿联酋总统通电话，讨论了中东和伊朗问题。",
@@ -130,17 +226,6 @@
           "time_info": "00时07分"
         },
         {
-          "title": "伊朗布什尔核电站二号机组恢复建设",
-          "url": "https://flash.jin10.com/detail/20260517005821557800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时58分"
-        },
-        {
           "title": "伊朗一机油工厂发生火灾致至少10人受伤",
           "url": "https://flash.jin10.com/detail/20260516214222580800",
           "source": "金十数据",
@@ -150,17 +235,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时07分"
-        },
-        {
-          "title": "美国官员怂恿阿联酋夺取伊朗的关键岛屿",
-          "url": "https://flash.jin10.com/detail/20260517004855407800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时58分"
         },
         {
           "title": "据伊朗努尔新闻(Nour News)：伊朗内政部长与到访的巴基斯坦内政部长举行了“详细”会谈，讨论了伊朗-巴基斯坦双边关系以及重启（美伊）和平谈判的前景。",
@@ -180,7 +254,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时58分"
         },
@@ -202,7 +276,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时58分"
         },
@@ -213,7 +287,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时58分"
         },
@@ -232,51 +306,77 @@
     },
     {
       "keyword_group": "以色列",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
+        {
+          "title": "黎巴嫩真主党：我们用火箭弹和炮弹轰击了位于黎巴嫩南部阿尔-巴亚达镇的所有以色列敌方阵地。",
+          "url": "https://flash.jin10.com/detail/20260517025152210800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时19分"
+        },
         {
           "title": "卡桑旅确认其指挥官哈达德在以色列袭击中丧生",
           "url": "https://wallstreetcn.com/livenews/3104804",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            8,
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时07分 ~ 01时58分]"
+          "appearance_count": 3,
+          "time_info": "[00时07分 ~ 03时19分]"
         },
         {
           "title": "以色列空袭黎巴嫩南部多个城镇，造成5人遇难，超过10人受伤。",
           "url": "https://flash.jin10.com/detail/20260517005400294800",
           "source": "金十数据",
           "ranks": [
-            13
+            13,
+            23
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时58分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时58分 ~ 03时19分]"
         },
         {
           "title": "以色列国防军：初步报告，在Shlomi和Hanita地区响起了关于敌方飞机渗透的警报。具体情况正在审查中。",
           "url": "https://flash.jin10.com/detail/20260517005259406800",
           "source": "金十数据",
           "ranks": [
-            14
+            14,
+            24
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时58分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时58分 ~ 03时19分]"
         },
         {
           "title": "以色列北部哈尼塔响起火箭弹警报。",
           "url": "https://flash.jin10.com/detail/20260517005238426800",
           "source": "金十数据",
           "ranks": [
-            15
+            15,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时58分 ~ 03时19分]"
+        },
+        {
+          "title": "以色列军方称，两天内袭击了黎巴嫩南部100个目标。",
+          "url": "https://flash.jin10.com/detail/20260517014525176800",
+          "source": "金十数据",
+          "ranks": [
+            9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时58分"
+          "time_info": "03时19分"
         }
       ]
     },
@@ -292,8 +392,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时07分 ~ 01时58分]"
+          "appearance_count": 3,
+          "time_info": "[00时07分 ~ 03时19分]"
         },
         {
           "title": "史上最大IPO来袭！SpaceX据传最早6月12日登陆美股 目标估值高达1.75万亿美元",
@@ -304,19 +404,20 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时07分 ~ 01时58分]"
+          "appearance_count": 3,
+          "time_info": "[00时07分 ~ 03时19分]"
         },
         {
           "title": "凯文·沃什上任美联储主席首日，美股全线走低，金银大幅下挫，国际油价拉升，沃什的新政预期有多悲观？",
           "url": "https://www.zhihu.com/question/2038931746901710643",
           "source": "知乎",
           "ranks": [
-            13
+            13,
+            11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时58分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时58分 ~ 03时19分]"
         }
       ]
     },
@@ -333,8 +434,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时07分 ~ 01时58分]"
+          "appearance_count": 3,
+          "time_info": "[00时07分 ~ 03时19分]"
         }
       ]
     },
@@ -351,8 +452,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时07分 ~ 01时58分]"
+          "appearance_count": 3,
+          "time_info": "[00时07分 ~ 03时19分]"
         }
       ]
     },
@@ -365,11 +466,12 @@
           "url": "https://wallstreetcn.com/livenews/3104794",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            17
+            17,
+            23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时07分 ~ 01时58分]"
+          "appearance_count": 3,
+          "time_info": "[00时07分 ~ 03时19分]"
         }
       ]
     },
@@ -385,8 +487,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时07分 ~ 01时58分]"
+          "appearance_count": 3,
+          "time_info": "[00时07分 ~ 03时19分]"
         }
       ]
     }
