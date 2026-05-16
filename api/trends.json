@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-16T19:55:55.917449+08:00",
-  "total_titles_processed": 1209,
+  "generated_at": "2026-05-16T21:41:41.884098+08:00",
+  "total_titles_processed": 1298,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 27,
+      "match_count": 33,
       "titles": [
         {
           "title": "美国已拒绝伊朗就结束战争提出的书面方案",
@@ -26,11 +26,12 @@
           "source": "凤凰网",
           "ranks": [
             5,
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时51分 ~ 19时55分]"
+          "appearance_count": 4,
+          "time_info": "[16时51分 ~ 21时41分]"
         },
         {
           "title": "特朗普松口：可接受伊朗暂停核计划20年",
@@ -43,6 +44,41 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[11时56分 ~ 18时20分]"
+        },
+        {
+          "title": "FBI通缉美国前女特工：13年前叛逃伊朗，传递五角大楼机密",
+          "url": "https://news.ifeng.com/c/8tAy0GyTSSB",
+          "source": "凤凰网",
+          "ranks": [
+            8,
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时20分 ~ 21时41分]"
+        },
+        {
+          "title": "据伊朗努尔新闻(Nour News)：伊朗内政部长与到访的巴基斯坦内政部长举行了“详细”会谈，讨论了伊朗-巴基斯坦双边关系以及重启（美伊）和平谈判的前景。",
+          "url": "https://flash.jin10.com/detail/20260516210853480800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时41分"
+        },
+        {
+          "title": "伊朗一机油工厂发生火灾",
+          "url": "https://wallstreetcn.com/livenews/3104803",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时41分"
         },
         {
           "title": "伊朗外长：伊美同意推进浓缩铀问题谈判",
@@ -127,28 +163,17 @@
           "time_info": "[06时59分 ~ 08时02分]"
         },
         {
-          "title": "FBI通缉美国前女特工：13年前叛逃伊朗，传递五角大楼机密",
-          "url": "https://news.ifeng.com/c/8tAy0GyTSSB",
-          "source": "凤凰网",
-          "ranks": [
-            8,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时20分 ~ 19时55分]"
-        },
-        {
           "title": "消息人士：国际足联将“保证”伊朗参赛世界杯",
           "url": "https://wallstreetcn.com/livenews/3104774",
           "source": "华尔街见闻-快讯",
           "ranks": [
             5,
-            25
+            25,
+            28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时20分 ~ 19时55分]"
+          "appearance_count": 3,
+          "time_info": "[18时20分 ~ 21时41分]"
         },
         {
           "title": "伊朗战争致全球供应受阻 特朗普借机加速阿拉斯加产能",
@@ -161,6 +186,30 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时08分 ~ 08时02分]"
+        },
+        {
+          "title": "谈判濒临破裂，美以被曝最早下周恢复对伊朗打击，选项包括地面夺取核材料",
+          "url": "https://wallstreetcn.com/articles/3772425",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时55分 ~ 21时41分]"
+        },
+        {
+          "title": "伊朗：已准备好管理霍尔木兹海峡的机制 相关细节很快公布",
+          "url": "https://flash.jin10.com/detail/20260516182456183800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时55分 ~ 21时41分]"
         },
         {
           "title": "美国总统特朗普：伊朗没有底牌。",
@@ -199,6 +248,30 @@
           "time_info": "[16时51分 ~ 18时20分]"
         },
         {
+          "title": "【伊朗官员：伊方制定的霍尔木兹海峡航线交通管理机制将于近期公布】当地时间5月16日，伊朗议会国家安全委员会主席阿齐兹在社交平台表示，在维护国家主权和保障国际贸易安全的框架下，伊朗已制定一套专业的霍尔木兹海峡航线交通管理机制，并将于近期正式公布。该机制仅对与伊朗合作的商船和相关方开放。伊朗将收取必要的费用，作为其通过该机制提供的专业服务的交换。该航线将继续对美国“自由计划”的参与者关闭。（央视）",
+          "url": "https://wallstreetcn.com/livenews/3104789",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时55分 ~ 21时41分]"
+        },
+        {
+          "title": "伊朗议会国家安全委员会负责人：伊朗已制定一项机制，用于管理霍尔木兹海峡沿指定航线的通行，该机制将很快公布。 在此过程中，只有商业船只和与伊朗合作的各方才能从中受益。 将对该机制下提供的专门服务收取必要费用。 这条航线将对“自由计划”的运营方保持关闭。",
+          "url": "https://wallstreetcn.com/livenews/3104787",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时55分 ~ 21时41分]"
+        },
+        {
           "title": "伊朗外长感谢中国提供帮助",
           "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E5%A4%96%E9%95%BF%E6%84%9F%E8%B0%A2%E4%B8%AD%E5%9B%BD%E6%8F%90%E4%BE%9B%E5%B8%AE%E5%8A%A9",
           "source": "百度热搜",
@@ -211,26 +284,37 @@
           "time_info": "[11时56分 ~ 14时26分]"
         },
         {
-          "title": "伊朗：已准备好管理霍尔木兹海峡的机制 相关细节很快公布",
-          "url": "https://flash.jin10.com/detail/20260516182456183800",
-          "source": "金十数据",
+          "title": "国际足联将保证伊朗参赛世界杯",
+          "url": "https://search.bilibili.com/all?keyword=%E5%9B%BD%E9%99%85%E8%B6%B3%E8%81%94%E5%B0%86%E4%BF%9D%E8%AF%81%E4%BC%8A%E6%9C%97%E5%8F%82%E8%B5%9B%E4%B8%96%E7%95%8C%E6%9D%AF",
+          "source": "bilibili 热搜",
           "ranks": [
-            7
+            6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时55分"
+          "time_info": "21时41分"
         },
         {
-          "title": "谈判濒临破裂，美以被曝最早下周恢复对伊朗打击，选项包括地面夺取核材料",
-          "url": "https://wallstreetcn.com/articles/3772425",
-          "source": "华尔街见闻",
+          "title": "伊朗一机油工厂发生火灾",
+          "url": "https://flash.jin10.com/detail/20260516202902063800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时41分"
+        },
+        {
+          "title": "特朗普在「空军一号」接受采访，释放大量关于贸易、台湾、伊朗等议题信号，哪些内容值得关注？",
+          "url": "https://www.zhihu.com/question/2039019083463488463",
+          "source": "知乎",
           "ranks": [
             9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时55分"
+          "time_info": "21时41分"
         },
         {
           "title": "伊朗最高领袖顾问：新的秩序正在迅速调整规则，而这些规则不再以美国为中心。",
@@ -255,26 +339,15 @@
           "time_info": "03时44分"
         },
         {
-          "title": "【伊朗官员：伊方制定的霍尔木兹海峡航线交通管理机制将于近期公布】当地时间5月16日，伊朗议会国家安全委员会主席阿齐兹在社交平台表示，在维护国家主权和保障国际贸易安全的框架下，伊朗已制定一套专业的霍尔木兹海峡航线交通管理机制，并将于近期正式公布。该机制仅对与伊朗合作的商船和相关方开放。伊朗将收取必要的费用，作为其通过该机制提供的专业服务的交换。该航线将继续对美国“自由计划”的参与者关闭。（央视）",
-          "url": "https://wallstreetcn.com/livenews/3104789",
-          "source": "华尔街见闻-快讯",
+          "title": "消息人士：国际足联将“保证”伊朗参赛世界杯",
+          "url": "https://flash.jin10.com/detail/20260516192751228800",
+          "source": "金十数据",
           "ranks": [
-            11
+            12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时55分"
-        },
-        {
-          "title": "伊朗议会国家安全委员会负责人：伊朗已制定一项机制，用于管理霍尔木兹海峡沿指定航线的通行，该机制将很快公布。 在此过程中，只有商业船只和与伊朗合作的各方才能从中受益。 将对该机制下提供的专门服务收取必要费用。 这条航线将对“自由计划”的运营方保持关闭。",
-          "url": "https://wallstreetcn.com/livenews/3104787",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时55分"
+          "time_info": "21时41分"
         },
         {
           "title": "特朗普面临是否恢复对伊朗打击抉择，称接受暂停核计划20年",
@@ -324,8 +397,19 @@
     },
     {
       "keyword_group": "以色列",
-      "match_count": 22,
+      "match_count": 23,
       "titles": [
+        {
+          "title": "卡桑旅确认其指挥官哈达德在以色列袭击中丧生",
+          "url": "https://wallstreetcn.com/livenews/3104804",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时41分"
+        },
         {
           "title": "以色列国防部长卡茨：以色列国防军在加沙空袭中瞄准哈马斯高级指挥官。",
           "url": "https://flash.jin10.com/detail/20260516013508192800",
@@ -343,11 +427,12 @@
           "source": "金十数据",
           "ranks": [
             4,
-            14
+            14,
+            26
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时20分 ~ 19时55分]"
+          "appearance_count": 3,
+          "time_info": "[18时20分 ~ 21时41分]"
         },
         {
           "title": "中方点名以色列：尽早撤出",
@@ -588,8 +673,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[06时58分 ~ 19时55分]"
+          "appearance_count": 10,
+          "time_info": "[06时58分 ~ 21时41分]"
         },
         {
           "title": "全球长债收益率飙升，美股走低，纳指跌2%，英伟达跌4%，白银大跌9%，黄金跌3%",
@@ -789,8 +874,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时56分 ~ 19时55分]"
+          "appearance_count": 6,
+          "time_info": "[11时56分 ~ 21时41分]"
         },
         {
           "title": "13F报告显示：桥水新进台积电等，清仓Salesforce、Workday、ServiceNOW等，增持亚马逊、美光、博通、迈威尔科技，减持Adobe等，重仓亚马逊、英伟达、谷歌A等。",
@@ -863,11 +948,12 @@
           "ranks": [
             8,
             3,
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[06时58分 ~ 19时55分]"
+          "appearance_count": 10,
+          "time_info": "[06时58分 ~ 21时41分]"
         },
         {
           "title": "黑色星期五！全球股债双杀：韩股暴跌6%，美债收益率飙升，这次市场在怕什么？",
@@ -894,8 +980,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时56分 ~ 19时55分]"
+          "appearance_count": 6,
+          "time_info": "[11时56分 ~ 21时41分]"
         },
         {
           "title": "美债收益率飙升重创股市 芯片板块领跌",
@@ -1006,22 +1092,24 @@
           "url": "https://flash.jin10.com/detail/20260516184026768800",
           "source": "金十数据",
           "ranks": [
-            6
+            6,
+            18
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时55分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时55分 ~ 21时41分]"
         },
         {
           "title": "OpenAI与马耳他达成协议，所有马耳他民众都能使用ChatGPT Plus",
           "url": "https://wallstreetcn.com/livenews/3104794",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            7,
+            10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时55分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时55分 ~ 21时41分]"
         },
         {
           "title": "OpenAI联手Plaid，为大众提供量身定制的财务咨询",
@@ -1049,7 +1137,7 @@
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "Deepseek不语 只是一味跟团",
@@ -1077,6 +1165,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[16时51分 ~ 19时55分]"
+        },
+        {
+          "title": "为什么 Deepseek 在输入 <think 后会匹配到疑似其他对话?",
+          "url": "https://www.zhihu.com/question/2038402853274915914",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时41分"
         }
       ]
     },
