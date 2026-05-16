@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-17T06:53:09.830205+08:00",
-  "total_titles_processed": 471,
+  "generated_at": "2026-05-17T07:58:34.154241+08:00",
+  "total_titles_processed": 501,
   "failed_sources": [],
   "trends": [
     {
@@ -15,19 +15,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时07分 ~ 06时53分]"
+          "appearance_count": 8,
+          "time_info": "[00时07分 ~ 07时58分]"
         },
         {
           "title": "谈判濒临破裂，美以被曝最早下周恢复对伊朗打击，选项包括地面夺取核材料",
           "url": "https://wallstreetcn.com/articles/3772425",
           "source": "华尔街见闻",
           "ranks": [
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时07分 ~ 06时53分]"
+          "appearance_count": 8,
+          "time_info": "[00时07分 ~ 07时58分]"
         },
         {
           "title": "消息人士：美以或最早下周恢复对伊朗军事行动",
@@ -37,8 +38,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时07分 ~ 06时53分]"
+          "appearance_count": 8,
+          "time_info": "[00时07分 ~ 07时58分]"
         },
         {
           "title": "特朗普在「空军一号」接受采访，释放大量关于贸易、台湾、伊朗等议题信号，哪些内容值得关注？",
@@ -51,8 +52,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时07分 ~ 06时53分]"
+          "appearance_count": 8,
+          "time_info": "[00时07分 ~ 07时58分]"
         },
         {
           "title": "伊朗股市将于下周二重新开放。（伊朗国家媒体）",
@@ -62,8 +63,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时19分 ~ 06时53分]"
+          "appearance_count": 5,
+          "time_info": "[03时19分 ~ 07时58分]"
         },
         {
           "title": "伊朗布什尔核电站二号机组恢复建设",
@@ -74,8 +75,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时19分 ~ 06时53分]"
+          "appearance_count": 5,
+          "time_info": "[03时19分 ~ 07时58分]"
         },
         {
           "title": "伊朗一机油工厂发生火灾致至少10人受伤",
@@ -87,8 +88,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时07分 ~ 06时53分]"
+          "appearance_count": 7,
+          "time_info": "[00时07分 ~ 07时58分]"
         },
         {
           "title": "伊朗一机油工厂发生火灾",
@@ -100,8 +101,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时07分 ~ 06时53分]"
+          "appearance_count": 7,
+          "time_info": "[00时07分 ~ 07时58分]"
         },
         {
           "title": "【伊朗官员：伊方制定的霍尔木兹海峡航线交通管理机制将于近期公布】当地时间5月16日，伊朗议会国家安全委员会主席阿齐兹在社交平台表示，在维护国家主权和保障国际贸易安全的框架下，伊朗已制定一套专业的霍尔木兹海峡航线交通管理机制，并将于近期正式公布。该机制仅对与伊朗合作的商船和相关方开放。伊朗将收取必要的费用，作为其通过该机制提供的专业服务的交换。该航线将继续对美国“自由计划”的参与者关闭。（央视）",
@@ -113,8 +114,74 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时07分 ~ 06时53分]"
+          "appearance_count": 7,
+          "time_info": "[00时07分 ~ 07时58分]"
+        },
+        {
+          "title": "伊朗股市将于下周二重开",
+          "url": "https://flash.jin10.com/detail/20260517024230307800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            13,
+            18,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[03时19分 ~ 07时58分]"
+        },
+        {
+          "title": "据伊朗官方媒体：伊朗股市将于下周二重开。",
+          "url": "https://flash.jin10.com/detail/20260517023242958800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            14,
+            19,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[03时19分 ~ 07时58分]"
+        },
+        {
+          "title": "巴基斯坦内政部长到访伊朗 讨论边境安全等问题",
+          "url": "https://flash.jin10.com/detail/20260517042540148800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            7,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[04时55分 ~ 07时58分]"
+        },
+        {
+          "title": "特朗普暗示伊朗局势是“风暴前的平静”",
+          "url": "https://flash.jin10.com/detail/20260517042429937800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            8,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[04时55分 ~ 07时58分]"
+        },
+        {
+          "title": "伊朗：已制定管理霍尔木兹海峡指定航道的专业机制",
+          "url": "https://wallstreetcn.com/livenews/3104818",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[03时19分 ~ 07时58分]"
         },
         {
           "title": "美国怀疑伊朗黑客入侵多州加油站燃油监测系统",
@@ -131,72 +198,6 @@
           "time_info": "[01时58分 ~ 05时55分]"
         },
         {
-          "title": "伊朗股市将于下周二重开",
-          "url": "https://flash.jin10.com/detail/20260517024230307800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            13,
-            18,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时19分 ~ 06时53分]"
-        },
-        {
-          "title": "据伊朗官方媒体：伊朗股市将于下周二重开。",
-          "url": "https://flash.jin10.com/detail/20260517023242958800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            14,
-            19,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时19分 ~ 06时53分]"
-        },
-        {
-          "title": "巴基斯坦内政部长到访伊朗 讨论边境安全等问题",
-          "url": "https://flash.jin10.com/detail/20260517042540148800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            7,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时55分 ~ 06时53分]"
-        },
-        {
-          "title": "特朗普暗示伊朗局势是“风暴前的平静”",
-          "url": "https://flash.jin10.com/detail/20260517042429937800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            8,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时55分 ~ 06时53分]"
-        },
-        {
-          "title": "伊朗：已制定管理霍尔木兹海峡指定航道的专业机制",
-          "url": "https://wallstreetcn.com/livenews/3104818",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时19分 ~ 06时53分]"
-        },
-        {
           "title": "特朗普：如果不能达成和平协议，伊朗将面临“非常糟糕的处境”",
           "url": "https://flash.jin10.com/detail/20260517015331327800",
           "source": "金十数据",
@@ -207,8 +208,8 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时19分 ~ 06时53分]"
+          "appearance_count": 5,
+          "time_info": "[03时19分 ~ 07时58分]"
         },
         {
           "title": "伊朗议会议长卡利巴夫：世界正站在新秩序的开端。未来属于全球南方国家。",
@@ -220,8 +221,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时55分 ~ 06时53分]"
+          "appearance_count": 4,
+          "time_info": "[04时55分 ~ 07时58分]"
         },
         {
           "title": "伊朗议会国家安全委员会负责人：伊朗已制定一项机制，用于管理霍尔木兹海峡沿指定航线的通行，该机制将很快公布。 在此过程中，只有商业船只和与伊朗合作的各方才能从中受益。 将对该机制下提供的专门服务收取必要费用。 这条航线将对“自由计划”的运营方保持关闭。",
@@ -362,7 +363,7 @@
     },
     {
       "keyword_group": "以色列",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "卡桑旅确认其指挥官哈达德在以色列袭击中丧生",
@@ -374,8 +375,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时07分 ~ 06时53分]"
+          "appearance_count": 7,
+          "time_info": "[00时07分 ~ 07时58分]"
         },
         {
           "title": "黎巴嫩真主党：我们用火箭弹和炮弹轰击了位于黎巴嫩南部阿尔-巴亚达镇的所有以色列敌方阵地。",
@@ -388,8 +389,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时19分 ~ 06时53分]"
+          "appearance_count": 5,
+          "time_info": "[03时19分 ~ 07时58分]"
         },
         {
           "title": "据以色列媒体报道，以色列贝特谢梅什附近发生的大爆炸是一次受控工业爆破，没有人员伤亡或财产损失。",
@@ -400,8 +401,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时55分 ~ 06时53分]"
+          "appearance_count": 3,
+          "time_info": "[05时55分 ~ 07时58分]"
         },
         {
           "title": "以色列军方称，两天内袭击了黎巴嫩南部100个目标。",
@@ -414,8 +415,8 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时19分 ~ 06时53分]"
+          "appearance_count": 5,
+          "time_info": "[03时19分 ~ 07时58分]"
         },
         {
           "title": "多国宣布退出有以色列参与的欧歌赛",
@@ -427,8 +428,8 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时55分 ~ 06时53分]"
+          "appearance_count": 5,
+          "time_info": "[04时55分 ~ 07时58分]"
         },
         {
           "title": "以色列军方：一名士兵在黎巴嫩南部战斗中丧生",
@@ -440,8 +441,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时55分 ~ 06时53分]"
+          "appearance_count": 4,
+          "time_info": "[04时55分 ~ 07时58分]"
         },
         {
           "title": "以色列空袭黎巴嫩南部多个城镇，造成5人遇难，超过10人受伤。",
@@ -478,6 +479,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时58分 ~ 03时19分]"
+        },
+        {
+          "title": "曝美国盯上以色列收的巴勒斯坦税款",
+          "url": "https://www.toutiao.com/trending/7639522636326273078/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时58分"
         }
       ]
     },
@@ -503,11 +515,12 @@
           "ranks": [
             13,
             12,
-            11
+            11,
+            10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时07分 ~ 06时53分]"
+          "appearance_count": 8,
+          "time_info": "[00时07分 ~ 07时58分]"
         },
         {
           "title": "凯文·沃什上任美联储主席首日，美股全线走低，金银大幅下挫，国际油价拉升，沃什的新政预期有多悲观？",
@@ -521,8 +534,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时58分 ~ 06时53分]"
+          "appearance_count": 7,
+          "time_info": "[01时58分 ~ 07时58分]"
         }
       ]
     },
@@ -540,8 +553,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时07分 ~ 06时53分]"
+          "appearance_count": 8,
+          "time_info": "[00时07分 ~ 07时58分]"
         }
       ]
     },
@@ -555,11 +568,12 @@
           "source": "华尔街见闻",
           "ranks": [
             2,
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时07分 ~ 06时53分]"
+          "appearance_count": 8,
+          "time_info": "[00时07分 ~ 07时58分]"
         }
       ]
     },
@@ -577,8 +591,8 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时07分 ~ 06时53分]"
+          "appearance_count": 7,
+          "time_info": "[00时07分 ~ 07时58分]"
         }
       ]
     },
@@ -591,11 +605,12 @@
           "url": "https://s.weibo.com/weibo?q=%23%E4%B8%93%E5%AE%B6%E5%BB%BA%E8%AE%AE%E9%87%91%E4%BB%B7%E5%A4%A7%E8%B7%8C%E5%A4%9A%E4%B9%B0%E5%B0%8F%E8%B7%8C%E5%B0%91%E4%B9%B0%23&t=31&band_rank=23&Refer=top",
           "source": "微博",
           "ranks": [
-            23
+            23,
+            28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时52分 ~ 06时53分]"
+          "appearance_count": 3,
+          "time_info": "[06时52分 ~ 07时58分]"
         }
       ]
     },
@@ -611,8 +626,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时07分 ~ 06时53分]"
+          "appearance_count": 8,
+          "time_info": "[00时07分 ~ 07时58分]"
         }
       ]
     }
