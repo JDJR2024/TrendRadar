@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-21T12:07:41.582296+08:00",
-  "total_titles_processed": 779,
+  "generated_at": "2026-05-21T16:35:40.254324+08:00",
+  "total_titles_processed": 983,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 32,
+      "match_count": 33,
       "titles": [
         {
           "title": "美参议员格雷厄姆：希望伊朗冲突以外交方式解决",
@@ -25,7 +25,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时07分"
         },
@@ -76,6 +76,18 @@
           "time_info": "[00时58分 ~ 07时23分]"
         },
         {
+          "title": "美以袭击伊朗进入第 83 天，当前局势如何？哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2040565738411221984",
+          "source": "知乎",
+          "ranks": [
+            11,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时07分 ~ 16时35分]"
+        },
+        {
           "title": "特朗普继续口头威胁伊朗",
           "url": "https://wallstreetcn.com/livenews/3106851",
           "source": "华尔街见闻-快讯",
@@ -85,6 +97,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时58分"
+        },
+        {
+          "title": "伊朗公布霍尔木兹海峡管辖范围",
+          "url": "https://news.ifeng.com/c/8tIkZlDrzuR",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时35分"
         },
         {
           "title": "特朗普：海岸警卫队已总共扣押3艘伊朗船只。",
@@ -129,17 +152,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时58分"
-        },
-        {
-          "title": "美以袭击伊朗进入第 83 天，当前局势如何？哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/2040565738411221984",
-          "source": "知乎",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时07分"
         },
         {
           "title": "伊朗重申其对霍尔木兹海峡“管理监督范围”",
@@ -365,8 +377,19 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
+        {
+          "title": "【早报】美股科技巨头全线走高；英伟达财报出炉、SpaceX启动IPO",
+          "url": "https://www.cls.cn/detail/2377339",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时07分 ~ 16时35分]"
+        },
         {
           "title": "美股收盘：三大指数均涨超1% 光通信、CPU概念表现强势",
           "url": "https://www.cls.cn/detail/2377305",
@@ -377,17 +400,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时23分 ~ 12时07分]"
-        },
-        {
-          "title": "【早报】美股科技巨头全线走高；英伟达财报出炉、SpaceX启动IPO",
-          "url": "https://www.cls.cn/detail/2377339",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时07分"
         },
         {
           "title": "周三（5月20日），美股AI软件先驱指数涨0.69%，报108.06点，成分股C3.ai涨5.10%领跑。",
@@ -504,6 +516,17 @@
           "time_info": "06时01分"
         },
         {
+          "title": "英伟达美股盘前跌0.5%，公司Q1营收超预期增85%、指引再新高仍不够亮眼，新增回购800亿且大幅上调股息。",
+          "url": "https://wallstreetcn.com/livenews/3107285",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时35分"
+        },
+        {
           "title": "纳指期货跌幅在亚太盘初扩大至0.9%，科技股AMD美股盘后跌2.6%，高通跌2%，美光跌1.6%，英特尔跌1.5%，英伟达跌1.5%。",
           "url": "https://wallstreetcn.com/livenews/3106963",
           "source": "华尔街见闻-快讯",
@@ -615,7 +638,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时07分"
         },
@@ -667,7 +690,7 @@
     },
     {
       "keyword_group": "以色列",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "以色列部长羞辱加沙援助船被扣人员",
@@ -687,7 +710,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时07分"
         },
@@ -720,9 +743,9 @@
           "ranks": [
             6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时07分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时07分 ~ 16时35分]"
         },
         {
           "title": "古特雷斯强烈谴责以色列",
@@ -731,7 +754,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时07分"
         },
@@ -745,6 +768,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时29分"
+        },
+        {
+          "title": "古特雷斯谴责以色列：立即归还联合国",
+          "url": "https://www.baidu.com/s?wd=%E5%8F%A4%E7%89%B9%E9%9B%B7%E6%96%AF%E8%B0%B4%E8%B4%A3%E4%BB%A5%E8%89%B2%E5%88%97%EF%BC%9A%E7%AB%8B%E5%8D%B3%E5%BD%92%E8%BF%98%E8%81%94%E5%90%88%E5%9B%BD",
+          "source": "百度热搜",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时35分"
         },
         {
           "title": "西班牙首相桑切斯：以色列部长羞辱“全球坚韧船队”成员的画面是不可接受的。",
@@ -764,7 +798,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时07分"
         }
@@ -793,9 +827,9 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时07分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时07分 ~ 16时35分]"
         },
         {
           "title": "美伊冲突降温，WIT原油大跌5.5%，美股全线收涨，美债收益率下跌，英伟达绩后下跌",
@@ -901,6 +935,23 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时58分 ~ 07时23分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "为啥金价油价玩起“跷跷板”",
+          "url": "https://www.toutiao.com/trending/7642215897301519881/",
+          "source": "今日头条",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时35分"
         }
       ]
     },
