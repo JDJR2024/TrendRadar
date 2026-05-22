@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-22T20:25:24.849644+08:00",
-  "total_titles_processed": 1228,
+  "generated_at": "2026-05-22T23:51:28.972662+08:00",
+  "total_titles_processed": 1411,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 27,
+      "match_count": 30,
       "titles": [
         {
           "title": "伊朗最高领袖下令：接近武器级的铀必须留在国内",
@@ -35,6 +35,18 @@
           "time_info": "[00时18分 ~ 20时25分]"
         },
         {
+          "title": "鲁比奥：伊朗问题确实有一些进展",
+          "url": "https://news.ifeng.com/c/8tKwzchzUFC",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时25分 ~ 23时51分]"
+        },
+        {
           "title": "美军称对伊朗港口的封锁已使94艘商船改变航向",
           "url": "https://wallstreetcn.com/livenews/3107543",
           "source": "华尔街见闻-快讯",
@@ -44,17 +56,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时18分"
-        },
-        {
-          "title": "鲁比奥：伊朗问题确实有一些进展",
-          "url": "https://news.ifeng.com/c/8tKwzchzUFC",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时25分"
         },
         {
           "title": "据伊朗学生通讯社：（美伊）信息交流旨在达成协议框架。",
@@ -152,6 +153,17 @@
           "time_info": "[04时55分 ~ 06时23分]"
         },
         {
+          "title": "伊朗“最大内鬼”，原来是他？",
+          "url": "https://news.ifeng.com/c/8tLCbdpnraF",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时51分"
+        },
+        {
           "title": "据伊朗学生通讯社：伊朗与美国之间的消息交流正在进行，巴基斯坦方面从中进行调解。",
           "url": "https://flash.jin10.com/detail/20260522053700213800",
           "source": "金十数据",
@@ -202,7 +214,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时25分"
         },
@@ -216,6 +228,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时18分"
+        },
+        {
+          "title": "卡塔尔被曝“秘密空降”伊朗！美国却在做最坏打算？",
+          "url": "https://flash.jin10.com/detail/20260522225155728800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时51分"
         },
         {
           "title": "伊朗外交部：现阶段谈判重点是结束所有战线战争",
@@ -315,12 +338,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时35分"
+        },
+        {
+          "title": "巴基斯坦军方消息人士：巴三军情报局局长已前往伊朗",
+          "url": "https://wallstreetcn.com/livenews/3108126",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时51分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 17,
+      "match_count": 18,
       "titles": [
         {
           "title": "美股收盘：三大指数齐升道指刷新高 量子概念爆发存储续走强",
@@ -342,7 +376,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时25分"
         },
@@ -413,7 +447,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时25分"
         },
@@ -515,6 +549,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时35分"
+        },
+        {
+          "title": "美股早盘小幅上涨，标普500指数势创2023年以来最长周连涨",
+          "url": "https://wallstreetcn.com/livenews/3108140",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时51分"
         }
       ]
     },
@@ -522,17 +567,6 @@
       "keyword_group": "美债",
       "match_count": 6,
       "titles": [
-        {
-          "title": "伊朗局势主导市场，纳指惊险收涨，道指收创新高，原油冲高转跌，美债走势分化",
-          "url": "https://wallstreetcn.com/articles/3772777",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时08分 ~ 20时25分]"
-        },
         {
           "title": "美伊冲突降温，WTI原油大跌5.5%，美股全线收涨，美债收益率下跌，英伟达绩后下跌",
           "url": "https://wallstreetcn.com/articles/3772708",
@@ -554,6 +588,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时18分 ~ 06时23分]"
+        },
+        {
+          "title": "伊朗局势主导市场，纳指惊险收涨，道指收创新高，原油冲高转跌，美债走势分化",
+          "url": "https://wallstreetcn.com/articles/3772777",
+          "source": "华尔街见闻",
+          "ranks": [
+            1,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[08时08分 ~ 23时51分]"
         },
         {
           "title": "两年期美债收益率涨2.8个基点",
@@ -588,6 +634,79 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时01分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "以色列",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "胡塞武装领导人：全力支持伊朗 以色列可以被击败",
+          "url": "https://flash.jin10.com/detail/20260522043531786800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时55分 ~ 06时23分]"
+        },
+        {
+          "title": "美军为以色列防空消耗大量拦截弹 库存明显下降",
+          "url": "https://flash.jin10.com/detail/20260522022007043800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时01分"
+        },
+        {
+          "title": "以色列部长羞辱加沙援助船被扣人员，高喊“这里我们说了算”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33205066",
+          "source": "澎湃新闻",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时05分"
+        },
+        {
+          "title": "黎巴嫩总理府：黎总理萨拉姆与黎巴嫩代表团团长讨论了与以色列下一轮两场谈判的筹备工作。",
+          "url": "https://flash.jin10.com/detail/20260521234556485800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时18分"
+        },
+        {
+          "title": "黎真主党称击中以色列一处“铁穹”防空系统",
+          "url": "https://wallstreetcn.com/livenews/3108142",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时51分"
+        },
+        {
+          "title": "欧洲多国领导人敦促以色列停止扩大定居点",
+          "url": "https://wallstreetcn.com/livenews/3108127",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时51分"
         }
       ]
     },
@@ -654,53 +773,43 @@
       ]
     },
     {
-      "keyword_group": "以色列",
-      "match_count": 4,
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 3,
       "titles": [
         {
-          "title": "胡塞武装领导人：全力支持伊朗 以色列可以被击败",
-          "url": "https://flash.jin10.com/detail/20260522043531786800",
-          "source": "金十数据",
+          "title": "如何看待 DeepSeek V4 Pro 模型价格于 5 月 31 日结束 2.5 折优惠，调整为原定价的 1/4？",
+          "url": "https://www.zhihu.com/question/2041260640740927118",
+          "source": "知乎",
           "ranks": [
-            1,
-            20
+            3
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时55分 ~ 06时23分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时51分"
         },
         {
-          "title": "美军为以色列防空消耗大量拦截弹 库存明显下降",
-          "url": "https://flash.jin10.com/detail/20260522022007043800",
+          "title": "不小心把DeepSeek叫成豆包",
+          "url": "https://s.weibo.com/weibo?q=%E4%B8%8D%E5%B0%8F%E5%BF%83%E6%8A%8ADeepSeek%E5%8F%AB%E6%88%90%E8%B1%86%E5%8C%85&t=31&band_rank=8&Refer=top",
+          "source": "微博",
+          "ranks": [
+            8,
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时18分 ~ 04时55分]"
+        },
+        {
+          "title": "据The Information：宁德时代计划投资DeepSeek。",
+          "url": "https://flash.jin10.com/detail/20260522195855222800",
           "source": "金十数据",
           "ranks": [
-            9
+            26
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "03时01分"
-        },
-        {
-          "title": "以色列部长羞辱加沙援助船被扣人员，高喊“这里我们说了算”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33205066",
-          "source": "澎湃新闻",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时05分"
-        },
-        {
-          "title": "黎巴嫩总理府：黎总理萨拉姆与黎巴嫩代表团团长讨论了与以色列下一轮两场谈判的筹备工作。",
-          "url": "https://flash.jin10.com/detail/20260521234556485800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时18分"
+          "time_info": "20时25分"
         }
       ]
     },
@@ -744,36 +853,6 @@
       ]
     },
     {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "不小心把DeepSeek叫成豆包",
-          "url": "https://s.weibo.com/weibo?q=%E4%B8%8D%E5%B0%8F%E5%BF%83%E6%8A%8ADeepSeek%E5%8F%AB%E6%88%90%E8%B1%86%E5%8C%85&t=31&band_rank=8&Refer=top",
-          "source": "微博",
-          "ranks": [
-            8,
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时18分 ~ 04时55分]"
-        },
-        {
-          "title": "据The Information：宁德时代计划投资DeepSeek。",
-          "url": "https://flash.jin10.com/detail/20260522195855222800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时25分"
-        }
-      ]
-    },
-    {
       "keyword_group": "谷歌 google gemini",
       "match_count": 1,
       "titles": [
@@ -782,11 +861,12 @@
           "url": "https://news.ifeng.com/c/8tL3ZUXTPWj",
           "source": "凤凰网",
           "ranks": [
-            7
+            7,
+            9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时25分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时25分 ~ 23时51分]"
         }
       ]
     },
