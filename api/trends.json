@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-24T12:02:14.091078+08:00",
-  "total_titles_processed": 664,
+  "generated_at": "2026-05-24T15:29:11.293693+08:00",
+  "total_titles_processed": 808,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 54,
+      "match_count": 61,
       "titles": [
         {
           "title": "美伊冲突升温！特朗普不参加儿子婚礼“坐镇白宫”，伊朗警告若再遭袭将开启战斗3.0，计划“以火力”封锁曼德海峡",
@@ -32,6 +32,18 @@
           "time_info": "[01时05分 ~ 07时04分]"
         },
         {
+          "title": "特朗普称美伊协议基本谈成，内容包括开放霍尔木兹海峡，伊媒称将继续由伊朗“管理”，以媒称“对以非常不利”",
+          "url": "https://wallstreetcn.com/articles/3772980",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时01分 ~ 15时29分]"
+        },
+        {
           "title": "伊朗：可能在30天或60天后的下一个阶段再进入核问题的谈判",
           "url": "https://wallstreetcn.com/livenews/3108408",
           "source": "华尔街见闻-快讯",
@@ -46,17 +58,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时05分 ~ 12时02分]"
-        },
-        {
-          "title": "特朗普称美伊协议基本谈成，内容包括开放霍尔木兹海峡，伊媒称将继续由伊朗“管理”，以媒称“对以非常不利”",
-          "url": "https://wallstreetcn.com/articles/3772980",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时01分 ~ 12时02分]"
         },
         {
           "title": "伊朗媒体驳斥特朗普关于霍尔木兹海峡“恢复正常”说法",
@@ -122,7 +123,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时02分"
         },
@@ -158,6 +159,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时04分"
+        },
+        {
+          "title": "据伊朗法尔斯通讯社：潜在的谅解备忘录包括在谈判期间暂时解除对伊朗石油、天然气和石化的制裁。",
+          "url": "https://flash.jin10.com/detail/20260524151447603800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时29分"
         },
         {
           "title": "伊朗驻巴基斯坦大使：若对方展现出足够诚意，我们持谨慎乐观态度，有望推动形成积极步骤。",
@@ -228,6 +240,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时05分 ~ 07时04分]"
+        },
+        {
+          "title": "伊朗战争距离真正结束，就差临门一脚了",
+          "url": "https://news.ifeng.com/c/8tNe0lCsxvr",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时01分 ~ 15时29分]"
         },
         {
           "title": "美国总统特朗普：与多个穆斯林国家领导人就伊朗进行了交谈。",
@@ -345,15 +368,15 @@
           "time_info": "[01时05分 ~ 04时58分]"
         },
         {
-          "title": "伊朗战争距离真正结束，就差临门一脚了",
-          "url": "https://news.ifeng.com/c/8tNe0lCsxvr",
-          "source": "凤凰网",
+          "title": "美媒称伊朗同意放弃高浓缩铀库存",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%AA%92%E7%A7%B0%E4%BC%8A%E6%9C%97%E5%90%8C%E6%84%8F%E6%94%BE%E5%BC%83%E9%AB%98%E6%B5%93%E7%BC%A9%E9%93%80%E5%BA%93%E5%AD%98",
+          "source": "bilibili 热搜",
           "ranks": [
             6
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[12时01分 ~ 12时02分]"
+          "time_info": "[15时28分 ~ 15时29分]"
         },
         {
           "title": "两名了解谈判情况的巴基斯坦消息人士称，伊朗和巴基斯坦已向美国提交了修订后的提议，内容包括结束战争、开放霍尔木兹海峡。",
@@ -366,6 +389,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时17分 ~ 04时58分]"
+        },
+        {
+          "title": "美媒称伊朗同意放弃高浓缩铀库存",
+          "url": "https://www.douyin.com/hot/2510293",
+          "source": "抖音",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时28分 ~ 15时29分]"
         },
         {
           "title": "美以袭击伊朗进入第 85 天，当前局势如何？哪些信息值得关注？",
@@ -433,9 +467,20 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时02分"
+        },
+        {
+          "title": "据伊朗塔斯尼姆通讯社：美国承诺从伊朗周边撤军这一举措是德黑兰在潜在谅解备忘录中强调的另一个要点。",
+          "url": "https://flash.jin10.com/detail/20260524151214447800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时29分"
         },
         {
           "title": "据AXIOS网站记者援引两位知情人士报道称，美国总统特朗普预计将在美东时间下午1点（北京时间次日凌晨1点）与海湾地区领导人举行电话会议，讨论伊朗局势。",
@@ -447,6 +492,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时05分"
+        },
+        {
+          "title": "美媒称伊朗同意放弃高浓缩铀库存",
+          "url": "https://wallstreetcn.com/livenews/3108452",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时29分"
         },
         {
           "title": "据美国哥伦比亚广播公司（CBS）：美国总统特朗普称，我只会签署一个能让我们从伊朗获得所有想要的东西的协议。",
@@ -510,7 +566,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时02分"
         },
@@ -645,12 +701,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时05分"
+        },
+        {
+          "title": "土耳其总统埃尔多安办公室表示，埃尔多安向多国领导人表态，土耳其已准备好为伊朗潜在协议的落实提供各类支持。",
+          "url": "https://flash.jin10.com/detail/20260524134231876800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时29分"
+        },
+        {
+          "title": "据伊朗塔斯尼姆通讯社：伊朗革命卫队指挥官艾哈迈德·瓦希迪表示，伊朗武装力量在导弹、空中、海上、地面、太空及网络作战方面均处于最高级别的战备和积极威慑状态。",
+          "url": "https://flash.jin10.com/detail/20260524134053296800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时29分"
         }
       ]
     },
     {
       "keyword_group": "以色列",
-      "match_count": 15,
+      "match_count": 17,
       "titles": [
         {
           "title": "据半岛电视台记者报道称，以色列对黎巴嫩南部米夫敦镇和卡夫拉镇发动两轮空袭。",
@@ -670,7 +748,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时02分"
         },
@@ -746,11 +824,12 @@
           "url": "https://wallstreetcn.com/livenews/3108439",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            10,
+            22
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时02分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时02分 ~ 15时29分]"
         },
         {
           "title": "据Kan News报道，以色列此前因担忧伊朗可能遭受打击而在节日期间维持的高度戒备状态现已降低。现阶段，以色列官员并未获悉美国预期将对伊朗发动任何攻击。",
@@ -797,6 +876,28 @@
           "time_info": "03时17分"
         },
         {
+          "title": "以色列国防军：在过去24小时（周六）内，以军袭击并拆除了加沙地带中部的三个哈马斯武器储存设施。",
+          "url": "https://flash.jin10.com/detail/20260524142359635800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时29分"
+        },
+        {
+          "title": "伊媒驳斥纽约时报：以色列未被排除在协议义务之外",
+          "url": "https://flash.jin10.com/detail/20260524140630031800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时29分"
+        },
+        {
           "title": "据以色列第13频道：以色列军方对一些条款表示担忧，主要包括不停止铀浓缩和允许伊朗发展导弹。",
           "url": "https://flash.jin10.com/detail/20260524011347060800",
           "source": "金十数据",
@@ -833,7 +934,7 @@
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "deepseek狂降价,友商被卷哭",
@@ -844,8 +945,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时05分 ~ 12时02分]"
+          "appearance_count": 9,
+          "time_info": "[01时05分 ~ 15时29分]"
         },
         {
           "title": "永久2.5折！DeepSeek宣布V4-Pro模型API降价",
@@ -857,8 +958,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时05分 ~ 12时02分]"
+          "appearance_count": 9,
+          "time_info": "[01时05分 ~ 15时29分]"
+        },
+        {
+          "title": "【早报】国家数据局将把推动词元经济发展纳入工作体系；DeepSeek宣布永久降价",
+          "url": "https://www.cls.cn/detail/2379922",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时01分 ~ 15时29分]"
         },
         {
           "title": "DeepSeek宣布：永久降价",
@@ -871,17 +984,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时05分 ~ 12时02分]"
-        },
-        {
-          "title": "【早报】国家数据局将把推动词元经济发展纳入工作体系；DeepSeek宣布永久降价",
-          "url": "https://www.cls.cn/detail/2379922",
-          "source": "财联社热门",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时01分 ~ 12时02分]"
         },
         {
           "title": "DeepSeek宣布，DeepSeek-V4-Pro模型API价格将于2026年5月31日结束2.5折优惠活动后，正式调整为原定价的1/4。DeepSeek在社交媒体上表示，“将把折扣永久化！”根据官方介绍，百万tokens输入（缓存命中）价格将为0.025元，百万tokens输入（缓存未命中）价格为3元，百万tokens输出价格为6元。（澎湃新闻）",
@@ -908,6 +1010,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时01分 ~ 12时02分]"
+        },
+        {
+          "title": "DeepSeek 引入 API 并发限制，这对开发者意味着什么？",
+          "url": "https://www.zhihu.com/question/2041119709844788638",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时28分 ~ 15时29分]"
         }
       ]
     },
@@ -925,8 +1038,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时05分 ~ 12时02分]"
+          "appearance_count": 9,
+          "time_info": "[01时05分 ~ 15时29分]"
         },
         {
           "title": "美股收盘：标普连涨八周道指刷新高 芯片股&量子概念持续走强",
@@ -935,11 +1048,12 @@
           "ranks": [
             4,
             5,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时05分 ~ 12时02分]"
+          "appearance_count": 9,
+          "time_info": "[01时05分 ~ 15时29分]"
         },
         {
           "title": "下周一港股、美股休市",
@@ -988,11 +1102,12 @@
           "url": "https://wallstreetcn.com/articles/3772970",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时01分 ~ 12时02分]"
+          "appearance_count": 4,
+          "time_info": "[12时01分 ~ 15时29分]"
         }
       ]
     },
@@ -1045,8 +1160,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时01分 ~ 12时02分]"
+          "appearance_count": 4,
+          "time_info": "[12时01分 ~ 15时29分]"
         }
       ]
     }
