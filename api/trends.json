@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-25T13:24:14.228443+08:00",
-  "total_titles_processed": 781,
+  "generated_at": "2026-05-25T18:17:57.660747+08:00",
+  "total_titles_processed": 997,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 43,
+      "match_count": 52,
       "titles": [
         {
           "title": "特朗普称美伊协议基本谈成，内容包括开放霍尔木兹海峡，伊媒称将继续由伊朗“管理”，以媒称“对以非常不利”",
@@ -29,6 +29,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时08分 ~ 13时24分]"
+        },
+        {
+          "title": "美国总统特朗普：（关于伊朗问题）与伊朗达成的协议要么是伟大且有意义的，要么就不会达成协议。",
+          "url": "https://flash.jin10.com/detail/20260525181117122800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时17分"
         },
         {
           "title": "伊朗最高领袖顾问表示，如果再次遭遇攻击，伊朗将打破美国海军的封锁，并退出《不扩散核武器条约》。",
@@ -65,6 +76,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时02分"
+        },
+        {
+          "title": "伊朗称处决伊斯法罕省骚乱“武装领导人之一”",
+          "url": "https://wallstreetcn.com/livenews/3108816",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时17分"
         },
         {
           "title": "白宫顾问哈塞特：美国总统特朗普现在考虑的是，本周是否准备本周与伊朗达成协议。 “所有炼油厂”可能在1-2个月获得所需的石油（供应）。",
@@ -268,6 +290,17 @@
           "time_info": "[01时08分 ~ 03时23分]"
         },
         {
+          "title": "伊朗军方举行烈士纪念仪式，高层发表强硬讲话",
+          "url": "https://news.ifeng.com/c/8tPl7KTsmFN",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时17分"
+        },
+        {
           "title": "美国情报显示伊朗最高领袖藏匿于秘密地点，与外界沟通严重延迟",
           "url": "https://flash.jin10.com/detail/20260525062231837800",
           "source": "金十数据",
@@ -277,6 +310,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时01分"
+        },
+        {
+          "title": "伊朗总统说不会屈服于外部压力和“过分要求”",
+          "url": "https://wallstreetcn.com/livenews/3108813",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时17分"
         },
         {
           "title": "阿曼与伊朗就霍尔木兹海峡航运等议题举行磋商",
@@ -373,9 +417,20 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时24分"
+        },
+        {
+          "title": "伊朗总统称准备向世界保证不寻求核武器，如何看待这一表态？会推动美伊达成协议吗？",
+          "url": "https://www.zhihu.com/question/2042201889626907656",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时17分"
         },
         {
           "title": "据福克斯新闻援引美国政府官员的话报道，我们的计划包括处理伊朗的全部浓缩材料库存。",
@@ -400,6 +455,17 @@
           "time_info": "01时08分"
         },
         {
+          "title": "伊朗称处决伊斯法罕省骚乱“武装领导人之一”",
+          "url": "https://flash.jin10.com/detail/20260525175454934800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时17分"
+        },
+        {
           "title": "据福克斯新闻援引美国高级官员：我们观察到伊朗在浓缩铀问题上做出了严肃且前所未有的让步。",
           "url": "https://flash.jin10.com/detail/20260524234128146800",
           "source": "金十数据",
@@ -409,6 +475,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时08分"
+        },
+        {
+          "title": "内塔尼亚胡：美以一致认为美伊协议须消除伊朗“核威胁”",
+          "url": "https://wallstreetcn.com/livenews/3108790",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时17分"
         },
         {
           "title": "美政府高官：与伊朗的协议预计不会在24日签署",
@@ -466,6 +543,17 @@
           "time_info": "07时01分"
         },
         {
+          "title": "伊朗称将部署新型防空系统",
+          "url": "https://wallstreetcn.com/livenews/3108782",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时17分"
+        },
+        {
           "title": "伊朗与阿曼举行会议商讨霍尔木兹海峡通行原则",
           "url": "https://flash.jin10.com/detail/20260524232349001800",
           "source": "金十数据",
@@ -508,12 +596,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时11分"
+        },
+        {
+          "title": "伊朗称对通过霍尔木兹海峡船只收“航行服务费”",
+          "url": "https://wallstreetcn.com/livenews/3108780",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时17分"
         }
       ]
     },
     {
       "keyword_group": "以色列",
-      "match_count": 23,
+      "match_count": 24,
       "titles": [
         {
           "title": "黎巴嫩总统：与以色列的谈判并非妥协或让步；以色列的全面撤军是不可动摇的要求。",
@@ -522,7 +621,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时24分"
         },
@@ -646,6 +745,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时23分"
+        },
+        {
+          "title": "阿联酋等八国发表联合声明 谴责以色列国家安全部长",
+          "url": "https://www.cls.cn/detail/2380230",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时17分"
         },
         {
           "title": "以色列空袭导致黎巴嫩南部2人死亡，1人受伤。",
@@ -889,11 +999,12 @@
           "source": "贴吧",
           "ranks": [
             12,
-            17
+            17,
+            24
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时08分 ~ 13时24分]"
+          "appearance_count": 8,
+          "time_info": "[01时08分 ~ 18时17分]"
         }
       ]
     },
@@ -919,7 +1030,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时24分"
         }
