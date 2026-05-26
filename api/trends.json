@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-26T11:58:28.286271+08:00",
-  "total_titles_processed": 742,
+  "generated_at": "2026-05-26T15:58:01.370838+08:00",
+  "total_titles_processed": 919,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 62,
+      "match_count": 79,
       "titles": [
         {
           "title": "伊朗最高领袖就医情况曝光",
@@ -14,9 +14,66 @@
           "ranks": [
             1
           ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时58分 ~ 15时58分]"
+        },
+        {
+          "title": "美军：在伊朗南部实施自卫打击",
+          "url": "https://www.cls.cn/detail/2381184",
+          "source": "财联社热门",
+          "ranks": [
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时58分 ~ 15时58分]"
+        },
+        {
+          "title": "击落敌方无人机，伊朗：使用了新武器",
+          "url": "https://news.ifeng.com/c/8tQJBZmqYeW",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时58分 ~ 15时58分]"
+        },
+        {
+          "title": "报道：伊朗将在与美达成协议30天后重开霍尔木兹，美伊就伊冻结资产达成谅解",
+          "url": "https://wallstreetcn.com/articles/3773097",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时58分 ~ 15时58分]"
+        },
+        {
+          "title": "美军发动“自卫性”空袭伊朗，细节披露",
+          "url": "https://news.ifeng.com/c/8tQybAWR6Ya",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时58分 ~ 15时58分]"
+        },
+        {
+          "title": "伊朗伊斯兰革命卫队称击落一架美军无人机",
+          "url": "https://flash.jin10.com/detail/20260526154919327800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时58分"
+          "time_info": "15时58分"
         },
         {
           "title": "美国与伊朗的草案协议允许免费开放霍尔木兹海峡，并清除水雷。 草案协议允许伊朗出售和出口石油。 草案协议规定继续进行核谈判，以达成长期共识。",
@@ -30,15 +87,15 @@
           "time_info": "01时10分"
         },
         {
-          "title": "美军：在伊朗南部实施自卫打击",
-          "url": "https://www.cls.cn/detail/2381184",
-          "source": "财联社热门",
+          "title": "伊朗最高领袖称伊朗及抵抗阵线取胜",
+          "url": "https://wallstreetcn.com/livenews/3109299",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时58分"
+          "time_info": "15时58分"
         },
         {
           "title": "以服务之名行管辖之实，伊朗的操作会否迎来效仿者？",
@@ -47,20 +104,21 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时58分"
         },
         {
-          "title": "击落敌方无人机，伊朗：使用了新武器",
-          "url": "https://news.ifeng.com/c/8tQJBZmqYeW",
-          "source": "凤凰网",
+          "title": "特朗普称与伊朗谈判进展顺利、不会签让伊获核武的协议，美官员对近期解决争端乐观",
+          "url": "https://wallstreetcn.com/articles/3773076",
+          "source": "华尔街见闻",
           "ranks": [
-            4
+            6,
+            5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时58分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时58分 ~ 15时58分]"
         },
         {
           "title": "据伊朗迈赫尔通讯社：伊朗霍尔木兹甘省霍尔木兹港市传出爆炸声，原因尚不明。",
@@ -83,28 +141,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时09分"
-        },
-        {
-          "title": "报道：伊朗将在与美达成协议30天后重开霍尔木兹，美伊就伊冻结资产达成谅解",
-          "url": "https://wallstreetcn.com/articles/3773097",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时58分"
-        },
-        {
-          "title": "美军发动“自卫性”空袭伊朗，细节披露",
-          "url": "https://news.ifeng.com/c/8tQybAWR6Ya",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时58分"
         },
         {
           "title": "报道：美伊就伊朗被冻结资产达成谅解，协议或明日宣布",
@@ -190,6 +226,18 @@
           "time_info": "[01时10分 ~ 07时09分]"
         },
         {
+          "title": "伊朗：并非即将与美国达成协议，霍尔木兹海峡管理将是伊朗与阿曼之间的事务",
+          "url": "https://wallstreetcn.com/articles/3773045",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时58分 ~ 15时58分]"
+        },
+        {
           "title": "伊朗总统称准备向世界保证不寻求核武器，如何看待这一表态？会推动美伊达成协议吗？",
           "url": "https://www.zhihu.com/question/2042201889626907656",
           "source": "知乎",
@@ -226,6 +274,17 @@
           "time_info": "[01时10分 ~ 03时47分]"
         },
         {
+          "title": "美国对伊朗实施打击，打击目标包括导弹发射阵地以及正试图布设水雷的伊朗船只，美国为何在停火期发动打击？",
+          "url": "https://www.zhihu.com/question/2042527297291431958",
+          "source": "知乎",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时57分 ~ 15时58分]"
+        },
+        {
           "title": "伊朗最高国家安全委员会秘书：伊方“不会投降或后退”",
           "url": "https://flash.jin10.com/detail/20260526000552958800",
           "source": "金十数据",
@@ -236,6 +295,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时10分 ~ 03时47分]"
+        },
+        {
+          "title": "边打边谈！美军对伊朗实施“自卫打击”，鲁比奥：与伊朗达成的协议“还需几天”",
+          "url": "https://wallstreetcn.com/articles/3773115",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时57分 ~ 15时58分]"
         },
         {
           "title": "据悉伊朗将在协议达成后的30天内开放海峡，停火协议将延长60天",
@@ -286,17 +356,6 @@
           "time_info": "[03时47分 ~ 05时14分]"
         },
         {
-          "title": "特朗普称与伊朗谈判进展顺利、不会签让伊获核武的协议，美官员对近期解决争端乐观",
-          "url": "https://wallstreetcn.com/articles/3773076",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时58分"
-        },
-        {
           "title": "伊朗官员：武装力量处于最高戒备 若敌人犯错必将回应",
           "url": "https://flash.jin10.com/detail/20260526042408857800",
           "source": "金十数据",
@@ -341,6 +400,28 @@
           "time_info": "05时14分"
         },
         {
+          "title": "布油短线拉升，报道：伊朗伊斯兰革命卫队向进入领空的美国无人机和战机开火",
+          "url": "https://wallstreetcn.com/livenews/3109290",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时58分"
+        },
+        {
+          "title": "伊朗军方称美方在谈判进行中发动了一轮打击，中方回应",
+          "url": "https://wallstreetcn.com/livenews/3109289",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时58分"
+        },
+        {
           "title": "伊朗最高领袖顾问：与美谈判同时，我们的手指扣在扳机上",
           "url": "https://wallstreetcn.com/livenews/3108969",
           "source": "华尔街见闻-快讯",
@@ -350,17 +431,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时10分"
-        },
-        {
-          "title": "伊朗：并非即将与美国达成协议，霍尔木兹海峡管理将是伊朗与阿曼之间的事务",
-          "url": "https://wallstreetcn.com/articles/3773045",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时58分"
         },
         {
           "title": "据悉美伊就伊朗被冻结资产达成谅解，协议或明日宣布",
@@ -394,6 +464,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时10分"
+        },
+        {
+          "title": "伊朗是否已请求将高浓缩铀转运至中国？外交部回应",
+          "url": "https://wallstreetcn.com/livenews/3109281",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时58分"
         },
         {
           "title": "消息人士称，火箭弹袭击了伊拉克埃尔比勒以北的伊朗反对派营地，造成两名战斗人员受伤。",
@@ -440,6 +521,17 @@
           "time_info": "07时09分"
         },
         {
+          "title": "外交部：希望伊朗核问题有关各方抓住机会，通过谈判达成兼顾各方合理关切的解决方案。（新华社）",
+          "url": "https://wallstreetcn.com/livenews/3109278",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时58分"
+        },
+        {
           "title": "伊朗最高国家安全委员会秘书在一则发布的消息中表示将“不会有投降或退缩”。",
           "url": "https://flash.jin10.com/detail/20260525233931626800",
           "source": "金十数据",
@@ -462,13 +554,24 @@
           "time_info": "03时47分"
         },
         {
+          "title": "伊朗革命卫队声明：我们警告美军不要违反停火协议。",
+          "url": "https://flash.jin10.com/detail/20260526153638285800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时58分"
+        },
+        {
           "title": "美军称在伊朗南部实施自卫打击",
           "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%86%9B%E7%A7%B0%E5%9C%A8%E4%BC%8A%E6%9C%97%E5%8D%97%E9%83%A8%E5%AE%9E%E6%96%BD%E8%87%AA%E5%8D%AB%E6%89%93%E5%87%BB",
           "source": "百度热搜",
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时58分"
         },
@@ -506,6 +609,17 @@
           "time_info": "07时09分"
         },
         {
+          "title": "伊朗革命卫队声明：此外，通过向一架RQ-4无人机和一架F-35战斗机开火，我们迫使其逃离并撤出我国领空。",
+          "url": "https://flash.jin10.com/detail/20260526153608434800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时58分"
+        },
+        {
           "title": "墨西哥总统辛鲍姆：美国宣称不希望举办与伊朗有关的足球赛事之后，墨西哥政府同意让伊朗足球国家队在世界杯期间滞留墨西哥。",
           "url": "https://wallstreetcn.com/livenews/3108954",
           "source": "华尔街见闻-快讯",
@@ -528,13 +642,24 @@
           "time_info": "07时09分"
         },
         {
+          "title": "伊朗革命卫队声明：为捍卫我国领土完整，伊斯兰革命卫队防空部队在精准情报监视后，锁定并击落了一架MQ9无人机。",
+          "url": "https://flash.jin10.com/detail/20260526153553034800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时58分"
+        },
+        {
           "title": "美国国务卿鲁比奥：伊朗谈判将持续几天。 特朗普说他要么达成一项好的协议，要么不达成协议。",
           "url": "https://wallstreetcn.com/livenews/3109132",
           "source": "华尔街见闻-快讯",
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时58分"
         },
@@ -561,6 +686,17 @@
           "time_info": "03时47分"
         },
         {
+          "title": "伊朗革命卫队声明：我们在波斯湾地区发现有敌对飞机进入伊朗领空。",
+          "url": "https://flash.jin10.com/detail/20260526153533695800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时58分"
+        },
+        {
           "title": "伊朗南部阿巴斯港传出连续爆炸声",
           "url": "https://wallstreetcn.com/livenews/3109031",
           "source": "华尔街见闻-快讯",
@@ -572,6 +708,17 @@
           "time_info": "07时09分"
         },
         {
+          "title": "伊朗最高领袖哈梅内伊：中东不会再为美国基地提供保护",
+          "url": "https://wallstreetcn.com/livenews/3109266",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时58分"
+        },
+        {
           "title": "伊朗阿巴斯港传出爆炸声 媒体说无需担心",
           "url": "https://flash.jin10.com/detail/20260526053123872800",
           "source": "金十数据",
@@ -581,6 +728,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时09分"
+        },
+        {
+          "title": "伊朗革命卫队声明：我们已确认并追踪到一架MQ9无人机、一架RQ4无人机以及一架F35战斗机。",
+          "url": "https://flash.jin10.com/detail/20260526153512217800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时58分"
         },
         {
           "title": "伊朗总统佩泽希齐扬（Masoud Pezeshkian）： 在与国防部热血兄弟们的会议上，我们缅怀已故殉职部长、亲爱的Nasirzadeh。 同时，也对武装部队的奋斗与奉献表达了诚挚感谢。 此外，我跟进落实了涉及这些亲爱将士们住房与生计保障的相关决策。 当然，对战争烈士家属给予特殊关照，也必须是我们的重中之重。",
@@ -605,6 +763,17 @@
           "time_info": "07时09分"
         },
         {
+          "title": "伊朗称若战事再起，将波及中东之外",
+          "url": "https://wallstreetcn.com/livenews/3109265",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时58分"
+        },
+        {
           "title": "据伊朗迈赫尔通讯社：伊朗阿巴斯港局势受控，该市东部发生爆炸后无需担忧。",
           "url": "https://flash.jin10.com/detail/20260526052630196800",
           "source": "金十数据",
@@ -616,13 +785,24 @@
           "time_info": "07时09分"
         },
         {
+          "title": "伊朗革命卫队声明：伊朗有权对美国任何违反停火协议的行为作出回应。",
+          "url": "https://flash.jin10.com/detail/20260526153429169800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时58分"
+        },
+        {
           "title": "美军称在霍尔木兹海峡击沉两艘伊朗布雷船",
           "url": "https://wallstreetcn.com/livenews/3109117",
           "source": "华尔街见闻-快讯",
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时58分"
         },
@@ -649,13 +829,24 @@
           "time_info": "07时09分"
         },
         {
+          "title": "伊朗军方称美方在谈判进行中发动了一轮打击，中方回应",
+          "url": "https://flash.jin10.com/detail/20260526153335923800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时58分"
+        },
+        {
           "title": "美解密文件：UFO编队曾现伊朗上空",
           "url": "https://www.toutiao.com/trending/7643015961462194226/",
           "source": "今日头条",
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时58分"
         },
@@ -688,7 +879,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时58分"
         },
@@ -707,7 +898,7 @@
     },
     {
       "keyword_group": "以色列",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "以色列军方称正在打击黎巴嫩真主党在黎巴嫩贝卡谷地及其他多个地区的基础设施。",
@@ -720,6 +911,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时47分 ~ 05时14分]"
+        },
+        {
+          "title": "韩国召见以色列驻韩使馆临时代办，要求彻查！",
+          "url": "https://news.ifeng.com/c/8tRBrkUsRJ1",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时58分 ~ 15时58分]"
         },
         {
           "title": "以色列总理内塔尼亚胡：我说过要在黎巴嫩加大力度。我们会重创他们。",
@@ -791,17 +993,6 @@
           "time_info": "05时14分"
         },
         {
-          "title": "韩国召见以色列驻韩使馆临时代办，要求彻查！",
-          "url": "https://news.ifeng.com/c/8tRBrkUsRJ1",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时58分"
-        },
-        {
           "title": "美国和以色列袭击霍尔木兹海峡的多艘伊朗船只。（Nour）",
           "url": "https://wallstreetcn.com/livenews/3109039",
           "source": "华尔街见闻-快讯",
@@ -811,6 +1002,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时09分"
+        },
+        {
+          "title": "以色列国防军称没有与美国一起打击伊朗。",
+          "url": "https://wallstreetcn.com/livenews/3109263",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时58分"
         },
         {
           "title": "特朗普敦促沙特承认以色列，将其作为伊朗协议的一部分",
@@ -938,7 +1140,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时58分"
         }
@@ -953,11 +1155,12 @@
           "url": "https://www.zhihu.com/question/2033335202307647295",
           "source": "知乎",
           "ranks": [
-            10
+            10,
+            13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时58分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时58分 ~ 15时58分]"
         }
       ]
     },
