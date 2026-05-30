@@ -1,33 +1,79 @@
 {
-  "generated_at": "2026-05-31T01:14:05.739427+08:00",
-  "total_titles_processed": 313,
+  "generated_at": "2026-05-31T03:23:51.303863+08:00",
+  "total_titles_processed": 373,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "以色列",
-      "match_count": 9,
+      "match_count": 19,
       "titles": [
         {
-          "title": "以色列北部多个城镇遭黎巴嫩真主党火箭弹袭击",
-          "url": "https://flash.jin10.com/detail/20260531003956317800",
+          "title": "以色列国防军：从黎巴嫩由真主党发射的两枚火箭在基里亚特·什莫纳地区被拦截。",
+          "url": "https://flash.jin10.com/detail/20260531030415272800",
           "source": "金十数据",
           "ranks": [
-            1
+            2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时14分"
+          "time_info": "03时23分"
         },
         {
-          "title": "据半岛电视台：以色列内政部称加利利高地多个地区响起火箭弹警报。",
-          "url": "https://flash.jin10.com/detail/20260531002633684800",
+          "title": "以色列国防军：初步报告显示，以色列北部多个地区响起警报。具体情况正在审查中。",
+          "url": "https://flash.jin10.com/detail/20260531024927931800",
           "source": "金十数据",
           "ranks": [
             3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时14分"
+          "time_info": "03时23分"
+        },
+        {
+          "title": "以色列北部多个城镇遭黎巴嫩真主党火箭弹袭击",
+          "url": "https://flash.jin10.com/detail/20260531003956317800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时14分 ~ 03时23分]"
+        },
+        {
+          "title": "据半岛电视台：以色列内政部称加利利高地多个地区响起火箭弹警报。",
+          "url": "https://flash.jin10.com/detail/20260531002633684800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时14分 ~ 03时23分]"
+        },
+        {
+          "title": "据半岛电视台：以色列内政部称，将关闭北部边境地区、梅隆和纳哈里亚的学校，并对集会实施限制。",
+          "url": "https://flash.jin10.com/detail/20260531024149037800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时23分"
+        },
+        {
+          "title": "以色列军队广播确认，真主党在过去几个小时内向被占领的北部地区发射了30枚导弹，攻击范围包括萨法德、纳哈里亚、克尔梅尔和米龙。",
+          "url": "https://flash.jin10.com/detail/20260531020051668800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时23分"
         },
         {
           "title": "据以色列陆军电台，纳哈里亚市遭到5枚导弹袭击，其中部分被拦截。",
@@ -36,9 +82,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时14分"
+        },
+        {
+          "title": "据以色列广播：以色列总理内塔尼亚胡提议内阁扩大对加沙的控制，但尚未作出决定。",
+          "url": "https://flash.jin10.com/detail/20260531014136403800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时23分"
         },
         {
           "title": "黎巴嫩真主党：我们用火箭弹袭击了黎南部甘杜里耶镇以东郊区的以色列敌军集结地。",
@@ -47,7 +104,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时14分"
         },
@@ -58,9 +115,20 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时14分"
+        },
+        {
+          "title": "据以色列第12频道：真主党首次袭击以色列民用设施。",
+          "url": "https://flash.jin10.com/detail/20260531011052827800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时23分"
         },
         {
           "title": "自当地时间今晨以来，以色列北部已响起25次警报。",
@@ -69,9 +137,31 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时14分"
+        },
+        {
+          "title": "据以色列第12频道：真主党发射了超过100枚导弹和无人机。",
+          "url": "https://flash.jin10.com/detail/20260531011013951800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时23分"
+        },
+        {
+          "title": "据以色列第13频道：以色列总理内塔尼亚胡将很快召开安全会议，研究如何回应真主党的袭击。",
+          "url": "https://flash.jin10.com/detail/20260531010434805800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时23分"
         },
         {
           "title": "以色列国防军： 以色列北部多个地区响起警报。具体情况正在评估中。",
@@ -80,9 +170,20 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时14分"
+        },
+        {
+          "title": "据以色列第12频道：过去几个小时内，以色列北部的空袭警报响起超过130次。",
+          "url": "https://flash.jin10.com/detail/20260531010400486800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时23分"
         },
         {
           "title": "据半岛电视台：10枚火箭弹从黎巴嫩发射到以色列北部。",
@@ -91,9 +192,20 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时14分"
+        },
+        {
+          "title": "据以色列第12频道：黎巴嫩真主党在24小时内对以色列北部近60个城镇进行了攻击。",
+          "url": "https://flash.jin10.com/detail/20260531010337416800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时23分"
         },
         {
           "title": "黎巴嫩军方：我们的两名士兵在以色列空袭中受伤。",
@@ -102,7 +214,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时14分"
         }
@@ -110,8 +222,19 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 7,
+      "match_count": 10,
       "titles": [
+        {
+          "title": "伊朗准备为哈梅内伊举行盛大葬礼",
+          "url": "https://news.ifeng.com/c/8tYL9HroZVj",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时13分 ~ 03时23分]"
+        },
         {
           "title": "特朗普称将作伊朗战事最终决定、霍尔木兹和伊核以外问题已达成一致，伊媒称其言论“真假参半”",
           "url": "https://wallstreetcn.com/articles/3773469",
@@ -124,26 +247,15 @@
           "time_info": "[01时13分 ~ 01时14分]"
         },
         {
-          "title": "伊朗准备为哈梅内伊举行盛大葬礼",
-          "url": "https://news.ifeng.com/c/8tYL9HroZVj",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时13分 ~ 01时14分]"
-        },
-        {
           "title": "联合海上信息中心：美军仍在封锁伊朗港口",
           "url": "https://wallstreetcn.com/livenews/3111834",
           "source": "华尔街见闻-快讯",
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时14分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时14分 ~ 03时23分]"
         },
         {
           "title": "美国：无论是否支付费用，美国个人和实体均不得接受伊朗政府提供的服务",
@@ -152,31 +264,44 @@
           "ranks": [
             3
           ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时14分 ~ 03时23分]"
+        },
+        {
+          "title": "据伊朗国家电视台：伊朗已获得与美国的谅解备忘录非正式文本。文本显示，伊朗将有权决定霍尔木兹海峡船只的性质，并将决定霍尔木兹海峡的航线和费用。",
+          "url": "https://flash.jin10.com/detail/20260531024236027800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时14分"
+          "time_info": "03时23分"
         },
         {
           "title": "特朗普就结束伊朗战事提出条件，伊朗必须同意永远不拥有核武器，霍尔木兹海峡必须立即开放，伊方会接受吗？",
           "url": "https://www.zhihu.com/question/2043956365022814533",
           "source": "知乎",
           "ranks": [
-            10
+            10,
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时13分 ~ 01时14分]"
+          "appearance_count": 3,
+          "time_info": "[01时13分 ~ 03时23分]"
         },
         {
           "title": "美国没收伊朗 10 亿美元加密货币资产，切断伊朗航空公司获取降落点、加油和售票的渠道，对局势有何影响？",
           "url": "https://www.zhihu.com/question/2043976799139492397",
           "source": "知乎",
           "ranks": [
-            14
+            14,
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时13分 ~ 01时14分]"
+          "appearance_count": 3,
+          "time_info": "[01时13分 ~ 03时23分]"
         },
         {
           "title": "伊媒：伊朗议会将通过霍尔木兹海峡“主权管辖”计划",
@@ -185,9 +310,31 @@
           "ranks": [
             11
           ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时14分 ~ 03时23分]"
+        },
+        {
+          "title": "美媒：再拦截一艘赴伊朗商船 累计已达6艘",
+          "url": "https://flash.jin10.com/detail/20260531022332734800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时14分"
+          "time_info": "03时23分"
+        },
+        {
+          "title": "美国汽车协会：数据显示，美国全国汽油30日当天平均零售价为每加仑4.35美元，较前一日下降4美分，较一周前下降17美分，仍较伊朗战事前水平高出46%。",
+          "url": "https://flash.jin10.com/detail/20260531012608857800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时23分"
         }
       ]
     },
@@ -200,11 +347,12 @@
           "url": "https://wallstreetcn.com/articles/3773491",
           "source": "华尔街见闻",
           "ranks": [
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时13分 ~ 01时14分]"
+          "appearance_count": 3,
+          "time_info": "[01时13分 ~ 03时23分]"
         },
         {
           "title": "美股收盘：三大股指续创新高 戴尔领衔科技股狂欢",
@@ -214,8 +362,25 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时13分 ~ 01时14分]"
+          "appearance_count": 3,
+          "time_info": "[01时13分 ~ 03时23分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "为什么无论是 chatgpt 还是 deepseek 都会在 24 点游戏上表现的这么差？",
+          "url": "https://www.zhihu.com/question/2040472846393161206",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时23分"
         }
       ]
     },
@@ -230,9 +395,9 @@
           "ranks": [
             23
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时14分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时14分 ~ 03时23分]"
         }
       ]
     }
