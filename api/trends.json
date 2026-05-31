@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-31T16:17:39.100763+08:00",
-  "total_titles_processed": 833,
+  "generated_at": "2026-05-31T19:02:28.438544+08:00",
+  "total_titles_processed": 982,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "以色列",
-      "match_count": 29,
+      "match_count": 37,
       "titles": [
         {
           "title": "以色列军方表示，正在努力削弱黎巴嫩真主党的基础设施，并为进攻行动创造条件。",
@@ -25,9 +25,31 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时17分"
+        },
+        {
+          "title": "据半岛电视台：哈马斯方面表示，我们正在进行密集的沟通和深入的会谈，以制止以色列在加沙局势的升级，并确保落实停战协议。",
+          "url": "https://flash.jin10.com/detail/20260531183426446800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时02分"
+        },
+        {
+          "title": "法国外长要求安理会就以色列在黎军事行动召开紧急会议",
+          "url": "https://wallstreetcn.com/livenews/3111926",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时02分"
         },
         {
           "title": "以色列收紧北部民防政策以应对黎真主党袭击",
@@ -212,6 +234,28 @@
           "time_info": "01时14分"
         },
         {
+          "title": "以色列称将在博福尔城堡部署部队 建立黎巴嫩南部“安全区”",
+          "url": "https://wallstreetcn.com/livenews/3111917",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时02分"
+        },
+        {
+          "title": "据今日以色列：在以色列北部的阿卡地区发现无人机坠落在开放区域。",
+          "url": "https://flash.jin10.com/detail/20260531174346416800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时02分"
+        },
+        {
           "title": "黎巴嫩真主党：我们用火箭弹袭击了黎南部甘杜里耶镇以东郊区的以色列敌军集结地。",
           "url": "https://flash.jin10.com/detail/20260530215519736800",
           "source": "金十数据",
@@ -221,6 +265,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时14分"
+        },
+        {
+          "title": "以色列军方：真主党继续扩大向以色列发射火箭弹的范围。",
+          "url": "https://flash.jin10.com/detail/20260531173736730800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时02分"
         },
         {
           "title": "据以色列第12频道：黎巴嫩向以色列采法特发射了5枚导弹，其中一枚被拦截，4枚落在空旷地带。",
@@ -306,9 +361,20 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时17分"
+        },
+        {
+          "title": "以色列称将在博福尔城堡部署部队 建立黎巴嫩南部“安全区”",
+          "url": "https://flash.jin10.com/detail/20260531171255388800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时02分"
         },
         {
           "title": "据半岛电视台：10枚火箭弹从黎巴嫩发射到以色列北部。",
@@ -333,6 +399,17 @@
           "time_info": "03时23分"
         },
         {
+          "title": "以色列国防部长卡茨：作为以色列在黎巴嫩安全区的一部分，以军部队将留在博福特城堡地区。",
+          "url": "https://flash.jin10.com/detail/20260531165806186800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时02分"
+        },
+        {
           "title": "黎巴嫩军方：我们的两名士兵在以色列空袭中受伤。",
           "url": "https://flash.jin10.com/detail/20260530203100089800",
           "source": "金十数据",
@@ -342,12 +419,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时14分"
+        },
+        {
+          "title": "以色列内政部：由于黎巴嫩发射火箭弹，纳哈里亚和西加利利地区响起警报。",
+          "url": "https://flash.jin10.com/detail/20260531165011434800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时02分"
         }
       ]
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 22,
+      "match_count": 33,
       "titles": [
         {
           "title": "伊朗准备为哈梅内伊举行盛大葬礼",
@@ -414,6 +502,17 @@
           "time_info": "[01时14分 ~ 07时02分]"
         },
         {
+          "title": "据伊朗伊斯兰共和国通讯社（IRNA）：伊朗南帕尔斯气田的三个海上平台已恢复生产。",
+          "url": "https://flash.jin10.com/detail/20260531182835723800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时02分"
+        },
+        {
           "title": "伊朗谈判代表：与美协议未最终敲定 拟议协议允许伊朗设置退出机制",
           "url": "https://flash.jin10.com/detail/20260531045814291800",
           "source": "金十数据",
@@ -431,9 +530,20 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时17分"
+        },
+        {
+          "title": "伊朗展示一款新型攻击艇",
+          "url": "https://flash.jin10.com/detail/20260531182711783800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时02分"
         },
         {
           "title": "伊朗称对霍尔木兹海峡航运实施全面管理",
@@ -499,6 +609,18 @@
           "time_info": "[03时23分 ~ 07时02分]"
         },
         {
+          "title": "大片火球从天而降！伊朗袭击科威特美军基地",
+          "url": "https://v.ifeng.com/c/8tZLWOELypO",
+          "source": "凤凰网",
+          "ranks": [
+            9,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时14分 ~ 19时02分]"
+        },
+        {
           "title": "美官员透露：特朗普提出更强硬条款 试图施压伊朗加快谈判进程",
           "url": "https://wallstreetcn.com/livenews/3111866",
           "source": "华尔街见闻-快讯",
@@ -521,18 +643,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时04分 ~ 07时02分]"
-        },
-        {
-          "title": "大片火球从天而降！伊朗袭击科威特美军基地",
-          "url": "https://v.ifeng.com/c/8tZLWOELypO",
-          "source": "凤凰网",
-          "ranks": [
-            9,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时14分 ~ 16时17分]"
         },
         {
           "title": "伊朗伊斯兰革命卫队称击落一架美军MQ-1无人机",
@@ -583,6 +693,17 @@
           "time_info": "[07时02分 ~ 12时14分]"
         },
         {
+          "title": "伊朗展示一款新型攻击艇",
+          "url": "https://wallstreetcn.com/livenews/3111922",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时02分"
+        },
+        {
           "title": "伊朗最高领袖顾问批特朗普背弃外交原则",
           "url": "https://news.ifeng.com/c/8tYiCwmfwnC",
           "source": "凤凰网",
@@ -592,6 +713,72 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时14分"
+        },
+        {
+          "title": "伊朗批准20种农产品及加工产品出口",
+          "url": "https://flash.jin10.com/detail/20260531180038627800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时02分"
+        },
+        {
+          "title": "伊朗批准20种农产品及加工产品出口",
+          "url": "https://wallstreetcn.com/livenews/3111919",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时02分"
+        },
+        {
+          "title": "伊朗议会议长：在确认伊朗人民权利得到保障前 不会批准任何协议",
+          "url": "https://wallstreetcn.com/livenews/3111918",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时02分"
+        },
+        {
+          "title": "伊朗议会议长卡利巴夫：敌人企图通过施加经济压力和发动媒体战来煽动分裂，破坏国家凝聚力。",
+          "url": "https://flash.jin10.com/detail/20260531175240266800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时02分"
+        },
+        {
+          "title": "据伊朗塔斯尼姆通讯社：伊朗议会议长卡利巴夫表示，外交的工作是将军事领域获得的胜利转化为政治和法律成果。",
+          "url": "https://flash.jin10.com/detail/20260531174422454800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时02分"
+        },
+        {
+          "title": "伊朗称过去24小时内有28艘船只经协调通过霍尔木兹海峡",
+          "url": "https://wallstreetcn.com/livenews/3111914",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时02分"
         },
         {
           "title": "美国汽车协会：数据显示，美国全国汽油30日当天平均零售价为每加仑4.35美元，较前一日下降4美分，较一周前下降17美分，仍较伊朗战事前水平高出46%。",
@@ -611,9 +798,60 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时17分"
+        },
+        {
+          "title": "伊朗伊斯兰革命卫队海军表示，我们的部队坚定而有力地继续对霍尔木兹海峡进行监控和智能管控。",
+          "url": "https://flash.jin10.com/detail/20260531173432347800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时02分"
+        },
+        {
+          "title": "伊朗议会议长：在确认伊朗人民权利得到保障前 不会批准任何协议",
+          "url": "https://flash.jin10.com/detail/20260531172555462800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时02分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "如何看待 DeepSeek 在 2026.5.29 晚限制修改输入次数？",
+          "url": "https://www.zhihu.com/question/2043802300246915002",
+          "source": "知乎",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时02分"
+        },
+        {
+          "title": "为什么无论是 chatgpt 还是 deepseek 都会在 24 点游戏上表现的这么差？",
+          "url": "https://www.zhihu.com/question/2040472846393161206",
+          "source": "知乎",
+          "ranks": [
+            18,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[03时23分 ~ 07时02分]"
         }
       ]
     },
@@ -646,24 +884,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[01时13分 ~ 16时17分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "为什么无论是 chatgpt 还是 deepseek 都会在 24 点游戏上表现的这么差？",
-          "url": "https://www.zhihu.com/question/2040472846393161206",
-          "source": "知乎",
-          "ranks": [
-            18,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时23分 ~ 07时02分]"
         }
       ]
     },
