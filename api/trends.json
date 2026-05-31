@@ -1,44 +1,69 @@
 {
-  "generated_at": "2026-06-01T03:23:55.687543+08:00",
-  "total_titles_processed": 366,
+  "generated_at": "2026-06-01T05:04:49.735693+08:00",
+  "total_titles_processed": 406,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 17,
+      "match_count": 22,
       "titles": [
         {
-          "title": "伊媒：伊朗将对可能的谅解文本进行新的修改",
-          "url": "https://flash.jin10.com/detail/20260601030742877800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时23分"
-        },
-        {
-          "title": "伊朗政府官员辟谣总统已请辞的消息",
-          "url": "https://flash.jin10.com/detail/20260601025732201800",
+          "title": "伊朗总统府再度否认佩泽希齐扬辞职传闻",
+          "url": "https://flash.jin10.com/detail/20260601043137410800",
           "source": "金十数据",
           "ranks": [
             3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时23分"
+          "time_info": "05时04分"
         },
         {
-          "title": "美国中央司令部：截至5月31日，美军针对伊朗的封锁行动已迫使118艘商业船只改变航线。",
-          "url": "https://flash.jin10.com/detail/20260601024714847800",
+          "title": "伊官员称伊朗不会对美退让妥协",
+          "url": "https://flash.jin10.com/detail/20260601042445893800",
           "source": "金十数据",
           "ranks": [
             5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时23分"
+          "time_info": "05时04分"
+        },
+        {
+          "title": "伊媒：伊朗将对可能的谅解文本进行新的修改",
+          "url": "https://flash.jin10.com/detail/20260601030742877800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时23分 ~ 05时04分]"
+        },
+        {
+          "title": "伊朗政府官员辟谣总统已请辞的消息",
+          "url": "https://flash.jin10.com/detail/20260601025732201800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时23分 ~ 05时04分]"
+        },
+        {
+          "title": "美国中央司令部：截至5月31日，美军针对伊朗的封锁行动已迫使118艘商业船只改变航线。",
+          "url": "https://flash.jin10.com/detail/20260601024714847800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时23分 ~ 05时04分]"
         },
         {
           "title": "伊朗国家媒体：伊朗伊斯兰革命卫队对伊拉克北部的“分离主义组织”据点实施了打击。",
@@ -48,8 +73,19 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时12分 ~ 03时23分]"
+          "appearance_count": 3,
+          "time_info": "[01时12分 ~ 05时04分]"
+        },
+        {
+          "title": "伊朗国家安全与外交政策委员会成员科萨里表示，核问题已被排除在谈判桌之外；目前尚未达成最终协议。（伊朗学生通讯社）",
+          "url": "https://wallstreetcn.com/livenews/3111958",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时12分 ~ 05时04分]"
         },
         {
           "title": "法国总统马克龙：与沙特王储、阿曼苏丹、阿联酋总统和埃及总统进行了交谈，我向他们传达了同一个信息——美国与伊朗之间尽快达成协议至关重要，必须把握机会。",
@@ -64,48 +100,62 @@
           "time_info": "[01时12分 ~ 03时23分]"
         },
         {
-          "title": "伊朗国家安全与外交政策委员会成员科萨里表示，核问题已被排除在谈判桌之外；目前尚未达成最终协议。（伊朗学生通讯社）",
-          "url": "https://wallstreetcn.com/livenews/3111958",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时12分 ~ 03时23分]"
-        },
-        {
           "title": "伊朗军官：将与敌人的过分要求和霸权行径战斗到最后一刻",
           "url": "https://flash.jin10.com/detail/20260601023250830800",
           "source": "金十数据",
           "ranks": [
-            6
+            6,
+            21
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时23分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时23分 ~ 05时04分]"
         },
         {
           "title": "伊朗袭击科威特美军基地致7人轻伤 均已恢复执勤",
           "url": "https://flash.jin10.com/detail/20260601021328675800",
           "source": "金十数据",
           "ranks": [
-            9
+            9,
+            24
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时23分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时23分 ~ 05时04分]"
         },
         {
           "title": "伊朗总统已向最高领袖办公室提交辞职请求",
           "url": "https://flash.jin10.com/detail/20260601015825115800",
           "source": "金十数据",
           "ranks": [
+            10,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时23分 ~ 05时04分]"
+        },
+        {
+          "title": "伊官员称伊朗在核问题上对美方没有任何承诺",
+          "url": "https://flash.jin10.com/detail/20260601035308877800",
+          "source": "金十数据",
+          "ranks": [
             10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时23分"
+          "time_info": "05时04分"
+        },
+        {
+          "title": "战争阴霾笼罩世界杯，伊朗国家队运动员仍未获得赴美签证",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33276489",
+          "source": "澎湃新闻",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时04分"
         },
         {
           "title": "伊朗外交部长：我们不应该重视猜测。",
@@ -114,7 +164,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时23分"
         },
@@ -125,7 +175,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时23分"
         },
@@ -147,9 +197,20 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时23分"
+        },
+        {
+          "title": "知情人士称伊朗可能将对谅解备忘录文本提出新的修订意见",
+          "url": "https://flash.jin10.com/detail/20260601034421559800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时04分"
         },
         {
           "title": "美国财长贝森特：恢复霍尔木兹海峡的无费用航行将是伊朗承诺的首个指标。",
@@ -199,18 +260,30 @@
     },
     {
       "keyword_group": "以色列",
-      "match_count": 13,
+      "match_count": 17,
       "titles": [
         {
-          "title": "据以色列广播管理局援引消息人士的话称，只要黎巴嫩南部地区仍存在威胁，以色列就不会撤军。",
-          "url": "https://flash.jin10.com/detail/20260601025043757800",
+          "title": "以色列北部发布无人机入侵警报。",
+          "url": "https://flash.jin10.com/detail/20260601043010327800",
           "source": "金十数据",
           "ranks": [
             4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时23分"
+          "time_info": "05时04分"
+        },
+        {
+          "title": "据以色列广播管理局援引消息人士的话称，只要黎巴嫩南部地区仍存在威胁，以色列就不会撤军。",
+          "url": "https://flash.jin10.com/detail/20260601025043757800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时23分 ~ 05时04分]"
         },
         {
           "title": "美国财长贝森特：霍尔木兹海峡必须恢复至（美国和以色列挑起伊朗战争）之前的水平。 海峡关闭直接造成化肥价格上涨。",
@@ -220,8 +293,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时12分 ~ 03时23分]"
+          "appearance_count": 3,
+          "time_info": "[01时12分 ~ 05时04分]"
         },
         {
           "title": "据以色列第12频道：内塔尼亚胡正在召开关于黎巴嫩的安全评估会议。",
@@ -236,6 +309,18 @@
           "time_info": "[01时12分 ~ 03时23分]"
         },
         {
+          "title": "卡塔尔外交部：呼吁国际社会迫使以色列停止对黎巴嫩的侵略。",
+          "url": "https://flash.jin10.com/detail/20260601021833285800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时23分 ~ 05时04分]"
+        },
+        {
           "title": "以色列国防军：在以色列北部多个地区响起警报后，拦截了从黎巴嫩发射的两枚导弹。",
           "url": "https://flash.jin10.com/detail/20260601001920694800",
           "source": "金十数据",
@@ -248,26 +333,27 @@
           "time_info": "[01时12分 ~ 03时23分]"
         },
         {
-          "title": "卡塔尔外交部：呼吁国际社会迫使以色列停止对黎巴嫩的侵略。",
-          "url": "https://flash.jin10.com/detail/20260601021833285800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时23分"
-        },
-        {
           "title": "卡塔尔外交部：卡塔尔队以色列持续攻击黎巴嫩并扩大对黎巴嫩南部的地面入侵表示谴责。",
           "url": "https://flash.jin10.com/detail/20260601021816861800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时23分 ~ 05时04分]"
+        },
+        {
+          "title": "埃及强烈谴责以色列在黎巴嫩升级军事行动",
+          "url": "https://flash.jin10.com/detail/20260601041046651800",
           "source": "金十数据",
           "ranks": [
             8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时23分"
+          "time_info": "05时04分"
         },
         {
           "title": "以色列国防军：今天在提尔及黎巴嫩南部其他地区打击了真主党武器库、有人指挥中心及其他基础设施。",
@@ -287,9 +373,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时23分"
+        },
+        {
+          "title": "德国外交部长：以色列军队持续向黎巴嫩南部推进，令人严重担忧。",
+          "url": "https://flash.jin10.com/detail/20260601035253358800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时04分"
         },
         {
           "title": "以色列国防军：自停火开始以来，已消灭900名真主党成员：今天早上对数十个真主党基础设施进行了打击。",
@@ -303,13 +400,24 @@
           "time_info": "01时12分"
         },
         {
+          "title": "以色列国防军：此前不久，有导弹从黎巴嫩方向发射，随后，一枚导弹落在在黎巴嫩南部活动的以军士兵附近。事件已结束，未发现人员伤亡。",
+          "url": "https://flash.jin10.com/detail/20260601034840243800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时04分"
+        },
+        {
           "title": "据以色列i24News：伊朗导弹基地已恢复使用。",
           "url": "https://flash.jin10.com/detail/20260601011109644800",
           "source": "金十数据",
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时23分"
         },
@@ -320,7 +428,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时23分"
         },
@@ -360,8 +468,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时12分 ~ 03时23分]"
+          "appearance_count": 3,
+          "time_info": "[01时12分 ~ 05时04分]"
         }
       ]
     },
@@ -374,11 +482,12 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_33276037",
           "source": "澎湃新闻",
           "ranks": [
-            19
+            19,
+            20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时12分 ~ 03时23分]"
+          "appearance_count": 3,
+          "time_info": "[01时12分 ~ 05时04分]"
         }
       ]
     },
