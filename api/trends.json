@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-06-01T12:28:18.743356+08:00",
-  "total_titles_processed": 704,
+  "generated_at": "2026-06-01T18:24:24.571994+08:00",
+  "total_titles_processed": 937,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 40,
+      "match_count": 46,
       "titles": [
+        {
+          "title": "据伊朗媒体FarsNews：伊朗伊斯兰革命卫队海军称，波斯湾和霍尔木兹海峡区域内的商船和油轮被警告，任何与敌对域外势力的合作行为都将被视为迫在眉睫的安全威胁，并将据此受到相应处置。",
+          "url": "https://flash.jin10.com/detail/20260601181437020800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时24分"
+        },
         {
           "title": "伊朗总统府再度否认佩泽希齐扬辞职传闻",
           "url": "https://flash.jin10.com/detail/20260601043137410800",
@@ -17,6 +28,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时04分"
+        },
+        {
+          "title": "据伊朗媒体Fars News：伊朗伊斯兰革命卫队海军称，过去24小时内，共有15艘船只在获得伊朗许可后通过霍尔木兹海峡，其中包括4艘油轮。",
+          "url": "https://flash.jin10.com/detail/20260601181326950800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时24分"
         },
         {
           "title": "伊官员称伊朗不会对美退让妥协",
@@ -52,6 +74,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时23分 ~ 05时04分]"
+        },
+        {
+          "title": "特朗普提出更强硬条款，伊朗：已准备好谈判破裂",
+          "url": "https://news.ifeng.com/c/8taubWZltKg",
+          "source": "凤凰网",
+          "ranks": [
+            9,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时28分 ~ 18时24分]"
         },
         {
           "title": "伊朗政府官员辟谣总统已请辞的消息",
@@ -138,6 +172,17 @@
           "time_info": "[03时23分 ~ 05时04分]"
         },
         {
+          "title": "伊朗总统：要么强硬前行，要么牺牲",
+          "url": "https://news.ifeng.com/c/8taeRM6ZuHm",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时28分 ~ 18时24分]"
+        },
+        {
           "title": "伊朗袭击科威特美军基地致7人轻伤 均已恢复执勤",
           "url": "https://flash.jin10.com/detail/20260601021328675800",
           "source": "金十数据",
@@ -173,17 +218,6 @@
           "time_info": "07时04分"
         },
         {
-          "title": "伊朗总统：要么强硬前行，要么牺牲",
-          "url": "https://news.ifeng.com/c/8taeRM6ZuHm",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时28分"
-        },
-        {
           "title": "伊官员称伊朗不会对美退让妥协",
           "url": "https://wallstreetcn.com/livenews/3111985",
           "source": "华尔街见闻-快讯",
@@ -193,17 +227,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时04分"
-        },
-        {
-          "title": "特朗普提出更强硬条款，伊朗：已准备好谈判破裂",
-          "url": "https://news.ifeng.com/c/8taubWZltKg",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时28分"
         },
         {
           "title": "伊官员称伊朗在核问题上对美方没有任何承诺",
@@ -278,7 +301,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时28分"
         },
@@ -349,6 +372,17 @@
           "time_info": "07时04分"
         },
         {
+          "title": "伊朗情报机构宣布捣毁一恐怖分子团伙",
+          "url": "https://wallstreetcn.com/livenews/3112326",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时24分"
+        },
+        {
           "title": "美国财长贝森特：开启霍尔木兹海峡并夺取伊朗的核库存是目标之一。",
           "url": "https://flash.jin10.com/detail/20260531235718965800",
           "source": "金十数据",
@@ -371,6 +405,17 @@
           "time_info": "01时12分"
         },
         {
+          "title": "伊朗议会议长：美国违反停火协议",
+          "url": "https://wallstreetcn.com/livenews/3112320",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时24分"
+        },
+        {
           "title": "美国财长贝森特：对伊朗的围攻以及对哈尔科夫石油出口的阻止仍在继续。",
           "url": "https://flash.jin10.com/detail/20260531235613251800",
           "source": "金十数据",
@@ -388,7 +433,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时28分"
         },
@@ -399,7 +444,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时28分"
         },
@@ -410,7 +455,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时28分"
         },
@@ -421,9 +466,20 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时28分"
+        },
+        {
+          "title": "伊朗外交部：伊朗武装部队回击美军“侵略行动”",
+          "url": "https://wallstreetcn.com/livenews/3112312",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时24分"
         },
         {
           "title": "贝森特：特朗普将严格执行潜在的伊朗协议 油价将继续走低",
@@ -437,13 +493,24 @@
           "time_info": "07时04分"
         },
         {
+          "title": "沙特外交部：强烈谴责伊朗对科威特发动的罪恶性、一再重复的袭击行动。",
+          "url": "https://flash.jin10.com/detail/20260601174744388800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时24分"
+        },
+        {
           "title": "特朗普坚称美伊协议“明确禁止”伊朗拥核",
           "url": "https://wallstreetcn.com/livenews/3112127",
           "source": "华尔街见闻-快讯",
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时28分"
         },
@@ -454,7 +521,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时28分"
         }
@@ -462,8 +529,19 @@
     },
     {
       "keyword_group": "以色列",
-      "match_count": 20,
+      "match_count": 24,
       "titles": [
+        {
+          "title": "以色列总理内塔尼亚胡：位于贝鲁特的真主党总部不享有免遭打击的豁免权。",
+          "url": "https://flash.jin10.com/detail/20260601181545664800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时24分"
+        },
         {
           "title": "以色列北部发布无人机入侵警报。",
           "url": "https://flash.jin10.com/detail/20260601043010327800",
@@ -474,6 +552,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时04分"
+        },
+        {
+          "title": "中东停火再遭挑战：伊朗打击美军基地 以色列扩大在黎军事行动",
+          "url": "https://www.cls.cn/detail/2386651",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时24分"
         },
         {
           "title": "美国财长贝森特：霍尔木兹海峡必须恢复至（美国和以色列挑起伊朗战争）之前的水平。 海峡关闭直接造成化肥价格上涨。",
@@ -524,6 +613,18 @@
           "time_info": "[03时23分 ~ 05时04分]"
         },
         {
+          "title": "这个周末，美伊忙着“改条件”，以色列忙着打黎巴嫩",
+          "url": "https://wallstreetcn.com/articles/3773530",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时28分 ~ 18时24分]"
+        },
+        {
           "title": "以色列国防军：在以色列北部多个地区响起警报后，拦截了从黎巴嫩发射的两枚导弹。",
           "url": "https://flash.jin10.com/detail/20260601001920694800",
           "source": "金十数据",
@@ -568,17 +669,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时04分"
-        },
-        {
-          "title": "这个周末，美伊忙着“改条件”，以色列忙着打黎巴嫩",
-          "url": "https://wallstreetcn.com/articles/3773530",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时28分"
         },
         {
           "title": "以色列国防军：今天在提尔及黎巴嫩南部其他地区打击了真主党武器库、有人指挥中心及其他基础设施。",
@@ -658,6 +748,17 @@
           "time_info": "03时23分"
         },
         {
+          "title": "以色列国防部长：如果以色列北部没有平静，贝鲁特也不会有平静。",
+          "url": "https://flash.jin10.com/detail/20260601175710153800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时24分"
+        },
+        {
           "title": "以色列国防军：以色列北部多个地区响起警报。具体情况正在审查中。",
           "url": "https://flash.jin10.com/detail/20260531235023622800",
           "source": "金十数据",
@@ -678,6 +779,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时04分"
+        },
+        {
+          "title": "以色列国防军：在以色列北部多个地区响起警报后，从黎巴嫩发射的两枚导弹已被拦截。",
+          "url": "https://flash.jin10.com/detail/20260601175052656800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时24分"
         },
         {
           "title": "据以色列i24News：黎巴嫩真主党发射的无人机在以色列北部的上加利利地区坠毁，初步报告有伤亡。",
@@ -703,7 +815,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时28分"
         },
@@ -714,7 +826,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时28分"
         },
@@ -737,7 +849,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时28分"
         },
@@ -748,46 +860,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时28分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "人工智能 AI ChatGPT",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "直击英伟达GTC 2026黄仁勋演讲：新一代AI技术突破即将来袭？",
-          "url": "https://www.cls.cn/detail/2386626",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时28分"
-        },
-        {
-          "title": "乌克兰总统泽连斯基：美国企业拥有我们所不具备的先进人工智能技术。而反过来，由于我们积累了丰富的实战经验，我们也掌握着许多美国人所没有的能力和经验。",
-          "url": "https://flash.jin10.com/detail/20260531234826092800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时12分"
-        },
-        {
-          "title": "英特尔计划在年底前推出一款人工智能芯片，该芯片将采用比英伟达和AMD竞品更便宜的内存和散热技术。（英国金融时报）",
-          "url": "https://wallstreetcn.com/livenews/3112133",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
           "appearance_count": 1,
           "time_info": "12时28分"
         }
@@ -795,8 +868,19 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 2,
+      "match_count": 4,
       "titles": [
+        {
+          "title": "华尔街大鳄警告：美股崩盘和衰退已是“定时炸弹”，可转向金银投资！",
+          "url": "https://www.cls.cn/detail/2386791",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时24分"
+        },
         {
           "title": "美股三大股指期货周一基本平开。",
           "url": "https://flash.jin10.com/detail/20260601060027642800",
@@ -818,6 +902,56 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时12分"
+        },
+        {
+          "title": "高盛称对冲基金以六个月来的最快速度买入美股",
+          "url": "https://wallstreetcn.com/livenews/3112323",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时24分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "人工智能 AI ChatGPT",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "直击英伟达GTC 2026黄仁勋演讲：新一代AI技术突破即将来袭？",
+          "url": "https://www.cls.cn/detail/2386626",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时28分"
+        },
+        {
+          "title": "乌克兰总统泽连斯基：美国企业拥有我们所不具备的先进人工智能技术。而反过来，由于我们积累了丰富的实战经验，我们也掌握着许多美国人所没有的能力和经验。",
+          "url": "https://flash.jin10.com/detail/20260531234826092800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时12分"
+        },
+        {
+          "title": "英特尔计划在年底前推出一款人工智能芯片，该芯片将采用比英伟达和AMD竞品更便宜的内存和散热技术。（英国金融时报）",
+          "url": "https://wallstreetcn.com/livenews/3112133",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时28分"
         }
       ]
     },
@@ -850,7 +984,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时28分"
         }
@@ -867,7 +1001,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时28分"
         }
