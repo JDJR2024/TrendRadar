@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-12T07:27:51.397377+08:00",
-  "total_titles_processed": 532,
+  "generated_at": "2026-06-12T12:22:50.601099+08:00",
+  "total_titles_processed": 766,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 57,
+      "match_count": 67,
       "titles": [
         {
           "title": "国际油价飙升！特朗普：今晚将重创伊朗，“在不久的将来”将占领哈尔克岛",
@@ -17,8 +17,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时19分 ~ 07时27分]"
+          "appearance_count": 5,
+          "time_info": "[02时19分 ~ 12时22分]"
         },
         {
           "title": "伊朗宣布对所有船只关闭霍尔木兹海峡",
@@ -39,9 +39,23 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时27分"
+        },
+        {
+          "title": "世界银行警告：伊朗战争冲击下 全球经济增速将降至疫情以来最低水平",
+          "url": "https://www.cls.cn/detail/2397642",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            10,
+            11,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[02时19分 ~ 12时22分]"
         },
         {
           "title": "特朗普称取消打击伊朗行动",
@@ -50,7 +64,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时27分"
         },
@@ -72,9 +86,31 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时27分"
+        },
+        {
+          "title": "特朗普为何在夺取伊朗岛屿问题上反复横跳？",
+          "url": "https://news.ifeng.com/c/8ttDG767op3",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时22分"
+        },
+        {
+          "title": "美伊局势再陷“迷雾”：特朗普称有望周末签署协议，伊朗“光速否认”！",
+          "url": "https://www.cls.cn/detail/2397803",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时22分"
         },
         {
           "title": "伊朗外交部发言人：一旦我们达成结论，认为谅解备忘录的文本能够保障伊朗人民的利益，我们就会予以公布。",
@@ -99,6 +135,17 @@
           "time_info": "02时19分"
         },
         {
+          "title": "伊朗武装力量进入最高战备状态",
+          "url": "https://news.ifeng.com/c/8tsZVZjUpb1",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时22分"
+        },
+        {
           "title": "伊朗外交部：海峡目前仍然关闭",
           "url": "https://flash.jin10.com/detail/20260612044814664800",
           "source": "金十数据",
@@ -110,6 +157,30 @@
           "time_info": "05时25分"
         },
         {
+          "title": "【早报】特朗普取消打击伊朗；黄金、白银大涨；世界杯开幕，墨西哥2比0战胜南非",
+          "url": "https://www.cls.cn/detail/2397775",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时27分 ~ 12时22分]"
+        },
+        {
+          "title": "几小时内反转！特朗普称取消打击伊朗计划，协议基本定稿、伊朗各方批准，或周末在欧洲签署",
+          "url": "https://wallstreetcn.com/articles/3774457",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时27分 ~ 12时22分]"
+        },
+        {
           "title": "伊朗宣布对所有船只关闭霍尔木兹海峡，打击两艘非法通过海峡船只，如何解读？可能会带来哪些连锁反应？",
           "url": "https://www.zhihu.com/question/2048301839200642048",
           "source": "知乎",
@@ -117,19 +188,6 @@
             15,
             10,
             9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时19分 ~ 07时27分]"
-        },
-        {
-          "title": "世界银行警告：伊朗战争冲击下 全球经济增速将降至疫情以来最低水平",
-          "url": "https://www.cls.cn/detail/2397642",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            10,
-            11
           ],
           "is_new": false,
           "appearance_count": 4,
@@ -184,15 +242,15 @@
           "time_info": "[02时19分 ~ 05时25分]"
         },
         {
-          "title": "几小时内反转！特朗普称取消打击伊朗计划，协议基本定稿、伊朗各方批准，或周末在欧洲签署",
-          "url": "https://wallstreetcn.com/articles/3774457",
-          "source": "华尔街见闻",
+          "title": "美财长：如有必要，将拿伊朗的钱补偿海湾国家",
+          "url": "https://news.ifeng.com/c/8tsaDtvEdEP",
+          "source": "凤凰网",
           "ranks": [
             6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时27分"
+          "time_info": "12时22分"
         },
         {
           "title": "伊朗外交部发言人：如果伊朗打算在压力和威胁下放弃其原则立场，那我们在一年前就会这么做了。",
@@ -212,7 +270,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时27分"
         },
@@ -223,9 +281,20 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时27分"
+        },
+        {
+          "title": "伊朗战争推高通胀压力，欧洲央行近三年来首次加息！",
+          "url": "https://wallstreetcn.com/articles/3774438",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时22分"
         },
         {
           "title": "伊朗外交部发言人：有关协议的事宜均为猜测，尚未达成任何最终决定。",
@@ -245,7 +314,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时27分"
         },
@@ -267,18 +336,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时27分"
-        },
-        {
-          "title": "【早报】特朗普取消打击伊朗；黄金、白银大涨；世界杯开幕，墨西哥2比0战胜南非",
-          "url": "https://www.cls.cn/detail/2397775",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时27分"
         },
@@ -322,9 +380,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时27分"
+        },
+        {
+          "title": "特朗普称有望周末签署美伊协议 伊朗称尚未达成最终结论 | 环球市场",
+          "url": "https://www.cls.cn/detail/2397778",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时22分"
         },
         {
           "title": "据纽约时报记者：特朗普总统刚刚告知我，与伊朗达成的协议已“基本上大功告成”。",
@@ -344,7 +413,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时27分"
         },
@@ -388,7 +457,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时27分"
         },
@@ -399,7 +468,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时27分"
         },
@@ -476,7 +545,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时27分"
         },
@@ -492,15 +561,37 @@
           "time_info": "05时25分"
         },
         {
+          "title": "特朗普称80岁生日愿望是“世界和平”，转头宣布狠狠打击伊朗",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33357490",
+          "source": "澎湃新闻",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时22分"
+        },
+        {
           "title": "伊朗外交部：美方行径致使斡旋进程受影响",
           "url": "https://wallstreetcn.com/livenews/3118430",
           "source": "华尔街见闻-快讯",
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时27分"
+        },
+        {
+          "title": "伊朗战争切断印度海湾气源，美国跃升为印度最大天然气供应国",
+          "url": "https://wallstreetcn.com/livenews/3118569",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时22分"
         },
         {
           "title": "据沙特阿拉比亚电视台报道，消息人士称，根据美国与伊朗之间的框架协议草案，各方将承诺立即停止进攻性军事行动。协议规定，在实施期间不得进行军事打击。违规行为应通过调解人协调机制解决。",
@@ -520,9 +611,20 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时27分"
+        },
+        {
+          "title": "美财长贝森特：如有必要，将动用伊朗被冻结资产补偿海湾国家",
+          "url": "https://flash.jin10.com/detail/20260612112956141800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时22分"
         },
         {
           "title": "消息人士表示，伊朗敲定了其与美国拟议协议的最新草案，并将其提交给卡塔尔中间人，由其转交华盛顿。 一名熟悉卡塔尔调解情况的美国消息人士也证实，协议草案已经提交。（纽约邮报）",
@@ -597,7 +699,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时27分"
         },
@@ -608,9 +710,20 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时27分"
+        },
+        {
+          "title": "日本政府正准备挑选船舶部署到霍尔木兹海峡，以响应美国和伊朗达成停火协议。 日本政府正在权衡多种方案，包括参与多边行动和提供扫雷作业设备。 部署的前提是该区域的安全得到全面保障。（路透）",
+          "url": "https://wallstreetcn.com/livenews/3118529",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时22分"
         },
         {
           "title": "伊朗武装部队：如果美国再次企图对伊朗发动攻击，将会遭到比以往更加严厉的回应。 石油和天然气出口要么对所有人开放，要么对任何人都不开放。",
@@ -641,7 +754,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时27分"
         }
@@ -679,22 +792,24 @@
           "url": "https://wallstreetcn.com/articles/3774389",
           "source": "华尔街见闻",
           "ranks": [
-            2
+            2,
+            1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时27分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时27分 ~ 12时22分]"
         },
         {
           "title": "美股收盘：美伊局势反转纳指升超2.5% 芯片股强反弹费城指数涨8%",
           "url": "https://www.cls.cn/detail/2397755",
           "source": "财联社热门",
           "ranks": [
-            4
+            4,
+            2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时27分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时27分 ~ 12时22分]"
         },
         {
           "title": "在美股时段交易的费城金银指数收涨5.40%，报328.19点。 在全球市场全天交易的纽约证交所ARCA金矿开采商指数涨4.01%，报2210.21点，美股开盘之前维持微幅下跌状态——持稳于2120点附近，随后微幅震荡上行，北京时间01:28开启一波瞬间加速上涨行情。 在美股时段交易的原材料指数收涨4.24%，报248.30点。 在美股时段交易的金属与矿业指数收涨6.02%，报301.05点，跳空高开之后持续上扬。",
@@ -767,7 +882,7 @@
     },
     {
       "keyword_group": "以色列",
-      "match_count": 6,
+      "match_count": 8,
       "titles": [
         {
           "title": "据以色列第12频道：以色列方面对特朗普发布的帖文感到意外。以色列总理内塔尼亚胡是在内阁会议期间获悉这一消息的。",
@@ -801,6 +916,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时19分"
+        },
+        {
+          "title": "据AXIOS网站援引美国消息人士称，以色列总理内塔尼亚胡最近联系了特朗普政府的亲信，试图获取有关美伊协议的信息。",
+          "url": "https://flash.jin10.com/detail/20260612114412604800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时22分"
+        },
+        {
+          "title": "不顾反对，内塔尼亚胡将参加下一届以色列议会选举",
+          "url": "https://news.ifeng.com/c/8tt5oJT4p2T",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时22分"
         },
         {
           "title": "以色列：美国与伊朗的MoU不包含我方",
@@ -838,6 +975,56 @@
       ]
     },
     {
+      "keyword_group": "世界杯 欧洲杯 亚洲杯",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "2026 年美加墨世界杯揭幕战，墨西哥 2-0 南非，全场共出示三张红牌，如何评价本场比赛？",
+          "url": "https://www.zhihu.com/question/2048006928291161252",
+          "source": "知乎",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时22分"
+        },
+        {
+          "title": "2026 年美加墨世界杯，揭幕战，A 组东道主墨西哥 vs 南非，如何评价本场比赛？",
+          "url": "https://www.zhihu.com/question/2048006928291161252",
+          "source": "知乎",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时27分"
+        },
+        {
+          "title": "当世界杯首次遇上“去交战国比赛”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33356870",
+          "source": "澎湃新闻",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时22分"
+        },
+        {
+          "title": "2026 年世界杯小组赛 A 组，韩国 2-1 逆转捷克，如何评价本场比赛？",
+          "url": "https://www.zhihu.com/question/2048694865580353228",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时22分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美债",
       "match_count": 3,
       "titles": [
@@ -870,7 +1057,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时27分"
         }
@@ -909,7 +1096,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时27分"
         }
@@ -917,7 +1104,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "补贴→Token计费→降价！OpenAI打响价格战，Token经济学拐点将至？",
@@ -929,25 +1116,36 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时19分 ~ 07时27分]"
+          "appearance_count": 5,
+          "time_info": "[02时19分 ~ 12时22分]"
+        },
+        {
+          "title": "高盛：SpaceX、OpenAI等超级IPO不会终结AI牛市",
+          "url": "https://www.cls.cn/detail/2397603",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时22分"
         }
       ]
     },
     {
-      "keyword_group": "世界杯 欧洲杯 亚洲杯",
+      "keyword_group": "金价",
       "match_count": 1,
       "titles": [
         {
-          "title": "2026 年美加墨世界杯，揭幕战，A 组东道主墨西哥 vs 南非，如何评价本场比赛？",
-          "url": "https://www.zhihu.com/question/2048006928291161252",
-          "source": "知乎",
+          "title": "金价回落女子一口气买入90克金手镯",
+          "url": "https://www.toutiao.com/trending/7649567619948822578/",
+          "source": "今日头条",
           "ranks": [
-            4
+            12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时27分"
+          "time_info": "12时22分"
         }
       ]
     }
