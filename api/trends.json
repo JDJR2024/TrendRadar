@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-13T19:19:03.290864+08:00",
-  "total_titles_processed": 1075,
+  "generated_at": "2026-06-13T22:09:00.059272+08:00",
+  "total_titles_processed": 1234,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 61,
+      "match_count": 74,
       "titles": [
         {
           "title": "美伊达成一致，伊朗外长：第一阶段将以远程电子方式签署",
@@ -17,6 +17,20 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[12时10分 ~ 16时25分]"
+        },
+        {
+          "title": "伊朗外长披露伊美谅解备忘录草案部分内容",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33372202",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            15,
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时10分 ~ 22时08分]"
         },
         {
           "title": "伊朗发布“头骨世界杯”海报",
@@ -59,53 +73,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时19分"
-        },
-        {
-          "title": "伊朗外长披露伊美谅解备忘录草案部分内容",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33372202",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            15,
-            10
-          ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时10分 ~ 19时19分]"
-        },
-        {
-          "title": "伊朗已故最高领袖将于7月9日下葬",
-          "url": "https://wallstreetcn.com/livenews/3119145",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时19分"
-        },
-        {
-          "title": "伊朗公布已故最高领袖哈梅内伊葬礼安排",
-          "url": "https://wallstreetcn.com/livenews/3119144",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时19分"
-        },
-        {
-          "title": "伊朗已故最高领袖哈梅内伊将于7月9日下葬",
-          "url": "https://flash.jin10.com/detail/20260613183636185800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
           "appearance_count": 1,
           "time_info": "19时19分"
         },
@@ -114,11 +82,47 @@
           "url": "https://news.ifeng.com/c/8tvGP2lQey4",
           "source": "凤凰网",
           "ranks": [
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时24分 ~ 19时19分]"
+          "appearance_count": 5,
+          "time_info": "[16时24分 ~ 22时08分]"
+        },
+        {
+          "title": "伊朗多家银行出现技术故障 正开展修复工作",
+          "url": "https://wallstreetcn.com/livenews/3119163",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时08分"
+        },
+        {
+          "title": "伊朗已故最高领袖哈梅内伊将于7月9日下葬",
+          "url": "https://flash.jin10.com/detail/20260613183636185800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时19分"
+        },
+        {
+          "title": "伊朗外长：伊朗仅接受在境内“稀释处理”浓缩铀库存",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33372320",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            15,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时24分 ~ 22时08分]"
         },
         {
           "title": "阿联酋外交部驳斥媒体报道，称：我们尚未释放任何被冻结的伊朗资金。",
@@ -145,6 +149,30 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时51分 ~ 12时11分]"
+        },
+        {
+          "title": "伊朗已故最高领袖将于7月9日下葬",
+          "url": "https://wallstreetcn.com/livenews/3119145",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时19分 ~ 22时08分]"
+        },
+        {
+          "title": "伊朗公布已故最高领袖哈梅内伊葬礼安排",
+          "url": "https://wallstreetcn.com/livenews/3119144",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时19分 ~ 22时08分]"
         },
         {
           "title": "油价下挫5%！伊朗公布伊美谅解备忘录新细节，霍尔木兹海峡或30天内重开",
@@ -184,16 +212,16 @@
           "time_info": "[00时24分 ~ 07时22分]"
         },
         {
-          "title": "伊朗外长：伊朗仅接受在境内“稀释处理”浓缩铀库存",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33372320",
-          "source": "澎湃新闻",
+          "title": "伊朗已故最高领袖将于7月9日下葬",
+          "url": "https://www.toutiao.com/trending/7650457789692825107/",
+          "source": "今日头条",
           "ranks": [
-            19,
-            15
+            9,
+            17
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时24分 ~ 19时19分]"
+          "appearance_count": 3,
+          "time_info": "[19时18分 ~ 22时08分]"
         },
         {
           "title": "美军称伊朗发射多架单向攻击无人机",
@@ -218,17 +246,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时22分 ~ 12时11分]"
-        },
-        {
-          "title": "伊朗已故最高领袖将于7月9日下葬",
-          "url": "https://www.toutiao.com/trending/7650457789692825107/",
-          "source": "今日头条",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时18分 ~ 19时19分]"
         },
         {
           "title": "伊朗南部爆炸声因警告性射击",
@@ -420,15 +437,59 @@
           "time_info": "12时11分"
         },
         {
+          "title": "伊朗外交部：伊美谅解备忘录不会在明天签署",
+          "url": "https://wallstreetcn.com/livenews/3119160",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时08分"
+        },
+        {
           "title": "伊朗公布已故最高领袖哈梅内伊葬礼安排",
           "url": "https://flash.jin10.com/detail/20260613183333910800",
           "source": "金十数据",
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时19分"
+        },
+        {
+          "title": "伊朗多家银行出现技术故障 正开展修复工作",
+          "url": "https://flash.jin10.com/detail/20260613210321558800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时08分"
+        },
+        {
+          "title": "美军被曝制订抢夺伊朗浓缩铀计划 特朗普未批准",
+          "url": "https://wallstreetcn.com/livenews/3119159",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时08分"
+        },
+        {
+          "title": "美媒细数特朗普曾39次说与伊朗谈好",
+          "url": "https://wallstreetcn.com/livenews/3119158",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时08分"
         },
         {
           "title": "美国中央司令部：美国军队持续对伊朗实施严格封锁。自4月13日以来，美国中央司令部已引导139艘服从指令的商业船只改变航线，并使9艘不遵守命令的船只失去航行能力。",
@@ -453,6 +514,28 @@
           "time_info": "03时09分"
         },
         {
+          "title": "伊朗外交部：伊美谅解备忘录不会在明天签署",
+          "url": "https://flash.jin10.com/detail/20260613210012560800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时08分"
+        },
+        {
+          "title": "伊朗外交部发言人：由于对方犹豫不决，我们必须对签署日期的任何评论保持谨慎。",
+          "url": "https://flash.jin10.com/detail/20260613205949121800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时08分"
+        },
+        {
           "title": "提醒：美国总统特朗普在自家社交媒体平台上张贴伊朗外长关于两国“协议”（谅解备忘录/MoU）社交媒体帖子的截图。",
           "url": "https://wallstreetcn.com/livenews/3118983",
           "source": "华尔街见闻-快讯",
@@ -473,6 +556,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时09分"
+        },
+        {
+          "title": "伊朗称霍尔木兹收服务费完全合理",
+          "url": "https://wallstreetcn.com/livenews/3119155",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时08分"
         },
         {
           "title": "美官员：伊朗承诺永久放弃核武器，但美方需建立核查机制",
@@ -497,6 +591,17 @@
           "time_info": "12时11分"
         },
         {
+          "title": "伊朗外交部发言人：不排除在未来几天内签署伊斯兰堡谅解备忘录的可能性。",
+          "url": "https://flash.jin10.com/detail/20260613205713059800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时08分"
+        },
+        {
           "title": "美国总统特朗普在社交平台上发布了伊朗外长阿拉格齐关于美伊协议的推文截图。",
           "url": "https://flash.jin10.com/detail/20260612233459476800",
           "source": "金十数据",
@@ -519,6 +624,17 @@
           "time_info": "03时09分"
         },
         {
+          "title": "伊朗外交部发言人：伊斯兰堡谅解备忘录侧重于结束现阶段战争，不讨论核问题。",
+          "url": "https://flash.jin10.com/detail/20260613205541727800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时08分"
+        },
+        {
           "title": "据伊朗塔斯尼姆通讯社：伊朗外长阿拉格齐将出席今晚的《特别新闻对话》节目，具体时间未知。",
           "url": "https://flash.jin10.com/detail/20260613021802157800",
           "source": "金十数据",
@@ -528,6 +644,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时09分"
+        },
+        {
+          "title": "伊朗外交部发言人：签署备忘录的确切时间不会是明天。",
+          "url": "https://flash.jin10.com/detail/20260613205447005800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时08分"
+        },
+        {
+          "title": "伊朗司法总监：绝不信任美国",
+          "url": "https://wallstreetcn.com/livenews/3119149",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时08分"
         },
         {
           "title": "据路透：消息人士称，阿联酋已同意为伊朗解冻数十亿美元资金。",
@@ -569,7 +707,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时19分"
         },
@@ -580,7 +718,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时19分"
         },
@@ -613,7 +751,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时19分"
         },
@@ -627,6 +765,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时24分"
+        },
+        {
+          "title": "伊朗称霍尔木兹收服务费完全合理",
+          "url": "https://flash.jin10.com/detail/20260613195458355800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时08分"
         },
         {
           "title": "伊朗外长：伊朗仅接受在境内“稀释处理”浓缩铀库存",
@@ -697,9 +846,249 @@
       ]
     },
     {
+      "keyword_group": "以色列",
+      "match_count": 20,
+      "titles": [
+        {
+          "title": "真主党：根据伊朗官员向我们传达的信息，以色列将依据该协议从黎巴嫩领土撤军。黎巴嫩也被纳入伊朗与美国停火协议之中。",
+          "url": "https://flash.jin10.com/detail/20260613024716162800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时09分"
+        },
+        {
+          "title": "市场消息：以色列军队警告黎巴嫩南部四个地区的居民撤离。",
+          "url": "https://flash.jin10.com/detail/20260613185154658800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时19分"
+        },
+        {
+          "title": "据半岛电视台：以色列对黎巴嫩南部杰津地区的马哈穆迪耶镇进行了第二次空袭。",
+          "url": "https://flash.jin10.com/detail/20260613150754127800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时25分"
+        },
+        {
+          "title": "以色列军方：以色列北部多个地区响起了关于敌方飞机渗透的警报。",
+          "url": "https://flash.jin10.com/detail/20260612234530758800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时24分"
+        },
+        {
+          "title": "加沙卫生部：过去48小时内以色列对加沙地带的袭击导致至少两名巴勒斯坦人死亡，11人受伤。",
+          "url": "https://flash.jin10.com/detail/20260613180714365800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时19分"
+        },
+        {
+          "title": "以防长暗示未来以色列或再动武阻止伊朗拥核",
+          "url": "https://wallstreetcn.com/livenews/3119033",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时09分"
+        },
+        {
+          "title": "市场消息：以色列向20个黎巴嫩城镇和村庄发布强制撤离命令。",
+          "url": "https://flash.jin10.com/detail/20260613142217826800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时25分"
+        },
+        {
+          "title": "市场消息：以色列袭击黎巴嫩南部卡夫鲁曼镇。",
+          "url": "https://flash.jin10.com/detail/20260613175951304800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时19分"
+        },
+        {
+          "title": "以色列军方：在过去24小时内，我们在黎巴嫩南部的作战区域发现并击毙了两名武装人员。",
+          "url": "https://flash.jin10.com/detail/20260613204357156800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时08分"
+        },
+        {
+          "title": "据以色列i24电视台：在以色列北部响起警报后，以色列国防军拦截了一架从黎巴嫩飞来的空中目标。",
+          "url": "https://flash.jin10.com/detail/20260613141632102800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时25分"
+        },
+        {
+          "title": "据伊朗伊斯兰共和国通讯社（IRNA）：一名黎巴嫩官方消息人士表示，与以色列代表的第五轮谈判将于6月22日在华盛顿举行。",
+          "url": "https://flash.jin10.com/detail/20260613091201134800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时11分"
+        },
+        {
+          "title": "以色列军方：刚刚响起的警报是关于在梅图拉和米斯加夫·阿姆地区出现敌方飞机入侵，以色列空军拦截了一架从黎巴嫩进入以色列领空的可疑空中目标。 由于拦截尝试，导弹和火箭警报已被激活。",
+          "url": "https://flash.jin10.com/detail/20260613140941602800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时25分"
+        },
+        {
+          "title": "以色列军方：我们将不得不对真主党采取行动，因其违反停火协议。",
+          "url": "https://flash.jin10.com/detail/20260613140922352800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时25分"
+        },
+        {
+          "title": "以防长暗示未来以色列或再动武阻止伊朗拥核",
+          "url": "https://flash.jin10.com/detail/20260613020537749800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时09分"
+        },
+        {
+          "title": "黎巴嫩真主党：我们向黎巴嫩南部迈季代勒祖恩镇郊外的以色列敌军士兵及其车辆聚集地发射了火箭弹。",
+          "url": "https://flash.jin10.com/detail/20260613195829981800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时08分"
+        },
+        {
+          "title": "黎巴嫩真主党：我们在黎巴嫩南部卡尔达利上空用导弹击落了一架以色列赫尔墨斯450空地无人机。",
+          "url": "https://flash.jin10.com/detail/20260613195811789800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时08分"
+        },
+        {
+          "title": "美国官员：相信盟友会支持与伊朗的这项协议。 相信以色列会支持。 总统特朗普6月11日与以色列总理内塔尼亚胡通话。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3119021",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时09分"
+        },
+        {
+          "title": "联合国：自以色列攻势开始以来，黎巴嫩已有135名医务工作者遇害。",
+          "url": "https://flash.jin10.com/detail/20260613195752465800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时08分"
+        },
+        {
+          "title": "黎巴嫩军队：一架敌对以色列无人机在纳巴提耶的纳杰达医院附近袭击了一名正在行进的士兵，但未造成其受伤；随后又在卡法雷曼-纳巴提耶路上再次对其进行袭击，导致其受重伤。",
+          "url": "https://flash.jin10.com/detail/20260613193855206800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时08分"
+        },
+        {
+          "title": "以色列国防军：不久前，以色列北部马尔加利奥特地区因敌对飞行器渗透拉响警报，一架疑似空中目标在以军位于黎巴嫩南部的作战区域坠毁。目前暂无人员伤亡报告。",
+          "url": "https://flash.jin10.com/detail/20260613193822047800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时08分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美股",
       "match_count": 15,
       "titles": [
+        {
+          "title": "美伊协议曙光重燃，原油两连跌，美股指全线收涨、债汇承压，SpaceX首日大涨19%",
+          "url": "https://wallstreetcn.com/articles/3774481",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            2,
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[07时22分 ~ 22时08分]"
+        },
         {
           "title": "美股收盘：SpaceX首秀升19%市值破2万亿 三大指数集体上涨",
           "url": "https://www.cls.cn/detail/2398916",
@@ -710,32 +1099,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时22分 ~ 19时19分]"
-        },
-        {
-          "title": "美伊协议曙光重燃，原油两连跌，美股指全线收涨、债汇承压，SpaceX首日大涨19%",
-          "url": "https://wallstreetcn.com/articles/3774481",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            2,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时22分 ~ 19时19分]"
-        },
-        {
-          "title": "特朗普“TACO”主导市场，原油大跌，美股债大反弹，半导体指数大涨8%，黄金收复4200",
-          "url": "https://wallstreetcn.com/articles/3774389",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时24分 ~ 07时22分]"
+          "appearance_count": 8,
+          "time_info": "[07时22分 ~ 22时08分]"
         },
         {
           "title": "SpaceX上市引发“虹吸效应” 美股太空概念集体跳水",
@@ -748,8 +1113,19 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[05时51分 ~ 19时19分]"
+          "appearance_count": 9,
+          "time_info": "[05时51分 ~ 22时08分]"
+        },
+        {
+          "title": "特朗普“TACO”主导市场，原油大跌，美股债大反弹，半导体指数大涨8%，黄金收复4200",
+          "url": "https://wallstreetcn.com/articles/3774389",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时24分 ~ 07时22分]"
         },
         {
           "title": "SpaceX开盘狂飙29%，美股指转跌，太空概念股跳水，布油跌幅收窄",
@@ -883,166 +1259,6 @@
       ]
     },
     {
-      "keyword_group": "以色列",
-      "match_count": 14,
-      "titles": [
-        {
-          "title": "真主党：根据伊朗官员向我们传达的信息，以色列将依据该协议从黎巴嫩领土撤军。黎巴嫩也被纳入伊朗与美国停火协议之中。",
-          "url": "https://flash.jin10.com/detail/20260613024716162800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时09分"
-        },
-        {
-          "title": "市场消息：以色列军队警告黎巴嫩南部四个地区的居民撤离。",
-          "url": "https://flash.jin10.com/detail/20260613185154658800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时19分"
-        },
-        {
-          "title": "据半岛电视台：以色列对黎巴嫩南部杰津地区的马哈穆迪耶镇进行了第二次空袭。",
-          "url": "https://flash.jin10.com/detail/20260613150754127800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时25分"
-        },
-        {
-          "title": "以色列军方：以色列北部多个地区响起了关于敌方飞机渗透的警报。",
-          "url": "https://flash.jin10.com/detail/20260612234530758800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时24分"
-        },
-        {
-          "title": "加沙卫生部：过去48小时内以色列对加沙地带的袭击导致至少两名巴勒斯坦人死亡，11人受伤。",
-          "url": "https://flash.jin10.com/detail/20260613180714365800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时19分"
-        },
-        {
-          "title": "以防长暗示未来以色列或再动武阻止伊朗拥核",
-          "url": "https://wallstreetcn.com/livenews/3119033",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时09分"
-        },
-        {
-          "title": "市场消息：以色列向20个黎巴嫩城镇和村庄发布强制撤离命令。",
-          "url": "https://flash.jin10.com/detail/20260613142217826800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时25分"
-        },
-        {
-          "title": "市场消息：以色列袭击黎巴嫩南部卡夫鲁曼镇。",
-          "url": "https://flash.jin10.com/detail/20260613175951304800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时19分"
-        },
-        {
-          "title": "据以色列i24电视台：在以色列北部响起警报后，以色列国防军拦截了一架从黎巴嫩飞来的空中目标。",
-          "url": "https://flash.jin10.com/detail/20260613141632102800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时25分"
-        },
-        {
-          "title": "据伊朗伊斯兰共和国通讯社（IRNA）：一名黎巴嫩官方消息人士表示，与以色列代表的第五轮谈判将于6月22日在华盛顿举行。",
-          "url": "https://flash.jin10.com/detail/20260613091201134800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时11分"
-        },
-        {
-          "title": "以色列军方：刚刚响起的警报是关于在梅图拉和米斯加夫·阿姆地区出现敌方飞机入侵，以色列空军拦截了一架从黎巴嫩进入以色列领空的可疑空中目标。 由于拦截尝试，导弹和火箭警报已被激活。",
-          "url": "https://flash.jin10.com/detail/20260613140941602800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时25分"
-        },
-        {
-          "title": "以色列军方：我们将不得不对真主党采取行动，因其违反停火协议。",
-          "url": "https://flash.jin10.com/detail/20260613140922352800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时25分"
-        },
-        {
-          "title": "以防长暗示未来以色列或再动武阻止伊朗拥核",
-          "url": "https://flash.jin10.com/detail/20260613020537749800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时09分"
-        },
-        {
-          "title": "美国官员：相信盟友会支持与伊朗的这项协议。 相信以色列会支持。 总统特朗普6月11日与以色列总理内塔尼亚胡通话。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/3119021",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时09分"
-        }
-      ]
-    },
-    {
       "keyword_group": "世界杯 欧洲杯 亚洲杯",
       "match_count": 4,
       "titles": [
@@ -1093,6 +1309,35 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时22分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "OpenAI遭美国多个州的总检察长联盟调查。（华尔街日报）",
+          "url": "https://wallstreetcn.com/livenews/3119103",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时11分 ~ 16时25分]"
+        },
+        {
+          "title": "SpaceX上市幕后大戏：抢跑OpenAI、疯狂并购装资产，华尔街全程被牵着鼻子走",
+          "url": "https://wallstreetcn.com/articles/3774577",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时08分"
         }
       ]
     },
@@ -1170,24 +1415,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时24分 ~ 03时09分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "OpenAI遭美国多个州的总检察长联盟调查。（华尔街日报）",
-          "url": "https://wallstreetcn.com/livenews/3119103",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时11分 ~ 16时25分]"
         }
       ]
     },
