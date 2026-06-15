@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-15T08:17:35.628602+08:00",
-  "total_titles_processed": 654,
+  "generated_at": "2026-06-15T14:29:47.802307+08:00",
+  "total_titles_processed": 881,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 77,
+      "match_count": 81,
       "titles": [
         {
           "title": "美被曝同意伊朗稀释浓缩铀库存",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时26分 ~ 08时17分]"
+          "appearance_count": 8,
+          "time_info": "[00时26分 ~ 14时29分]"
         },
         {
           "title": "伊朗披露美伊谈判备忘录细节",
@@ -27,8 +27,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时26分 ~ 08时17分]"
+          "appearance_count": 8,
+          "time_info": "[00时26分 ~ 14时29分]"
         },
         {
           "title": "美伊协议何时签署？特朗普说14日，伊朗否认，“霍尔木兹海峡是否“免费”重开”也各执一词",
@@ -92,7 +92,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时17分"
         },
@@ -103,9 +103,20 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时17分"
+        },
+        {
+          "title": "美伊协议“达成”！特朗普称“霍尔木兹海峡周五免费开放”，抨击内塔尼亚胡“失去理智”，伊朗称“所获成果远大于承诺”",
+          "url": "https://wallstreetcn.com/articles/3774634",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时29分"
         },
         {
           "title": "据伊朗媒体Fars News：伊朗已决定将有伊朗与阿曼协调，对海湾地区的海上交通进行监管。",
@@ -125,7 +136,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时17分"
         },
@@ -291,7 +302,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时17分"
         },
@@ -329,6 +340,17 @@
           "time_info": "06时16分"
         },
         {
+          "title": "美国须提出3000亿美元伊朗重建计划",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E9%A1%BB%E6%8F%90%E5%87%BA3000%E4%BA%BF%E7%BE%8E%E5%85%83%E4%BC%8A%E6%9C%97%E9%87%8D%E5%BB%BA%E8%AE%A1%E5%88%92",
+          "source": "百度热搜",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时29分"
+        },
+        {
           "title": "伊朗总统：伊朗最高国家安全委员会已决定推进谈判",
           "url": "https://flash.jin10.com/detail/20260615031244511800",
           "source": "金十数据",
@@ -357,7 +379,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时17分"
         },
@@ -434,7 +456,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时17分"
         },
@@ -445,7 +467,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时17分"
         },
@@ -511,7 +533,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时17分"
         },
@@ -533,9 +555,20 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时17分"
+        },
+        {
+          "title": "伊朗副外长：核实美方履行承诺后将启动60天谈判",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33379862",
+          "source": "澎湃新闻",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时29分"
         },
         {
           "title": "伊朗总统佩泽希齐扬：我从未考虑过辞职。",
@@ -571,6 +604,17 @@
           "time_info": "06时16分"
         },
         {
+          "title": "伊朗媒体披露伊美谅解备忘录14个条款",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33380163",
+          "source": "澎湃新闻",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时29分"
+        },
+        {
           "title": "伊朗总统佩泽希齐扬：我们的行动针对的是这些国家境内的美国基地。",
           "url": "https://flash.jin10.com/detail/20260614235052653800",
           "source": "金十数据",
@@ -588,7 +632,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时17分"
         },
@@ -599,7 +643,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时17分"
         },
@@ -621,7 +665,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时17分"
         },
@@ -665,7 +709,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时17分"
         },
@@ -687,7 +731,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时17分"
         },
@@ -698,7 +742,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时17分"
         },
@@ -709,7 +753,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时17分"
         },
@@ -731,7 +775,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时17分"
         },
@@ -742,7 +786,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时17分"
         },
@@ -775,7 +819,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时17分"
         },
@@ -797,7 +841,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时17分"
         },
@@ -808,7 +852,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时17分"
         },
@@ -830,7 +874,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时17分"
         },
@@ -841,7 +885,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时17分"
         },
@@ -852,7 +896,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时17分"
         },
@@ -863,7 +907,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时17分"
         }
@@ -871,7 +915,7 @@
     },
     {
       "keyword_group": "以色列",
-      "match_count": 40,
+      "match_count": 43,
       "titles": [
         {
           "title": "据以色列第12频道：美国总统特朗普称，我与内塔尼亚胡通话时告诉他：“你到底在干什么？？？”",
@@ -883,6 +927,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时27分"
+        },
+        {
+          "title": "伊朗军方称羞辱了美国和以色列",
+          "url": "https://news.ifeng.com/c/8tyC3sQn3RO",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时29分"
         },
         {
           "title": "据以色列媒体：今天早些时候，黎巴嫩南部有火箭弹射向以色列军队，导致两名以军士兵受伤。",
@@ -929,6 +984,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时22分"
+        },
+        {
+          "title": "美伊刚握手，以色列就磨刀？解读内塔尼亚胡的“拆台计划”",
+          "url": "https://news.ifeng.com/c/8tyTgez7ODZ",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时29分"
         },
         {
           "title": "以色列财政部长签署约旦河西岸犹太人定居点扩建协议",
@@ -1179,6 +1245,17 @@
           "time_info": "06时16分"
         },
         {
+          "title": "特朗普批评以色列“干扰”美伊签署协议",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33379411",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时29分"
+        },
+        {
           "title": "据第12频道援引以方评估，特朗普将很快宣布“给予”伊朗某些东西，以换取对方不对以色列在贝鲁特的袭击作出回应。",
           "url": "https://flash.jin10.com/detail/20260615012828040800",
           "source": "金十数据",
@@ -1325,7 +1402,7 @@
     },
     {
       "keyword_group": "世界杯 欧洲杯 亚洲杯",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "2026 年世界杯小组赛 E 组，德国 7-1 库拉索，如何评价本场比赛？",
@@ -1334,7 +1411,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时17分"
         },
@@ -1345,7 +1422,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时17分"
         },
@@ -1372,6 +1449,45 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时16分"
+        },
+        {
+          "title": "2026 年世界杯小组赛 F 组，瑞典 5-1 突尼斯，如何评价本场比赛？",
+          "url": "https://www.zhihu.com/question/2048796260526551503",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时29分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "金价跌破900老板5个手机都忙不过来",
+          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E8%B7%8C%E7%A0%B4900%E8%80%81%E6%9D%BF5%E4%B8%AA%E6%89%8B%E6%9C%BA%E9%83%BD%E5%BF%99%E4%B8%8D%E8%BF%87%E6%9D%A5",
+          "source": "百度热搜",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时29分"
+        },
+        {
+          "title": "央行狂买黄金金价却暴跌",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%A4%AE%E8%A1%8C%E7%8B%82%E4%B9%B0%E9%BB%84%E9%87%91%E9%87%91%E4%BB%B7%E5%8D%B4%E6%9A%B4%E8%B7%8C%23&t=31&band_rank=21&Refer=top",
+          "source": "微博",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时17分"
         }
       ]
     },
@@ -1384,11 +1500,12 @@
           "url": "https://wallstreetcn.com/articles/3774610",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时26分 ~ 08时17分]"
+          "appearance_count": 8,
+          "time_info": "[00时26分 ~ 14时29分]"
         }
       ]
     },
@@ -1410,23 +1527,6 @@
       ]
     },
     {
-      "keyword_group": "金价",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "央行狂买黄金金价却暴跌",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%A4%AE%E8%A1%8C%E7%8B%82%E4%B9%B0%E9%BB%84%E9%87%91%E9%87%91%E4%BB%B7%E5%8D%B4%E6%9A%B4%E8%B7%8C%23&t=31&band_rank=21&Refer=top",
-          "source": "微博",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时17分"
-        }
-      ]
-    },
-    {
       "keyword_group": "美股",
       "match_count": 1,
       "titles": [
@@ -1435,11 +1535,12 @@
           "url": "https://www.cls.cn/detail/2399448",
           "source": "财联社热门",
           "ranks": [
-            3
+            3,
+            1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时17分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时17分 ~ 14时29分]"
         }
       ]
     },
@@ -1471,7 +1572,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时17分"
         }
