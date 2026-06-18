@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-18T12:22:27.691664+08:00",
-  "total_titles_processed": 774,
+  "generated_at": "2026-06-18T17:18:43.870430+08:00",
+  "total_titles_processed": 980,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 34,
+      "match_count": 38,
       "titles": [
         {
           "title": "王毅同伊朗外长通电话",
@@ -75,6 +75,17 @@
           "time_info": "05时12分"
         },
         {
+          "title": "伊朗称要成为中国真正合作伙伴",
+          "url": "https://www.toutiao.com/trending/7651502265441959942/",
+          "source": "今日头条",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时18分"
+        },
+        {
           "title": "伊朗议会议长卡利巴夫：根据谅解备忘录，已分配3000亿美元用于投资伊朗，其中一部分将用于重建。",
           "url": "https://flash.jin10.com/detail/20260618042530620800",
           "source": "金十数据",
@@ -86,13 +97,24 @@
           "time_info": "05时12分"
         },
         {
+          "title": "【瑞士外交部：美伊会谈19日在比尔根山举行】瑞士外交部18日表示，美国和伊朗计划与调解方巴基斯坦、卡塔尔及其他相关国家于19日在瑞士比尔根山举行会谈，就协议的执行进行初步谈判。 瑞士外交部对媒体表示，瑞士对美国和伊朗签署谅解备忘录表示欢迎，称这是中东地区局势缓和的重要一步。（新华社）",
+          "url": "https://wallstreetcn.com/livenews/3121576",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时18分"
+        },
+        {
           "title": "伊朗学者：霍尔木兹海峡不会再回到从前",
           "url": "https://news.ifeng.com/c/8u3AJ4a0eEd",
           "source": "凤凰网",
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时22分"
         },
@@ -115,11 +137,12 @@
             13,
             14,
             12,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时24分 ~ 12时22分]"
+          "appearance_count": 5,
+          "time_info": "[02时24分 ~ 17时18分]"
         },
         {
           "title": "美国或赔偿伊朗3千亿",
@@ -129,11 +152,12 @@
             19,
             20,
             21,
-            27
+            27,
+            29
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时24分 ~ 12时22分]"
+          "appearance_count": 5,
+          "time_info": "[02时24分 ~ 17时18分]"
         },
         {
           "title": "美伊协议核心条款曝光：伊朗石油出口即刻解禁，核项目维持现状，海峡快速重启仍存变数",
@@ -275,6 +299,17 @@
           "time_info": "02时24分"
         },
         {
+          "title": "欧洲央行管委Kocher称伊朗协议后 通胀仍将在一段时间内维持较高水平",
+          "url": "https://wallstreetcn.com/livenews/3121560",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时18分"
+        },
+        {
           "title": "美国总统特朗普：正在调查“美国袭击伊朗学校”一事。",
           "url": "https://wallstreetcn.com/livenews/3121161",
           "source": "华尔街见闻-快讯",
@@ -284,6 +319,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时24分"
+        },
+        {
+          "title": "伊朗议长称霍尔木兹海峡「永远不会回到以前的状态」，伊朗会在霍尔木兹海峡收取「服务费用」，有何影响？",
+          "url": "https://www.zhihu.com/question/2050871601684550857",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时18分"
         },
         {
           "title": "特朗普离开凡尔赛宫时说签署了伊朗备忘录",
@@ -399,7 +445,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 16,
+      "match_count": 18,
       "titles": [
         {
           "title": "美联储鹰派转向，美股债遭“双杀”，SpaceX首度收跌，芯片指数逆市收涨，黄金下挫",
@@ -409,8 +455,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时08分 ~ 12时22分]"
+          "appearance_count": 3,
+          "time_info": "[08时08分 ~ 17时18分]"
         },
         {
           "title": "【早报】美联储转鹰；美股三大指数集体收跌；黄金、白银下跌；葡萄牙队爆冷战平",
@@ -559,15 +605,37 @@
           "time_info": "05时12分"
         },
         {
+          "title": "美股盘前，半导体股普涨，英特尔涨近9%",
+          "url": "https://wallstreetcn.com/livenews/3121558",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时18分"
+        },
+        {
           "title": "美伊签了！美股期货直线拉升",
           "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E4%BC%8A%E7%AD%BE%E4%BA%86%EF%BC%81%E7%BE%8E%E8%82%A1%E6%9C%9F%E8%B4%A7%E7%9B%B4%E7%BA%BF%E6%8B%89%E5%8D%87",
           "source": "百度热搜",
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时22分"
+        },
+        {
+          "title": "英特尔美股盘前涨近7%，特朗普称将帮助英特尔，因为我们需要设计和制造芯片。",
+          "url": "https://wallstreetcn.com/livenews/3121546",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时18分"
         },
         {
           "title": "美股费城银行指数转跌，此前一度涨1.6%。",
@@ -575,6 +643,67 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时12分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "美元指数17日上涨",
+          "url": "https://flash.jin10.com/detail/20260618043622317800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时12分"
+        },
+        {
+          "title": "美元指数上涨0.2%，至100.6，为3月底以来最高水平。",
+          "url": "https://flash.jin10.com/detail/20260618171121271800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时18分"
+        },
+        {
+          "title": "最近24小时，MarketVectorTM数字资产100小盘指数涨1.35%，暂报2413.24点，北京时间10:29刷新期内高位至2458.69点，随后持续下挫，20:30刷新日低至2350.11点。 MarketVectorTM数字资产100中盘指数涨1.65%，报2781.37点，00:29曾达到2809.63点。 MarketVector数字资产100指数涨0.16%，报13086.58点。 目前，Solana跌0.17%，狗狗币跌0.37%，XRP跌0.72%。 比特币涨0.35%，暂报65824.80美元；以太坊跌1.42%，暂报1769.49美元。",
+          "url": "https://wallstreetcn.com/livenews/3121162",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时24分"
+        },
+        {
+          "title": "美元指数日内涨幅达1.0%，报100.5602。",
+          "url": "https://wallstreetcn.com/livenews/3121239",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时12分"
+        },
+        {
+          "title": "彭博美元指数创3月13日以来最大盘中涨幅",
+          "url": "https://wallstreetcn.com/livenews/3121231",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -593,7 +722,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时22分"
         },
@@ -659,17 +788,6 @@
           "time_info": "08时08分"
         },
         {
-          "title": "世界杯再出冷门，葡萄牙 1-1 战平民主刚果，如何评价本场比赛？",
-          "url": "https://www.zhihu.com/question/2050226673845363935",
-          "source": "知乎",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时22分"
-        },
-        {
           "title": "2026 年世界杯小组赛 K 组，葡萄牙 vs 民主刚果，如何评价本场比赛？",
           "url": "https://www.zhihu.com/question/2050226673845363935",
           "source": "知乎",
@@ -703,56 +821,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[02时24分 ~ 12时22分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美元",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "美元指数17日上涨",
-          "url": "https://flash.jin10.com/detail/20260618043622317800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时12分"
         },
         {
-          "title": "最近24小时，MarketVectorTM数字资产100小盘指数涨1.35%，暂报2413.24点，北京时间10:29刷新期内高位至2458.69点，随后持续下挫，20:30刷新日低至2350.11点。 MarketVectorTM数字资产100中盘指数涨1.65%，报2781.37点，00:29曾达到2809.63点。 MarketVector数字资产100指数涨0.16%，报13086.58点。 目前，Solana跌0.17%，狗狗币跌0.37%，XRP跌0.72%。 比特币涨0.35%，暂报65824.80美元；以太坊跌1.42%，暂报1769.49美元。",
-          "url": "https://wallstreetcn.com/livenews/3121162",
-          "source": "华尔街见闻-快讯",
+          "title": "世界杯再出冷门，葡萄牙 1-1 战平民主刚果，如何评价本场比赛？",
+          "url": "https://www.zhihu.com/question/2050226673845363935",
+          "source": "知乎",
           "ranks": [
-            16
+            1,
+            13
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时24分"
-        },
-        {
-          "title": "美元指数日内涨幅达1.0%，报100.5602。",
-          "url": "https://wallstreetcn.com/livenews/3121239",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时12分"
-        },
-        {
-          "title": "彭博美元指数创3月13日以来最大盘中涨幅",
-          "url": "https://wallstreetcn.com/livenews/3121231",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时12分"
+          "appearance_count": 2,
+          "time_info": "[12时22分 ~ 17时18分]"
         }
       ]
     },
@@ -806,9 +886,9 @@
           "ranks": [
             9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时22分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时22分 ~ 17时18分]"
         }
       ]
     },
@@ -821,11 +901,12 @@
           "url": "https://www.zhihu.com/question/2050272536898835791",
           "source": "知乎",
           "ranks": [
-            5
+            5,
+            7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时22分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时22分 ~ 17时18分]"
         }
       ]
     },
@@ -840,7 +921,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时22分"
         }
