@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-19T00:53:55.963530+08:00",
-  "total_titles_processed": 311,
+  "generated_at": "2026-06-19T04:28:02.880417+08:00",
+  "total_titles_processed": 426,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 12,
+      "match_count": 20,
       "titles": [
         {
           "title": "伊朗称要成为中国真正的伙伴，外交部表态",
@@ -15,8 +15,19 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时53分"
+          "appearance_count": 3,
+          "time_info": "[00时53分 ~ 04时28分]"
+        },
+        {
+          "title": "透露伊朗最高领袖罕见涉华举动，伊中商会会长答凤凰",
+          "url": "https://news.ifeng.com/c/8u44PbFIFfS",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时53分 ~ 04时28分]"
         },
         {
           "title": "美国总统特朗普：美国没有向伊朗支付3000亿美元。这是假新闻！美国只有成功、低油价和胜利。看看股市。民主党宣传在作祟！！！",
@@ -34,22 +45,34 @@
           "url": "https://www.zhihu.com/question/2050871601684550857",
           "source": "知乎",
           "ranks": [
-            3
+            3,
+            7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时53分"
+          "appearance_count": 3,
+          "time_info": "[00时53分 ~ 04时28分]"
         },
         {
-          "title": "透露伊朗最高领袖罕见涉华举动，伊中商会会长答凤凰",
-          "url": "https://news.ifeng.com/c/8u44PbFIFfS",
-          "source": "凤凰网",
+          "title": "伊朗称要成为中国真正合作伙伴",
+          "url": "https://www.toutiao.com/trending/7651502265441959942/",
+          "source": "今日头条",
           "ranks": [
-            5
+            27
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时27分 ~ 04时28分]"
+        },
+        {
+          "title": "美国参议院Scott：对与伊朗协议的某些方面存在担忧。",
+          "url": "https://wallstreetcn.com/livenews/3121871",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时53分"
+          "time_info": "04时28分"
         },
         {
           "title": "据伊朗国家电视台：伊朗最高领袖将很快就谅解备忘录发表讲话。",
@@ -72,6 +95,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时53分"
+        },
+        {
+          "title": "据美联社：消息人士称，美国中东事务特使史威特科夫向美国国会议员表示，伊朗将邀请联合国核监督机构前往其核设施进行检查。",
+          "url": "https://flash.jin10.com/detail/20260619035846518800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时28分"
         },
         {
           "title": "【万斯称美伊60天谈判期已开始】美国副总统万斯今天（6月18日）在白宫记者会上对媒体表示，由美国总统特朗普和伊朗总统佩泽希齐扬签署的谅解备忘录中规定的 60天谈判窗口期已正式启动。（CCTV国际时讯）",
@@ -107,6 +141,17 @@
           "time_info": "00时53分"
         },
         {
+          "title": "伊朗：60天内霍尔木兹海峡过境船只免费通行",
+          "url": "https://wallstreetcn.com/livenews/3121862",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时28分"
+        },
+        {
           "title": "据英国金融时报报道，根据美伊之间达成的临时协议，特朗普政府将允许伊朗动用存放在卡塔尔的60亿美元石油收入，用于购买美国的人道主义物资及非受制裁商品。",
           "url": "https://flash.jin10.com/detail/20260619001546386800",
           "source": "金十数据",
@@ -118,6 +163,28 @@
           "time_info": "00时53分"
         },
         {
+          "title": "伊朗外长阿拉格齐：将遵循最高领袖的指导，以维护伊朗的权利、尊严和独立。",
+          "url": "https://flash.jin10.com/detail/20260619033949443800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时28分"
+        },
+        {
+          "title": "伊朗外长阿拉格齐对伊朗最高领袖周四的书面讲话表示欢迎，称外交机构将全力以赴确保伊朗的利益。",
+          "url": "https://flash.jin10.com/detail/20260619033847832800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时28分"
+        },
+        {
           "title": "美国副总统万斯：周三夜间，有1250万桶原油经过霍尔木兹海峡运输。 将近12艘船只穿越美军在海峡的封锁线。 迄今，伊朗遵守了协议。 伊朗获利的唯一方式就是好好表现，否则他们捞不到一点好处。 不知道伊朗最终是否会改变行为方式。 今天启动与伊朗的60天谈判期。 从昨天开始与伊朗接触。",
           "url": "https://wallstreetcn.com/livenews/3121805",
           "source": "华尔街见闻-快讯",
@@ -127,6 +194,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时53分"
+        },
+        {
+          "title": "欧盟称解除对伊朗制裁时机未到",
+          "url": "https://wallstreetcn.com/livenews/3121851",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时28分"
+        },
+        {
+          "title": "伊朗最高领袖：面对面谈判不意味接受敌方观点，将静候条件落实”",
+          "url": "https://wallstreetcn.com/livenews/3121850",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时28分"
         },
         {
           "title": "美国或赔偿伊朗3千亿",
@@ -143,7 +232,7 @@
     },
     {
       "keyword_group": "以色列",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "万斯指责以色列对美国缺乏信任",
@@ -221,12 +310,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时53分"
+        },
+        {
+          "title": "美国总统特朗普：我们预计（中东地区）将全面停火。 期待黎巴嫩、（黎）真主党、以色列（也都）实现停火。 （美国与伊朗的）停火包括黎巴嫩、（黎）真主党、以色列。 中东国家应该允许谈判展开。",
+          "url": "https://wallstreetcn.com/livenews/3121855",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时28分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 3,
+      "match_count": 6,
       "titles": [
         {
           "title": "美联储鹰派转向，美股债遭“双杀”，SpaceX首度收跌，芯片指数逆市收涨，黄金下挫",
@@ -236,8 +336,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时53分"
+          "appearance_count": 3,
+          "time_info": "[00时53分 ~ 04时28分]"
         },
         {
           "title": "风险偏好重燃，美股高开，半导体股普涨，英特尔涨9%，SpaceX跌6%，油价跌超2%",
@@ -247,26 +347,71 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时53分"
+          "appearance_count": 3,
+          "time_info": "[00时53分 ~ 04时28分]"
         },
         {
           "title": "市场消化美联储鹰派信号 美股期指反弹 英特尔盘前大涨近9% | 今夜看点",
           "url": "https://www.cls.cn/detail/2403938",
           "source": "财联社热门",
           "ranks": [
-            6
+            6,
+            5
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时53分 ~ 04时28分]"
+        },
+        {
+          "title": "金十图示：2026年06月18日（周四）热门中概股行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260619040543323800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时53分"
+          "time_info": "04时28分"
+        },
+        {
+          "title": "金十图示：2026年06月18日（周四）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260619040541240800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时28分"
+        },
+        {
+          "title": "美股收盘：三大股指集体收涨 SpaceX跌3.5%",
+          "url": "https://flash.jin10.com/detail/20260619040108280800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时28分"
         }
       ]
     },
     {
       "keyword_group": "美债",
-      "match_count": 2,
+      "match_count": 5,
       "titles": [
+        {
+          "title": "日本4月所持美国国债1.2099万亿美元，前值1.1916万亿美元。 4月英国所持美债9375亿美元，前值9269亿美元。 4月中国所持美债6511亿美元，前值6523亿美元。 4月开曼群岛所持美债4716亿美元，前值4594亿美元。 4月比利时所持美债4599亿美元，前值4540亿美元。 4月卢森堡所持美债4311亿美元，前值4320亿美元。 4月加拿大所持美债3971亿美元，前值4394亿美元。 4月法国所持美债3933亿美元，前值3930亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3121881",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时28分"
+        },
         {
           "title": "沃什“首秀”美联储放鹰，三大美股指转跌，美元拉升，美债黄金跳水",
           "url": "https://wallstreetcn.com/articles/3774939",
@@ -279,6 +424,28 @@
           "time_info": "00时53分"
         },
         {
+          "title": "10年期美债收益率在沃什首秀次日回撤超3个基点，两年期实际收益率一度涨穿2%",
+          "url": "https://wallstreetcn.com/livenews/3121874",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时28分"
+        },
+        {
+          "title": "中国4月减持美债，日本、英国增持美债",
+          "url": "https://flash.jin10.com/detail/20260619040538502800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时28分"
+        },
+        {
           "title": "高盛认为沃什的立场将加剧短端美债波动性，使长端曲线更趋平稳",
           "url": "https://wallstreetcn.com/livenews/3121802",
           "source": "华尔街见闻-快讯",
@@ -288,6 +455,73 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时53分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "世界杯 欧洲杯 亚洲杯",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "世界杯小组赛第一轮比赛结束",
+          "url": "https://www.douyin.com/hot/2539722",
+          "source": "抖音",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时53分 ~ 04时28分]"
+        },
+        {
+          "title": "2026 年世界杯小组赛 A 组，捷克 vs 南非，如何评价本场比赛？",
+          "url": "https://www.zhihu.com/question/2050228634908976991",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时27分 ~ 04时28分]"
+        },
+        {
+          "title": "美国世界杯比赛现场美食",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%9B%BD%E4%B8%96%E7%95%8C%E6%9D%AF%E6%AF%94%E8%B5%9B%E7%8E%B0%E5%9C%BA%E7%BE%8E%E9%A3%9F",
+          "source": "bilibili 热搜",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时27分 ~ 04时28分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "周四（6月18日）纽约尾盘，彭博谷物分类指数跌0.92%，报29.7383点。 CBOT玉米期货跌1%，CBOT小麦期货跌跌1.19%。 CBOT大豆期货跌0.63%，报11.42美元/蒲式耳，豆粕期货跌0.88%，豆油期货跌1.75%。",
+          "url": "https://wallstreetcn.com/livenews/3121872",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时28分"
+        },
+        {
+          "title": "美元指数创13个月新高，两天涨超1.3%",
+          "url": "https://wallstreetcn.com/livenews/3121867",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时28分"
         }
       ]
     },
@@ -309,6 +543,23 @@
       ]
     },
     {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "标普500指数初步收涨1.2%，科技板块涨2.7%，可选消费、电信板块涨超1%，能源板块跌2.1%。 纳斯达克100指数初步收涨2.6%，成分股中，闪迪初步收涨11.2%，英特尔涨10%，美光涨9%，谷歌A涨1.4%，Strategy跌3%，特许通讯跌4.3%，CTSH跌10.4%。 卡特彼勒涨3.7%，迪士尼、英伟达涨约3%，领跑道指成分股。费城半导体指数涨6.5%。",
+          "url": "https://wallstreetcn.com/livenews/3121876",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时28分"
+        }
+      ]
+    },
+    {
       "keyword_group": "金价",
       "match_count": 1,
       "titles": [
@@ -318,23 +569,6 @@
           "source": "微博",
           "ranks": [
             25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时53分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "世界杯 欧洲杯 亚洲杯",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "世界杯小组赛第一轮比赛结束",
-          "url": "https://www.douyin.com/hot/2539722",
-          "source": "抖音",
-          "ranks": [
-            13
           ],
           "is_new": false,
           "appearance_count": 1,
