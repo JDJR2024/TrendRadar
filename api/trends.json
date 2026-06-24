@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-06-24T15:50:18.482173+08:00",
-  "total_titles_processed": 920,
+  "generated_at": "2026-06-24T18:57:02.874396+08:00",
+  "total_titles_processed": 1115,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 35,
+      "match_count": 42,
       "titles": [
+        {
+          "title": "美媒担忧：白宫想用制裁逼伊朗让步，却把人民币“送”上桌",
+          "url": "https://news.ifeng.com/c/8uDfZ9C9pMR",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时56分 ~ 18时57分]"
+        },
         {
           "title": "路透社/益普索民调显示，仅有23%的美国人认为战后美国与伊朗的关系更加牢固，而35%的人认为关系更加脆弱。",
           "url": "https://flash.jin10.com/detail/20260624014359534800",
@@ -17,6 +28,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时02分"
+        },
+        {
+          "title": "伊朗副外长：尽管国际原子能机构总干事格罗西提出了请求，但在瑞士并未与他举行会晤。此外，也没有关于进入遭袭设施及核材料的具体安排。",
+          "url": "https://flash.jin10.com/detail/20260624184134398800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时57分"
         },
         {
           "title": "路透社/益普索民调显示，52%的美国人认为伊朗问题不值得付出代价，24%的人认为值得付出代价。",
@@ -36,7 +58,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时50分"
         },
@@ -47,7 +69,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时50分"
         },
@@ -91,9 +113,21 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时50分"
+        },
+        {
+          "title": "伊朗官宣霍尔木兹海峡免费开放 60 天，60 天后通行规则由美伊谈判决定，哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2052882056875603762",
+          "source": "知乎",
+          "ranks": [
+            6,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时57分 ~ 18时57分]"
         },
         {
           "title": "为期60天，美国暂时解除对伊朗石油制裁，这是过去数十年来第一次！",
@@ -120,16 +154,26 @@
           "time_info": "[02时02分 ~ 07时12分]"
         },
         {
-          "title": "伊朗官宣霍尔木兹海峡免费开放 60 天，60 天后通行规则由美伊谈判决定，哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/2052882056875603762",
-          "source": "知乎",
+          "title": "伊朗总统种树太投入巴总理没拦住",
+          "url": "https://www.toutiao.com/trending/7654472597551205924/",
+          "source": "今日头条",
           "ranks": [
-            6,
-            16
+            24
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[11时57分 ~ 15时50分]"
+          "time_info": "[18时56分 ~ 18时57分]"
+        },
+        {
+          "title": "伊朗总统称若无导弹伊朗已成加沙",
+          "url": "https://search.bilibili.com/all?keyword=%E4%BC%8A%E6%9C%97%E6%80%BB%E7%BB%9F%E7%A7%B0%E8%8B%A5%E6%97%A0%E5%AF%BC%E5%BC%B9%E4%BC%8A%E6%9C%97%E5%B7%B2%E6%88%90%E5%8A%A0%E6%B2%99",
+          "source": "bilibili 热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时56分 ~ 18时57分]"
         },
         {
           "title": "伊朗总统：伊美谅解备忘录不涉及导弹问题",
@@ -149,7 +193,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时50分"
         },
@@ -176,13 +220,24 @@
           "time_info": "02时02分"
         },
         {
+          "title": "美国国务卿卢比奥与阿联酋总统讨论伊朗谅解备忘录、国防和商务事宜。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3123980",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时57分"
+        },
+        {
           "title": "特朗普向选民打包票：伊朗战争结束后 美国经济将“飞向新高度”！",
           "url": "https://www.cls.cn/detail/2407452",
           "source": "财联社热门",
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时50分"
         },
@@ -226,7 +281,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时50分"
         },
@@ -314,7 +369,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时50分"
         },
@@ -341,13 +396,24 @@
           "time_info": "02时02分"
         },
         {
+          "title": "市场消息：美国国务卿鲁比奥与阿联酋总统就伊朗谅解备忘录、国防及贸易问题进行了讨论。",
+          "url": "https://flash.jin10.com/detail/20260624182357682800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时57分"
+        },
+        {
           "title": "据伊朗迈赫尔通讯社：巴基斯坦外交部发言人表示，巴方正与美国和伊朗方面进行沟通，以确保谅解备忘录得以有效执行。",
           "url": "https://flash.jin10.com/detail/20260624150809259800",
           "source": "金十数据",
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时50分"
         },
@@ -358,9 +424,20 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时50分"
+        },
+        {
+          "title": "伊朗副外长：进入遭袭核设施及核材料的问题将“完全在与美国达成的最终协议框架内进行审议和解决”。",
+          "url": "https://flash.jin10.com/detail/20260624182248611800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时57分"
         },
         {
           "title": "美参议院通过决议要求特朗普结束对伊朗战事",
@@ -399,7 +476,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "美股收盘：AI投资热潮遭重新审视 芯片股重挫拖累纳指跌超2%",
@@ -423,6 +500,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时57分 ~ 15时50分]"
+        },
+        {
+          "title": "韩股“V型反弹”，美股盘前半导体股上扬、美光涨3%，美元触及七个月高位，黄金跌超1.3%",
+          "url": "https://wallstreetcn.com/articles/3775351",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时56分 ~ 18时57分]"
         },
         {
           "title": "新兴市场ETF收跌将近5.7%，与纳指ETF领跌美股大类资产类ETF",
@@ -562,7 +650,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "高盛首次下调 2026 年黄金目标价，国内银行业亦密集收紧黄金交易杠杆，国际金价是否即将跌破 4000？",
@@ -588,6 +676,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[02时02分 ~ 07时12分]"
+        },
+        {
+          "title": "美联储加息3次金价或跌至3800",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E8%81%94%E5%82%A8%E5%8A%A0%E6%81%AF3%E6%AC%A1%E9%87%91%E4%BB%B7%E6%88%96%E8%B7%8C%E8%87%B33800%23&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时56分 ~ 18时57分]"
         },
         {
           "title": "金价见底三大信号",
@@ -618,7 +717,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时50分"
         },
@@ -640,6 +739,17 @@
       "match_count": 6,
       "titles": [
         {
+          "title": "科技热潮降温 ，纳指跌超2%，芯片指数跌近8%，美债美元齐涨，金银下挫",
+          "url": "https://wallstreetcn.com/articles/3775262",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时57分 ~ 18时57分]"
+        },
+        {
           "title": "科技巨头下挫拖累美股大盘，芯片股指新高，原油转跌，美债收益率“补涨”",
           "url": "https://wallstreetcn.com/articles/3775156",
           "source": "华尔街见闻",
@@ -660,17 +770,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时11分 ~ 07时12分]"
-        },
-        {
-          "title": "科技热潮降温 ，纳指跌超2%，芯片指数跌近8%，美债美元齐涨，金银下挫",
-          "url": "https://wallstreetcn.com/articles/3775262",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时57分 ~ 15时50分]"
         },
         {
           "title": "“空头”末日预言：AI“强弩之末”，美股最快Q3见顶、跌幅30-50%，美版YCC和美债大重组，私募信贷危机待引爆",
@@ -711,8 +810,19 @@
     },
     {
       "keyword_group": "以色列",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
+        {
+          "title": "以色列国防部长：即使美国提出要求，我们也不会从黎巴嫩南部撤军。",
+          "url": "https://flash.jin10.com/detail/20260624184212036800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时57分"
+        },
         {
           "title": "以色列前总理承认，曾密送星链试图颠覆伊朗政权",
           "url": "https://news.ifeng.com/c/8uCdaH694Zv",
@@ -846,11 +956,12 @@
           "url": "https://wallstreetcn.com/articles/3775315",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时57分"
+          "appearance_count": 3,
+          "time_info": "[11时57分 ~ 18时57分]"
         },
         {
           "title": "DeepseekV4.1 即将发布，网友期待「降价、打爆国外 AI」，它将如何改变 AI 市场格局？",
