@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-25T17:29:46.625583+08:00",
-  "total_titles_processed": 1156,
+  "generated_at": "2026-06-25T20:25:36.406177+08:00",
+  "total_titles_processed": 1332,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 23,
+      "match_count": 28,
       "titles": [
         {
           "title": "美媒担忧：白宫想用制裁逼伊朗让步，却把人民币“送”上桌",
@@ -73,8 +73,20 @@
             6
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时08分 ~ 20时25分]"
+        },
+        {
+          "title": "世界杯生死战前伊朗队被迫滞留机场",
+          "url": "https://www.toutiao.com/trending/7655006558115512326/",
+          "source": "今日头条",
+          "ranks": [
+            21,
+            27
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[13时08分 ~ 17时29分]"
+          "time_info": "[17时29分 ~ 20时25分]"
         },
         {
           "title": "美国国务卿鲁比奥：我们期望伊朗履行其义务。",
@@ -97,6 +109,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时25分"
+        },
+        {
+          "title": "伊朗外长与阿曼外长通话讨论霍尔木兹海峡通航进展",
+          "url": "https://wallstreetcn.com/livenews/3124655",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时25分"
         },
         {
           "title": "据法新社援引一位知情外交官的消息报道，鉴于伊朗此前对邻国发动袭击，沙特正准备主办一场旨在实现伊朗与海湾阿拉伯国家和解的峰会。",
@@ -165,6 +188,17 @@
           "time_info": "04时50分"
         },
         {
+          "title": "美国国务卿鲁比奥：对委内瑞拉采取的是全政府层面的应对措施。 与海湾国家进行了非常好的会晤。 海湾国家对霍尔木兹海峡通行收费的支持度为零。 我们不会做任何损害海湾伙伴利益的事情。 （就伊朗支持代理人的问题作出回应）伊朗谅解备忘录涉及不干涉他国内政的问题。 我们关注的是行动，而非伊朗的言辞。 “费用”和“通行费”是一回事。霍尔木兹海峡的收费体系根本不可行。 委内瑞拉首先需要的是搜救援助。 不知晓卡塔尔持有的伊朗资金被转移一事。 海合会（GCC）会议上未讨论3000亿美元基金事宜。",
+          "url": "https://wallstreetcn.com/livenews/3124643",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时25分"
+        },
+        {
           "title": "美国总统特朗普：伊朗战争权力投票毫无意义。",
           "url": "https://flash.jin10.com/detail/20260625045743220800",
           "source": "金十数据",
@@ -196,6 +230,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时50分"
+        },
+        {
+          "title": "伊朗外长与阿曼外长通话讨论霍尔木兹海峡通航进展",
+          "url": "https://flash.jin10.com/detail/20260625194809785800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时25分"
         },
         {
           "title": "白宫要求美国国会山围绕伊朗和埃博拉疫情拨款876亿美元。",
@@ -231,26 +276,26 @@
           "time_info": "04时50分"
         },
         {
-          "title": "世界杯生死战前伊朗队被迫滞留机场",
-          "url": "https://www.toutiao.com/trending/7655006558115512326/",
-          "source": "今日头条",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时29分"
-        },
-        {
           "title": "美国国务卿鲁比奥：希望与伊朗的谈判能取得积极成果。 我们并不想不惜一切代价与伊朗达成协议。 霍尔木兹海峡不属于任何国家。 霍尔木兹海峡是国际水道。 对霍尔木兹海峡通行收费将开创不可接受的先例。 特朗普在通行收费问题上的立场一贯明确无误。",
           "url": "https://wallstreetcn.com/livenews/3124528",
           "source": "华尔街见闻-快讯",
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时29分"
+        },
+        {
+          "title": "美国国务卿鲁比奥：如果伊朗将资金用于代理人，这笔交易就无效。",
+          "url": "https://flash.jin10.com/detail/20260625193904690800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时25分"
         },
         {
           "title": "美国总统特朗普在国会山宣称：伊朗做出重大让步。 进展非常顺利。",
@@ -262,12 +307,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时54分"
+        },
+        {
+          "title": "美国国务卿鲁比奥：美国副总统万斯主导伊朗谈判这一事实表明了政府的认真态度。",
+          "url": "https://flash.jin10.com/detail/20260625193753981800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时25分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "全球 AI 交易降温，美股半导体相关 ETF 暴跌，闪迪、美光科技跌超 10%，发生了什么？",
@@ -410,13 +466,24 @@
           "time_info": "06时21分"
         },
         {
+          "title": "黑莓第一财季营收1.529亿美元，预估1.368亿美元。 第一财季经调整基本每股收益0.040美元，预估0.03美元。 第一财季经调整毛利率78.6％，预估76.9％。 黑莓预计全年营收5.94亿美元至6.21亿美元，市场预估6.019亿美元。 黑莓预计全年调整后EBITDA 1.19亿美元至1.39亿美元。 黑莓预计全年经调整基本每股收益0.16美元至0.20美元，市场预估0.18美元。 黑莓美股盘前涨超8%。",
+          "url": "https://wallstreetcn.com/livenews/3124628",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时25分"
+        },
+        {
           "title": "美股盘前：存储板块大涨，美光科技涨约18%",
           "url": "https://wallstreetcn.com/livenews/3124530",
           "source": "华尔街见闻-快讯",
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时29分"
         }
@@ -424,7 +491,7 @@
     },
     {
       "keyword_group": "以色列",
-      "match_count": 8,
+      "match_count": 10,
       "titles": [
         {
           "title": "美国国务卿鲁比奥：我们希望黎巴嫩与以色列的谈判取得成功。",
@@ -466,7 +533,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时29分"
         },
@@ -480,6 +547,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时25分"
+        },
+        {
+          "title": "以色列国防部长：寻求成为首个具备天基进攻能力的国家",
+          "url": "https://wallstreetcn.com/livenews/3124654",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时25分"
+        },
+        {
+          "title": "美国国务卿鲁比奥：以色列和黎巴嫩接近达成“意向承诺”",
+          "url": "https://wallstreetcn.com/livenews/3124645",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时25分"
         },
         {
           "title": "据半岛电视台：伊朗官员称以色列应对“整个地区的问题”负责。",
@@ -499,7 +588,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时29分"
         },
@@ -510,7 +599,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时29分"
         }
@@ -518,7 +607,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "报道：谷歌另外两名主要的AI员工恐将跳槽至Anthropic",
@@ -541,6 +630,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时54分"
+        },
+        {
+          "title": "SpaceX 暴跌 16% 股份逼近挂牌价，谷歌狂跌 5%，为何科技股开始下跌？未来走向可能如何？",
+          "url": "https://www.zhihu.com/question/2053015352347293676",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时25分"
         },
         {
           "title": "谷歌(GOOG.O)短线下挫，消息称谷歌再有两名人工智能员工或将跳槽至Anthropic公司。",
@@ -571,7 +671,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时29分"
         },
@@ -590,7 +690,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "现货黄金价格跌破4000美元大关",
@@ -616,6 +716,19 @@
           "time_info": "02时54分"
         },
         {
+          "title": "现货黄金价格跌破4000美元大关",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33446112",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            20,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时08分 ~ 20时25分]"
+        },
+        {
           "title": "贵金属全线暴跌金价失守4000美元关口 日本大举押注AI与半导体 | 环球市场",
           "url": "https://www.cls.cn/detail/2408544",
           "source": "财联社热门",
@@ -628,18 +741,6 @@
           "time_info": "[08时17分 ~ 13时08分]"
         },
         {
-          "title": "现货黄金价格跌破4000美元大关",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33446112",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时08分 ~ 17时29分]"
-        },
-        {
           "title": "金价跌至去年10月水平",
           "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E8%B7%8C%E8%87%B3%E5%8E%BB%E5%B9%B410%E6%9C%88%E6%B0%B4%E5%B9%B3%23&t=31&band_rank=13&Refer=top",
           "source": "微博",
@@ -649,6 +750,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时08分"
+        },
+        {
+          "title": "跌破4000美元！现货黄金价格创去年11月初以来新低",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33446231",
+          "source": "澎湃新闻",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时25分"
         }
       ]
     },
@@ -697,11 +809,12 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_33449066",
           "source": "澎湃新闻",
           "ranks": [
-            19
+            19,
+            15
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时08分"
+          "appearance_count": 2,
+          "time_info": "[13时08分 ~ 20时25分]"
         }
       ]
     },
@@ -755,7 +868,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时29分"
         },
