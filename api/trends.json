@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-03T08:11:28.714425+08:00",
-  "total_titles_processed": 681,
+  "generated_at": "2026-07-03T12:45:50.026177+08:00",
+  "total_titles_processed": 912,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "【早报】美股存储、半导体板块连日大跌；一批A股公司中报业绩预计大增；油价微升、黄金走强；西班牙晋级世界杯16强",
@@ -14,9 +14,21 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时11分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时11分 ~ 12时45分]"
+        },
+        {
+          "title": "美股收盘：芯片股续跌闪迪重挫14% 苹果涨5%领道指刷新高",
+          "url": "https://www.cls.cn/detail/2415948",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时11分 ~ 12时45分]"
         },
         {
           "title": "金十图示：2026年07月02日（周四）美股热门股票行情一览（美股盘中）",
@@ -61,17 +73,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时22分"
-        },
-        {
-          "title": "美股收盘：芯片股续跌闪迪重挫14% 苹果涨5%领道指刷新高",
-          "url": "https://www.cls.cn/detail/2415948",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时11分"
         },
         {
           "title": "美股行业ETF涨跌各异，生物科技ETF收涨超2.9%，半导体ETF跌超4.5%",
@@ -119,13 +120,24 @@
           "time_info": "04时22分"
         },
         {
+          "title": "7月3日投资避雷针：美股存储、半导体板块大跌 闪迪跌超14%",
+          "url": "https://www.cls.cn/detail/2415987",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时45分"
+        },
+        {
           "title": "美股存储概念股还在跌",
           "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E8%82%A1%E5%AD%98%E5%82%A8%E6%A6%82%E5%BF%B5%E8%82%A1%E8%BF%98%E5%9C%A8%E8%B7%8C%23&t=31&band_rank=18&Refer=top",
           "source": "微博",
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时11分"
         },
@@ -158,7 +170,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时11分"
         }
@@ -292,6 +304,80 @@
       ]
     },
     {
+      "keyword_group": "以色列",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "美媒曝猛料！美国曾秘密提醒伊朗：以色列要暗杀你们的谈判代表",
+          "url": "https://flash.jin10.com/detail/20260703122811638800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时45分"
+        },
+        {
+          "title": "据黎巴嫩国家通讯社：以色列无人机袭击黎巴嫩南部城镇纳巴提耶一家医院附近。",
+          "url": "https://flash.jin10.com/detail/20260703002738208800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时54分"
+        },
+        {
+          "title": "据以色列 i24News：以色列安全官员回应《纽约时报》相关报道时表示，“如果以色列想清除任何人，就一定做得到。”（此前报道称，美国官员在美伊谈判期间曾担忧以色列可能对伊朗谈判关键人物采取暗杀行动。）",
+          "url": "https://flash.jin10.com/detail/20260703040541565800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时22分"
+        },
+        {
+          "title": "以色列总理内塔尼亚胡迎来劲敌",
+          "url": "https://www.toutiao.com/trending/7657578471580844059/",
+          "source": "今日头条",
+          "ranks": [
+            12,
+            10,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时53分 ~ 04时22分]"
+        },
+        {
+          "title": "美国总统特朗普：我是在以色列历史上对他们最有利的美国总统。",
+          "url": "https://flash.jin10.com/detail/20260703054652334800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时12分"
+        },
+        {
+          "title": "美官员曾担忧以色列暗杀伊朗谈判代表",
+          "url": "https://flash.jin10.com/detail/20260703031850277800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时22分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美元",
       "match_count": 5,
       "titles": [
@@ -358,65 +444,52 @@
       ]
     },
     {
-      "keyword_group": "以色列",
-      "match_count": 5,
+      "keyword_group": "世界杯 欧洲杯 亚洲杯",
+      "match_count": 4,
       "titles": [
         {
-          "title": "据黎巴嫩国家通讯社：以色列无人机袭击黎巴嫩南部城镇纳巴提耶一家医院附近。",
-          "url": "https://flash.jin10.com/detail/20260703002738208800",
-          "source": "金十数据",
+          "title": "头条世界杯｜不用进球就能统治比赛，亚马尔帮西班牙重回热门",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33508569",
+          "source": "澎湃新闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时45分"
+        },
+        {
+          "title": "世界杯 1/16 决赛，葡萄牙 2-1 克罗地亚，C 罗进球被吹 + 点射破门，拉莫斯绝杀，如何评价本场比赛？",
+          "url": "https://www.zhihu.com/question/2055965979767732019",
+          "source": "知乎",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时45分"
+        },
+        {
+          "title": "世界杯 1/16 决赛，西班牙 3-0 奥地利，奥亚萨瓦尔梅开二度，如何评价本场比赛？",
+          "url": "https://www.zhihu.com/question/2055966557797455598",
+          "source": "知乎",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时11分"
+        },
+        {
+          "title": "世界杯 1/16 决赛，葡萄牙 vs 克罗地亚，如何评价本场比赛？",
+          "url": "https://www.zhihu.com/question/2055965979767732019",
+          "source": "知乎",
           "ranks": [
             5
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "00时54分"
-        },
-        {
-          "title": "据以色列 i24News：以色列安全官员回应《纽约时报》相关报道时表示，“如果以色列想清除任何人，就一定做得到。”（此前报道称，美国官员在美伊谈判期间曾担忧以色列可能对伊朗谈判关键人物采取暗杀行动。）",
-          "url": "https://flash.jin10.com/detail/20260703040541565800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时22分"
-        },
-        {
-          "title": "以色列总理内塔尼亚胡迎来劲敌",
-          "url": "https://www.toutiao.com/trending/7657578471580844059/",
-          "source": "今日头条",
-          "ranks": [
-            12,
-            10,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时53分 ~ 04时22分]"
-        },
-        {
-          "title": "美国总统特朗普：我是在以色列历史上对他们最有利的美国总统。",
-          "url": "https://flash.jin10.com/detail/20260703054652334800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时12分"
-        },
-        {
-          "title": "美官员曾担忧以色列暗杀伊朗谈判代表",
-          "url": "https://flash.jin10.com/detail/20260703031850277800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时22分"
+          "time_info": "08时11分"
         }
       ]
     },
@@ -538,30 +611,30 @@
       ]
     },
     {
-      "keyword_group": "世界杯 欧洲杯 亚洲杯",
+      "keyword_group": "金价",
       "match_count": 2,
       "titles": [
         {
-          "title": "世界杯 1/16 决赛，西班牙 3-0 奥地利，奥亚萨瓦尔梅开二度，如何评价本场比赛？",
-          "url": "https://www.zhihu.com/question/2055966557797455598",
-          "source": "知乎",
+          "title": "金价较年内最高下跌近30%",
+          "url": "https://www.douyin.com/hot/2555818",
+          "source": "抖音",
           "ranks": [
-            3
+            22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时11分"
         },
         {
-          "title": "世界杯 1/16 决赛，葡萄牙 vs 克罗地亚，如何评价本场比赛？",
-          "url": "https://www.zhihu.com/question/2055965979767732019",
-          "source": "知乎",
+          "title": "弱非农推升金价，但资金确认还差一步？",
+          "url": "https://flash.jin10.com/detail/20260703115449576800",
+          "source": "金十数据",
           "ranks": [
-            5
+            22
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "08时11分"
+          "time_info": "12时45分"
         }
       ]
     },
@@ -591,23 +664,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时12分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "金价较年内最高下跌近30%",
-          "url": "https://www.douyin.com/hot/2555818",
-          "source": "抖音",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时11分"
         }
       ]
     }
