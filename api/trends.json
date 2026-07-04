@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-04T12:39:12.895247+08:00",
-  "total_titles_processed": 780,
+  "generated_at": "2026-07-04T15:51:09.078729+08:00",
+  "total_titles_processed": 935,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 21,
+      "match_count": 26,
       "titles": [
         {
           "title": "伊朗总统在哈梅内伊葬礼上双手掩面",
@@ -16,8 +16,19 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时38分 ~ 12时39分]"
+          "appearance_count": 10,
+          "time_info": "[00时38分 ~ 15时51分]"
+        },
+        {
+          "title": "现场：伊朗为哈梅内伊举行公众告别悼念仪式",
+          "url": "https://news.ifeng.com/c/8uTvqahB2zu",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时38分 ~ 15时51分]"
         },
         {
           "title": "伊朗议长会见中方代表，称已解决中国船只通过海峡问题",
@@ -29,17 +40,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时38分 ~ 04时20分]"
-        },
-        {
-          "title": "现场：伊朗为哈梅内伊举行公众告别悼念仪式",
-          "url": "https://news.ifeng.com/c/8uTvqahB2zu",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时38分 ~ 12时39分]"
         },
         {
           "title": "全国人大常委会副委员长何维代表中方出席伊朗已故最高领袖哈梅内伊葬礼",
@@ -63,17 +63,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[08时09分 ~ 12时39分]"
-        },
-        {
-          "title": "美国总统特朗普：伊朗非常想达成协议；因举办哈梅内伊的葬礼，给伊朗放了一周假。",
-          "url": "https://flash.jin10.com/detail/20260704113342386800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时39分"
         },
         {
           "title": "伊朗称将回应违反谅解备忘录的行为",
@@ -111,6 +100,18 @@
           "time_info": "[00时38分 ~ 02时17分]"
         },
         {
+          "title": "美国总统特朗普：伊朗非常想达成协议；因举办哈梅内伊的葬礼，给伊朗放了一周假。",
+          "url": "https://flash.jin10.com/detail/20260704113342386800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时39分 ~ 15时51分]"
+        },
+        {
           "title": "全国人大常委会副委员长何维代表中方出席伊朗已故最高领袖哈梅内伊葬礼",
           "url": "https://wallstreetcn.com/livenews/3128789",
           "source": "华尔街见闻-快讯",
@@ -145,6 +146,18 @@
           "time_info": "[04时20分 ~ 08时09分]"
         },
         {
+          "title": "特朗普：伊朗非常想达成协议。 因葬礼给伊朗放了一周假。",
+          "url": "https://wallstreetcn.com/livenews/3128882",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时39分 ~ 15时51分]"
+        },
+        {
           "title": "以总理办公室否认计划暗杀伊朗谈判代表",
           "url": "https://wallstreetcn.com/livenews/3128785",
           "source": "华尔街见闻-快讯",
@@ -155,6 +168,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时38分 ~ 02时17分]"
+        },
+        {
+          "title": "伊朗议长在哈梅内伊告别仪式哭到颤抖",
+          "url": "https://www.toutiao.com/trending/7657921167663497262/",
+          "source": "今日头条",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时50分 ~ 15时51分]"
         },
         {
           "title": "伊朗总统与俄罗斯就扩大合作进行了会谈",
@@ -169,15 +193,26 @@
           "time_info": "[04时20分 ~ 06时09分]"
         },
         {
-          "title": "特朗普：伊朗非常想达成协议。 因葬礼给伊朗放了一周假。",
-          "url": "https://wallstreetcn.com/livenews/3128882",
+          "title": "伊朗官员警告他国勿在霍尔木兹海峡采取军事行动",
+          "url": "https://wallstreetcn.com/livenews/3128909",
           "source": "华尔街见闻-快讯",
           "ranks": [
             6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时39分"
+          "time_info": "15时51分"
+        },
+        {
+          "title": "伊朗警告英法勿干涉霍尔木兹海峡（事务）。（迈赫尔通讯社）",
+          "url": "https://wallstreetcn.com/livenews/3128908",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时51分"
         },
         {
           "title": "以总理办公室否认计划暗杀伊朗谈判代表",
@@ -191,13 +226,24 @@
           "time_info": "00时38分"
         },
         {
+          "title": "伊朗官员警告他国勿在霍尔木兹海峡采取军事行动",
+          "url": "https://flash.jin10.com/detail/20260704144842898800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时51分"
+        },
+        {
           "title": "伊朗为已故最高领袖哈梅内伊举行公众告别与悼念仪式",
           "url": "https://wallstreetcn.com/livenews/3128877",
           "source": "华尔街见闻-快讯",
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时39分"
         },
@@ -208,7 +254,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时39分"
         },
@@ -222,6 +268,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时17分"
+        },
+        {
+          "title": "伊朗议长反击特朗普“缺粮”言论：美国数千万人靠食品券生活",
+          "url": "https://flash.jin10.com/detail/20260704124044168800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时51分"
         },
         {
           "title": "也门胡塞武装：在沙特军机试图阻拦一架伊朗民航客机降落萨那期间，胡塞武装在也门领空对沙特军机进行了对峙。 沙特若发动进一步袭击，将“遭到对沙特机场及核心利益的打击”。",
@@ -249,29 +306,42 @@
     },
     {
       "keyword_group": "以色列",
-      "match_count": 5,
+      "match_count": 7,
       "titles": [
         {
           "title": "三国前外长：以色列的所作所为已超越人性界线",
           "url": "https://news.ifeng.com/c/8uTlYnSBLXr",
           "source": "凤凰网",
           "ranks": [
-            5
+            5,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时38分 ~ 12时39分]"
+          "appearance_count": 4,
+          "time_info": "[12时38分 ~ 15时51分]"
+        },
+        {
+          "title": "据以色列第12频道：预计和平委员会可能会宣布哈马斯违反停火协议。",
+          "url": "https://flash.jin10.com/detail/20260704152314757800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时51分"
         },
         {
           "title": "欧盟委员会主席：以色列扩建定居点不可接受",
           "url": "https://wallstreetcn.com/livenews/3128887",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1
+            1,
+            24
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时39分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时39分 ~ 15时51分]"
         },
         {
           "title": "英国央行行长贝利：如果美国和以色列没有对伊朗发动战争，英国通胀将达到目标。",
@@ -284,6 +354,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时38分 ~ 02时17分]"
+        },
+        {
+          "title": "以色列检方称一美国公民为伊朗从事间谍活动",
+          "url": "https://wallstreetcn.com/livenews/3128899",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时51分"
         },
         {
           "title": "惠誉评级：为期60天的临时协议十分脆弱，加之以色列未参与其中，这表明中东冲突继续对企业发行人构成威胁。",
@@ -311,7 +392,7 @@
     },
     {
       "keyword_group": "世界杯 欧洲杯 亚洲杯",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "头条世界杯｜不用进球就能统治比赛，亚马尔帮西班牙重回热门",
@@ -329,11 +410,12 @@
           "url": "https://www.zhihu.com/question/2056419001685599487",
           "source": "知乎",
           "ranks": [
-            1
+            1,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时38分 ~ 12时39分]"
+          "appearance_count": 4,
+          "time_info": "[12时38分 ~ 15时51分]"
         },
         {
           "title": "世界杯 1/16 决赛，阿根廷 vs 佛得角，如何评价本场比赛？",
@@ -359,6 +441,17 @@
           "time_info": "[08时09分 ~ 12时39分]"
         },
         {
+          "title": "世界杯 1/16 决赛，哥伦比亚 1 比 0 加纳，阿里亚斯破门，如何评价本场比赛？",
+          "url": "https://www.zhihu.com/question/2056419241230688758",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时50分 ~ 15时51分]"
+        },
+        {
           "title": "世界杯 1/16 决赛，澳大利亚 vs 埃及，如何评价本场比赛？",
           "url": "https://www.zhihu.com/question/2056418799423680843",
           "source": "知乎",
@@ -368,6 +461,61 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时09分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "“大空头”Burry：周三在1051.87狙空美光！美股半导体面临30%回调",
+          "url": "https://wallstreetcn.com/articles/3776105",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6,
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时38分 ~ 12时39分]"
+        },
+        {
+          "title": "韩国股市杠杆失控：450亿美元资金狂飙，SK海力士单只ETF规模碾压美股科技巨头",
+          "url": "https://wallstreetcn.com/articles/3776174",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时38分 ~ 15时51分]"
+        },
+        {
+          "title": "Anthropic自研AI芯片计划引发美股半导体大跌！闪迪大跌14%，费城半导体指数两日重挫12%",
+          "url": "https://wallstreetcn.com/articles/3776091",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时38分 ~ 04时20分]"
+        },
+        {
+          "title": "美股遭遇近四个月最大单周资金流出，美银Hartnett：\"卖出信号\"仍在闪烁",
+          "url": "https://wallstreetcn.com/articles/3776162",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时50分 ~ 15时51分]"
         }
       ]
     },
@@ -413,49 +561,6 @@
       ]
     },
     {
-      "keyword_group": "美股",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "“大空头”Burry：周三在1051.87狙空美光！美股半导体面临30%回调",
-          "url": "https://wallstreetcn.com/articles/3776105",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6,
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时38分 ~ 12时39分]"
-        },
-        {
-          "title": "韩国股市杠杆失控：450亿美元资金狂飙，SK海力士单只ETF规模碾压美股科技巨头",
-          "url": "https://wallstreetcn.com/articles/3776174",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时38分 ~ 12时39分]"
-        },
-        {
-          "title": "Anthropic自研AI芯片计划引发美股半导体大跌！闪迪大跌14%，费城半导体指数两日重挫12%",
-          "url": "https://wallstreetcn.com/articles/3776091",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时38分 ~ 04时20分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "DeepSeek 梁文锋",
       "match_count": 1,
       "titles": [
@@ -464,11 +569,12 @@
           "url": "https://wallstreetcn.com/articles/3776170",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时38分 ~ 12时39分]"
+          "appearance_count": 4,
+          "time_info": "[12时38分 ~ 15时51分]"
         }
       ]
     },
@@ -483,7 +589,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时39分"
         }
