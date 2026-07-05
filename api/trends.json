@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-05T16:10:46.886241+08:00",
-  "total_titles_processed": 895,
+  "generated_at": "2026-07-05T19:07:51.608281+08:00",
+  "total_titles_processed": 1028,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 31,
+      "match_count": 35,
       "titles": [
         {
           "title": "特朗普：我们很善良，给伊朗一周时间办丧事",
@@ -37,11 +37,12 @@
           "ranks": [
             1,
             13,
-            25
+            25,
+            28
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时07分 ~ 16时10分]"
+          "appearance_count": 8,
+          "time_info": "[00时07分 ~ 19时07分]"
         },
         {
           "title": "伊朗称捣毁多个与美以有关的“恐怖和极端组织”窝点",
@@ -50,11 +51,12 @@
           "ranks": [
             2,
             14,
-            26
+            26,
+            29
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时07分 ~ 16时10分]"
+          "appearance_count": 8,
+          "time_info": "[00时07分 ~ 19时07分]"
         },
         {
           "title": "阿里·阿兹马伊被任命为伊朗伊斯兰革命卫队海军司令",
@@ -63,11 +65,24 @@
           "ranks": [
             3,
             15,
-            27
+            27,
+            30
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时07分 ~ 16时10分]"
+          "appearance_count": 8,
+          "time_info": "[00时07分 ~ 19时07分]"
+        },
+        {
+          "title": "特朗普：伊朗举国哀悼哈梅内伊，让我感到惊讶",
+          "url": "https://news.ifeng.com/c/8uVPLB68Q8C",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时01分 ~ 19时07分]"
         },
         {
           "title": "伊朗警告域外国家勿在霍尔木兹海峡制造危机",
@@ -83,16 +98,15 @@
           "time_info": "[00时07分 ~ 16时10分]"
         },
         {
-          "title": "特朗普：伊朗举国哀悼哈梅内伊，让我感到惊讶",
-          "url": "https://news.ifeng.com/c/8uVPLB68Q8C",
-          "source": "凤凰网",
+          "title": "据伊朗伊斯兰共和国通讯社（IRNA）：伊朗国际海事局表示，卡塔尔鲁韦斯港和伊朗港口之间的海上贸易恢复。",
+          "url": "https://flash.jin10.com/detail/20260705184100307800",
+          "source": "金十数据",
           "ranks": [
-            2,
-            5
+            1
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时01分 ~ 16时10分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时07分"
         },
         {
           "title": "上千万伊朗人参与哈梅内伊告别仪式",
@@ -168,11 +182,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             10,
-            22
+            22,
+            25
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时02分 ~ 16时10分]"
+          "appearance_count": 3,
+          "time_info": "[13时02分 ~ 19时07分]"
         },
         {
           "title": "独立投资研究平台HFI Research：过去24小时，许多原本计划经阿曼航道通行的船只，转而选择了伊朗一侧航道。",
@@ -184,6 +199,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时02分"
+        },
+        {
+          "title": "特朗普对哈梅内伊葬礼感到震惊，认为伊朗民众恨他",
+          "url": "https://news.ifeng.com/c/8uVsCwKcWdW",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时07分"
         },
         {
           "title": "伊朗外交部长阿拉格齐在伊朗首都德黑兰分别会晤黎巴嫩真主党及哈马斯代表。",
@@ -274,6 +300,17 @@
           "time_info": "04时12分"
         },
         {
+          "title": "伊朗政府发言人：我们正在依法推进就前最高领袖遇刺案提起申诉的相关程序，目前已从证据收集阶段开始。",
+          "url": "https://flash.jin10.com/detail/20260705173727294800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时07分"
+        },
+        {
           "title": "据沙特媒体哈达斯与阿拉伯卫星电视台报道，美国与伊朗的谈判将于7月11日在巴基斯坦进行。",
           "url": "https://flash.jin10.com/detail/20260704212154579800",
           "source": "金十数据",
@@ -335,7 +372,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时10分"
         },
@@ -349,6 +386,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时07分"
+        },
+        {
+          "title": "伊朗举国哀悼哈梅内伊，新最高领袖仍未公开露面",
+          "url": "https://flash.jin10.com/detail/20260705164059369800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时07分"
         },
         {
           "title": "俄罗斯联邦安全会议副主席梅德韦杰夫：俄罗斯愿继续同伊朗发展战略伙伴关系。",
@@ -365,7 +413,7 @@
     },
     {
       "keyword_group": "以色列",
-      "match_count": 11,
+      "match_count": 13,
       "titles": [
         {
           "title": "以色列袭击加沙北部和中部致两名巴勒斯坦人死亡",
@@ -425,6 +473,18 @@
           "time_info": "[06时03分 ~ 08时05分]"
         },
         {
+          "title": "以色列证实美以伊冲突期间在阿联酋部署“铁穹”",
+          "url": "https://wallstreetcn.com/livenews/3128967",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时10分 ~ 19时07分]"
+        },
+        {
           "title": "以色列消息人士：内塔尼亚胡与特朗普的会面尚未敲定相关安排。",
           "url": "https://flash.jin10.com/detail/20260705043308774800",
           "source": "金十数据",
@@ -470,15 +530,26 @@
           "time_info": "04时12分"
         },
         {
-          "title": "以色列证实美以伊冲突期间在阿联酋部署“铁穹”",
-          "url": "https://wallstreetcn.com/livenews/3128967",
-          "source": "华尔街见闻-快讯",
+          "title": "以色列袭击黎巴嫩南部多地",
+          "url": "https://news.ifeng.com/c/8uVxlG2zua7",
+          "source": "凤凰网",
           "ranks": [
-            10
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时10分"
+          "time_info": "19时07分"
+        },
+        {
+          "title": "黎巴嫩军队：我们继续清除受以色列侵略影响地区的未爆弹药，呼吁在遭受以色列袭击的地区采取最大程度的预防措施。",
+          "url": "https://flash.jin10.com/detail/20260705173751177800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时07分"
         },
         {
           "title": "以色列证实美以伊冲突期间在阿联酋部署“铁穹”",
@@ -487,7 +558,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时10分"
         }
@@ -510,8 +581,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时07分 ~ 16时10分]"
+          "appearance_count": 11,
+          "time_info": "[00时07分 ~ 19时07分]"
         },
         {
           "title": "韩国股市杠杆失控：450亿美元资金狂飙，SK海力士单只ETF规模碾压美股科技巨头",
@@ -559,11 +630,12 @@
           "source": "知乎",
           "ranks": [
             1,
-            8
+            8,
+            15
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时05分 ~ 16时10分]"
+          "appearance_count": 5,
+          "time_info": "[08时05分 ~ 19时07分]"
         },
         {
           "title": "世界杯 1/8 决赛，摩洛哥 3-0 加拿大，乌纳希双响迪亚斯两助，如何评价本场比赛？",
@@ -605,11 +677,12 @@
           "url": "https://wallstreetcn.com/articles/3776218",
           "source": "华尔街见闻",
           "ranks": [
-            5
+            5,
+            4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时10分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时10分 ~ 19时07分]"
         }
       ]
     },
