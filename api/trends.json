@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-07-06T03:24:47.639485+08:00",
-  "total_titles_processed": 364,
+  "generated_at": "2026-07-06T05:07:15.806687+08:00",
+  "total_titles_processed": 409,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "以色列",
-      "match_count": 10,
+      "match_count": 12,
       "titles": [
+        {
+          "title": "数十名以色列定居者试图越境叙利亚，被以军扣留",
+          "url": "https://flash.jin10.com/detail/20260706034229477800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时07分"
+        },
         {
           "title": "以色列总统：（就政府决定不遵守最高法院裁决回应）不尊重司法裁决是绝对不可逾越的红线。",
           "url": "https://flash.jin10.com/detail/20260706004452565800",
@@ -19,6 +30,17 @@
           "time_info": "01时17分"
         },
         {
+          "title": "以色列国防军：今日早些时候，数十名以色列公民试图越过边境进入叙利亚。以军迅速赶赴现场并阻止，被拦截人员已移交警方进一步处理。",
+          "url": "https://flash.jin10.com/detail/20260706033520233800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时07分"
+        },
+        {
           "title": "以色列证实向阿联酋部署“铁穹”防空系统",
           "url": "https://news.ifeng.com/c/8uW7uOtWBlf",
           "source": "凤凰网",
@@ -26,8 +48,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时17分 ~ 03时24分]"
+          "appearance_count": 4,
+          "time_info": "[01时17分 ~ 05时07分]"
         },
         {
           "title": "以色列证实美以伊冲突期间在阿联酋部署“铁穹”",
@@ -37,8 +59,8 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时17分 ~ 03时24分]"
+          "appearance_count": 3,
+          "time_info": "[01时17分 ~ 05时07分]"
         },
         {
           "title": "黎巴嫩卫生部：以色列自3月以来对黎巴嫩发动的袭击已造成4304人遇难。",
@@ -131,8 +153,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时17分 ~ 03时24分]"
+          "appearance_count": 4,
+          "time_info": "[01时17分 ~ 05时07分]"
         },
         {
           "title": "伊拉克女信众：哈梅内伊不仅属于伊朗，是所有人的领袖",
@@ -142,8 +164,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时17分 ~ 03时24分]"
+          "appearance_count": 4,
+          "time_info": "[01时17分 ~ 05时07分]"
         },
         {
           "title": "伊朗议会议长卡利巴夫：抵抗阵线与黎巴嫩问题被视为我们的红线之一。",
@@ -175,19 +197,56 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时17分 ~ 03时24分]"
+          "appearance_count": 3,
+          "time_info": "[01时17分 ~ 05时07分]"
+        },
+        {
+          "title": "英法高调宣布保障霍尔木兹航行自由，伊朗强硬警告，国际油价暗盘拉升，中东局势会再度升级吗？",
+          "url": "https://www.zhihu.com/question/2056886502731297310",
+          "source": "知乎",
+          "ranks": [
+            17,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时24分 ~ 05时07分]"
         },
         {
           "title": "伊朗议会议长卡利巴夫：自己首先是一名战士，其次才是外交官，德黑兰必须在保持“战备状态”的前提下开展谈判。",
           "url": "https://flash.jin10.com/detail/20260706023539814800",
           "source": "金十数据",
           "ranks": [
-            7
+            7,
+            13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时24分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时24分 ~ 05时07分]"
+        },
+        {
+          "title": "伊朗议会议长卡利巴夫：敌对势力已经明白，要想达成黎巴嫩以及整个中东区域的和平稳定，伊朗的参与是不可或缺的。",
+          "url": "https://flash.jin10.com/detail/20260706023506164800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时24分 ~ 05时07分]"
+        },
+        {
+          "title": "伊朗最高领袖任命埃杰伊继续担任司法总监",
+          "url": "https://flash.jin10.com/detail/20260706013917109800",
+          "source": "金十数据",
+          "ranks": [
+            15,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时24分 ~ 05时07分]"
         },
         {
           "title": "多数美国选民认为特朗普对伊朗开战得不偿失",
@@ -199,39 +258,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时17分"
-        },
-        {
-          "title": "伊朗议会议长卡利巴夫：敌对势力已经明白，要想达成黎巴嫩以及整个中东区域的和平稳定，伊朗的参与是不可或缺的。",
-          "url": "https://flash.jin10.com/detail/20260706023506164800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时24分"
-        },
-        {
-          "title": "伊朗最高领袖任命埃杰伊继续担任司法总监",
-          "url": "https://flash.jin10.com/detail/20260706013917109800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时24分"
-        },
-        {
-          "title": "英法高调宣布保障霍尔木兹航行自由，伊朗强硬警告，国际油价暗盘拉升，中东局势会再度升级吗？",
-          "url": "https://www.zhihu.com/question/2056886502731297310",
-          "source": "知乎",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时24分"
         }
       ]
     },
@@ -248,8 +274,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时17分 ~ 03时24分]"
+          "appearance_count": 4,
+          "time_info": "[01时17分 ~ 05时07分]"
         }
       ]
     },
@@ -265,8 +291,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时17分 ~ 03时24分]"
+          "appearance_count": 4,
+          "time_info": "[01时17分 ~ 05时07分]"
         }
       ]
     }
