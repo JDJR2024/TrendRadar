@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-06T16:27:33.500707+08:00",
-  "total_titles_processed": 927,
+  "generated_at": "2026-07-06T20:53:13.791686+08:00",
+  "total_titles_processed": 1130,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 15,
+      "match_count": 17,
       "titles": [
         {
           "title": "特朗普对哈梅内伊葬礼感到震惊，认为伊朗民众恨他",
@@ -28,6 +28,30 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时17分 ~ 07时06分]"
+        },
+        {
+          "title": "现场：伊朗民众向灵车抛投鲜花、头巾",
+          "url": "https://news.ifeng.com/c/8uXrYG1lG4D",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时52分 ~ 20时53分]"
+        },
+        {
+          "title": "伊朗最高领袖发布任免令",
+          "url": "https://news.ifeng.com/c/8uX0AQwmuwO",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时57分 ~ 20时53分]"
         },
         {
           "title": "伊朗议会议长卡利巴夫：抵抗阵线与黎巴嫩问题被视为我们的红线之一。",
@@ -69,7 +93,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时27分"
         },
@@ -85,18 +109,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[03时24分 ~ 07时06分]"
-        },
-        {
-          "title": "伊朗最高领袖发布任免令",
-          "url": "https://news.ifeng.com/c/8uX0AQwmuwO",
-          "source": "凤凰网",
-          "ranks": [
-            2,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时57分 ~ 16时27分]"
         },
         {
           "title": "特朗普：哈梅内伊葬礼上一次攻击就能全部干掉伊朗高层，但不会这么做，这样就没人谈判了",
@@ -147,6 +159,17 @@
           "time_info": "[03时24分 ~ 05时07分]"
         },
         {
+          "title": "民调：多数美国人认为特朗普在伊朗战争中得不偿失 拖累中期选举",
+          "url": "https://www.cls.cn/detail/2417917",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时52分 ~ 20时53分]"
+        },
+        {
           "title": "伊朗最高领袖任命埃杰伊继续担任司法总监",
           "url": "https://flash.jin10.com/detail/20260706013917109800",
           "source": "金十数据",
@@ -184,7 +207,7 @@
     },
     {
       "keyword_group": "以色列",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "以色列证实向阿联酋部署“铁穹”防空系统",
@@ -196,6 +219,18 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时17分 ~ 07时06分]"
+        },
+        {
+          "title": "内塔尼亚胡：以色列有很多朋友，尤其是“小国”印度",
+          "url": "https://news.ifeng.com/c/8uXCebTK4hv",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时57分 ~ 20时53分]"
         },
         {
           "title": "以色列总统：（就政府决定不遵守最高法院裁决回应）不尊重司法裁决是绝对不可逾越的红线。",
@@ -231,18 +266,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时07分 ~ 07时06分]"
-        },
-        {
-          "title": "内塔尼亚胡：以色列有很多朋友，尤其是“小国”印度",
-          "url": "https://news.ifeng.com/c/8uXCebTK4hv",
-          "source": "凤凰网",
-          "ranks": [
-            5,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时57分 ~ 16时27分]"
         },
         {
           "title": "以色列证实美以伊冲突期间在阿联酋部署“铁穹”",
@@ -295,7 +318,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时27分"
         },
@@ -309,6 +332,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时17分"
+        },
+        {
+          "title": "以色列总理内塔尼亚胡：特朗普和我在很多事情上看法一致。 我与特朗普的关系“没问题”。 尚未确定访美日期。",
+          "url": "https://wallstreetcn.com/livenews/3129367",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时53分"
         },
         {
           "title": "以色列总理内塔尼亚胡：我们并不是处于永久战争状态。我和美国总统特朗普一起促成了四项和平协议。寻求我们保护的，不仅仅是黎巴嫩的基督徒，还有德鲁兹人、穆斯林、逊尼派穆斯林，以及相当多的什叶派穆斯林。",
@@ -347,7 +381,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 6,
+      "match_count": 8,
       "titles": [
         {
           "title": "下周重磅日程：中国通胀数据、美联储会议纪要、SK海力士美股首秀、智谱MiniMax解禁",
@@ -369,8 +403,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时57分 ~ 16时27分]"
+          "appearance_count": 4,
+          "time_info": "[11时57分 ~ 20时53分]"
         },
         {
           "title": "美股盘前，大型科技股普涨，美光科技涨超3%，闪迪涨超5%，英特尔涨超2%。",
@@ -379,7 +413,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时27分"
         },
@@ -390,9 +424,20 @@
           "ranks": [
             6
           ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时27分 ~ 20时53分]"
+        },
+        {
+          "title": "博通美股盘前一度涨超5%，报道称博通与苹果同意将技术合作扩展至2031年，博通将为苹果开发定制ASIC芯片产品。",
+          "url": "https://wallstreetcn.com/livenews/3129383",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时27分"
+          "time_info": "20时53分"
         },
         {
           "title": "美股期货涨幅收窄，标普500指数期货现涨0.2%。",
@@ -404,6 +449,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时57分"
+        },
+        {
+          "title": "博通(AVGO.O)美股盘前拉升，现涨超4%。",
+          "url": "https://flash.jin10.com/detail/20260706200753107800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时53分"
         },
         {
           "title": "警惕7月变盘！美股或遭剧烈“洗牌”，风格轮动要来了？",
@@ -476,7 +532,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时27分"
         }
