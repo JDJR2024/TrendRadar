@@ -1,11 +1,177 @@
 {
-  "generated_at": "2026-07-06T07:06:14.380078+08:00",
-  "total_titles_processed": 478,
+  "generated_at": "2026-07-06T11:57:18.203172+08:00",
+  "total_titles_processed": 720,
   "failed_sources": [],
   "trends": [
     {
+      "keyword_group": "伊朗",
+      "match_count": 14,
+      "titles": [
+        {
+          "title": "特朗普对哈梅内伊葬礼感到震惊，认为伊朗民众恨他",
+          "url": "https://news.ifeng.com/c/8uVsCwKcWdW",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时17分 ~ 07时06分]"
+        },
+        {
+          "title": "伊拉克女信众：哈梅内伊不仅属于伊朗，是所有人的领袖",
+          "url": "https://news.ifeng.com/c/8uWHzcgIJ5I",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时17分 ~ 07时06分]"
+        },
+        {
+          "title": "伊朗最高领袖发布任免令",
+          "url": "https://news.ifeng.com/c/8uX0AQwmuwO",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时57分"
+        },
+        {
+          "title": "伊朗议会议长卡利巴夫：抵抗阵线与黎巴嫩问题被视为我们的红线之一。",
+          "url": "https://flash.jin10.com/detail/20260706005622516800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时17分"
+        },
+        {
+          "title": "伊朗民众葬礼上向特朗普发出威胁：无耻混蛋，等着被割喉吧",
+          "url": "https://news.ifeng.com/c/8uX2nwSL9n5",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时57分"
+        },
+        {
+          "title": "伊朗议会议长卡利巴夫：美国是一个不可靠的谈判方，因此我们在谈判中划定了明确的界限，并始终坚持这些界限。",
+          "url": "https://flash.jin10.com/detail/20260706005606461800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时17分"
+        },
+        {
+          "title": "英法高调宣布保障霍尔木兹航行自由，伊朗强硬警告，国际油价暗盘拉升，中东局势会再度升级吗？",
+          "url": "https://www.zhihu.com/question/2056886502731297310",
+          "source": "知乎",
+          "ranks": [
+            17,
+            10,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[03时24分 ~ 07时06分]"
+        },
+        {
+          "title": "伊朗官员称该国已恢复与卡塔尔的海上贸易",
+          "url": "https://wallstreetcn.com/livenews/3129009",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时17分 ~ 07时06分]"
+        },
+        {
+          "title": "伊朗议会议长卡利巴夫：自己首先是一名战士，其次才是外交官，德黑兰必须在保持“战备状态”的前提下开展谈判。",
+          "url": "https://flash.jin10.com/detail/20260706023539814800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时24分 ~ 05时07分]"
+        },
+        {
+          "title": "伊朗议会议长卡利巴夫：敌对势力已经明白，要想达成黎巴嫩以及整个中东区域的和平稳定，伊朗的参与是不可或缺的。",
+          "url": "https://flash.jin10.com/detail/20260706023506164800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时24分 ~ 05时07分]"
+        },
+        {
+          "title": "伊朗最高领袖任命埃杰伊继续担任司法总监",
+          "url": "https://flash.jin10.com/detail/20260706013917109800",
+          "source": "金十数据",
+          "ranks": [
+            15,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时24分 ~ 05时07分]"
+        },
+        {
+          "title": "多数美国选民认为特朗普对伊朗开战得不偿失",
+          "url": "https://flash.jin10.com/detail/20260706001649875800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时17分"
+        },
+        {
+          "title": "特朗普：哈梅内伊葬礼上一次攻击就能全部干掉伊朗高层，但不会这么做，这样就没人谈判了",
+          "url": "https://wallstreetcn.com/articles/3776227",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时57分"
+        },
+        {
+          "title": "伊朗最高领袖任命埃杰伊继续担任司法总监",
+          "url": "https://wallstreetcn.com/livenews/3129023",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时06分"
+        }
+      ]
+    },
+    {
       "keyword_group": "以色列",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "以色列证实向阿联酋部署“铁穹”防空系统",
@@ -28,6 +194,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时17分"
+        },
+        {
+          "title": "内塔尼亚胡：以色列有很多朋友，尤其是“小国”印度",
+          "url": "https://news.ifeng.com/c/8uXCebTK4hv",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时57分"
         },
         {
           "title": "数十名以色列定居者试图越境叙利亚，被以军扣留",
@@ -144,135 +321,80 @@
       ]
     },
     {
-      "keyword_group": "伊朗",
-      "match_count": 11,
+      "keyword_group": "美股",
+      "match_count": 4,
       "titles": [
         {
-          "title": "特朗普对哈梅内伊葬礼感到震惊，认为伊朗民众恨他",
-          "url": "https://news.ifeng.com/c/8uVsCwKcWdW",
-          "source": "凤凰网",
+          "title": "下周重磅日程：中国通胀数据、美联储会议纪要、SK海力士美股首秀、智谱MiniMax解禁",
+          "url": "https://wallstreetcn.com/articles/3776130",
+          "source": "华尔街见闻",
           "ranks": [
-            2
+            5
           ],
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时17分 ~ 07时06分]"
         },
         {
-          "title": "伊拉克女信众：哈梅内伊不仅属于伊朗，是所有人的领袖",
-          "url": "https://news.ifeng.com/c/8uWHzcgIJ5I",
-          "source": "凤凰网",
+          "title": "本周重磅日程：中国通胀数据、三星业绩预告、SK海力士美股首秀、智谱MiniMax解禁",
+          "url": "https://wallstreetcn.com/articles/3776130",
+          "source": "华尔街见闻",
           "ranks": [
             3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时17分 ~ 07时06分]"
-        },
-        {
-          "title": "伊朗议会议长卡利巴夫：抵抗阵线与黎巴嫩问题被视为我们的红线之一。",
-          "url": "https://flash.jin10.com/detail/20260706005622516800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时17分"
-        },
-        {
-          "title": "伊朗议会议长卡利巴夫：美国是一个不可靠的谈判方，因此我们在谈判中划定了明确的界限，并始终坚持这些界限。",
-          "url": "https://flash.jin10.com/detail/20260706005606461800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时17分"
-        },
-        {
-          "title": "英法高调宣布保障霍尔木兹航行自由，伊朗强硬警告，国际油价暗盘拉升，中东局势会再度升级吗？",
-          "url": "https://www.zhihu.com/question/2056886502731297310",
-          "source": "知乎",
-          "ranks": [
-            17,
-            10,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[03时24分 ~ 07时06分]"
-        },
-        {
-          "title": "伊朗官员称该国已恢复与卡塔尔的海上贸易",
-          "url": "https://wallstreetcn.com/livenews/3129009",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时17分 ~ 07时06分]"
-        },
-        {
-          "title": "伊朗议会议长卡利巴夫：自己首先是一名战士，其次才是外交官，德黑兰必须在保持“战备状态”的前提下开展谈判。",
-          "url": "https://flash.jin10.com/detail/20260706023539814800",
-          "source": "金十数据",
-          "ranks": [
-            7,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时24分 ~ 05时07分]"
-        },
-        {
-          "title": "伊朗议会议长卡利巴夫：敌对势力已经明白，要想达成黎巴嫩以及整个中东区域的和平稳定，伊朗的参与是不可或缺的。",
-          "url": "https://flash.jin10.com/detail/20260706023506164800",
-          "source": "金十数据",
-          "ranks": [
-            8,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时24分 ~ 05时07分]"
-        },
-        {
-          "title": "伊朗最高领袖任命埃杰伊继续担任司法总监",
-          "url": "https://flash.jin10.com/detail/20260706013917109800",
-          "source": "金十数据",
-          "ranks": [
-            15,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时24分 ~ 05时07分]"
-        },
-        {
-          "title": "多数美国选民认为特朗普对伊朗开战得不偿失",
-          "url": "https://flash.jin10.com/detail/20260706001649875800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时17分"
-        },
-        {
-          "title": "伊朗最高领袖任命埃杰伊继续担任司法总监",
-          "url": "https://wallstreetcn.com/livenews/3129023",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时06分"
+          "time_info": "11时57分"
+        },
+        {
+          "title": "美股期货涨幅收窄，标普500指数期货现涨0.2%。",
+          "url": "https://wallstreetcn.com/livenews/3129120",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时57分"
+        },
+        {
+          "title": "警惕7月变盘！美股或遭剧烈“洗牌”，风格轮动要来了？",
+          "url": "https://flash.jin10.com/detail/20260706110105825800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时57分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "世界杯 欧洲杯 亚洲杯",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "世界杯 1/8 决赛，巴西 1-2 挪威止步十六强，哈兰德进两球，内马尔点球破门，如何评价本场比赛？",
+          "url": "https://www.zhihu.com/question/2057080646317466862",
+          "source": "知乎",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时57分"
+        },
+        {
+          "title": "险胜！世界杯 1/8 决赛，十人英格兰 3-2 淘汰墨西哥，贝林双响凯恩点射 + 送点宽萨直红，如何评价本场比赛？",
+          "url": "https://www.zhihu.com/question/2056755385696871724",
+          "source": "知乎",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时57分"
         }
       ]
     },
@@ -286,28 +408,12 @@
           "source": "华尔街见闻",
           "ranks": [
             2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时17分 ~ 07时06分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "下周重磅日程：中国通胀数据、美联储会议纪要、SK海力士美股首秀、智谱MiniMax解禁",
-          "url": "https://wallstreetcn.com/articles/3776130",
-          "source": "华尔街见闻",
-          "ranks": [
+            3,
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时17分 ~ 07时06分]"
+          "appearance_count": 7,
+          "time_info": "[01时17分 ~ 11时57分]"
         }
       ]
     }
