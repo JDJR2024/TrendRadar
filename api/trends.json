@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-10T06:26:40.878320+08:00",
-  "total_titles_processed": 561,
+  "generated_at": "2026-07-10T08:10:22.482937+08:00",
+  "total_titles_processed": 659,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 27,
+      "match_count": 33,
       "titles": [
         {
           "title": "美军又袭伊朗！特朗普威胁“今夜”再打、恢复海上封锁，后一度“降温”：美伊局势升级会很快平息",
@@ -42,6 +42,17 @@
           "time_info": "02时52分"
         },
         {
+          "title": "美官员称外交努力仍在进行 如有必要将继续打击伊朗",
+          "url": "https://flash.jin10.com/detail/20260710072325360800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时10分"
+        },
+        {
           "title": "伊朗谴责美军打击伊海事基础设施",
           "url": "https://wallstreetcn.com/livenews/3131463",
           "source": "华尔街见闻-快讯",
@@ -53,17 +64,6 @@
           "time_info": "00时02分"
         },
         {
-          "title": "周五亚太盘初，WTI原油期货低开0.4%，报71.81美元/桶，投资者权衡伊朗风险。",
-          "url": "https://wallstreetcn.com/livenews/3131566",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时26分"
-        },
-        {
           "title": "特朗普：伊朗这件事上，中国赢得了美国的尊重",
           "url": "https://news.ifeng.com/c/8ubvs5fh8MS",
           "source": "凤凰网",
@@ -71,8 +71,19 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时02分 ~ 06时26分]"
+          "appearance_count": 5,
+          "time_info": "[00时02分 ~ 08时10分]"
+        },
+        {
+          "title": "美官员称外交努力仍在进行 如有必要将继续打击伊朗",
+          "url": "https://wallstreetcn.com/livenews/3131587",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时10分"
         },
         {
           "title": "伊朗发射巡航导弹袭击美国舰艇",
@@ -80,11 +91,24 @@
           "source": "今日头条",
           "ranks": [
             14,
-            13
+            13,
+            12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时02分 ~ 06时26分]"
+          "appearance_count": 5,
+          "time_info": "[00时02分 ~ 08时10分]"
+        },
+        {
+          "title": "周五亚太盘初，WTI原油期货低开0.4%，报71.81美元/桶，投资者权衡伊朗风险。",
+          "url": "https://wallstreetcn.com/livenews/3131566",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时26分 ~ 08时10分]"
         },
         {
           "title": "伊朗称发射导弹摧毁美军一指挥中心",
@@ -98,6 +122,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时02分 ~ 04时50分]"
+        },
+        {
+          "title": "特朗普重启对伊朗打击 共和党担忧拖累中期选举",
+          "url": "https://flash.jin10.com/detail/20260710054645407800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时26分 ~ 08时10分]"
         },
         {
           "title": "据伊朗官方媒体报道：伊朗位于Konarak的海军基地遭到“敌人”袭击。",
@@ -145,17 +181,6 @@
           "time_info": "04时50分"
         },
         {
-          "title": "特朗普重启对伊朗打击 共和党担忧拖累中期选举",
-          "url": "https://flash.jin10.com/detail/20260710054645407800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时26分"
-        },
-        {
           "title": "报道：伊朗多地传出爆炸声",
           "url": "https://wallstreetcn.com/livenews/3131506",
           "source": "华尔街见闻-快讯",
@@ -165,6 +190,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时52分"
+        },
+        {
+          "title": "霍尔木兹危机冲击供应：伊朗被曝24小时紧急运出超千万桶原油、卡塔尔暂停LNG产能恢复",
+          "url": "https://wallstreetcn.com/articles/3776602",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时10分"
+        },
+        {
+          "title": "以总理：“不允许”伊朗拥核 拟大幅追加国防预算",
+          "url": "https://flash.jin10.com/detail/20260710070756335800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时10分"
         },
         {
           "title": "伊朗官方通讯社援引地方官员消息称，位于科纳拉克的伊朗海军基地遭到“敌人”袭击。",
@@ -217,7 +264,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时26分"
         },
@@ -231,6 +278,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时02分"
+        },
+        {
+          "title": "伊朗圣城马什哈德发生枪击事件致2人死亡",
+          "url": "https://wallstreetcn.com/livenews/3131573",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时10分"
         },
         {
           "title": "海湾合作委员会：伊朗对霍尔木兹海峡航运的攻击威胁全球能源和贸易安全。",
@@ -250,9 +308,20 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时26分"
+        },
+        {
+          "title": "伊朗圣城马什哈德发生枪击事件致2人死亡",
+          "url": "https://flash.jin10.com/detail/20260710062412755800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时10分"
         },
         {
           "title": "伊朗遭袭系误报，实为防空系统启动",
@@ -313,7 +382,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 10,
+      "match_count": 14,
       "titles": [
         {
           "title": "特朗普\"开火威胁\"搅动全球市场，降温表态后美股跌幅收窄，芯片股力撑纳指收涨，中概股大涨",
@@ -328,13 +397,35 @@
           "time_info": "[00时02分 ~ 06时26分]"
         },
         {
+          "title": "市场暂时搁置地缘风险，油价下跌，芯片股再撑美股，黄金加密货币反弹",
+          "url": "https://wallstreetcn.com/articles/3776523",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时10分"
+        },
+        {
+          "title": "【早报】美股贵金属、存储股集体爆发；油价下挫，黄金走强；兆易创新、工业富联等业绩预计倍增；法国成首支四强球队",
+          "url": "https://www.cls.cn/detail/2422278",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时10分"
+        },
+        {
           "title": "芯片股领涨提振美股，油价下跌令市场暂时搁置地缘风险，黄金加密货币反弹",
           "url": "https://wallstreetcn.com/articles/3776523",
           "source": "华尔街见闻",
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时26分"
         },
@@ -358,8 +449,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时02分 ~ 06时26分]"
+          "appearance_count": 5,
+          "time_info": "[00时02分 ~ 08时10分]"
         },
         {
           "title": "美股大类资产类ETF多数收涨，纳指ETF涨超1.6%、与小盘股ETF、黄金ETF领跑",
@@ -386,13 +477,24 @@
           "time_info": "[04时50分 ~ 06时26分]"
         },
         {
+          "title": "美股收盘：“AI的光”再度闪耀 纳指涨超1% 存储、光通信概念领涨",
+          "url": "https://www.cls.cn/detail/2422268",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时10分"
+        },
+        {
           "title": "据华尔街日报，奈飞正探索推出直播电视及捆绑服务。 该公司高管近期讨论了增加直播频道事宜。 该公司正讨论竞标2030年及2034年世界杯转播权。 奈飞美股盘后跌2%。",
           "url": "https://wallstreetcn.com/livenews/3131557",
           "source": "华尔街见闻-快讯",
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时26分"
         },
@@ -428,12 +530,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时50分"
+        },
+        {
+          "title": "美股收盘：纳指涨超1% 存储光通信领涨",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E6%94%B6%E7%9B%98%EF%BC%9A%E7%BA%B3%E6%8C%87%E6%B6%A8%E8%B6%851%25+%E5%AD%98%E5%82%A8%E5%85%89%E9%80%9A%E4%BF%A1%E9%A2%86%E6%B6%A8",
+          "source": "百度热搜",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时10分"
         }
       ]
     },
     {
       "keyword_group": "以色列",
-      "match_count": 7,
+      "match_count": 12,
       "titles": [
         {
           "title": "以色列总理内塔尼亚胡：在对抗过程中，对敌人采取先发制人的打击是不可避免的，我们已经这样做了，并将继续下去。",
@@ -470,15 +583,59 @@
           "time_info": "[04时50分 ~ 06时26分]"
         },
         {
+          "title": "美防长取消访问以色列，内塔尼亚胡回应",
+          "url": "https://news.ifeng.com/c/8udchHV60RH",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时10分"
+        },
+        {
           "title": "据华尔街日报：知情人士称，以色列向美国提供新情报，称伊朗或在考虑刺杀特朗普的新计划。",
           "url": "https://flash.jin10.com/detail/20260710053537851800",
           "source": "金十数据",
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时26分"
+        },
+        {
+          "title": "以色列能源部长：以色列-塞浦路斯的管道将建成；以色列懂得如何自卫，不会受人指挥；威胁以色列者不会有好下场。",
+          "url": "https://flash.jin10.com/detail/20260710064617670800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时10分"
+        },
+        {
+          "title": "以色列能源部长：以色列必须与美国合作，防止土耳其获得先进武器，并坚持要求华盛顿维护以色列的军事质量优势。",
+          "url": "https://flash.jin10.com/detail/20260710064428357800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时10分"
+        },
+        {
+          "title": "以色列能源部长：以色列必须防止土耳其在叙利亚建立军事存在；如果土耳其在叙利亚建立军事基地，以色列也将采取同样措施。",
+          "url": "https://flash.jin10.com/detail/20260710064349671800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时10分"
         },
         {
           "title": "以色列总理办公室：特朗普向内塔尼亚胡告知了美国在海湾地区采取的行动。内塔尼亚胡则提及土耳其总统埃尔多安及其盟友针对以色列存在问题发表的强硬言论，并强调维持以色列边境安全区的必要性。",
@@ -512,12 +669,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时50分"
+        },
+        {
+          "title": "以色列向美国递交新情报：伊朗再被曝策划刺杀特朗普",
+          "url": "https://flash.jin10.com/detail/20260710062334750800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时10分"
         }
       ]
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 4,
+      "match_count": 7,
       "titles": [
         {
           "title": "OpenAI：在与特朗普政府磋商后对GPT-5.6做出多项调整",
@@ -529,6 +697,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时02分"
+        },
+        {
+          "title": "OpenAI高管Fidji Simo将卸任",
+          "url": "https://flash.jin10.com/detail/20260710070918440800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时10分"
+        },
+        {
+          "title": "OpenAI高管Fidji Simo将离职，未来将成为该公司兼职顾问。 Simo周四向OpenAI的员工们表达了辞职意愿。 此前，Simo接受的医学治疗时间已经被延长。（华尔街日报）",
+          "url": "https://wallstreetcn.com/livenews/3131583",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时10分"
+        },
+        {
+          "title": "据华尔街日报：OpenAI高管Fidji Simo将辞职，未来将成为该公司兼职顾问。",
+          "url": "https://flash.jin10.com/detail/20260710070247898800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时10分"
         },
         {
           "title": "OpenAI：GPT‑5.6现已成为微软365 Copilot的首选模型。",
@@ -576,7 +777,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时26分"
         },
@@ -617,7 +818,7 @@
     },
     {
       "keyword_group": "世界杯 欧洲杯 亚洲杯",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "世界杯 1/4 决赛，法国 vs 摩洛哥，双方时隔四年再度会师淘汰赛，如何评价本场比赛？",
@@ -631,6 +832,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时02分 ~ 06时26分]"
+        },
+        {
+          "title": "法国 2-0 摩洛哥晋级世界杯四强，姆巴佩传射 + 失点，如何评价本场比赛？",
+          "url": "https://www.zhihu.com/question/2058142880246523378",
+          "source": "知乎",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时10分"
         }
       ]
     }
