@@ -1,23 +1,15 @@
 {
-  "generated_at": "2026-07-12T06:55:12.802391+08:00",
-  "total_titles_processed": 456,
-  "failed_sources": [],
+  "generated_at": "2026-07-12T08:01:33.466149+08:00",
+  "total_titles_processed": 506,
+  "failed_sources": [
+    "ifeng",
+    "jin10"
+  ],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 19,
+      "match_count": 20,
       "titles": [
-        {
-          "title": "美国被曝已向伊朗下最后通牒，要求必须做出一项承诺",
-          "url": "https://news.ifeng.com/c/8uftNlwm3k6",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时03分 ~ 06时55分]"
-        },
         {
           "title": "特朗普：1000枚导弹已瞄准伊朗",
           "url": "https://m.thepaper.cn/newsDetail_forward_33565148",
@@ -27,8 +19,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时03分 ~ 06时55分]"
+          "appearance_count": 10,
+          "time_info": "[00时03分 ~ 08时01分]"
+        },
+        {
+          "title": "美国被曝已向伊朗下最后通牒，要求必须做出一项承诺",
+          "url": "https://news.ifeng.com/c/8uftNlwm3k6",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时03分 ~ 08时00分]"
         },
         {
           "title": "伊朗议长：致阿里·哈梅内伊遇难的责任方必将受到惩罚",
@@ -39,8 +43,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时03分 ~ 06时55分]"
+          "appearance_count": 7,
+          "time_info": "[00时03分 ~ 08时01分]"
         },
         {
           "title": "伊朗方面公布被导弹击中的约旦美军基地卫星图像",
@@ -50,8 +54,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时55分 ~ 06时55分]"
+          "appearance_count": 4,
+          "time_info": "[04时55分 ~ 08时01分]"
         },
         {
           "title": "穆杰塔巴称对美以追责是伊朗人民的共同要求",
@@ -62,8 +66,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时03分 ~ 06时55分]"
+          "appearance_count": 7,
+          "time_info": "[00时03分 ~ 08时01分]"
         },
         {
           "title": "伊朗消息人士：美国不放弃现有立场就“免谈”",
@@ -74,8 +78,8 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时03分 ~ 06时55分]"
+          "appearance_count": 7,
+          "time_info": "[00时03分 ~ 08时01分]"
         },
         {
           "title": "报道：伊朗两名安全人员在哈梅内伊葬礼期间遇袭身亡",
@@ -86,8 +90,8 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时03分 ~ 06时55分]"
+          "appearance_count": 7,
+          "time_info": "[00时03分 ~ 08时01分]"
         },
         {
           "title": "阿曼提议霍尔木兹“双航道”管理 伊朗航道需事先获批",
@@ -116,6 +120,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[03时14分 ~ 06时55分]"
+        },
+        {
+          "title": "伊朗最高领袖称将报复美以，特朗普：1000枚导弹已瞄准伊朗",
+          "url": "https://wallstreetcn.com/articles/3776705",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[05时54分 ~ 08时01分]"
         },
         {
           "title": "美官员称美国团队未前往阿曼参加与伊朗的谈判",
@@ -170,17 +186,6 @@
           "time_info": "[01时57分 ~ 04时55分]"
         },
         {
-          "title": "伊朗最高领袖称将报复美以，特朗普：1000枚导弹已瞄准伊朗",
-          "url": "https://wallstreetcn.com/articles/3776705",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时54分 ~ 06时55分]"
-        },
-        {
           "title": "伊朗最高领袖就哈梅内伊之死号召复仇，为新谈判前景增添变数",
           "url": "https://flash.jin10.com/detail/20260711222557487800",
           "source": "金十数据",
@@ -215,6 +220,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时03分 ~ 01时57分]"
+        },
+        {
+          "title": "伊朗宣布关闭霍尔木兹海峡",
+          "url": "https://www.toutiao.com/trending/7660473512151465993/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时00分 ~ 08时01分]"
         },
         {
           "title": "伊朗议长：致阿里·哈梅内伊遇难的责任方必将受到惩罚",
@@ -338,8 +354,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时03分 ~ 06时55分]"
+          "appearance_count": 10,
+          "time_info": "[00时03分 ~ 08时01分]"
+        },
+        {
+          "title": "美股收盘：Meta、英伟达推动指数小幅收高 SK海力士闪耀纳斯达克",
+          "url": "https://www.cls.cn/detail/2423438",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时03分 ~ 08时01分]"
         },
         {
           "title": "AI狂欢持续！SK海力士创海外赴美最大IPO，美股首秀收涨13%",
@@ -353,18 +381,6 @@
           "time_info": "[00时03分 ~ 04时55分]"
         },
         {
-          "title": "美股收盘：Meta、英伟达推动指数小幅收高 SK海力士闪耀纳斯达克",
-          "url": "https://www.cls.cn/detail/2423438",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时03分 ~ 06时55分]"
-        },
-        {
           "title": "SK海力士创纪录赴美上市 美股期指涨跌不一 芯片股盘前普遍下跌 | 今夜看点",
           "url": "https://www.cls.cn/detail/2423243",
           "source": "财联社热门",
@@ -373,8 +389,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时03分 ~ 06时55分]"
+          "appearance_count": 10,
+          "time_info": "[00时03分 ~ 08时01分]"
         },
         {
           "title": "美股涨势背后存在隐忧 数据显示市场内部广度正在收窄",
@@ -402,11 +418,12 @@
           "ranks": [
             13,
             8,
-            7
+            7,
+            14
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[03时13分 ~ 06时55分]"
+          "appearance_count": 8,
+          "time_info": "[03时13分 ~ 08时01分]"
         }
       ]
     },
@@ -440,11 +457,12 @@
           "ranks": [
             6,
             5,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时03分 ~ 06时55分]"
+          "appearance_count": 10,
+          "time_info": "[00时03分 ~ 08时01分]"
         }
       ]
     }
