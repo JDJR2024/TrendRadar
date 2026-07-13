@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-13T19:16:51.485116+08:00",
-  "total_titles_processed": 1072,
+  "generated_at": "2026-07-13T22:51:30.206246+08:00",
+  "total_titles_processed": 1261,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 80,
+      "match_count": 86,
       "titles": [
         {
           "title": "伊朗关闭霍尔木兹海峡、打击美在中东目标，美军对伊发动新一轮袭击、多地传出爆炸声",
@@ -59,8 +59,19 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时49分 ~ 19时16分]"
+          "appearance_count": 4,
+          "time_info": "[11时49分 ~ 22时51分]"
+        },
+        {
+          "title": "穆杰塔巴报复名单加剧对立，美以恐谋求颠覆伊朗现政权",
+          "url": "https://news.ifeng.com/c/8uiovLcFI7X",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时49分 ~ 22时51分]"
         },
         {
           "title": "伊朗打击美国在中东地区目标",
@@ -74,17 +85,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[02时02分 ~ 07时59分]"
-        },
-        {
-          "title": "穆杰塔巴报复名单加剧对立，美以恐谋求颠覆伊朗现政权",
-          "url": "https://news.ifeng.com/c/8uiovLcFI7X",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时49分 ~ 19时16分]"
         },
         {
           "title": "如何看待 7 月 12 日伊朗再次宣布关闭霍尔木兹海峡？这种封锁会成为常态吗？从长期看，要怎么应对？",
@@ -159,7 +159,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时16分"
         },
@@ -173,6 +173,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时59分"
+        },
+        {
+          "title": "特朗普称美国将恢复“针对伊朗的封锁”",
+          "url": "https://wallstreetcn.com/livenews/3132969",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时51分"
         },
         {
           "title": "伊朗称胡齐斯坦省遭美方袭击",
@@ -318,8 +329,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时49分 ~ 19时16分]"
+          "appearance_count": 4,
+          "time_info": "[11时49分 ~ 22时51分]"
         },
         {
           "title": "伊朗海军军官在美军袭击中身亡",
@@ -568,13 +579,24 @@
           "time_info": "07时59分"
         },
         {
+          "title": "美、布两油短线持续走高，现分别报74.71美元/桶和79.5美元/桶。消息面上，特朗普宣布恢复对伊朗封锁。",
+          "url": "https://flash.jin10.com/detail/20260713222044730800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时51分"
+        },
+        {
           "title": "伊朗电视台称，霍尔木兹海峡将继续关闭，直到美国停止干涉。",
           "url": "https://wallstreetcn.com/livenews/3132853",
           "source": "华尔街见闻-快讯",
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时16分"
         },
@@ -596,7 +618,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时16分"
         },
@@ -612,6 +634,28 @@
           "time_info": "16时41分"
         },
         {
+          "title": "现货黄金短线走低，回落至4020美元/盎司下方，日内跌2.50%。消息面上，特朗普宣布恢复对伊朗封锁。",
+          "url": "https://flash.jin10.com/detail/20260713221733697800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时51分"
+        },
+        {
+          "title": "伊朗外交部发言人：要为伤亡的伊朗人复仇",
+          "url": "https://wallstreetcn.com/livenews/3132961",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时51分"
+        },
+        {
           "title": "据CNN：美国中央司令部发言人霍金斯上尉表示，在过去一小时内，伊朗革命卫队向通过霍尔木兹海峡的商船开火。截至目前，美军飞机已成功击落一枚伊朗巡航导弹和一架单向攻击无人机。",
           "url": "https://flash.jin10.com/detail/20260713055814899800",
           "source": "金十数据",
@@ -621,6 +665,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时55分"
+        },
+        {
+          "title": "特朗普：即刻起恢复封锁伊朗 对货物运输收取20%费用",
+          "url": "https://flash.jin10.com/detail/20260713221707911800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时51分"
         },
         {
           "title": "伊朗：不会允许海峡成为对伊朗的威胁。",
@@ -640,7 +695,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时16分"
         },
@@ -695,7 +750,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时16分"
         },
@@ -733,6 +788,17 @@
           "time_info": "11时49分"
         },
         {
+          "title": "伊朗：不会允许美国干涉霍尔木兹海峡管理",
+          "url": "https://wallstreetcn.com/livenews/3132955",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时51分"
+        },
+        {
           "title": "霍尔木兹大战升级！伊朗导弹横扫海湾多国，再次宣布关闭海峡",
           "url": "https://flash.jin10.com/detail/20260713063453673800",
           "source": "金十数据",
@@ -761,7 +827,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时16分"
         },
@@ -805,7 +871,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时16分"
         },
@@ -871,7 +937,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时16分"
         },
@@ -904,7 +970,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时16分"
         },
@@ -926,7 +992,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时16分"
         }
@@ -934,8 +1000,19 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 7,
+      "match_count": 11,
       "titles": [
+        {
+          "title": "AI恐慌叠加中东局势升温，美股指涨跌互现，存储芯片股普跌，SK海力士跌8%，油涨金跌",
+          "url": "https://wallstreetcn.com/articles/3776754",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时51分"
+        },
         {
           "title": "AI恐慌蔓延，美股盘前存储芯片股普跌，SK海力士暴跌15.4%创历史最大跌幅，原油上涨，黄金下跌",
           "url": "https://wallstreetcn.com/articles/3776754",
@@ -1005,6 +1082,17 @@
           "time_info": "16时41分"
         },
         {
+          "title": "美股Q2财报季前瞻：非科技股盈利韧性凸显 科技股“答卷”超预期才能过关",
+          "url": "https://www.cls.cn/detail/2424724",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时51分"
+        },
+        {
           "title": "在纳斯达克强劲首秀后，SK海力士ADR在美股盘前交易下跌10.4%。",
           "url": "https://flash.jin10.com/detail/20260713160438285800",
           "source": "金十数据",
@@ -1014,13 +1102,46 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时41分"
+        },
+        {
+          "title": "美股盘初，主要行业ETF涨跌不一，能源业ETF涨超2%，日常消费品ETF涨近1%，半导体ETF跌2.5%。",
+          "url": "https://wallstreetcn.com/livenews/3132944",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时51分"
+        },
+        {
+          "title": "美股盘初：纳指跌0.7%，存储芯片股普跌，SK海力士跌约8%",
+          "url": "https://wallstreetcn.com/livenews/3132940",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时51分"
         }
       ]
     },
     {
       "keyword_group": "以色列",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
+        {
+          "title": "以色列大使称若美请求以军将参战",
+          "url": "https://wallstreetcn.com/livenews/3132970",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时51分"
+        },
         {
           "title": "也门外交部重申，面对美国和以色列持续不断的侵略，也门将继续支持伊朗。",
           "url": "https://flash.jin10.com/detail/20260713031516956800",
@@ -1093,6 +1214,56 @@
       ]
     },
     {
+      "keyword_group": "世界杯 欧洲杯 亚洲杯",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "世界前四齐聚世界杯四强（附对阵图、比赛时间）",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33569729",
+          "source": "澎湃新闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[02时02分 ~ 11时49分]"
+        },
+        {
+          "title": "为什么世界杯淘汰的球队基本上都是立刻就回国了？可不可以看完所有比赛后再离开？",
+          "url": "https://www.zhihu.com/question/2058981135892461058",
+          "source": "知乎",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时51分"
+        },
+        {
+          "title": "哈兰德以 5 场比赛 7 个进球告别本届世界杯，这一成绩如何？他给你留下哪些令人印象深刻的瞬间？",
+          "url": "https://www.zhihu.com/question/2059562876868583536",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时02分"
+        },
+        {
+          "title": "中国裁判无缘世界杯剩余比赛",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E8%A3%81%E5%88%A4%E6%97%A0%E7%BC%98%E4%B8%96%E7%95%8C%E6%9D%AF%E5%89%A9%E4%BD%99%E6%AF%94%E8%B5%9B%23&t=31&band_rank=24&Refer=top",
+          "source": "微博",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时49分"
+        }
+      ]
+    },
+    {
       "keyword_group": "chatgpt openai",
       "match_count": 3,
       "titles": [
@@ -1125,45 +1296,6 @@
           "source": "bilibili 热搜",
           "ranks": [
             10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时49分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "世界杯 欧洲杯 亚洲杯",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "世界前四齐聚世界杯四强（附对阵图、比赛时间）",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33569729",
-          "source": "澎湃新闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[02时02分 ~ 11时49分]"
-        },
-        {
-          "title": "哈兰德以 5 场比赛 7 个进球告别本届世界杯，这一成绩如何？他给你留下哪些令人印象深刻的瞬间？",
-          "url": "https://www.zhihu.com/question/2059562876868583536",
-          "source": "知乎",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时02分"
-        },
-        {
-          "title": "中国裁判无缘世界杯剩余比赛",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E8%A3%81%E5%88%A4%E6%97%A0%E7%BC%98%E4%B8%96%E7%95%8C%E6%9D%AF%E5%89%A9%E4%BD%99%E6%AF%94%E8%B5%9B%23&t=31&band_rank=24&Refer=top",
-          "source": "微博",
-          "ranks": [
-            24
           ],
           "is_new": false,
           "appearance_count": 1,
