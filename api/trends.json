@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-07-21T17:32:23.767886+08:00",
-  "total_titles_processed": 1204,
+  "generated_at": "2026-07-21T19:50:16.362196+08:00",
+  "total_titles_processed": 1353,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 56,
+      "match_count": 61,
       "titles": [
+        {
+          "title": "约旦称拦截并击落3枚自伊朗发射的导弹",
+          "url": "https://news.ifeng.com/c/8uvTwaa2evE",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[11时35分 ~ 19时50分]"
+        },
         {
           "title": "特朗普：伊朗每杀死一名美军，必将付出数倍代价",
           "url": "https://news.ifeng.com/c/8uvQaW158Al",
@@ -19,17 +30,6 @@
           "time_info": "[02时56分 ~ 08时00分]"
         },
         {
-          "title": "约旦称拦截并击落3枚自伊朗发射的导弹",
-          "url": "https://news.ifeng.com/c/8uvTwaa2evE",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时35分 ~ 17时32分]"
-        },
-        {
           "title": "美军被曝隐瞒伊朗战事中受伤人员数量",
           "url": "https://news.ifeng.com/c/8uwFQqRkygA",
           "source": "凤凰网",
@@ -37,8 +37,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时32分 ~ 17时32分]"
+          "appearance_count": 5,
+          "time_info": "[14时32分 ~ 19时50分]"
         },
         {
           "title": "原油短线下挫！报道称调停方提议美伊停火10天，伊朗称收到提议未透露细节",
@@ -50,8 +50,19 @@
             7
           ],
           "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[07时59分 ~ 19时50分]"
+        },
+        {
+          "title": "“全面战争”！伊朗总统最新发声",
+          "url": "https://news.ifeng.com/c/8uvsqi231GR",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
           "appearance_count": 7,
-          "time_info": "[07时59分 ~ 17时32分]"
+          "time_info": "[11时35分 ~ 19时50分]"
         },
         {
           "title": "伊朗公布打击多国美军基地战果",
@@ -121,17 +132,6 @@
           "time_info": "08时00分"
         },
         {
-          "title": "“全面战争”！伊朗总统最新发声",
-          "url": "https://news.ifeng.com/c/8uvsqi231GR",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时35分 ~ 17时32分]"
-        },
-        {
           "title": "据伊通社（IRNA）：伊朗伊斯法罕省副省长表示，今晚该省未发生爆炸。",
           "url": "https://flash.jin10.com/detail/20260721054624994800",
           "source": "金十数据",
@@ -149,7 +149,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时32分"
         },
@@ -174,6 +174,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时04分"
+        },
+        {
+          "title": "据伊朗法尔斯通讯社：卫星图像分析显示，科威特石油设施遭到严重破坏，艾哈迈迪港原油出口终端损毁严重。",
+          "url": "https://flash.jin10.com/detail/20260721192459810800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时50分"
         },
         {
           "title": "据华尔街日报：伊朗导弹袭击约旦基地美军营房。",
@@ -322,6 +333,17 @@
           "time_info": "04时24分"
         },
         {
+          "title": "科威特称伊朗周一袭击其发电和海水淡化厂",
+          "url": "https://wallstreetcn.com/livenews/3137549",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时50分"
+        },
+        {
           "title": "据伊朗法尔斯通讯社：军方消息人士表示，霍尔木兹海峡的完全控制权掌握在伊朗武装力量手中；关于是否重新开放或继续限制这一通道的任何决定，均将基于安全考虑和国家利益作出。",
           "url": "https://flash.jin10.com/detail/20260721141741206800",
           "source": "金十数据",
@@ -361,7 +383,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时32分"
         },
@@ -405,7 +427,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时32分"
         },
@@ -531,6 +553,17 @@
           "time_info": "06时04分"
         },
         {
+          "title": "据伊朗法尔斯通讯社：卫星图像显示美军在伊拉克埃尔比勒的侦察气球设备帐篷被摧毁。",
+          "url": "https://flash.jin10.com/detail/20260721191156036800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时50分"
+        },
+        {
           "title": "美军称对伊朗发动新一轮打击",
           "url": "https://wallstreetcn.com/livenews/3137080",
           "source": "华尔街见闻-快讯",
@@ -619,6 +652,17 @@
           "time_info": "14时33分"
         },
         {
+          "title": "伊朗总统称与最高领袖的沟通有所增加 且能更方便地与其接触",
+          "url": "https://wallstreetcn.com/livenews/3137532",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时50分"
+        },
+        {
           "title": "特朗普：伊朗每杀死一名美国士兵都将付出“数倍”代价",
           "url": "https://wallstreetcn.com/livenews/3137026",
           "source": "华尔街见闻-快讯",
@@ -628,12 +672,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时56分"
+        },
+        {
+          "title": "伊朗官员周二开始在巴基斯坦与调解人会面。（美联社）",
+          "url": "https://wallstreetcn.com/livenews/3137525",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时50分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 18,
+      "match_count": 23,
       "titles": [
         {
           "title": "中东局势与财报季双重压力下，美股三连跌，芯片股抛售暂歇，中概收涨，油价过山车",
@@ -644,8 +699,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时59分 ~ 17时32分]"
+          "appearance_count": 9,
+          "time_info": "[07时59分 ~ 19时50分]"
         },
         {
           "title": "【早报】美股光通信、存储板块全线走强，中概股多数上涨；油价上行、黄金微跌；三环集团、三花智控、东山精密等计划回购股份",
@@ -718,15 +773,27 @@
           "time_info": "04时24分"
         },
         {
+          "title": "嘉信理财第二财季净新增资产1187亿美元，预期1111.3亿美元。 第二季度调整后每股收益为1.62美元，预期1.55美元。 嘉信理财美股盘前跌1.5%。",
+          "url": "https://wallstreetcn.com/livenews/3137565",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时50分"
+        },
+        {
           "title": "90后清华天才 干崩了美股",
           "url": "https://www.baidu.com/s?wd=90%E5%90%8E%E6%B8%85%E5%8D%8E%E5%A4%A9%E6%89%8D+%E5%B9%B2%E5%B4%A9%E4%BA%86%E7%BE%8E%E8%82%A1",
           "source": "百度热搜",
           "ranks": [
-            4
+            4,
+            6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时32分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时32分 ~ 19时50分]"
         },
         {
           "title": "美股存储芯片反弹",
@@ -775,6 +842,28 @@
           "time_info": "[11时35分 ~ 11时36分]"
         },
         {
+          "title": "美股盘前三大股指期货齐涨",
+          "url": "https://www.douyin.com/hot/2579826",
+          "source": "抖音",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时49分 ~ 19时50分]"
+        },
+        {
+          "title": "90后清华天才 干崩了美股",
+          "url": "https://s.weibo.com/weibo?q=90%E5%90%8E%E6%B8%85%E5%8D%8E%E5%A4%A9%E6%89%8D%20%E5%B9%B2%E5%B4%A9%E4%BA%86%E7%BE%8E%E8%82%A1&t=31&band_rank=28&Refer=top",
+          "source": "微博",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时49分 ~ 19时50分]"
+        },
+        {
           "title": "标普500指数初步收跌0.2%，保健板块跌1%，原材料、工业、房地产板块至多跌0.9%，科技板块大致收平，电信板块涨0.8%。 纳斯达克100指数初步大致收平，成分股中，“新成员”霍尼韦尔航空初步收跌4.5%，，西部数据跌3.7%，RKLB跌3.1%，SpaceX跌3%，特斯拉跌2.8%，苹果跌2%，拼多多涨2.4%，闪迪涨2.7%，Strategy涨3%，泰瑞达涨3.4%，Lumentum涨4.5%。 美股存储芯片指数高开低走，初步收涨大约1.3%于日低附近；费城半导体指数涨0.4%。",
           "url": "https://wallstreetcn.com/livenews/3137070",
           "source": "华尔街见闻-快讯",
@@ -792,7 +881,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时32分"
         },
@@ -814,9 +903,20 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时32分"
+        },
+        {
+          "title": "通用汽车美股盘前走低，现跌超4%，此前一度涨超4%。",
+          "url": "https://wallstreetcn.com/livenews/3137535",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时50分"
         },
         {
           "title": "花旗策略师称美股头寸平仓可能还未结束",
@@ -825,7 +925,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时32分"
         },
@@ -839,6 +939,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时04分"
+        },
+        {
+          "title": "通用汽车第二季度净销售额和营收480.3亿美元，预估466.1亿美元。 第二季度调整后每股收益3.57美元，预估3.19美元。 第二季度调整后息税前利润39.4亿美元，预估37亿美。 通用汽车预计全年调整后每股收益12美元至14美元，此前预计11.50美元至13.50美元，市场预估12.81美元。 通用汽车预计全年调整后息税前利润140亿美元至160亿美元，此前预计135亿美元至155亿美元，市场预估143.8亿美元。 通用汽车预计全年汽车部门调整后自由现金流95亿美元至115亿美元，此前预计90亿美元至110亿美元。 通用汽车预计全年净利润84亿美元至98亿美元，此前预计99亿美元至114亿美元。 通用汽车预计全年资本支出100亿美元至120亿美元。 通用汽车美股盘前涨近2%。",
+          "url": "https://wallstreetcn.com/livenews/3137529",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时50分"
         }
       ]
     },
@@ -953,11 +1064,24 @@
           "source": "知乎",
           "ranks": [
             19,
-            12
+            12,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时32分 ~ 19时50分]"
+        },
+        {
+          "title": "复刻“DeepSeek时刻”？华尔街齐称：Kimi K3反而强化算力需求",
+          "url": "https://wallstreetcn.com/articles/3777510",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[14时32分 ~ 17时32分]"
+          "time_info": "[17时32分 ~ 19时50分]"
         },
         {
           "title": "如何看待追光总裁称《三国第一部：争洛阳》以曹操为主角，是参考了 DeepSeek 的建议?",
@@ -970,17 +1094,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[06时04分 ~ 08时00分]"
-        },
-        {
-          "title": "复刻“DeepSeek时刻”？华尔街齐称：Kimi K3反而强化算力需求",
-          "url": "https://wallstreetcn.com/articles/3777510",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时32分"
         }
       ]
     },
@@ -988,6 +1101,18 @@
       "keyword_group": "谷歌 google gemini",
       "match_count": 3,
       "titles": [
+        {
+          "title": "报道：谷歌正在开发新款芯片，Gemini架构直接写入硅片，效率最高提升10倍",
+          "url": "https://wallstreetcn.com/articles/3777467",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[11时35分 ~ 19时50分]"
+        },
         {
           "title": "谷歌被曝正打造新型AI服务器芯片 目标大幅提升Gemini运行效率",
           "url": "https://www.cls.cn/detail/2431896",
@@ -998,18 +1123,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[11时35分 ~ 14时33分]"
-        },
-        {
-          "title": "报道：谷歌正在开发新款芯片，Gemini架构直接写入硅片，效率最高提升10倍",
-          "url": "https://wallstreetcn.com/articles/3777467",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时35分 ~ 17时32分]"
         },
         {
           "title": "周一（7月20日），美股存储芯片与硬件供应链指数涨1.43%，报192.09点，整体高开低走。 美股超大规模云服务商（Hyperscalers）涨0.67%，报92.61点，美股早盘持续上涨，之后逐步回吐涨幅。 信息科技指数涨1%，报378.18点。 人工智能（AI）赢家指数涨0.73%，报378.70点。 AI软件先驱指数涨0.84%，报109.45点，美股早盘持续反弹，00:00以来高位震荡。 美国科技股七巨头（Magnificent 7）指数涨0.09%，报217.20点。成分股中，特斯拉收跌2.96%，苹果跌2.14%，亚马逊、谷歌A至多涨1.51%，微软涨2.15%。 “超大”市值科技股指数涨0.11%，报431.23点，整体呈现出两波M形走势。",
@@ -1035,11 +1148,12 @@
           "ranks": [
             5,
             8,
-            17
+            17,
+            20
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时35分 ~ 17时32分]"
+          "appearance_count": 7,
+          "time_info": "[11时35分 ~ 19时50分]"
         },
         {
           "title": "OpenAI高管炮轰Kimi",
@@ -1140,6 +1254,19 @@
       "match_count": 2,
       "titles": [
         {
+          "title": "数据复盘｜104场比赛后，48队世界杯改变了什么？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33503168",
+          "source": "澎湃新闻",
+          "ranks": [
+            11,
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时32分 ~ 19时50分]"
+        },
+        {
           "title": "西班牙中场罗德里获 2026 世界杯金球奖，怎样评价他在本届比赛中的表现？对于西班牙队有多重要？",
           "url": "https://www.zhihu.com/question/2062428579145540871",
           "source": "知乎",
@@ -1149,18 +1276,23 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时27分 ~ 02时56分]"
-        },
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 1,
+      "titles": [
         {
-          "title": "数据复盘｜104场比赛后，48队世界杯改变了什么？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33503168",
-          "source": "澎湃新闻",
+          "title": "全球科技股反弹！美股盘前闪迪涨约7%，韩股收涨3.6%，油价回落、金价上涨1%",
+          "url": "https://wallstreetcn.com/articles/3777518",
+          "source": "华尔街见闻",
           "ranks": [
-            11,
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时32分 ~ 17时32分]"
+          "appearance_count": 2,
+          "time_info": "[19时49分 ~ 19时50分]"
         }
       ]
     }
