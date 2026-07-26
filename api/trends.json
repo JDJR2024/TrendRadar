@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-26T21:38:20.115793+08:00",
-  "total_titles_processed": 1163,
+  "generated_at": "2026-07-26T23:10:24.771838+08:00",
+  "total_titles_processed": 1241,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 75,
+      "match_count": 82,
       "titles": [
         {
           "title": "伊朗革命卫队披露美军死亡人数",
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时40分 ~ 21时38分]"
+          "appearance_count": 8,
+          "time_info": "[14时40分 ~ 23时10分]"
         },
         {
           "title": "特朗普下令暂停空袭伊朗",
@@ -30,19 +30,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时22分 ~ 21时38分]"
-        },
-        {
-          "title": "美媒爆猛料，“两国首次直接袭击伊朗”",
-          "url": "https://news.ifeng.com/c/8v324dBINEL",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时04分 ~ 07时05分]"
+          "appearance_count": 9,
+          "time_info": "[11时22分 ~ 23时10分]"
         },
         {
           "title": "特朗普下令暂停空袭伊朗",
@@ -56,8 +45,19 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时22分 ~ 21时38分]"
+          "appearance_count": 9,
+          "time_info": "[11时22分 ~ 23时10分]"
+        },
+        {
+          "title": "美媒爆猛料，“两国首次直接袭击伊朗”",
+          "url": "https://news.ifeng.com/c/8v324dBINEL",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时04分 ~ 07时05分]"
         },
         {
           "title": "被曝向胡塞武装空运军官和武器，伊朗怎么说？",
@@ -71,6 +71,18 @@
           "time_info": "[01时04分 ~ 07时05分]"
         },
         {
+          "title": "乌军袭击商船引发爆炸，伊朗发表声明谴责",
+          "url": "https://news.ifeng.com/c/8v4SrzgNUdY",
+          "source": "凤凰网",
+          "ranks": [
+            8,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[14时40分 ~ 23时10分]"
+        },
+        {
           "title": "伊朗打击亚马逊数据中心，卫星图像公布",
           "url": "https://www.cls.cn/detail/2437013",
           "source": "财联社热门",
@@ -81,20 +93,20 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[01时04分 ~ 21时38分]"
+          "appearance_count": 15,
+          "time_info": "[01时04分 ~ 23时10分]"
         },
         {
-          "title": "乌军袭击商船引发爆炸，伊朗发表声明谴责",
-          "url": "https://news.ifeng.com/c/8v4SrzgNUdY",
-          "source": "凤凰网",
+          "title": "特朗普叫停对伊朗空袭 为霍尔木兹海峡谈判留出空间",
+          "url": "https://www.cls.cn/detail/2437057",
+          "source": "财联社热门",
           "ranks": [
-            8,
-            3
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时40分 ~ 21时38分]"
+          "appearance_count": 9,
+          "time_info": "[11时22分 ~ 23时10分]"
         },
         {
           "title": "Muriel Siebert首席投资官Mark Malek：在通胀和油价高企、投资者担心企业利润率扩张可能放缓的时候，现在真不是推行关税政策的时候。 我们现在必须非常非常谨慎。 尽管霍尔木兹海峡因伊朗战争而关闭，但股市此前已经出现过反弹，相当于用掉了它唯一的“免死金牌”。",
@@ -110,18 +122,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[01时04分 ~ 17时18分]"
-        },
-        {
-          "title": "特朗普叫停对伊朗空袭 为霍尔木兹海峡谈判留出空间",
-          "url": "https://www.cls.cn/detail/2437057",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时22分 ~ 21时38分]"
         },
         {
           "title": "内塔尼亚胡将见特朗普，递交伊朗情报",
@@ -188,17 +188,6 @@
           "time_info": "[14时41分 ~ 21时38分]"
         },
         {
-          "title": "美国常驻联合国代表迈克·华尔兹表示，美国总统特朗普正在给伊朗谈判“留出一些空间”。",
-          "url": "https://flash.jin10.com/detail/20260726210929420800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时38分"
-        },
-        {
           "title": "特朗普下令暂停空袭伊朗",
           "url": "https://wallstreetcn.com/livenews/3139792",
           "source": "华尔街见闻-快讯",
@@ -255,6 +244,42 @@
           "time_info": "01时04分"
         },
         {
+          "title": "沙特媒体：伊朗方面称并未退出谈判，愿在日内瓦多地与美国继续谈判",
+          "url": "https://wallstreetcn.com/livenews/3139857",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时10分"
+        },
+        {
+          "title": "伊朗官员：一艘里海通行伊朗商船遭袭致1死3伤",
+          "url": "https://wallstreetcn.com/livenews/3139855",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时10分"
+        },
+        {
+          "title": "伊朗革命卫队：过去24小时在霍尔木兹海峡拦截6艘船只",
+          "url": "https://wallstreetcn.com/livenews/3139817",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            6,
+            23,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时18分 ~ 23时10分]"
+        },
+        {
           "title": "美媒爆料特朗普已暂时搁置大幅升级对伊朗军事打击计划，白宫方面回应",
           "url": "https://wallstreetcn.com/livenews/3139812",
           "source": "华尔街见闻-快讯",
@@ -280,15 +305,15 @@
           "time_info": "14时41分"
         },
         {
-          "title": "美国驻联合国大使Waltz声称：美国总统特朗普在伊朗战争问题对所有选项保持开放态度。 特朗普向“伊朗谈判”提供空间，（双边、相关）对话“正在进行”。 （关于纽约时报称特朗普因弹药供应不足而暂停袭击伊朗）美军在伊朗战争方面拥有所有的（军事）装备。（NBC News）",
-          "url": "https://wallstreetcn.com/livenews/3139844",
-          "source": "华尔街见闻-快讯",
+          "title": "伊朗陆军发言人称美国已陷入绝境",
+          "url": "https://flash.jin10.com/detail/20260726220235819800",
+          "source": "金十数据",
           "ranks": [
             5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "21时38分"
+          "time_info": "23时10分"
         },
         {
           "title": "伊朗阿曼多轮磋商霍尔木兹海峡问题",
@@ -344,19 +369,6 @@
           "time_info": "[01时04分 ~ 07时05分]"
         },
         {
-          "title": "伊朗革命卫队：过去24小时在霍尔木兹海峡拦截6艘船只",
-          "url": "https://wallstreetcn.com/livenews/3139817",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            6,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时18分 ~ 21时38分]"
-        },
-        {
           "title": "伊朗议会国家安全委员会发言人：伊朗与美国之间的主要争论点是霍尔木兹海峡。 海峡永远不会回到战争前的状态。",
           "url": "https://flash.jin10.com/detail/20260726025410161800",
           "source": "金十数据",
@@ -368,6 +380,19 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时14分 ~ 06时01分]"
+        },
+        {
+          "title": "伊军方：因美方过去两晚停止对伊打击 伊朗暂停对等打击",
+          "url": "https://wallstreetcn.com/livenews/3139828",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            17,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时23分 ~ 23时10分]"
         },
         {
           "title": "伊朗军方：美军在伊拉克埃尔比勒的基础设施基本被毁",
@@ -445,16 +470,29 @@
           "time_info": "[17时18分 ~ 19时23分]"
         },
         {
-          "title": "伊军方：因美方过去两晚停止对伊打击 伊朗暂停对等打击",
-          "url": "https://wallstreetcn.com/livenews/3139828",
-          "source": "华尔街见闻-快讯",
+          "title": "美国常驻联合国代表迈克·华尔兹表示，美国总统特朗普正在给伊朗谈判“留出一些空间”。",
+          "url": "https://flash.jin10.com/detail/20260726210929420800",
+          "source": "金十数据",
           "ranks": [
             1,
-            17
+            13
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[19时23分 ~ 21时38分]"
+          "time_info": "[21时38分 ~ 23时10分]"
+        },
+        {
+          "title": "伊朗陆军发言人称美国已陷入绝境",
+          "url": "https://wallstreetcn.com/livenews/3139825",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            20,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时23分 ~ 23时10分]"
         },
         {
           "title": "据伊朗学生通讯社：伊拉克消息人士称，伊拉克基尔库克省詹布尔油田发生数次剧烈爆炸并引发大范围火灾。",
@@ -482,18 +520,6 @@
           "time_info": "[04时57分 ~ 07时05分]"
         },
         {
-          "title": "伊朗陆军发言人称美国已陷入绝境",
-          "url": "https://wallstreetcn.com/livenews/3139825",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时23分 ~ 21时38分]"
-        },
-        {
           "title": "伊朗称该国商船在里海遭乌克兰袭击致1死1伤",
           "url": "https://wallstreetcn.com/livenews/3139796",
           "source": "华尔街见闻-快讯",
@@ -506,6 +532,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[11时22分 ~ 19时23分]"
+        },
+        {
+          "title": "美国驻联合国大使Waltz声称：美国总统特朗普在伊朗战争问题对所有选项保持开放态度。 特朗普向“伊朗谈判”提供空间，（双边、相关）对话“正在进行”。 （关于纽约时报称特朗普因弹药供应不足而暂停袭击伊朗）美军在伊朗战争方面拥有所有的（军事）装备。（NBC News）",
+          "url": "https://wallstreetcn.com/livenews/3139844",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时38分 ~ 23时10分]"
         },
         {
           "title": "乌对一艘伊朗商船发动袭击致1死1伤",
@@ -630,6 +668,18 @@
           "time_info": "[03时14分 ~ 04时57分]"
         },
         {
+          "title": "伊朗称就霍尔木兹海峡航运管理与阿曼会谈有进展",
+          "url": "https://flash.jin10.com/detail/20260726195546197800",
+          "source": "金十数据",
+          "ranks": [
+            12,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时38分 ~ 23时10分]"
+        },
+        {
           "title": "伊朗公布近期美国在中东地区资产受损清单",
           "url": "https://flash.jin10.com/detail/20260726013050501800",
           "source": "金十数据",
@@ -640,6 +690,42 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时14分 ~ 04时57分]"
+        },
+        {
+          "title": "伊朗总统：美袭击伊朗民用基础设施是“明显的战争罪行”",
+          "url": "https://flash.jin10.com/detail/20260726194950958800",
+          "source": "金十数据",
+          "ranks": [
+            13,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时38分 ~ 23时10分]"
+        },
+        {
+          "title": "伊朗称就霍尔木兹海峡航运管理与阿曼会谈有进展",
+          "url": "https://wallstreetcn.com/livenews/3139835",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时38分 ~ 23时10分]"
+        },
+        {
+          "title": "分析人士：乌克兰打击伊朗商船有两个目的",
+          "url": "https://flash.jin10.com/detail/20260726192629721800",
+          "source": "金十数据",
+          "ranks": [
+            15,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时38分 ~ 23时10分]"
         },
         {
           "title": "美媒曝光特朗普暂停空袭伊朗原因",
@@ -664,6 +750,28 @@
           "time_info": "[17时17分 ~ 17时18分]"
         },
         {
+          "title": "伊朗高级消息人士表示，只要美国维持目前的停火状态，伊朗将停止攻击。（路透）",
+          "url": "https://wallstreetcn.com/livenews/3139853",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时10分"
+        },
+        {
+          "title": "伊朗官员：一艘里海通行伊朗商船遭袭致1死3伤",
+          "url": "https://flash.jin10.com/detail/20260726214337730800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时10分"
+        },
+        {
           "title": "伊朗阿曼多轮磋商霍尔木兹海峡问题",
           "url": "https://flash.jin10.com/detail/20260726133834031800",
           "source": "金十数据",
@@ -686,13 +794,24 @@
           "time_info": "14时41分"
         },
         {
+          "title": "沙特媒体：伊朗方面称并未退出谈判，愿在日内瓦多地与美国继续谈判",
+          "url": "https://flash.jin10.com/detail/20260726212720415800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时10分"
+        },
+        {
           "title": "伊朗称15天内摧毁多架美军战机",
           "url": "https://www.douyin.com/hot/2585398",
           "source": "抖音",
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时38分"
         },
@@ -719,15 +838,15 @@
           "time_info": "14时41分"
         },
         {
-          "title": "伊朗称就霍尔木兹海峡航运管理与阿曼会谈有进展",
-          "url": "https://flash.jin10.com/detail/20260726195546197800",
+          "title": "伊高级消息人士：只要美国继续维持停火状态 伊朗也将停止攻击",
+          "url": "https://flash.jin10.com/detail/20260726211546067800",
           "source": "金十数据",
           "ranks": [
             12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "21时38分"
+          "time_info": "23时10分"
         },
         {
           "title": "伊朗外交部发言人：伊朗与阿曼关于霍尔木兹海峡的谈判富有成效。双方的技术和政治磋商正在进行中。",
@@ -739,17 +858,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时41分"
-        },
-        {
-          "title": "伊朗总统：美袭击伊朗民用基础设施是“明显的战争罪行”",
-          "url": "https://flash.jin10.com/detail/20260726194950958800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时38分"
         },
         {
           "title": "伊朗革命卫队发言人：在15天的战斗中，我们摧毁了11架美国战斗机和直升机。",
@@ -774,17 +882,6 @@
           "time_info": "14时41分"
         },
         {
-          "title": "伊朗称就霍尔木兹海峡航运管理与阿曼会谈有进展",
-          "url": "https://wallstreetcn.com/livenews/3139835",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时38分"
-        },
-        {
           "title": "据悉阿曼与伊朗谈判取得进展 特朗普周五叫停对伊打击",
           "url": "https://flash.jin10.com/detail/20260726010043722800",
           "source": "金十数据",
@@ -794,17 +891,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时14分"
-        },
-        {
-          "title": "分析人士：乌克兰打击伊朗商船有两个目的",
-          "url": "https://flash.jin10.com/detail/20260726192629721800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时38分"
         },
         {
           "title": "美国在伊朗战争中弹药消耗情况一览",
@@ -920,7 +1006,7 @@
     },
     {
       "keyword_group": "以色列",
-      "match_count": 19,
+      "match_count": 24,
       "titles": [
         {
           "title": "内塔尼亚胡交权，以色列要变天？",
@@ -956,6 +1042,28 @@
           "time_info": "14时41分"
         },
         {
+          "title": "以色列总理内塔尼亚胡：伊朗问题取决于特朗普的决定。",
+          "url": "https://flash.jin10.com/detail/20260726222401916800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时10分"
+        },
+        {
+          "title": "据伊朗高级知情人士透露，美国暂停对伊朗袭击之后，（对美国+以色列的）“怀疑态度超过乐观情绪”。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3139858",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时10分"
+        },
+        {
           "title": "分析｜美国本轮已连续袭击伊朗13晚，以色列为何“隐身”？",
           "url": "https://m.thepaper.cn/newsDetail_forward_33650717",
           "source": "澎湃新闻",
@@ -968,6 +1076,17 @@
           "time_info": "[01时04分 ~ 07时05分]"
         },
         {
+          "title": "以色列总理内塔尼亚胡：如果伊朗以任何方式发动攻击，我们的回应将是强有力的。",
+          "url": "https://flash.jin10.com/detail/20260726222300049800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时10分"
+        },
+        {
           "title": "以色列声称在加沙击毙3名哈马斯武装分子",
           "url": "https://flash.jin10.com/detail/20260726102619822800",
           "source": "金十数据",
@@ -977,6 +1096,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时22分"
+        },
+        {
+          "title": "以色列总理内塔尼亚胡：战争将在伊朗政权垮台或被削弱到必须终止其核计划时才会结束。",
+          "url": "https://flash.jin10.com/detail/20260726222250657800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时10分"
+        },
+        {
+          "title": "以色列总理内塔尼亚胡：必须结束伊朗的核计划，无论是通过协议还是不通过协议。",
+          "url": "https://flash.jin10.com/detail/20260726222206221800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时10分"
         },
         {
           "title": "据以色列广播局：在以色列国家安全部长本·格维尔住宅附近坠毁的无人机仅携带了摄像头。",
@@ -1155,7 +1296,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "【早报】美股芯片股重挫；油价跳水、黄金微涨；视网膜芯片获准在欧上市；宁德时代抛出A股史上最大规模回购方案",
@@ -1167,8 +1308,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[01时04分 ~ 21时38分]"
+          "appearance_count": 15,
+          "time_info": "[01时04分 ~ 23时10分]"
         },
         {
           "title": "美伊谈判希望重燃，原油一度跌超5%，科技股压制美股反弹，芯片指数暴跌4%",
@@ -1189,8 +1330,20 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时40分 ~ 21时38分]"
+          "appearance_count": 8,
+          "time_info": "[14时40分 ~ 23时10分]"
+        },
+        {
+          "title": "高盛交易主管：美股“操作难度依然极高”，建议逢低布局黄金",
+          "url": "https://wallstreetcn.com/articles/3777937",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时17分 ~ 23时10分]"
         },
         {
           "title": "美股收盘：三大指数走势分化 存储&光通信重挫 闪迪跌超10%",
@@ -1204,16 +1357,15 @@
           "time_info": "[01时04分 ~ 07时05分]"
         },
         {
-          "title": "高盛交易主管：美股“操作难度依然极高”，建议逢低布局黄金",
-          "url": "https://wallstreetcn.com/articles/3777937",
-          "source": "华尔街见闻",
+          "title": "提醒：下周一（7月27日）美股盘后，铿腾电子（CDNS）、Rambus将发布业绩报告。 下周二美股盘前，康宁公司（GLW）、波音、可口可乐将发布业绩报告； 美股盘后，希捷科技、恩智浦将、福特汽车发布业绩报告。 下周三美股盘后，微软、Meta、高通、Arm控股、拉姆研究发布业绩报告。 下周四美股盘后，苹果、亚马逊、Coinbase发布业绩报告。 下周五美股盘前，雪佛龙、埃克森美孚发布业绩报告。",
+          "url": "https://wallstreetcn.com/livenews/3139854",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            10,
-            9
+            5
           ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时17分 ~ 21时38分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时10分"
         },
         {
           "title": "美股已经有人在提前跑路了",
@@ -1349,6 +1501,18 @@
       "match_count": 2,
       "titles": [
         {
+          "title": "马斯克、黄仁勋最新涉华表态：中国注定会产出卓越的AI技术，美国就算禁用也挡不住",
+          "url": "https://wallstreetcn.com/livenews/3139836",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时38分 ~ 23时10分]"
+        },
+        {
           "title": "顺钠股份：针对AI算力中心、超大型数据中心对供电可靠性及能效的要求开展前瞻性技术研究及产品研发",
           "url": "https://flash.jin10.com/detail/20260726154611236800",
           "source": "金十数据",
@@ -1358,17 +1522,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时18分"
-        },
-        {
-          "title": "马斯克、黄仁勋最新涉华表态：中国注定会产出卓越的AI技术，美国就算禁用也挡不住",
-          "url": "https://wallstreetcn.com/livenews/3139836",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时38分"
         }
       ]
     },
