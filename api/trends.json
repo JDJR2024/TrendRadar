@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-29T06:08:25.906454+08:00",
-  "total_titles_processed": 531,
+  "generated_at": "2026-07-29T11:31:49.981077+08:00",
+  "total_titles_processed": 754,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 31,
+      "match_count": 38,
       "titles": [
         {
           "title": "美暂停打击伊朗的军事行动，是因为美军被打疼了？",
@@ -40,6 +40,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时18分"
+        },
+        {
+          "title": "伊朗称在霍尔木兹海峡拦截3艘“违规”油轮",
+          "url": "https://wallstreetcn.com/livenews/3141422",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时31分"
+        },
+        {
+          "title": "伊朗称在霍尔木兹海峡拦截3艘“违规”油轮",
+          "url": "https://flash.jin10.com/detail/20260729111612274800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时31分"
         },
         {
           "title": "效仿伊朗扼住中东原油命门？也门政府警告：胡塞武装或控制曼德海峡",
@@ -147,6 +169,17 @@
           "time_info": "04时20分"
         },
         {
+          "title": "专家：乌克兰对伊朗商船动手，是在向美国交“投名状”",
+          "url": "https://news.ifeng.com/c/8v8Yy57TOBs",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时31分"
+        },
+        {
           "title": "伊朗：如果阿曼拒绝我方条款，伊朗是不会承认霍尔木兹海峡南侧航线的。 如果没能达成阿曼协议，我们将继续支持（靠近伊朗边界的）我们的海峡航线。",
           "url": "https://wallstreetcn.com/livenews/3141147",
           "source": "华尔街见闻-快讯",
@@ -158,13 +191,35 @@
           "time_info": "02时18分"
         },
         {
+          "title": "据伊朗媒体Fars News：也门武装部队发言人称，击落了一架沙特的“卡里亚尔”侦察机。",
+          "url": "https://flash.jin10.com/detail/20260729111118972800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时31分"
+        },
+        {
+          "title": "7月29日投资避雷针：伊朗发射多枚导弹袭击驻中东美军 WTI原油期货早盘一度涨超5%",
+          "url": "https://www.cls.cn/detail/2439585",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时31分"
+        },
+        {
           "title": "美国官员：伊朗在霍尔木兹海的要求过于苛刻，阿曼、美国及国际社会对此正当拒绝。",
           "url": "https://flash.jin10.com/detail/20260729043825142800",
           "source": "金十数据",
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时08分"
         },
@@ -211,6 +266,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时18分"
+        },
+        {
+          "title": "对伊朗军事行动以来，美以领导人首次会晤",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33678142",
+          "source": "澎湃新闻",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时31分"
         },
         {
           "title": "美国中央司令部：目前有超过20艘舰船在中东地区执行军事行动，包括严格执行美国对伊朗的“钢铁封锁”。截至7月28日，美国中央司令部已重新引导18艘商业船只改变航线，击毁2艘，并登船检查2艘，以确保全面遵守封锁措施。",
@@ -354,12 +420,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时20分"
+        },
+        {
+          "title": "伊朗称打击约旦境内美军目标",
+          "url": "https://wallstreetcn.com/livenews/3141366",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时31分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 14,
+      "match_count": 17,
       "titles": [
         {
           "title": "美股期指走势分化 芯片股继续下挫 道指期货涨近1% | 今夜看点",
@@ -367,11 +444,12 @@
           "source": "财联社热门",
           "ranks": [
             2,
-            3
+            3,
+            5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时44分 ~ 06时08分]"
+          "appearance_count": 6,
+          "time_info": "[00时44分 ~ 11时31分]"
         },
         {
           "title": "中国DRAM巨头搅动全球格局，美股存储芯片跳水，SK海力士破发，闪迪一个月接近腰斩",
@@ -383,6 +461,19 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时44分 ~ 04时20分]"
+        },
+        {
+          "title": "康宁美股盘前暴跌15%！Q2营收利润双超预期，但Q3收入指引不够“惊喜”| 财报见闻",
+          "url": "https://wallstreetcn.com/articles/3778135",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时44分 ~ 11时31分]"
         },
         {
           "title": "长鑫上市后，美股「半导体 - 芯片板块」普跌，SK 海力士破发，早盘韩股熔断，日经大跌，对此你怎么看？",
@@ -398,6 +489,40 @@
           "time_info": "[00时44分 ~ 06时08分]"
         },
         {
+          "title": "美股涨跌不一，半导体连续两日遭抛售，苹果市值首次突破5万亿美元，金银油齐跌",
+          "url": "https://wallstreetcn.com/articles/3778080",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时31分"
+        },
+        {
+          "title": "美股半导体崩盘,闪迪跌破新低",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356568&amp;topic_name=%E7%BE%8E%E8%82%A1%E5%8D%8A%E5%AF%BC%E4%BD%93%E5%B4%A9%E7%9B%98%2C%E9%97%AA%E8%BF%AA%E8%B7%8C%E7%A0%B4%E6%96%B0%E4%BD%8E",
+          "source": "贴吧",
+          "ranks": [
+            11,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时44分 ~ 11时31分]"
+        },
+        {
+          "title": "美股收盘：AI概念延续“血色一夜” 另一场狂欢由此开启",
+          "url": "https://www.cls.cn/detail/2439531",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时31分"
+        },
+        {
           "title": "希捷科技(STX.O)美股盘后涨超8%，其营收指引高于预期。",
           "url": "https://flash.jin10.com/detail/20260729041437595800",
           "source": "金十数据",
@@ -407,30 +532,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时20分"
-        },
-        {
-          "title": "康宁美股盘前暴跌15%！Q2营收利润双超预期，但Q3收入指引不够“惊喜”| 财报见闻",
-          "url": "https://wallstreetcn.com/articles/3778135",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时44分 ~ 06时08分]"
-        },
-        {
-          "title": "美股半导体崩盘,闪迪跌破新低",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356568&amp;topic_name=%E7%BE%8E%E8%82%A1%E5%8D%8A%E5%AF%BC%E4%BD%93%E5%B4%A9%E7%9B%98%2C%E9%97%AA%E8%BF%AA%E8%B7%8C%E7%A0%B4%E6%96%B0%E4%BD%8E",
-          "source": "贴吧",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时44分 ~ 06时08分]"
         },
         {
           "title": "美股AI硬件板块暴跌 美光科技跌逾12%",
@@ -454,6 +555,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时20分"
+        },
+        {
+          "title": "美股芯片存储大跌",
+          "url": "https://www.douyin.com/hot/2588858",
+          "source": "抖音",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时31分"
         },
         {
           "title": "金十图示：2026年07月28日（周二）热门中概股行情一览（美股收盘）",
@@ -484,7 +596,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时08分"
         },
@@ -495,7 +607,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时08分"
         },
@@ -506,7 +618,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时08分"
         },
@@ -674,7 +786,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 5,
+      "match_count": 7,
       "titles": [
         {
           "title": "OpenAI越狱代理攻击范围扩大 再曝一公司客户账户遭入侵",
@@ -683,7 +795,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时08分"
         },
@@ -705,9 +817,20 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时08分"
+        },
+        {
+          "title": "ChatGPT周活跃用户数接近10亿。（Information）",
+          "url": "https://wallstreetcn.com/livenews/3141393",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时31分"
         },
         {
           "title": "OpenAI与Anthropic员工联名致信 呼吁美政府建立机制监控AI发展",
@@ -719,6 +842,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时18分"
+        },
+        {
+          "title": "OpenAI模型失控新的受害者曝光",
+          "url": "https://www.baidu.com/s?wd=OpenAI%E6%A8%A1%E5%9E%8B%E5%A4%B1%E6%8E%A7%E6%96%B0%E7%9A%84%E5%8F%97%E5%AE%B3%E8%80%85%E6%9B%9D%E5%85%89",
+          "source": "百度热搜",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时31分"
         },
         {
           "title": "OpenAI与Anthropic员工联名致信，呼吁美国政府协助治理AI",
@@ -793,11 +927,12 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356554&amp;topic_name=%E7%9C%9F%E9%80%97%2CDeepSeek%E8%AF%B4%E8%A6%81%E5%8E%BB%E5%90%83%E9%A5%AD",
           "source": "贴吧",
           "ranks": [
-            20
+            20,
+            28
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时44分 ~ 06时08分]"
+          "appearance_count": 6,
+          "time_info": "[00时44分 ~ 11时31分]"
         }
       ]
     },
@@ -830,7 +965,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时08分"
         }
