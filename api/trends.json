@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-29T11:31:49.981077+08:00",
-  "total_titles_processed": 754,
+  "generated_at": "2026-07-29T14:35:46.661537+08:00",
+  "total_titles_processed": 946,
   "failed_sources": [],
   "trends": [
     {
@@ -48,7 +48,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时31分"
         },
@@ -59,7 +59,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时31分"
         },
@@ -135,6 +135,29 @@
           "time_info": "[00时44分 ~ 02时18分]"
         },
         {
+          "title": "专家：乌克兰对伊朗商船动手，是在向美国交“投名状”",
+          "url": "https://news.ifeng.com/c/8v8Yy57TOBs",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时31分 ~ 14时35分]"
+        },
+        {
+          "title": "7月29日投资避雷针：伊朗发射多枚导弹袭击驻中东美军 WTI原油期货早盘一度涨超5%",
+          "url": "https://www.cls.cn/detail/2439585",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时31分 ~ 14时35分]"
+        },
+        {
           "title": "伊朗副外长：德黑兰向阿曼提议，由伊朗负责管理霍尔木兹海峡一侧的单向航运通行，阿曼则负责管理另一侧的通行。",
           "url": "https://wallstreetcn.com/livenews/3141145",
           "source": "华尔街见闻-快讯",
@@ -145,6 +168,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时18分 ~ 04时20分]"
+        },
+        {
+          "title": "对伊朗军事行动以来，美以领导人首次会晤",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33678142",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时31分 ~ 14时35分]"
         },
         {
           "title": "伊朗外长：与欧盟外交与安全政策高级代表通电话。双方就地区及国际局势的最新发展，以及如何缓解紧张局势、维护地区稳定与安全等议题进行了探讨。",
@@ -169,17 +204,6 @@
           "time_info": "04时20分"
         },
         {
-          "title": "专家：乌克兰对伊朗商船动手，是在向美国交“投名状”",
-          "url": "https://news.ifeng.com/c/8v8Yy57TOBs",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时31分"
-        },
-        {
           "title": "伊朗：如果阿曼拒绝我方条款，伊朗是不会承认霍尔木兹海峡南侧航线的。 如果没能达成阿曼协议，我们将继续支持（靠近伊朗边界的）我们的海峡航线。",
           "url": "https://wallstreetcn.com/livenews/3141147",
           "source": "华尔街见闻-快讯",
@@ -197,18 +221,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时31分"
-        },
-        {
-          "title": "7月29日投资避雷针：伊朗发射多枚导弹袭击驻中东美军 WTI原油期货早盘一度涨超5%",
-          "url": "https://www.cls.cn/detail/2439585",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时31分"
         },
@@ -266,17 +279,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时18分"
-        },
-        {
-          "title": "对伊朗军事行动以来，美以领导人首次会晤",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33678142",
-          "source": "澎湃新闻",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时31分"
         },
         {
           "title": "美国中央司令部：目前有超过20艘舰船在中东地区执行军事行动，包括严格执行美国对伊朗的“钢铁封锁”。截至7月28日，美国中央司令部已重新引导18艘商业船只改变航线，击毁2艘，并登船检查2艘，以确保全面遵守封锁措施。",
@@ -428,7 +430,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时31分"
         }
@@ -436,7 +438,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 17,
+      "match_count": 18,
       "titles": [
         {
           "title": "美股期指走势分化 芯片股继续下挫 道指期货涨近1% | 今夜看点",
@@ -472,8 +474,43 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时44分 ~ 11时31分]"
+          "appearance_count": 7,
+          "time_info": "[00时44分 ~ 14时35分]"
+        },
+        {
+          "title": "美股涨跌不一，半导体连续两日遭抛售，苹果市值首次突破5万亿美元，金银油齐跌",
+          "url": "https://wallstreetcn.com/articles/3778080",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时31分 ~ 14时35分]"
+        },
+        {
+          "title": "美股半导体崩盘,闪迪跌破新低",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356568&amp;topic_name=%E7%BE%8E%E8%82%A1%E5%8D%8A%E5%AF%BC%E4%BD%93%E5%B4%A9%E7%9B%98%2C%E9%97%AA%E8%BF%AA%E8%B7%8C%E7%A0%B4%E6%96%B0%E4%BD%8E",
+          "source": "贴吧",
+          "ranks": [
+            11,
+            17,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时44分 ~ 14时35分]"
+        },
+        {
+          "title": "美股收盘：AI概念延续“血色一夜” 另一场狂欢由此开启",
+          "url": "https://www.cls.cn/detail/2439531",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时31分 ~ 14时35分]"
         },
         {
           "title": "长鑫上市后，美股「半导体 - 芯片板块」普跌，SK 海力士破发，早盘韩股熔断，日经大跌，对此你怎么看？",
@@ -487,40 +524,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时44分 ~ 06时08分]"
-        },
-        {
-          "title": "美股涨跌不一，半导体连续两日遭抛售，苹果市值首次突破5万亿美元，金银油齐跌",
-          "url": "https://wallstreetcn.com/articles/3778080",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时31分"
-        },
-        {
-          "title": "美股半导体崩盘,闪迪跌破新低",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356568&amp;topic_name=%E7%BE%8E%E8%82%A1%E5%8D%8A%E5%AF%BC%E4%BD%93%E5%B4%A9%E7%9B%98%2C%E9%97%AA%E8%BF%AA%E8%B7%8C%E7%A0%B4%E6%96%B0%E4%BD%8E",
-          "source": "贴吧",
-          "ranks": [
-            11,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时44分 ~ 11时31分]"
-        },
-        {
-          "title": "美股收盘：AI概念延续“血色一夜” 另一场狂欢由此开启",
-          "url": "https://www.cls.cn/detail/2439531",
-          "source": "财联社热门",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时31分"
         },
         {
           "title": "希捷科技(STX.O)美股盘后涨超8%，其营收指引高于预期。",
@@ -546,6 +549,18 @@
           "time_info": "[04时19分 ~ 06时08分]"
         },
         {
+          "title": "美股芯片存储大跌",
+          "url": "https://www.douyin.com/hot/2588858",
+          "source": "抖音",
+          "ranks": [
+            9,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时31分 ~ 14时35分]"
+        },
+        {
           "title": "金十图示：2026年07月28日（周二）美股热门股票行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20260729040547613800",
           "source": "金十数据",
@@ -555,17 +570,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时20分"
-        },
-        {
-          "title": "美股芯片存储大跌",
-          "url": "https://www.douyin.com/hot/2588858",
-          "source": "抖音",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时31分"
         },
         {
           "title": "金十图示：2026年07月28日（周二）热门中概股行情一览（美股收盘）",
@@ -632,12 +636,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时44分"
+        },
+        {
+          "title": "美股股指期货持续走低，纳斯达克100指数期货跌超1%，标普500指数期货跌0.35%，道琼斯指数期货跌0.24%。",
+          "url": "https://wallstreetcn.com/livenews/3141455",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时35分"
         }
       ]
     },
     {
       "keyword_group": "以色列",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "美国总统特使威特科夫、 美国财长贝森特、 美国国务卿鲁比奥参加了美国总统特朗普与以色列总理内塔尼亚胡的会议。",
@@ -693,6 +708,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时18分"
+        },
+        {
+          "title": "以色列国防军：在安全区内发现军事装备。此外，以色列国防军士兵在拉斯拜达地区发现一名可疑人员，该人员以对士兵构成威胁的方式接近。以军向其开火以消除威胁。",
+          "url": "https://flash.jin10.com/detail/20260729142725150800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时35分"
         },
         {
           "title": "据以色列媒体：华盛顿消息人士称，美国总统特朗普在会议期间并未要求以色列从任何区域撤军。",
@@ -828,7 +854,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时31分"
         },
@@ -850,7 +876,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时31分"
         },
