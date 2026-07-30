@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-30T15:38:05.032695+08:00",
-  "total_titles_processed": 924,
+  "generated_at": "2026-07-30T18:29:39.004537+08:00",
+  "total_titles_processed": 1101,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 26,
+      "match_count": 31,
       "titles": [
         {
           "title": "特朗普称美国将强力打击伊朗 中东局势升级推动国际油价大幅飙升",
@@ -29,8 +29,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时09分 ~ 15时38分]"
+          "appearance_count": 4,
+          "time_info": "[12时09分 ~ 18时29分]"
         },
         {
           "title": "布油大涨7%！特朗普警告：将对伊朗“大力打击”",
@@ -56,6 +56,17 @@
           "time_info": "06时09分"
         },
         {
+          "title": "科威特军方：伊朗袭击该国北部致一中企雇员死亡",
+          "url": "https://news.ifeng.com/c/8vBRvOidAuY",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时29分"
+        },
+        {
           "title": "Kpler大宗商品研究主管Matt Smith表示，全球燃料供应极其紧张，这促使炼油商开足马力以获取异常丰厚的利润。在乌克兰和伊朗战争引发的供应中断之后，燃料市场已几乎没有缓冲空间。 “超大规模的炼油利润继续促使炼油商尽可能满负荷运转，导致原油库存被大幅消耗。”",
           "url": "https://wallstreetcn.com/livenews/3141927",
           "source": "华尔街见闻-快讯",
@@ -78,15 +89,37 @@
           "time_info": "06时09分"
         },
         {
+          "title": "有报道称中方将提供400枚肩扛式导弹给伊朗，外交部：毫无根据",
+          "url": "https://news.ifeng.com/c/8vBNVZCUP9m",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时29分"
+        },
+        {
           "title": "伊朗伊斯兰革命卫队：侵略者将在今天受到惩罚。",
           "url": "https://flash.jin10.com/detail/20260730152849860800",
           "source": "金十数据",
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时38分"
+        },
+        {
+          "title": "市场消息：美国对伊朗的袭击导致三名革命卫队成员遇害。",
+          "url": "https://flash.jin10.com/detail/20260730182113289800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时29分"
         },
         {
           "title": "【美沙空袭伊拉克致4名伊朗革命卫队成员身亡】总台记者当地时间29日获悉，伊朗中央省副省长表示，美国和沙特当天凌晨对伊拉克迪亚拉省发动联合空袭，造成四名伊朗伊斯兰革命卫队成员死亡。（央视）",
@@ -109,6 +142,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时09分"
+        },
+        {
+          "title": "历史性一刻，伊朗先发制人袭击美军基地",
+          "url": "https://v.ifeng.com/c/8vA9hUsD4WZ",
+          "source": "凤凰网",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时09分 ~ 18时29分]"
         },
         {
           "title": "拒绝阿曼“霍尔木兹海峡”提案、要求更多控制权，伊朗再向美军基地发射导弹",
@@ -144,18 +189,6 @@
           "time_info": "[01时20分 ~ 03时23分]"
         },
         {
-          "title": "历史性一刻，伊朗先发制人袭击美军基地",
-          "url": "https://v.ifeng.com/c/8vA9hUsD4WZ",
-          "source": "凤凰网",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时09分 ~ 15时38分]"
-        },
-        {
           "title": "中国向伊朗提供武器？特朗普搅混水：要是真的，很失望",
           "url": "https://news.ifeng.com/c/8vAy9S9JapS",
           "source": "凤凰网",
@@ -173,7 +206,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时38分"
         },
@@ -200,13 +233,24 @@
           "time_info": "12时09分"
         },
         {
+          "title": "爆炸声又起！特朗普誓言痛击伊朗后 美军发动新一轮打击",
+          "url": "https://www.cls.cn/detail/2441051",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时29分"
+        },
+        {
           "title": "有报道称中方将提供400套导弹发射器给伊朗，外交部：有关报道不符合事实、毫无根据",
           "url": "https://flash.jin10.com/detail/20260730152147676800",
           "source": "金十数据",
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时38分"
         },
@@ -242,6 +286,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时20分"
+        },
+        {
+          "title": "伊朗将接收中国造肩扛式防空导弹发射装置？外交部：不符合事实",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33684903",
+          "source": "澎湃新闻",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时29分"
         },
         {
           "title": "美称伊朗发射导弹袭击驻中东美军",
@@ -478,6 +533,19 @@
       "match_count": 5,
       "titles": [
         {
+          "title": "为什么 ChatGPT 已经发布 4 年了，社会总生产力纹丝不动？",
+          "url": "https://www.zhihu.com/question/2065583157664018461",
+          "source": "知乎",
+          "ranks": [
+            7,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时09分 ~ 18时29分]"
+        },
+        {
           "title": "OpenAI针对学术研究员推出ChatGPT。",
           "url": "https://wallstreetcn.com/livenews/3141809",
           "source": "华尔街见闻-快讯",
@@ -487,18 +555,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时20分"
-        },
-        {
-          "title": "为什么 ChatGPT 已经发布 4 年了，社会总生产力纹丝不动？",
-          "url": "https://www.zhihu.com/question/2065583157664018461",
-          "source": "知乎",
-          "ranks": [
-            7,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时09分 ~ 15时38分]"
         },
         {
           "title": "OpenAI 、 Anthropic 等上千员工联名请愿美政府控制 AI 发展速度，反映了什么？有何影响？",
@@ -545,11 +601,12 @@
           "url": "https://news.ifeng.com/c/8v9V5d2YFtT",
           "source": "凤凰网",
           "ranks": [
-            8
+            8,
+            5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时09分 ~ 15时38分]"
+          "appearance_count": 4,
+          "time_info": "[12时09分 ~ 18时29分]"
         },
         {
           "title": "以色列国防部长：我们摧毁了加沙",
@@ -635,11 +692,12 @@
           "url": "https://wallstreetcn.com/articles/3778176",
           "source": "华尔街见闻",
           "ranks": [
-            1
+            1,
+            5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时09分 ~ 15时38分]"
+          "appearance_count": 4,
+          "time_info": "[12时09分 ~ 18时29分]"
         },
         {
           "title": "彭博：美债收益率表明沃什如此有耐心是错的",
@@ -690,6 +748,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时09分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "人工智能 AI ChatGPT",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "据英国金融时报：亚马逊发现多起人工智能导致技术项目支出失控的案例。",
+          "url": "https://flash.jin10.com/detail/20260730180612911800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时29分"
         }
       ]
     }
