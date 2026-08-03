@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-03T08:02:58.483895+08:00",
-  "total_titles_processed": 560,
+  "generated_at": "2026-08-03T12:34:10.779151+08:00",
+  "total_titles_processed": 788,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 51,
+      "match_count": 54,
       "titles": [
         {
           "title": "TACO！特朗普“取消对伊朗打击”，伊朗否认曾要求停火，沙特王储曾致电美方“敦促缓和局势”",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时04分 ~ 08时02分]"
+          "appearance_count": 8,
+          "time_info": "[01时04分 ~ 12时34分]"
         },
         {
           "title": "美以拟周末对伊朗能源基础设施实施“猛烈轰炸” ，瞄准发电厂、炼油厂，伊朗：全面反击方案已就绪",
@@ -40,6 +40,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时04分 ~ 08时02分]"
+        },
+        {
+          "title": "伊朗看到了美国的3个软肋",
+          "url": "https://news.ifeng.com/c/8vHU3Votl6y",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时33分 ~ 12时34分]"
         },
         {
           "title": "特朗普称应伊方要求同意取消打击 伊朗反驳：并未要求停战！",
@@ -84,7 +95,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时02分"
         },
@@ -100,6 +111,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时04分 ~ 06时04分]"
+        },
+        {
+          "title": "【早报】特朗普称取消打击伊朗，原油大跌、黄金上涨；央行定调下半年货币政策",
+          "url": "https://www.cls.cn/detail/2443662",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时02分 ~ 12时34分]"
         },
         {
           "title": "伊朗：与阿曼之间关于霍尔木兹海峡管理的磋商处于最终阶段，对话不涉及海峡的关闭或开放",
@@ -275,6 +298,17 @@
           "time_info": "[01时04分 ~ 03时16分]"
         },
         {
+          "title": "事关霍尔木兹！特朗普称今日举行谈判，伊朗重申“不会恢复至战前”！",
+          "url": "https://www.cls.cn/detail/2443690",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时33分 ~ 12时34分]"
+        },
+        {
           "title": "阿拉格齐：伊朗与阿曼谈判接近完成",
           "url": "https://flash.jin10.com/detail/20260803005246093800",
           "source": "金十数据",
@@ -287,6 +321,17 @@
           "time_info": "[01时04分 ~ 03时16分]"
         },
         {
+          "title": "伊朗袭击乌军基地？实为纽约大火",
+          "url": "https://www.toutiao.com/trending/7669212085427339283/",
+          "source": "今日头条",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时33分 ~ 12时34分]"
+        },
+        {
           "title": "据伊朗学生通讯社：在乌克兰袭击中遇袭的伊朗商船船员及遇难船员遗体已返回伊朗。",
           "url": "https://flash.jin10.com/detail/20260803030602050800",
           "source": "金十数据",
@@ -297,17 +342,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时01分 ~ 06时04分]"
-        },
-        {
-          "title": "【早报】特朗普称取消打击伊朗，原油大跌、黄金上涨；央行定调下半年货币政策",
-          "url": "https://www.cls.cn/detail/2443662",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时02分"
         },
         {
           "title": "伊朗外交部发言人：对方知道，我们对任何针对我们的冒险行为将作出强烈回应。",
@@ -503,7 +537,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时02分"
         },
@@ -514,7 +548,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时02分"
         },
@@ -525,7 +559,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时02分"
         },
@@ -536,7 +570,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时02分"
         },
@@ -547,7 +581,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时02分"
         },
@@ -599,18 +633,30 @@
     },
     {
       "keyword_group": "以色列",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
         {
           "title": "西班牙被冲,以色列发推庆祝",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356713&amp;topic_name=%E8%A5%BF%E7%8F%AD%E7%89%99%E8%A2%AB%E5%86%B2%2C%E4%BB%A5%E8%89%B2%E5%88%97%E5%8F%91%E6%8E%A8%E5%BA%86%E7%A5%9D",
           "source": "贴吧",
           "ranks": [
-            17
+            17,
+            26
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时04分 ~ 08时02分]"
+          "appearance_count": 8,
+          "time_info": "[01时04分 ~ 12时34分]"
+        },
+        {
+          "title": "面临双重困局？以色列自曝被盟友抛弃",
+          "url": "https://news.ifeng.com/c/8vHV3ihqOcY",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时33分 ~ 12时34分]"
         },
         {
           "title": "以色列外交部长：关于以色列在国际上被孤立的说法是荒谬的，许多国家正前来以色列，表示希望加强关系，而就在本周，刚果的外交部长也曾到访。",
@@ -647,6 +693,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时16分 ~ 06时04分]"
+        },
+        {
+          "title": "以色列自曝“被盟友抛弃”",
+          "url": "https://www.toutiao.com/trending/7668716730466713638/",
+          "source": "今日头条",
+          "ranks": [
+            19,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时02分 ~ 12时34分]"
         },
         {
           "title": "以色列质疑哈马斯裁军承诺",
@@ -744,17 +802,6 @@
           "time_info": "03时16分"
         },
         {
-          "title": "以色列自曝“被盟友抛弃”",
-          "url": "https://www.toutiao.com/trending/7668716730466713638/",
-          "source": "今日头条",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时02分"
-        },
-        {
           "title": "以色列高级官员称并未同意停止袭击加沙",
           "url": "https://wallstreetcn.com/livenews/3143691",
           "source": "华尔街见闻-快讯",
@@ -791,8 +838,21 @@
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
+        {
+          "title": "DeepSeek-V4系列迎重大升级 性能追平旗舰模型 Agent能力大幅增强",
+          "url": "https://www.cls.cn/detail/2443548",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时04分 ~ 12时34分]"
+        },
         {
           "title": "DeepSeek v4 flash 如此强大，接下来发布的 pro 会不会让美国御三家全部倒闭？",
           "url": "https://www.zhihu.com/question/2067212789714778007",
@@ -808,18 +868,6 @@
           "time_info": "[01时04分 ~ 06时04分]"
         },
         {
-          "title": "DeepSeek-V4系列迎重大升级 性能追平旗舰模型 Agent能力大幅增强",
-          "url": "https://www.cls.cn/detail/2443548",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时04分 ~ 08时02分]"
-        },
-        {
           "title": "deepseek 定价按 10 个月回本算都这么便宜了，为什么谷歌投资 ai 还会现金流转负？",
           "url": "https://www.zhihu.com/question/2065010626171293829",
           "source": "知乎",
@@ -831,23 +879,108 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[05时00分 ~ 08时02分]"
+        },
+        {
+          "title": "DeepSeek-V4-Flash正式版API登陆国家超算互联网",
+          "url": "https://flash.jin10.com/detail/20260803113453343800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时34分"
         }
       ]
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "神了,OpenAI攻克十年数学难题",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356711&amp;topic_name=%E7%A5%9E%E4%BA%86%2COpenAI%E6%94%BB%E5%85%8B%E5%8D%81%E5%B9%B4%E6%95%B0%E5%AD%A6%E9%9A%BE%E9%A2%98",
           "source": "贴吧",
           "ranks": [
-            19
+            19,
+            28
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时04分 ~ 08时02分]"
+          "appearance_count": 8,
+          "time_info": "[01时04分 ~ 12时34分]"
+        },
+        {
+          "title": "如何看待 OpenAI 宣布 Astra 在十个长期开放的数学与理论计算机问题上取得重大进展？",
+          "url": "https://www.zhihu.com/question/2066921241156523798",
+          "source": "知乎",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时33分 ~ 12时34分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "特朗普再次“TACO”，金价4000美元暗战升级！",
+          "url": "https://flash.jin10.com/detail/20260803114543512800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时34分"
+        },
+        {
+          "title": "金十图示：2026年08月03日（周一）上海金早盘价为882.23元/克，较国际金价(882.41元/克)，低0.18元/克",
+          "url": "https://flash.jin10.com/detail/20260803112559412800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时34分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "如何评价 OpenAI 、 Anthropic 、谷歌等巨头联名呼吁控制前沿自动化 AI 研发？",
+          "url": "https://www.zhihu.com/question/2065724643378570793",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时33分 ~ 12时34分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "日本一旦动手卖美债，全球最大的套利机器会先崩在哪里？",
+          "url": "https://flash.jin10.com/detail/20260803115620374800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时34分"
         }
       ]
     },
