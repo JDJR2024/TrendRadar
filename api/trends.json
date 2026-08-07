@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-08T06:41:14.820215+08:00",
-  "total_titles_processed": 602,
+  "generated_at": "2026-08-08T07:38:01.750694+08:00",
+  "total_titles_processed": 625,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 26,
+      "match_count": 27,
       "titles": [
         {
           "title": "伊朗最高领袖给总统下了“最后警告”？",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时01分 ~ 06时41分]"
+          "appearance_count": 13,
+          "time_info": "[00时01分 ~ 07时38分]"
         },
         {
           "title": "以情报高官疑因伊朗行动失败被解职",
@@ -26,8 +26,21 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时01分 ~ 06时41分]"
+          "appearance_count": 13,
+          "time_info": "[00时01分 ~ 07时38分]"
+        },
+        {
+          "title": "伊朗发视频隐喻美国国运衰落原因",
+          "url": "https://www.toutiao.com/trending/7671188288800899082/",
+          "source": "今日头条",
+          "ranks": [
+            28,
+            8,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[04时45分 ~ 07时38分]"
         },
         {
           "title": "据伊朗迈赫尔通讯社：伊朗总统佩泽希齐扬表示：我们不会屈服于强权，但也不寻求战争和侵略。",
@@ -63,6 +76,17 @@
           "time_info": "03时03分"
         },
         {
+          "title": "伊朗官员称防务协议无法保障沙特安全",
+          "url": "https://wallstreetcn.com/livenews/3146940",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时38分"
+        },
+        {
           "title": "伊朗德黑兰市长扎卡尼：想通过霍尔木兹海峡，必须取消制裁并支付赔偿。",
           "url": "https://flash.jin10.com/detail/20260807234805603800",
           "source": "金十数据",
@@ -86,18 +110,6 @@
           "time_info": "[01时03分 ~ 03时03分]"
         },
         {
-          "title": "伊朗发视频隐喻美国国运衰落原因",
-          "url": "https://www.toutiao.com/trending/7671188288800899082/",
-          "source": "今日头条",
-          "ranks": [
-            28,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时45分 ~ 06时41分]"
-        },
-        {
           "title": "伊朗官员称已与阿曼就霍尔木兹海峡通行问题明确总体框架",
           "url": "https://flash.jin10.com/detail/20260808033854319800",
           "source": "金十数据",
@@ -105,8 +117,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时46分 ~ 06时41分]"
+          "appearance_count": 4,
+          "time_info": "[04时46分 ~ 07时38分]"
         },
         {
           "title": "美官员：预计伊朗与阿曼将很快就霍尔木兹海峡问题达成协议",
@@ -116,8 +128,8 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时46分 ~ 06时41分]"
+          "appearance_count": 4,
+          "time_info": "[04时46分 ~ 07时38分]"
         },
         {
           "title": "伊朗敦促海湾国家说服特朗普停止军事行动",
@@ -301,7 +313,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "非农与美伊协议落地前市场谨慎，存储芯片股领跌美股，西部数据跌13%，原油走强",
@@ -323,8 +335,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时01分 ~ 06时41分]"
+          "appearance_count": 13,
+          "time_info": "[00时01分 ~ 07时38分]"
         },
         {
           "title": "非农爆冷打击加息预期，美股高开，光通信概念股普涨，光模块制造商AAOI涨超12%，现货黄金突破4350",
@@ -360,8 +372,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时01分 ~ 06时41分]"
+          "appearance_count": 13,
+          "time_info": "[00时01分 ~ 07时38分]"
         },
         {
           "title": "韩股跌倒，美股吃饱！“受伤”的韩国散户大军重返华尔街怀抱",
@@ -372,8 +384,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时01分 ~ 06时41分]"
+          "appearance_count": 13,
+          "time_info": "[00时01分 ~ 07时38分]"
         },
         {
           "title": "金十图示：2026年08月07日（周五）美股热门股票行情一览（美股收盘）",
@@ -383,8 +395,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时46分 ~ 06时41分]"
+          "appearance_count": 4,
+          "time_info": "[04时46分 ~ 07时38分]"
         },
         {
           "title": "金十图示：2026年08月07日（周五）热门中概股行情一览（美股收盘）",
@@ -394,8 +406,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时46分 ~ 06时41分]"
+          "appearance_count": 4,
+          "time_info": "[04时46分 ~ 07时38分]"
+        },
+        {
+          "title": "美股收盘：标普500指数再创新高 疲软非农缓解加息担忧",
+          "url": "https://www.cls.cn/detail/2448974",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[06时40分 ~ 07时38分]"
         },
         {
           "title": "周五（8月7日），美股行业ETF多数收涨，生物科技指数ETF涨2.46%，网络股指数ETF涨2.09%，半导体ETF涨1.96%，科技行业ETF、全球科技股指数ETF至多涨1.42%，银行业ETF、全球航空业ETF、区域银行ETF至多跌0.37%，能源业ETF跌1.17%。",
@@ -404,11 +428,12 @@
           "ranks": [
             11,
             20,
-            24
+            24,
+            28
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时46分 ~ 06时41分]"
+          "appearance_count": 4,
+          "time_info": "[04时46分 ~ 07时38分]"
         },
         {
           "title": "美股收盘： 三大股指收涨 SpaceX大涨近16%",
@@ -418,19 +443,19 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时46分 ~ 06时41分]"
+          "appearance_count": 4,
+          "time_info": "[04时46分 ~ 07时38分]"
         },
         {
-          "title": "美股收盘：标普500指数再创新高 疲软非农缓解加息担忧",
-          "url": "https://www.cls.cn/detail/2448974",
-          "source": "财联社热门",
+          "title": "美股收盘：标普500指数再创新高",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E6%94%B6%E7%9B%98%EF%BC%9A%E6%A0%87%E6%99%AE500%E6%8C%87%E6%95%B0%E5%86%8D%E5%88%9B%E6%96%B0%E9%AB%98",
+          "source": "百度热搜",
           "ranks": [
-            10
+            15
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[06时40分 ~ 06时41分]"
+          "time_info": "[07时37分 ~ 07时38分]"
         },
         {
           "title": "金十图示：2026年08月07日（周五）美股热门股票行情一览（美股盘中）",
@@ -458,7 +483,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "OpenAI：为高性能模型及相关业务落实更严格的安全管控，其中包括隔离测试环境",
@@ -470,6 +495,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时03分"
+        },
+        {
+          "title": "OpenAI首席执行官Altman称：正推进Astra全面开放使用。",
+          "url": "https://wallstreetcn.com/livenews/3146942",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时38分"
         },
         {
           "title": "OpenAI：已在Astra的所有智能体应用中实施针对高风险行为和失配问题的全面监控。根据目前针对Astra模型的准备框架评估结果，无法排除其具备关键网络能力的可能性。将与相关政府机构及选定的人工智能安全组织合作，对Astra的能力进行测试。",
@@ -583,11 +619,12 @@
           "ranks": [
             3,
             12,
-            16
+            16,
+            20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时46分 ~ 06时41分]"
+          "appearance_count": 4,
+          "time_info": "[04时46分 ~ 07时38分]"
         },
         {
           "title": "阿根廷总统办公室：阿根廷总统米莱与以色列外长举行会议，米莱重申阿根廷坚定支持以色列根据国际法行使合法自卫的权利，并谴责伊朗及其附属组织对以色列领土的攻击，认为这对该地区的安全与稳定构成严重威胁。",
@@ -627,11 +664,12 @@
             22,
             23,
             14,
-            12
+            12,
+            6
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时01分 ~ 06时41分]"
+          "appearance_count": 13,
+          "time_info": "[00时01分 ~ 07时38分]"
         },
         {
           "title": "怎么看 OpenCode 创始人说「DeepSeek 涨价不是因为亏钱，而是为了劝退用户」？",
@@ -641,8 +679,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时01分 ~ 06时41分]"
+          "appearance_count": 13,
+          "time_info": "[00时01分 ~ 07时38分]"
         },
         {
           "title": "业绩如何支撑高估值？与DeepSeek如何合作？如何看待股价炒作？王兴兴回应多个热点",
@@ -653,8 +691,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[04时45分 ~ 06时41分]"
+          "appearance_count": 7,
+          "time_info": "[04时45分 ~ 07时38分]"
         }
       ]
     },
@@ -671,8 +709,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时01分 ~ 06时41分]"
+          "appearance_count": 13,
+          "time_info": "[00时01分 ~ 07时38分]"
         },
         {
           "title": "奥士康：与AMD合作尚处送样阶段，未与英伟达、谷歌开展订单合作",
@@ -692,6 +730,19 @@
       "match_count": 2,
       "titles": [
         {
+          "title": "国际金价在非农日涨约2.4%，本周累涨约7.3%",
+          "url": "https://wallstreetcn.com/livenews/3146923",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            13,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时43分 ~ 07时38分]"
+        },
+        {
           "title": "瑞银：黄金上涨行情具备支撑，金价明年有望向5000美元迈进",
           "url": "https://wallstreetcn.com/livenews/3146816",
           "source": "华尔街见闻-快讯",
@@ -702,18 +753,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时02分 ~ 01时03分]"
-        },
-        {
-          "title": "国际金价在非农日涨约2.4%，本周累涨约7.3%",
-          "url": "https://wallstreetcn.com/livenews/3146923",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时43分 ~ 06时41分]"
         }
       ]
     },
@@ -763,8 +802,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时40分 ~ 06时41分]"
+          "appearance_count": 4,
+          "time_info": "[06时40分 ~ 07时38分]"
         }
       ]
     }
