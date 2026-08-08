@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-08T11:37:44.050644+08:00",
-  "total_titles_processed": 834,
+  "generated_at": "2026-08-08T13:01:56.855234+08:00",
+  "total_titles_processed": 910,
   "failed_sources": [],
   "trends": [
     {
@@ -34,11 +34,12 @@
           "url": "https://news.ifeng.com/c/8vPtnVvufXW",
           "source": "凤凰网",
           "ranks": [
-            1
+            1,
+            2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时37分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时37分 ~ 13时01分]"
         },
         {
           "title": "伊朗发视频隐喻美国国运衰落原因",
@@ -104,11 +105,12 @@
           "ranks": [
             3,
             13,
-            20
+            20,
+            25
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时38分 ~ 11时37分]"
+          "appearance_count": 4,
+          "time_info": "[07时38分 ~ 13时01分]"
         },
         {
           "title": "美国财长贝森特谈及霍尔木兹海峡：该海峡再也回不到过去的状态，因为伊朗已经将其用作，或试图将其用作咽喉要道。 未来两年我们将看到，这条海峡的重要性将会不复存在。 它将仅仅成为一片普通水域。 我认为，目前经由该海峡运输的能源中，超过50%至70%将会转由地下管道输送。",
@@ -346,11 +348,12 @@
           "ranks": [
             3,
             4,
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时01分 ~ 11时37分]"
+          "appearance_count": 16,
+          "time_info": "[00时01分 ~ 13时01分]"
         },
         {
           "title": "非农爆冷打击加息预期，美股高开，光通信概念股普涨，光模块制造商AAOI涨超12%，现货黄金突破4350",
@@ -410,8 +413,20 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[06时40分 ~ 11时37分]"
+          "appearance_count": 7,
+          "time_info": "[06时40分 ~ 13时01分]"
+        },
+        {
+          "title": "【早报】美股创4月份以来最大单周涨幅；存储板块普跌；原油、黄金双双上涨；北京购房政策调整",
+          "url": "https://www.cls.cn/detail/2448991",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时52分 ~ 13时01分]"
         },
         {
           "title": "金十图示：2026年08月07日（周五）美股热门股票行情一览（美股收盘）",
@@ -436,18 +451,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[04时46分 ~ 09时52分]"
-        },
-        {
-          "title": "【早报】美股创4月份以来最大单周涨幅；存储板块普跌；原油、黄金双双上涨；北京购房政策调整",
-          "url": "https://www.cls.cn/detail/2448991",
-          "source": "财联社热门",
-          "ranks": [
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时52分 ~ 11时37分]"
         },
         {
           "title": "周五（8月7日），美股行业ETF多数收涨，生物科技指数ETF涨2.46%，网络股指数ETF涨2.09%，半导体ETF涨1.96%，科技行业ETF、全球科技股指数ETF至多涨1.42%，银行业ETF、全球航空业ETF、区域银行ETF至多跌0.37%，能源业ETF跌1.17%。",
@@ -542,11 +545,12 @@
           "ranks": [
             1,
             11,
-            18
+            18,
+            23
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时38分 ~ 11时37分]"
+          "appearance_count": 4,
+          "time_info": "[07时38分 ~ 13时01分]"
         },
         {
           "title": "OpenAI：已在Astra的所有智能体应用中实施针对高风险行为和失配问题的全面监控。根据目前针对Astra模型的准备框架评估结果，无法排除其具备关键网络能力的可能性。将与相关政府机构及选定的人工智能安全组织合作，对Astra的能力进行测试。",
@@ -669,6 +673,18 @@
           "time_info": "01时03分"
         },
         {
+          "title": "据以色列广播局：美国正施压以色列在加沙地区启动为期两周的停火，以实施解除哈马斯武装的计划。",
+          "url": "https://flash.jin10.com/detail/20260808095235810800",
+          "source": "金十数据",
+          "ranks": [
+            10,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时37分 ~ 13时01分]"
+        },
+        {
           "title": "阿根廷总统办公室：阿根廷总统米莱与以色列外长举行会议，米莱重申阿根廷坚定支持以色列根据国际法行使合法自卫的权利，并谴责伊朗及其附属组织对以色列领土的攻击，认为这对该地区的安全与稳定构成严重威胁。",
           "url": "https://flash.jin10.com/detail/20260807233951248800",
           "source": "金十数据",
@@ -678,17 +694,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时02分"
-        },
-        {
-          "title": "据以色列广播局：美国正施压以色列在加沙地区启动为期两周的停火，以实施解除哈马斯武装的计划。",
-          "url": "https://flash.jin10.com/detail/20260808095235810800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时37分"
         },
         {
           "title": "据沙特阿拉比亚电视台：以色列媒体报道称，美国正在施压，要求启动加沙为期两周的停火，以解除哈马斯的武装。",
@@ -705,7 +710,7 @@
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "梁文锋 只想用座机",
@@ -725,6 +730,20 @@
           "time_info": "[00时01分 ~ 07时38分]"
         },
         {
+          "title": "业绩如何支撑高估值？与DeepSeek如何合作？如何看待股价炒作？王兴兴回应多个热点",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33739348",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            14,
+            13,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[04时45分 ~ 13时01分]"
+        },
+        {
           "title": "怎么看 OpenCode 创始人说「DeepSeek 涨价不是因为亏钱，而是为了劝退用户」？",
           "url": "https://www.zhihu.com/question/2069015264461579129",
           "source": "知乎",
@@ -736,28 +755,27 @@
           "time_info": "[00时01分 ~ 07时38分]"
         },
         {
-          "title": "业绩如何支撑高估值？与DeepSeek如何合作？如何看待股价炒作？王兴兴回应多个热点",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33739348",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            14,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[04时45分 ~ 11时37分]"
-        },
-        {
           "title": "网传 DeepSeek V4 Flash 完成任务后写了个游戏玩一上午，是真的吗？为什么会出现这样的现象？",
           "url": "https://www.zhihu.com/question/2068108635620774765",
           "source": "知乎",
           "ranks": [
-            7
+            7,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时52分 ~ 11时37分]"
+          "appearance_count": 3,
+          "time_info": "[09时52分 ~ 13时01分]"
+        },
+        {
+          "title": "梁文锋为何重仓宇树科技",
+          "url": "https://www.toutiao.com/trending/7671445304096345619/",
+          "source": "今日头条",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时01分"
         }
       ]
     },
@@ -770,11 +788,12 @@
           "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7%E7%AA%81%E7%A0%B44400%E7%BE%8E%E5%85%83&t=31&band_rank=2&Refer=top",
           "source": "微博",
           "ranks": [
-            2
+            2,
+            10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时37分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时37分 ~ 13时01分]"
         },
         {
           "title": "国际金价在非农日涨约2.4%，本周累涨约7.3%",
@@ -807,11 +826,12 @@
           "url": "https://www.baidu.com/s?wd=%E6%B2%B9%E4%BB%B7%E9%87%91%E4%BB%B7%E9%93%B6%E4%BB%B7%E9%83%BD%E6%B6%A8%E4%BA%86",
           "source": "百度热搜",
           "ranks": [
-            29
+            29,
+            26
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时37分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时37分 ~ 13时01分]"
         }
       ]
     },
@@ -827,11 +847,12 @@
             18,
             19,
             17,
-            21
+            21,
+            23
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时01分 ~ 11时37分]"
+          "appearance_count": 16,
+          "time_info": "[00时01分 ~ 13时01分]"
         },
         {
           "title": "奥士康：与AMD合作尚处送样阶段，未与英伟达、谷歌开展订单合作",
@@ -893,8 +914,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[06时40分 ~ 11时37分]"
+          "appearance_count": 7,
+          "time_info": "[06时40分 ~ 13时01分]"
         }
       ]
     }
