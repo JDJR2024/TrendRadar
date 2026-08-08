@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-08T15:01:40.640759+08:00",
-  "total_titles_processed": 1017,
+  "generated_at": "2026-08-08T15:55:45.372064+08:00",
+  "total_titles_processed": 1065,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 31,
+      "match_count": 32,
       "titles": [
         {
           "title": "伊朗最高领袖给总统下了“最后警告”？",
@@ -38,8 +38,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时37分 ~ 15时01分]"
+          "appearance_count": 5,
+          "time_info": "[11时37分 ~ 15时55分]"
         },
         {
           "title": "伊朗官员称防务协议无法保障沙特安全",
@@ -55,17 +55,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[07时38分 ~ 15时01分]"
-        },
-        {
-          "title": "消息人士：美军高层寻找摆脱伊朗战事的途径",
-          "url": "https://flash.jin10.com/detail/20260808144535599800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时01分"
         },
         {
           "title": "伊朗发视频隐喻美国国运衰落原因",
@@ -114,6 +103,17 @@
           "time_info": "03时03分"
         },
         {
+          "title": "伊朗战事打不下去了？美军参联会主席力主“翻篇”",
+          "url": "https://news.ifeng.com/c/8vQJU1FtdBd",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时55分"
+        },
+        {
           "title": "伊朗德黑兰市长扎卡尼：想通过霍尔木兹海峡，必须取消制裁并支付赔偿。",
           "url": "https://flash.jin10.com/detail/20260807234805603800",
           "source": "金十数据",
@@ -123,6 +123,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时02分"
+        },
+        {
+          "title": "消息人士：美军高层寻找摆脱伊朗战事的途径",
+          "url": "https://flash.jin10.com/detail/20260808144535599800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时01分 ~ 15时55分]"
         },
         {
           "title": "美国财长贝森特谈及霍尔木兹海峡：该海峡再也回不到过去的状态，因为伊朗已经将其用作，或试图将其用作咽喉要道。 未来两年我们将看到，这条海峡的重要性将会不复存在。 它将仅仅成为一片普通水域。 我认为，目前经由该海峡运输的能源中，超过50%至70%将会转由地下管道输送。",
@@ -387,8 +399,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时01分 ~ 15时01分]"
+          "appearance_count": 19,
+          "time_info": "[00时01分 ~ 15时55分]"
         },
         {
           "title": "非农爆冷打击加息预期，美股高开，光通信概念股普涨，光模块制造商AAOI涨超12%，现货黄金突破4350",
@@ -408,11 +420,25 @@
           "ranks": [
             10,
             4,
-            3
+            3,
+            5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[06时40分 ~ 15时01分]"
+          "appearance_count": 10,
+          "time_info": "[06时40分 ~ 15时55分]"
+        },
+        {
+          "title": "【早报】美股创4月份以来最大单周涨幅；存储板块普跌；原油、黄金双双上涨；北京购房政策调整",
+          "url": "https://www.cls.cn/detail/2448991",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时52分 ~ 15时55分]"
         },
         {
           "title": "美股光模块黑马计划大幅扩产 全力押注800G、1.6T产品",
@@ -451,19 +477,6 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[00时01分 ~ 07时38分]"
-        },
-        {
-          "title": "【早报】美股创4月份以来最大单周涨幅；存储板块普跌；原油、黄金双双上涨；北京购房政策调整",
-          "url": "https://www.cls.cn/detail/2448991",
-          "source": "财联社热门",
-          "ranks": [
-            3,
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时52分 ~ 15时01分]"
         },
         {
           "title": "金十图示：2026年08月07日（周五）美股热门股票行情一览（美股收盘）",
@@ -779,8 +792,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[04时45分 ~ 15时01分]"
+          "appearance_count": 13,
+          "time_info": "[04时45分 ~ 15时55分]"
         },
         {
           "title": "怎么看 OpenCode 创始人说「DeepSeek 涨价不是因为亏钱，而是为了劝退用户」？",
@@ -799,11 +812,12 @@
           "source": "知乎",
           "ranks": [
             7,
-            5
+            5,
+            3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时52分 ~ 15时01分]"
+          "appearance_count": 6,
+          "time_info": "[09时52分 ~ 15时55分]"
         },
         {
           "title": "梁文锋为何重仓宇树科技",
@@ -889,11 +903,12 @@
             17,
             21,
             23,
-            24
+            24,
+            25
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时01分 ~ 15时01分]"
+          "appearance_count": 19,
+          "time_info": "[00时01分 ~ 15时55分]"
         },
         {
           "title": "奥士康：与AMD合作尚处送样阶段，未与英伟达、谷歌开展订单合作",
@@ -919,7 +934,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时01分"
         }
@@ -972,8 +987,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[06时40分 ~ 15时01分]"
+          "appearance_count": 10,
+          "time_info": "[06时40分 ~ 15时55分]"
         }
       ]
     }
