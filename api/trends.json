@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-10T00:40:42.448350+08:00",
-  "total_titles_processed": 314,
+  "generated_at": "2026-08-10T01:35:53.378346+08:00",
+  "total_titles_processed": 361,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 9,
+      "match_count": 12,
       "titles": [
         {
           "title": "伊朗最高领袖与总统会谈，重点讨论了这几个问题",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时40分"
+          "appearance_count": 2,
+          "time_info": "[00时40分 ~ 01时35分]"
         },
         {
           "title": "伊朗婉转回应最高领袖病危传闻",
@@ -26,8 +26,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时40分"
+          "appearance_count": 2,
+          "time_info": "[00时40分 ~ 01时35分]"
+        },
+        {
+          "title": "伊朗最高领袖与总统会谈",
+          "url": "https://www.toutiao.com/trending/7670941843498287158/",
+          "source": "今日头条",
+          "ranks": [
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时40分 ~ 01时35分]"
         },
         {
           "title": "万斯称美伊冲突仍处于“博弈中段”，美军“寻找出口”，伊朗开出“重开海峡6大条件”",
@@ -37,19 +49,30 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时40分"
+          "appearance_count": 2,
+          "time_info": "[00时40分 ~ 01时35分]"
         },
         {
-          "title": "伊朗最高领袖与总统会谈",
-          "url": "https://www.toutiao.com/trending/7670941843498287158/",
-          "source": "今日头条",
+          "title": "伊朗总统：愿保持沟通，但绝不会坐等任何外部势力",
+          "url": "https://flash.jin10.com/detail/20260810011547418800",
+          "source": "金十数据",
           "ranks": [
-            4
+            2
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时40分"
+          "time_info": "01时35分"
+        },
+        {
+          "title": "美媒：特朗普暂缓对伊动武，称正“低调处理”伊朗问题",
+          "url": "https://flash.jin10.com/detail/20260810010023977800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时35分"
         },
         {
           "title": "伊朗最高领袖与总统会谈",
@@ -59,19 +82,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时40分"
-        },
-        {
-          "title": "伊朗陆军司令称部队全面战备，警告美军勿踏足伊朗领土",
-          "url": "https://flash.jin10.com/detail/20260809234510218800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时40分"
+          "appearance_count": 2,
+          "time_info": "[00时40分 ~ 01时35分]"
         },
         {
           "title": "俄媒称伊朗布什尔核电站新机组建设仍在继续",
@@ -81,8 +93,31 @@
             9
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时40分 ~ 01时35分]"
+        },
+        {
+          "title": "伊朗陆军司令称部队全面战备，警告美军勿踏足伊朗领土",
+          "url": "https://flash.jin10.com/detail/20260809234510218800",
+          "source": "金十数据",
+          "ranks": [
+            9,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时40分 ~ 01时35分]"
+        },
+        {
+          "title": "据沙特媒体哈达斯（Alhadath）：也门国家抵抗力量表示，胡塞武装是伊朗的工具，其决策权掌握在伊朗手中。该组织企图通过制造混乱、激化紧张局势来为伊朗服务，以帮助其缓解外部压力。也门国家抵抗力量强调，胡塞武装并非和平工具，而是“战争工具”，与其达成和平毫无可能。该组织同时警告，胡塞武装的冒险行为绝不会被姑息纵容。",
+          "url": "https://flash.jin10.com/detail/20260810003151519800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时40分"
+          "time_info": "01时35分"
         },
         {
           "title": "伊朗最高领袖与总统会谈",
@@ -109,6 +144,80 @@
       ]
     },
     {
+      "keyword_group": "以色列",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "据以色列第12频道：巴勒斯坦北部海法和克里约特地区的定居者报告，几分钟前听到了巨大的爆炸声，并感受到地面明显的震动。",
+          "url": "https://flash.jin10.com/detail/20260810012522142800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时35分"
+        },
+        {
+          "title": "黎巴嫩真主党：以色列与黎巴嫩进行直接谈判，是为争取时间并在当地强加新既成事实的一种不加掩饰的企图。",
+          "url": "https://flash.jin10.com/detail/20260810003913458800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时35分"
+        },
+        {
+          "title": "黎巴嫩真主党：政府必须停止与以色列的直接谈判，并向安理会紧急提出申诉。",
+          "url": "https://flash.jin10.com/detail/20260810003808043800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时35分"
+        },
+        {
+          "title": "黎巴嫩卫生部：自3月2日以来，以色列对黎巴嫩的袭击已造成至少4335人死亡，12277人受伤。",
+          "url": "https://flash.jin10.com/detail/20260809234620187800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时40分 ~ 01时35分]"
+        },
+        {
+          "title": "以色列军方：以军上周摧毁了黎巴嫩南部安全区内一条真主党使用的隧道。",
+          "url": "https://flash.jin10.com/detail/20260809231159278800",
+          "source": "金十数据",
+          "ranks": [
+            12,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时40分 ~ 01时35分]"
+        },
+        {
+          "title": "黎巴嫩真主党：（就以色列外交部公布包含黎巴嫩南部的地图一事表示）当局应对走向妥协的道路承担责任。",
+          "url": "https://flash.jin10.com/detail/20260810003801780800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时35分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美股",
       "match_count": 2,
       "titles": [
@@ -120,8 +229,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时40分"
+          "appearance_count": 2,
+          "time_info": "[00时40分 ~ 01时35分]"
         },
         {
           "title": "环球下周看点：美股创新高后迎关键考验 7月通胀数据或决定美联储9月政策走向",
@@ -131,36 +240,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时40分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "以色列",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "黎巴嫩卫生部：自3月2日以来，以色列对黎巴嫩的袭击已造成至少4335人死亡，12277人受伤。",
-          "url": "https://flash.jin10.com/detail/20260809234620187800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时40分"
-        },
-        {
-          "title": "以色列军方：以军上周摧毁了黎巴嫩南部安全区内一条真主党使用的隧道。",
-          "url": "https://flash.jin10.com/detail/20260809231159278800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时40分"
+          "appearance_count": 2,
+          "time_info": "[00时40分 ~ 01时35分]"
         }
       ]
     }
