@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-10T10:05:27.179243+08:00",
-  "total_titles_processed": 690,
+  "generated_at": "2026-08-10T12:42:11.335976+08:00",
+  "total_titles_processed": 870,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 30,
+      "match_count": 31,
       "titles": [
         {
           "title": "伊朗婉转回应最高领袖病危传闻",
@@ -32,29 +32,31 @@
           "time_info": "[00时40分 ~ 10时05分]"
         },
         {
+          "title": "伊朗最高领袖与总统会谈，重点讨论了这几个问题",
+          "url": "https://news.ifeng.com/c/8vS3pS8BvYm",
+          "source": "凤凰网",
+          "ranks": [
+            1,
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时40分 ~ 12时42分]"
+        },
+        {
           "title": "伊朗最高领袖与总统会谈",
           "url": "https://www.toutiao.com/trending/7670941843498287158/",
           "source": "今日头条",
           "ranks": [
             4,
             2,
-            18
+            18,
+            22
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时40分 ~ 10时05分]"
-        },
-        {
-          "title": "伊朗最高领袖与总统会谈，重点讨论了这几个问题",
-          "url": "https://news.ifeng.com/c/8vS3pS8BvYm",
-          "source": "凤凰网",
-          "ranks": [
-            1,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时40分 ~ 10时05分]"
+          "appearance_count": 12,
+          "time_info": "[00时40分 ~ 12时42分]"
         },
         {
           "title": "伊朗最高领袖与总统会谈",
@@ -66,6 +68,17 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时40分 ~ 07时36分]"
+        },
+        {
+          "title": "伊朗高层变动，最高领袖发出新任命",
+          "url": "https://news.ifeng.com/c/8vSqCKLbBLT",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时05分 ~ 12时42分]"
         },
         {
           "title": "俄媒称伊朗布什尔核电站新机组建设仍在继续",
@@ -82,24 +95,13 @@
           "time_info": "[00时40分 ~ 07时36分]"
         },
         {
-          "title": "伊朗高层变动，最高领袖发出新任命",
-          "url": "https://news.ifeng.com/c/8vSqCKLbBLT",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时05分"
-        },
-        {
           "title": "伊朗议会批准霍尔木兹海峡安全纲要",
           "url": "https://news.ifeng.com/c/8vSazQ4m4p1",
           "source": "凤凰网",
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时05分"
         },
@@ -274,6 +276,17 @@
           "time_info": "[05时37分 ~ 06时35分]"
         },
         {
+          "title": "美军基地遭袭，伊朗公布最新卫星对比图",
+          "url": "https://news.ifeng.com/c/8vT6dxUIQom",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时05分 ~ 12时42分]"
+        },
+        {
           "title": "据沙特媒体哈达斯（Alhadath）：也门国家抵抗力量表示，胡塞武装是伊朗的工具，其决策权掌握在伊朗手中。该组织企图通过制造混乱、激化紧张局势来为伊朗服务，以帮助其缓解外部压力。也门国家抵抗力量强调，胡塞武装并非和平工具，而是“战争工具”，与其达成和平毫无可能。该组织同时警告，胡塞武装的冒险行为绝不会被姑息纵容。",
           "url": "https://flash.jin10.com/detail/20260810003151519800",
           "source": "金十数据",
@@ -300,15 +313,15 @@
           "time_info": "[00时40分 ~ 02时47分]"
         },
         {
-          "title": "美军基地遭袭，伊朗公布最新卫星对比图",
-          "url": "https://news.ifeng.com/c/8vT6dxUIQom",
-          "source": "凤凰网",
+          "title": "伊朗机场公司首席执行官：尽管遭受重大破坏，但受战争影响的机场已恢复运营。",
+          "url": "https://flash.jin10.com/detail/20260810122646591800",
+          "source": "金十数据",
           "ranks": [
             6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时05分"
+          "time_info": "12时42分"
         },
         {
           "title": "伊朗最高领袖与总统会谈",
@@ -380,8 +393,20 @@
     },
     {
       "keyword_group": "以色列",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
+        {
+          "title": "内塔尼亚胡“澄清”：以色列拒绝美方计划",
+          "url": "https://news.ifeng.com/c/8vSSHKuaMh8",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时05分 ~ 12时42分]"
+        },
         {
           "title": "据以色列第12频道：巴勒斯坦北部海法和克里约特地区的定居者报告，几分钟前听到了巨大的爆炸声，并感受到地面明显的震动。",
           "url": "https://flash.jin10.com/detail/20260810012522142800",
@@ -395,17 +420,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时35分 ~ 04时37分]"
-        },
-        {
-          "title": "内塔尼亚胡“澄清”：以色列拒绝美方计划",
-          "url": "https://news.ifeng.com/c/8vSSHKuaMh8",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时05分"
         },
         {
           "title": "黎巴嫩真主党：以色列与黎巴嫩进行直接谈判，是为争取时间并在当地强加新既成事实的一种不加掩饰的企图。",
@@ -509,6 +523,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时35分 ~ 07时36分]"
+        },
+        {
+          "title": "据以色列媒体报道，尽管以色列总理内塔尼亚胡反对15点计划，但位于Kiryat Gat的美国主导部门仍在推进加沙协议下一阶段的筹备工作。报道称，拉法首个多国部队基地的建设工作预计将于8月30日启动。",
+          "url": "https://flash.jin10.com/detail/20260810114930626800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时42分"
         }
       ]
     },
@@ -544,11 +569,12 @@
           "url": "https://wallstreetcn.com/articles/3779012",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[03时37分 ~ 10时05分]"
+          "appearance_count": 9,
+          "time_info": "[03时37分 ~ 12时42分]"
         },
         {
           "title": "美股股指期货周一开盘涨跌不一，纳指期货涨0.16%，道指期货跌0.14%。",
@@ -561,6 +587,40 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时35分 ~ 07时36分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "OpenAI曝光GPT-6！传10万亿参数，8月强行发布",
+          "url": "https://wallstreetcn.com/articles/3779038",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时41分 ~ 12时42分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "非农意外转负助推金价，4300之后本周要看什么？",
+          "url": "https://flash.jin10.com/detail/20260810122012069800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时42分"
         }
       ]
     },
@@ -593,7 +653,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时05分"
         }
