@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-17T11:04:35.440395+08:00",
-  "total_titles_processed": 759,
+  "generated_at": "2026-08-17T13:38:52.329880+08:00",
+  "total_titles_processed": 924,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 20,
+      "match_count": 24,
       "titles": [
         {
           "title": "海峡控制权“各说各话”：特朗普放话“拿下”霍尔木兹，伊朗称已与阿曼就通行方案达成协议",
@@ -54,8 +54,19 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时30分 ~ 11时04分]"
+          "appearance_count": 11,
+          "time_info": "[00时30分 ~ 13时38分]"
+        },
+        {
+          "title": "伊朗悬赏美军：但凡俘虏或击毙一人，奖励三万美元",
+          "url": "https://news.ifeng.com/c/8vdsEgwcxZU",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时27分 ~ 13时38分]"
         },
         {
           "title": "伊朗称霍尔木兹海峡是结束冲突的筹码。（法尔斯通讯社）",
@@ -68,17 +79,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时31分 ~ 06时26分]"
-        },
-        {
-          "title": "伊朗悬赏美军：但凡俘虏或击毙一人，奖励三万美元",
-          "url": "https://news.ifeng.com/c/8vdsEgwcxZU",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时27分 ~ 11时04分]"
         },
         {
           "title": "伊朗第一副总统：物价高涨已达到令人不安的程度，敌人的策略就是利用这一点。",
@@ -101,6 +101,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时24分"
+        },
+        {
+          "title": "分析师：伊朗战争叠加日元升值，日本车企面临“双重打击”",
+          "url": "https://flash.jin10.com/detail/20260817132850252800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时38分"
         },
         {
           "title": "伊朗议会通过反渗透法案",
@@ -227,6 +238,39 @@
           "time_info": "[00时30分 ~ 00时31分]"
         },
         {
+          "title": "伊朗称美国被驱逐已成事实，今后不得进入波斯湾、阿曼湾和霍尔木兹海峡，如何看待这一表态？",
+          "url": "https://www.zhihu.com/question/2072617673721226019",
+          "source": "知乎",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时38分"
+        },
+        {
+          "title": "伊朗警告不要拿霍尔木兹海峡开玩笑",
+          "url": "https://wallstreetcn.com/livenews/3150228",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时38分"
+        },
+        {
+          "title": "伊朗：不要拿霍尔木兹海峡开玩笑",
+          "url": "https://flash.jin10.com/detail/20260817124424953800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时38分"
+        },
+        {
           "title": "伊朗战争，正在掏空美国弹药库",
           "url": "https://flash.jin10.com/detail/20260816211830849800",
           "source": "金十数据",
@@ -244,7 +288,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时04分"
         }
@@ -252,7 +296,7 @@
     },
     {
       "keyword_group": "以色列",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "据半岛电视台：伊朗总统表示，在国内制造分歧的人必须意识到，这只会对美国和以色列有利。",
@@ -364,6 +408,17 @@
           "time_info": "[04时27分 ~ 05时24分]"
         },
         {
+          "title": "土耳其总统：以色列是侵略者",
+          "url": "https://www.toutiao.com/trending/7674444007091732523/",
+          "source": "今日头条",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时38分"
+        },
+        {
           "title": "据沙特媒体哈达斯（Alhadath）援引以色列消息人士称，以色列不希望美国在加沙的计划成功，但也不想对其造成损害，军方正在监视哈马斯重建能力的行动。消息人士称，美国的限制阻止以军对哈马斯“采取进一步行动”。",
           "url": "https://flash.jin10.com/detail/20260816230114518800",
           "source": "金十数据",
@@ -381,7 +436,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时04分"
         },
@@ -422,7 +477,7 @@
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 4,
+      "match_count": 7,
       "titles": [
         {
           "title": "如何评价 DeepSeek 涨价后，OpenCode Go 套餐的 Flash 模型调用量削减 94%？",
@@ -435,6 +490,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[09时27分 ~ 11时04分]"
+        },
+        {
+          "title": "DeepSeek正式涨价",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E6%AD%A3%E5%BC%8F%E6%B6%A8%E4%BB%B7",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时38分"
         },
         {
           "title": "DeepSeek调价生效 涨幅最高达1100%",
@@ -469,12 +535,34 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时27分 ~ 09时28分]"
+        },
+        {
+          "title": "如何快速上手DeepSeek Harness",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A6%82%E4%BD%95%E4%B8%8A%E6%89%8BDeepSeek%20Harness",
+          "source": "bilibili 热搜",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时38分"
+        },
+        {
+          "title": "DeepSeek 新定价已生效，实际体验下来你的感受如何？跟你预想的差异大吗？",
+          "url": "https://www.zhihu.com/question/2072598571090538898",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时38分"
         }
       ]
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "【早报】英伟达缩减对OpenAI数据中心项目提供2500亿美元担保的计划；伊朗称已与阿曼就霍尔木兹海峡通行方案达成协议",
@@ -498,8 +586,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时30分 ~ 11时04分]"
+          "appearance_count": 11,
+          "time_info": "[00时30分 ~ 13时38分]"
         },
         {
           "title": "英伟达悄然缩减OpenAI数据中心担保规模，从2500亿美元降至1200亿美元以下",
@@ -523,6 +611,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时30分 ~ 06时26分]"
+        },
+        {
+          "title": "OpenAI内部动荡加剧：重组不断，员工疲惫，高管离职潮持续，上市计划悄然推迟",
+          "url": "https://wallstreetcn.com/articles/3779533",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时38分"
         }
       ]
     },
@@ -559,18 +658,30 @@
           "source": "澎湃新闻",
           "ranks": [
             18,
-            19
+            19,
+            16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时27分 ~ 11时04分]"
+          "appearance_count": 4,
+          "time_info": "[09时27分 ~ 13时38分]"
         }
       ]
     },
     {
       "keyword_group": "美债",
-      "match_count": 1,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "李大霄解读美债收益率",
+          "url": "https://search.bilibili.com/all?keyword=%E6%9D%8E%E5%A4%A7%E9%9C%84%E8%A7%A3%E8%AF%BB%E7%BE%8E%E5%80%BA%E6%94%B6%E7%9B%8A%E7%8E%87",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时38分"
+        },
         {
           "title": "媒体人：美债买卖日本救火中国搬家",
           "url": "https://www.toutiao.com/trending/7674607374035848723/",
@@ -583,6 +694,34 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时23分 ~ 06时26分]"
+        },
+        {
+          "title": "美债逼近40万亿，美银Hartnett：做多黄金是当下最优解",
+          "url": "https://wallstreetcn.com/articles/3779560",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时38分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "金价大涨藏着什么信号",
+          "url": "https://www.toutiao.com/trending/7674833333351632403/",
+          "source": "今日头条",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时38分"
         }
       ]
     }
